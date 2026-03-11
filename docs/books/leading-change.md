@@ -4,11 +4,11 @@ isbn13: "9781422186435"
 
 # Leading Change
 
-In **Leading Change**, John P. Kotter presents an eight-step model for delivering successful organisational transformations. The book emphasises establishing urgency, forming guiding coalitions, crafting vision, communicating for buy-in, empowering action, generating wins, consolidating gains, and anchoring new approaches in culture.
+John P. Kotter の **Leading Change** は、組織変革を成功させるための 8 段階モデルを提示します。危機感の形成、推進連合の構築、ビジョン策定、浸透、行動の後押し、短期成果の創出、成果の定着、文化への埋め込みまでを体系化しています。
 
-Kotter draws on corporate case studies to show why change programmes stall when leaders skip steps or under-invest in communication. It remains a core reference for executives tackling inertia and building momentum for large-scale change initiatives.
+変革プログラムが、手順を飛ばしたりコミュニケーション投資を怠ったりすると失速することを企業事例で示しており、大規模な変化へ勢いを持ち込みたい経営層にとって有用です。
 
-## Referenced in
+## 参照先
 
 - [Managing Inertia](/strategies/defensive/managing-inertia)
 - [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)

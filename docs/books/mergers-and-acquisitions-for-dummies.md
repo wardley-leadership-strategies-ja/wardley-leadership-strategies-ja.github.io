@@ -4,10 +4,10 @@ isbn13: "9780470385561"
 
 # Mergers & Acquisitions For Dummies
 
-Bill Snow's **Mergers & Acquisitions For Dummies** is a practical guide to planning, valuing, and closing M&A deals. It explains the roles of advisors, due diligence workflows, financing structures, and negotiation tactics from both buy-side and sell-side perspectives.
+Bill Snow の **Mergers & Acquisitions For Dummies** は、M&A の計画、評価、クロージングを実務的に解説する入門書です。アドバイザーの役割、デューデリジェンスの流れ、資金調達の構造、売り手側と買い手側双方の交渉術を説明します。
 
-The book provides checklists and plain-language explanations that help executives understand deal timelines, integration risks, and regulatory considerations. It is a useful primer for teams evaluating threat acquisitions or other defensive transactions.
+チェックリストと平易な説明が多く、取引の時間軸、統合リスク、規制上の注意点を経営層が理解する助けになります。脅威の買収やその他の防御的取引を検討するチームに有用です。
 
-## Referenced in
+## 参照先
 
 - [Threat Acquisition](/strategies/defensive/threat-acquisition)

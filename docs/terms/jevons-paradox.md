@@ -1,3 +1,3 @@
-# Jevons Paradox
+# ジェヴォンズの逆説
 
-When increasing efficiency leads to increased overall consumption, a phenomenon known as the [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox). Common in utilities, compute, and storage.
+効率が上がることで、かえって全体の消費量が増える現象です。ユーティリティ、計算資源、ストレージなどでよく見られます。

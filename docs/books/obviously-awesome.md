@@ -4,10 +4,10 @@ isbn13: "9781999023003"
 
 # Obviously Awesome
 
-April Dunford's **Obviously Awesome** provides a step-by-step positioning process for technology products. It guides teams through identifying competitive alternatives, isolating unique attributes, mapping true value, and defining customer segments that care most about that value.
+April Dunford の **Obviously Awesome** は、技術プロダクト向けの段階的なポジショニング手法を示します。競争代替、独自属性、真の価値、価値を最も強く感じる顧客セグメントを順に整理していく構成です。
 
-Dunford includes worksheets and real examples that show how to craft messaging, choose market categories, and align go-to-market execution. The book is a practical resource for teams working on differentiation and product storytelling.
+ワークシートや実例を通じて、メッセージ設計、市場カテゴリの選択、Go-to-Market の整合まで扱っており、差別化やプロダクトの物語を磨くチームに実践的です。
 
-## Referenced in
+## 参照先
 
 - [Differentiation](/strategies/markets/differentiation)

@@ -4,11 +4,11 @@ isbn13: "9780884271956"
 
 # The Goal
 
-**The Goal** by Eliyahu M. Goldratt and Jeff Cox is a business novel that introduces the Theory of Constraints. Through the story of a manufacturing plant manager, it explains how to identify bottlenecks, optimise flow, and align metrics with overall system throughput rather than local efficiencies.
+Eliyahu M. Goldratt と Jeff Cox の **The Goal** は、制約理論を紹介するビジネス小説です。工場長の物語を通じて、ボトルネックの特定、フロー最適化、局所効率ではなくシステム全体のスループットに沿った指標設計を説明します。
 
-The book popularised concepts such as the five focusing steps and drum-buffer-rope scheduling. Its storytelling format makes complex operational ideas accessible, providing leaders with a vocabulary for diagnosing constraints and prioritising improvement work.
+五つの集中ステップや drum-buffer-rope などの概念を広めた一冊で、複雑な運用概念を物語形式で理解しやすくし、制約の診断と改善優先順位づけの共通言語を与えてくれます。
 
-## Referenced in
+## 参照先
 
 - [Exploiting Constraint](/strategies/decelerators/exploiting-constraint)
 - [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)

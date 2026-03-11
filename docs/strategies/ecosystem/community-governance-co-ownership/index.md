@@ -195,7 +195,7 @@ Governance quality becomes a differentiator. Clear decision rights, transparent 
 - [Standards Game](/strategies/markets/standards-game) - co-owned standards reinforce adoption.
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - governance increases the value of staying in the network.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: shared governance coordinates co-evolution.
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: co-ownership unlocks new ecosystem value.

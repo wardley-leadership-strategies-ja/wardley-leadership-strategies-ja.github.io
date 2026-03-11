@@ -1,7 +1,7 @@
-# Moat (Strategic)
+# 堀
 
-Defensive barriers built around a company's core business ("Tower") to protect it from competition, mirroring the idea of an [economic moat](https://en.wikipedia.org/wiki/Economic_moat). These can include network effects, high switching costs, economies of scale, brand loyalty, or intellectual property.
+企業の中核事業を競争から守るために築かれる防御的障壁です。ネットワーク効果、高い切替コスト、規模の経済、ブランド忠誠、知的財産などが含まれます。
 
-## 🔀 Related Strategies
+## 🔀 関連戦略
 
 - [Tower and Moat](/strategies/ecosystem/tower-and-moat)

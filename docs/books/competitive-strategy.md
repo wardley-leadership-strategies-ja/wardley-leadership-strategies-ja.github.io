@@ -4,11 +4,11 @@ isbn13: "9780684841489"
 
 # Competitive Strategy
 
-Michael E. Porter's **Competitive Strategy: Techniques for Analyzing Industries and Competitors** (1980) introduced the Five Forces framework and generic strategies of cost leadership, differentiation, and focus. It equips leaders with analytical tools to evaluate industry structure, anticipate competitor moves, and understand how barriers to entry, supplier power, and substitutes shape profitability.
+Michael E. Porter の **Competitive Strategy: Techniques for Analyzing Industries and Competitors** は、Five Forces とコストリーダーシップ、差別化、集中という基本戦略を提示した古典です。業界構造を評価し、競合の動きを予測し、参入障壁、供給者の力、代替品が収益性へどう影響するかを読み解く道具を与えます。
 
-Porter also explores strategic positioning, capacity expansion decisions, and how to respond to rivals across different competitive arenas. The book remains a foundational reference for crafting offensive and defensive plays in contested markets.
+Porter はさらに、戦略的ポジショニング、設備拡張の判断、異なる競争領域での対抗策も論じています。競争が激しい市場で攻撃と防御のプレイを設計する際の基礎文献です。
 
-## Referenced in
+## 参照先
 
 - [Ambush](/strategies/competitor/ambush)
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)

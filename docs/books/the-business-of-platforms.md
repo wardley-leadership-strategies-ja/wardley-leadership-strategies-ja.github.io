@@ -4,11 +4,11 @@ isbn13: "9780062896322"
 
 # The Business of Platforms
 
-**The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power** (2019) by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie examines how platform companies compete, collaborate, and evolve.
+Michael A. Cusumano、Annabelle Gawer、David B. Yoffie による **The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power** は、プラットフォーム企業がどう競争し、協働し、進化するかを検討します。
 
-It contrasts transaction, innovation, and hybrid platforms, highlighting governance choices, ecosystem risks, and regulatory considerations that determine whether platforms achieve durable advantage or stall.
+取引プラットフォーム、イノベーション・プラットフォーム、ハイブリッド型を対比しながら、ガバナンス選択、エコシステムリスク、規制対応が、持続的優位を生むか失速を招くかを左右することを示します。
 
-## Referenced in
+## 参照先
 
 - [Harvesting](/strategies/markets/harvesting)
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment)

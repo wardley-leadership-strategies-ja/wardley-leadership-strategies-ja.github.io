@@ -195,7 +195,7 @@ A strong, vibrant open-source community around a standard is one of the best def
 - [fragmentation](/strategies/competitor/fragmentation) - splintering the ecosystem by introducing incompatible variants that divide community implementations.
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - "Embrace and Extend" can be a method to achieve platform envelopment, by first adopting a standard to integrate a service, then extending it with proprietary features to lock users into the platform's ecosystem.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: ecosystem partners adapt as you change the core.

@@ -1,3 +1,3 @@
-# Soft Systems Methodology
+# ソフトシステムズ方法論
 
-Soft Systems Methodology is Peter Checkland’s framework for exploring messy, ill-defined situations through multiple worldviews before designing purposeful change. It builds shared understanding with tools like rich pictures, CATWOE analysis, and conceptual activity models.
+ソフトシステムズ方法論は、複雑で定義しにくい状況を、複数の世界観から捉え直し、意図ある変化を設計する Peter Checkland の枠組みです。リッチピクチャー、CATWOE 分析、概念活動モデルなどを使って共通理解を築きます。

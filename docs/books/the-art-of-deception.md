@@ -4,11 +4,11 @@ isbn13: "9780764542800"
 
 # The Art of Deception
 
-**The Art of Deception** by Kevin D. Mitnick and William L. Simon chronicles social engineering attacks and the psychology behind them. Through case studies, it explains how attackers exploit trust, authority, and urgency to persuade people into revealing secrets or granting access to systems.
+Kevin D. Mitnick と William L. Simon の **The Art of Deception** は、ソーシャルエンジニアリング攻撃とその心理を描きます。ケースを通じて、攻撃者が信頼、権威、緊急性を悪用し、人から秘密を引き出したりシステムアクセスを得たりする方法を説明します。
 
-The authors provide defensive practices—policy design, awareness training, verification procedures—that reduce exposure to manipulation. The book is essential context for strategies that rely on planting narratives or exploiting human factors as part of competitive play.
+同時に、方針設計、啓発教育、確認手順といった防御策も提示しており、物語を差し込む戦略や人的要因を突く競争プレイを考える際の重要な背景知識になります。
 
-## Referenced in
+## 参照先
 
 - [Insertion](/strategies/poison/insertion)
 - [Information control and operational security](/leadership-skills/information-control-and-operational-security)

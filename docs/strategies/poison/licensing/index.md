@@ -210,7 +210,7 @@ A short-sighted licensing strategy can maximize short-term revenue but kill a te
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) — using network lock-in.
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) — structural barriers to entry.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Licensing terms must adapt as technologies evolve and commoditize.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Restrictive licensing can stifle innovation by preventing efficient use or combination of technologies.

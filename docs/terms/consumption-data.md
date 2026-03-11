@@ -1,3 +1,3 @@
-# Consumption Data
+# 消費データ
 
-Data gathered from how users interact with and consume a product, service, or platform, often analysed through [customer analytics](https://en.wikipedia.org/wiki/Customer_analytics). Used in 'Sensing Engines' (ILC) to identify patterns, emerging needs, and successful innovations within an ecosystem.
+ユーザーがプロダクト、サービス、プラットフォームをどう利用し、消費しているかから得られるデータです。ILC における感知エンジンで使われ、パターン、新しいニーズ、成功したイノベーションの兆候を見つけるのに役立ちます。

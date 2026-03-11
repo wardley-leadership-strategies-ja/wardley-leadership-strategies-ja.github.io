@@ -1,3 +1,3 @@
-# OODA Loop
+# OODA ループ
 
-The OODA loop is John Boyd’s iterative cycle of Observe, Orient, Decide, and Act for making decisions faster than competitors. It emphasises continually refreshing situational awareness and mental models so action stays ahead of change.
+OODA ループは、Observe、Orient、Decide、Act を繰り返す John Boyd の意思決定サイクルです。状況認識とメンタルモデルを継続的に更新し、変化より先に行動することを重視します。

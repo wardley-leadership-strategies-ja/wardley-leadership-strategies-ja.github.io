@@ -1,7 +1,7 @@
-# Fear, Uncertainty, and Doubt (FUD)
+# 恐怖・不確実性・疑念 (FUD)
 
-A marketing or communication tactic used to dissuade customers from choosing a competitor's product by spreading negative (often vague or unsubstantiated) information to create anxiety about the alternative, exemplified by [fear, uncertainty, and doubt](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt). A strategy aimed at reinforcing user inertia.
+顧客が競合プロダクトを選ばないように、否定的で曖昧な、しばしば根拠の薄い情報を広げて不安を生むマーケティングやコミュニケーションの手法です。ユーザーの慣性を強めることを狙う戦略です。
 
-## 🔀 Related Strategies
+## 🔀 関連戦略
 
 - [Fear, Uncertainty, and Doubt (FUD)](/strategies/user-perception/fear-uncertainty-and-doubt)

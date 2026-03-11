@@ -201,7 +201,7 @@ There is a line between strategic positioning and market distortion. Regularly t
 - [Market Enablement](/strategies/accelerators/market-enablement) - Enabling more competition under your control.
 - [Misdirection](/strategies/competitor/misdirection) - Misleading customers about the true competitive landscape.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – trigger: fabricated rivalry can set off unexpected market shifts.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: staged contests steer user expectations and related products.

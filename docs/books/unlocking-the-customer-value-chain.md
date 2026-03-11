@@ -4,11 +4,11 @@ isbn13: "9781524763084"
 
 # Unlocking the Customer Value Chain
 
-**Unlocking the Customer Value Chain** by Thales S. Teixeira with Greg Piechota explains how disruptive companies decouple stages of the customer journey to win share. Drawing on academic research and case studies (including Amazon, Warby Parker, and Airbnb), it shows how startups exploit friction points in incumbent value chains and then re-bundle services on their own platforms.
+Thales S. Teixeira と Greg Piechota による **Unlocking the Customer Value Chain** は、破壊的企業が顧客ジャーニーの一部を切り離して市場シェアを奪う方法を説明します。Amazon、Warby Parker、Airbnb などの事例を通じて、既存勢力のバリューチェーンにある摩擦点を新興企業がどう突き、その後に自分たちのプラットフォーム上で再バンドルするかを示します。
 
-The book provides a framework for mapping customer activities, spotting where value can be captured, and sequencing moves from entry to full platform plays. It is especially useful for strategists evaluating disintermediation or direct-to-consumer shifts.
+顧客活動を地図化し、どこで価値を取れるかを見つけ、参入から本格的なプラットフォーム展開までの順序を設計する枠組みを提供しており、中抜きや D2C シフトを評価する戦略担当に役立ちます。
 
-## Referenced in
+## 参照先
 
 - [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
 - [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)

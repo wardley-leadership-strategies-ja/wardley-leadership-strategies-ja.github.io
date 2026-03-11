@@ -181,7 +181,7 @@ Regulatory constraints can pull data away from centralized hubs into regional cl
 - [Market Enablement](/strategies/accelerators/market-enablement) – building local ecosystems makes compliance-driven markets viable.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – localization requirements can deter new entrants.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – rel: localization demands differ by region and slow or accelerate adoption.
 - [No one size fits all](/climatic-patterns/no-one-size-fits-all) – rel: global architectures must adapt to local constraints.

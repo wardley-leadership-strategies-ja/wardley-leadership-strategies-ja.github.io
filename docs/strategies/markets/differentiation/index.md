@@ -179,7 +179,7 @@ Differentiation is useless if customers don't know about it or don't understand 
 - [Press Release Process](/strategies/attacking/press-release-process) - leveraging strategic announcements to spotlight differentiating features and shape market perception.
 - [Brand and Marketing](/strategies/user-perception/brand-and-marketing) - crafting narratives and identities that communicate and reinforce your unique value proposition.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [The less evolved something is then the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – trigger: differentiation flourishes when components are immature.
 - [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – influence: pick markets evolving at a pace you can exploit.

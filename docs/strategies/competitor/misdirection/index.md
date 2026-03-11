@@ -198,7 +198,7 @@ Misdirection can lead to competitor inertia. If a company consistently signals t
 - [insertion](/strategies/poison/insertion) - slipping deceptive payloads or narratives into competitor channels to deepen confusion and misdirect analysis.
 - [designed-to-fail](/strategies/poison/designed-to-fail) - planting controlled failures to mislead competitors about your capabilities and shift focus away from core initiatives.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: decoys buy time while rivals adjust.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: confidence in the status quo makes targets overlook the ruse.

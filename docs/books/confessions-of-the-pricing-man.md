@@ -4,11 +4,11 @@ isbn13: "9783319203997"
 
 # Confessions of the Pricing Man
 
-In **Confessions of the Pricing Man**, pricing expert Hermann Simon shares stories and frameworks from decades of advising companies on price strategy. He explains value-based pricing, price differentiation, and the psychology behind willingness to pay, illustrating concepts with real client engagements.
+**Confessions of the Pricing Man** で Hermann Simon は、価格戦略の助言を重ねてきた経験から、価格設定に関する物語と枠組みを共有します。価値ベース価格設定、価格差別化、支払意思額の心理を、実際の支援事例とともに解説します。
 
-Simon emphasises the organisational discipline required to implement pricing decisions, including governance, sales enablement, and measurement. The book is a practitioner’s guide to turning pricing into a growth lever rather than an afterthought.
+また、価格判断を実装するために必要なガバナンス、営業支援、測定の規律も強調しています。価格を後回しではなく成長レバーへ変えるための実務ガイドです。
 
-## Referenced in
+## 参照先
 
 - [Pricing Policy](/strategies/markets/pricing-policy)
 - [Pricing strategy](/leadership-skills/pricing-strategy)

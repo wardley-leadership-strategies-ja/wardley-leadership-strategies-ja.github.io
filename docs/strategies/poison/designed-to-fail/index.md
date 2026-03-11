@@ -204,7 +204,7 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 
 - [Standards Game](/strategies/markets/standards-game) - introducing deliberately flawed specifications to fragment competitor ecosystems and clear the path for your own standard.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: The uncertainty of early markets makes them vulnerable to "designed to fail" initiatives.

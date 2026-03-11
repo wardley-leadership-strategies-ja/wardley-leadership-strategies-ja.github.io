@@ -1,7 +1,7 @@
-# Reed's Law
+# リードの法則
 
-Reed's Law is a principle in network theory that states that the utility of a network increases exponentially (2<sup>N</sup>) with the number of users, particularly when considering the formation of groups within the network, as proposed in [Reed's law](https://en.wikipedia.org/wiki/Reed%27s_law).
+リードの法則は、特にグループ形成を考慮したとき、ネットワークの有用性は利用者数に対して指数関数的に増えるという考え方です。
 
-## See Also
+## 関連項目
 
-- [Metcalfe's Law](/terms/metcalfs-law)
+- [メトカーフの法則](/terms/metcalfs-law)

@@ -1,3 +1,3 @@
-# Viable System Model
+# 生存可能システムモデル
 
-The Viable System Model is Stafford Beer’s cybernetic model that divides any viable organisation into five interacting systems responsible for operations, coordination, control, intelligence, and policy. It guides leaders in balancing autonomy with cohesion across recursive layers.
+生存可能システムモデルは、運用、調整、統制、知性、方針という 5 つの相互作用する系に組織を分けて捉える Stafford Beer のサイバネティクスモデルです。自律性と全体整合のバランスを考える手がかりになります。

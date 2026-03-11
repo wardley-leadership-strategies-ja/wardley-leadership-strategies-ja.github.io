@@ -207,7 +207,7 @@ Channel conflict is not just about cutting costs; it's about forcing change. It 
 
 - [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - creating platforms that directly connect supply and demand sides, bypassing traditional channel partners.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: direct channels emerge as industries commoditise.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: investment follows successful disintermediation efforts.

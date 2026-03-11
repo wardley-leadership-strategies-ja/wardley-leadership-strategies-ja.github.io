@@ -1,3 +1,3 @@
-# Barriers to Entry
+# 参入障壁
 
-Obstacles that make it difficult for new competitors to enter a market, such as high capital requirements, regulatory hurdles, established brand loyalty, proprietary technology, or network effects, reflecting classic [barriers to entry](https://en.wikipedia.org/wiki/Barriers_to_entry). Defensive strategies often focus on raising these barriers.
+高額な初期投資、規制上の障害、強いブランド忠誠、独自技術、ネットワーク効果など、新規競合が市場へ参入しにくくする障害です。防御戦略では、こうした障壁を高めることが中心になる場合があります。

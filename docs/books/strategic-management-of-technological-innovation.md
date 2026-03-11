@@ -4,11 +4,11 @@ isbn13: "9781260087956"
 
 # Strategic Management of Technological Innovation
 
-Melissa A. Schilling's **Strategic Management of Technological Innovation** provides a comprehensive framework for managing innovation portfolios. The text explores technology S-curves, dominant design emergence, innovation diffusion, and the organisational structures required to shepherd ideas from research through commercialisation.
+Melissa A. Schilling の **Strategic Management of Technological Innovation** は、イノベーション・ポートフォリオを管理する包括的な枠組みを提供します。技術の S カーブ、支配的設計の出現、イノベーション普及、研究から商業化までを支える組織構造を幅広く扱います。
 
-Schilling blends academic research with corporate case studies, showing how firms evaluate timing, invest in complementary assets, and orchestrate partnerships. It is a practical reference for leaders deciding when to pioneer, how to scale, and how to build capabilities that keep innovation pipelines healthy.
+学術研究と企業事例を組み合わせ、いつ先行し、どう拡大し、どの補完資産へ投資すべきかを考える助けになります。健全なイノベーションの流れを維持したいリーダーの実務参考書です。
 
-## Referenced in
+## 参照先
 
 - [First Mover](/strategies/positional/first-mover)
 - [Land Grab](/strategies/positional/land-grab)

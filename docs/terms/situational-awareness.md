@@ -1,3 +1,3 @@
-# Situational Awareness
+# 状況認識
 
-A deep understanding of the competitive landscape, including user needs, component dependencies, market evolution, and potential competitor moves, adapting the broader discipline of [situation awareness](https://en.wikipedia.org/wiki/Situational_awareness). Wardley Maps are a tool designed to improve situational awareness for strategic decision-making.
+ユーザーニーズ、コンポーネント依存、進化、競合の動きまで含めた競争環境への深い理解です。Wardley Map は、この状況認識を高めるための道具です。

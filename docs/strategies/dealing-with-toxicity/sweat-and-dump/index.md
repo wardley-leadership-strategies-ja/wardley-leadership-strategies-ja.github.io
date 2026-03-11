@@ -209,7 +209,7 @@ While operational burdens and capex are offloaded, significant reputational risk
 - [designed-to-fail](/strategies/poison/designed-to-fail) - intentionally structuring spin-offs or transformations to fail, enabling clean separation and transfer of liabilities.
 - [Last Man Standing](/strategies/markets/last-man-standing) - offloading assets to specialist providers in a competitive market, letting survivors absorb residual risks and costs.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems become candidates for Sweat & Dump as they reach the end of their lifecycle.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Declining characteristics of an asset make it suitable for outsourcing to a specialist.

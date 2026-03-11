@@ -4,11 +4,11 @@ isbn13: "9781848447899"
 
 # Platforms, Markets and Innovation
 
-**Platforms, Markets and Innovation** (2009) edited by Annabelle Gawer examines how platform leaders orchestrate ecosystems of complementors. The collection analyses case studies such as Intel, Microsoft, and mobile telecoms to explain how modular architectures, governance choices, and standards battles shape competitive outcomes.
+Annabelle Gawer 編の **Platforms, Markets and Innovation** は、プラットフォームの担い手が補完者のエコシステムをどう統率するかを扱う論集です。Intel、Microsoft、移動体通信などの事例を通じて、モジュール構造、ガバナンス選択、標準競争が競争結果をどう左右するかを分析します。
 
-The book highlights strategic levers platform owners use to encourage innovation—ranging from openness policies to API design, pricing, and developer incentives. It provides practical insight into how platform firms balance control with participation and how rivals can challenge an incumbent platform.
+プラットフォーム所有者がオープン方針、API 設計、価格、開発者インセンティブをどう使ってイノベーションを促すかを明らかにし、制御と参加のバランスを考える実務的な示唆を与えます。
 
-## Referenced in
+## 参照先
 
 - [First Mover](/strategies/positional/first-mover)
 - [Land Grab](/strategies/positional/land-grab)

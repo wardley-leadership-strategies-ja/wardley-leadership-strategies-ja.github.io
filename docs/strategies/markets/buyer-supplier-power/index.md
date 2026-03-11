@@ -191,7 +191,7 @@ Every value chain is also a power chain. Understanding this allows you to see th
 - [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation) - reallocating buyer-supplier relationships by bypassing intermediaries to capture margin and control channels.
 - [Pricing Policy](/strategies/markets/pricing-policy) - adjusting pricing structures to influence supplier margins and buyer incentives, shifting power dynamics.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The balance of power between buyers and suppliers shifts as markets and components evolve.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components commoditize, power often shifts from suppliers to buyers, or to those who control the new standard.

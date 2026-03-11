@@ -129,7 +129,7 @@ const config: Config = {
               to: '/leadership-skills',
             },
             {
-              label: '気候パターン',
+              label: '状勢パターン',
               to: '/climatic-patterns',
             },
             {
@@ -193,7 +193,7 @@ const config: Config = {
               to: '/doctrines',
             },
             {
-              label: '気候パターン',
+              label: '状勢パターン',
               to: '/climatic-patterns',
             },
           ],

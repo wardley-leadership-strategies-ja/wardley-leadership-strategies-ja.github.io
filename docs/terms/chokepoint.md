@@ -1,3 +1,3 @@
-# Chokepoint
+# チョークポイント
 
-A critical component or position others depend on, similar to a geographic or economic [choke point](https://en.wikipedia.org/wiki/Choke_point). Controlling a chokepoint gives you leverage in supply chains or ecosystems.
+他者が依存する重要なコンポーネントや位置です。チョークポイントを押さえると、サプライチェーンやエコシステムに対して強いレバレッジを持てます。

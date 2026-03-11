@@ -4,10 +4,10 @@ isbn13: "9780316219280"
 
 # The Everything Store
 
-Brad Stone's **The Everything Store: Jeff Bezos and the Age of Amazon** chronicles Amazon's rise from online bookstore to diversified platform. It details strategic choices around logistics, marketplace expansion, AWS, and the culture of relentless customer focus and frugality that underpinned growth.
+Brad Stone の **The Everything Store: Jeff Bezos and the Age of Amazon** は、Amazon がオンライン書店から多角的なプラットフォームへ成長した過程を描きます。物流、マーケットプレイス、AWS、徹底した顧客志向と節約文化が成長の土台になったことを詳述します。
 
-Stone provides insight into how Amazon manages supplier relationships, negotiates with partners, and leverages scale to influence entire ecosystems. The book is valuable for understanding buyer-supplier power dynamics and platform strategy execution.
+Amazon が供給者とどう向き合い、パートナーと交渉し、規模を使ってエコシステム全体へ影響を及ぼすかを知るうえで有用で、買い手と供給者の力関係やプラットフォーム戦略の実行を理解する助けになります。
 
-## Referenced in
+## 参照先
 
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)

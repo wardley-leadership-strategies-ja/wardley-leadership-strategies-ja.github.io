@@ -173,7 +173,7 @@ From a value chain perspective, bundling can represent a form of vertical integr
 - [Land Grab](/strategies/positional/land-grab) – Bundling can quickly expand user base for a new service by piggybacking on an existing one.
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment) – Bundling is a common tactic used in platform envelopment to integrate new functionalities or services into an existing platform, often to expand its scope and user base.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: combining commoditised components creates new offers.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: bundled products change how users adopt related services.

@@ -1,3 +1,3 @@
-# Probe (Strategic)
+# プローブ
 
-A small-scale, low-risk action or experiment designed to test competitor reactions, market reception, or potential opportunities without committing significant resources, similar to the "probe-sense-respond" moves in the [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework). Used in strategies like 'Circling and Probing'.
+競合の反応、市場の受け止め、潜在機会を探るために行う、小さく低リスクな行動や実験です。大きな資源投入をする前の探索に使われます。

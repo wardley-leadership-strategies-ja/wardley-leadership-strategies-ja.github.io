@@ -281,7 +281,7 @@ disposal isn’t feasible.
 alternative to disposal.
 - [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Disaggregating a value chain can help identify and isolate liabilities, making them easier to dispose of. The remaining components can then be re-aggregated into a healthier value chain.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: What was once an asset can become a liability as the market and technology landscape changes.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: The characteristics of a component or business unit can shift, making it toxic to the parent company.

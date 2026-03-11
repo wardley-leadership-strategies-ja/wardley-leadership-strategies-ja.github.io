@@ -1,3 +1,3 @@
-# Inertia
+# 慣性
 
-Resistance to change, akin to the behavioural [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias). Can stem from users, systems, internal politics, or existing investment. Critical to recognise and overcome or exploit.
+変化への抵抗です。ユーザー、システム、社内政治、既存投資など、さまざまな源泉から生じます。認識して乗り越えるか、あるいは活用するかが重要です。

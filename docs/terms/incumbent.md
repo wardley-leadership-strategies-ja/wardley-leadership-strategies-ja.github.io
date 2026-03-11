@@ -1,3 +1,3 @@
-# Incumbent
+# 既存勢力
 
-An established company or entity that holds a significant position or market share within an industry, similar to an [incumbent](https://en.wikipedia.org/wiki/Incumbent) officeholder. Incumbents often face challenges from new entrants and disruptive innovations due to inertia.
+業界の中で大きな地位や市場シェアを持つ既存の企業や主体です。既存勢力は慣性のために、新規参入者や破壊的イノベーションへの対応で不利になりがちです。

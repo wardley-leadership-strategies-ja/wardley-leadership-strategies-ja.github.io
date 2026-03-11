@@ -4,11 +4,11 @@ isbn13: "9781625274496"
 
 # Blue Ocean Strategy
 
-**Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant** (2005) by W. Chan Kim and Renée Mauborgne outlines how companies can unlock new demand by redefining market boundaries.
+W. Chan Kim と Renée Mauborgne による **Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant** は、市場境界を引き直すことで新しい需要を掘り起こす方法を示します。
 
-It introduces tools such as the Value Innovation concept, the Strategy Canvas, and the Four Actions Framework to help leaders identify noncustomers, reshape offerings, and sustain differentiation without competing head-to-head.
+価値イノベーション、ストラテジーキャンバス、Four Actions Framework などの道具を通じて、非顧客の発見、提供物の再設計、正面衝突を避けた差別化の持続を支援します。
 
-## Referenced in
+## 参照先
 
 - [Differentiation](/strategies/markets/differentiation)
 - [Designed to Fail](/strategies/poison/designed-to-fail)

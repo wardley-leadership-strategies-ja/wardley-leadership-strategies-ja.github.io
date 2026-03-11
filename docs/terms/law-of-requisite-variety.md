@@ -1,3 +1,3 @@
-# Law of Requisite Variety
+# 必要多様性の法則
 
-The Law of Requisite Variety states that a regulator must possess at least as much variety as the system it seeks to control. In practice it means organisations need matching flexibility, sensing, and response options to manage complex environments.
+制御しようとするシステムに対して、制御側は少なくとも同程度の多様性を持っていなければならないという法則です。実務では、複雑な環境を扱うために、組織に相応の柔軟性、感知能力、対応選択肢が必要だという意味になります。

@@ -2,21 +2,29 @@
 authors: [dave-hulbert]
 ---
 
-# Poison
+# Poison 戦略
 
-The Poison play is about strategic sabotage. If you can’t or don’t want to dominate a future space, you can still deny it to others.
+Poison は、ある空間を自分のものにするのではなく、他者にも取りづらくするためのプレイです。支配できない、あるいは支配したくない未来空間に対して、魅力、安定性、経済性を下げます。
 
-Poison tactics shape perception, introduce friction, or distort incentives, making the space unattractive, unstable, or unviable. It’s a scorched earth approach—used to derail a competitor’s roadmap, destroy a nascent ecosystem, or stall innovation that threatens your position.
+勝つためというより、誰にも勝たせないための戦略です。強い破壊力を持つ反面、倫理・評判・規制のリスクも大きいカテゴリです。
 
-Poison isn’t about winning. It’s about ensuring no one else does.
+## ☠️ **Poison 戦略とは何か**
 
-## Comparison of Poison Strategies
+Poison の手は、認知、インセンティブ、制度、技術のいずれかへ毒を入れ、相手の計画やエコシステムを不成立にします。直接対抗できないときでも、相手の前提条件を悪化させることで盤面を壊せます。
 
-| Strategy & Link | Primary Goal/Intent | Key Mechanisms | Typical Use Cases/Scenarios | Main Benefits (for the User of Poison) | Key Climatic Patterns |
-| :--------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Designed to Fail](/strategies/poison/designed-to-fail/) | Ensure a competitor's project or initiative is unsuccessful by subtle sabotage. | Introducing flaws, withholding critical information/support, setting unrealistic expectations, mismanaging resources. | When directly opposing a project is not feasible; to undermine a competitor's new venture or product launch without overt aggression. | Competitor's initiative fails, resources wasted by competitor, maintains status quo or your relative advantage. | [Competitors actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game), [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
-| [Insertion](/strategies/poison/insertion/) | Introduce elements into a competitor's system or ecosystem that cause harm or instability. | Planting misinformation, introducing incompatible components, fostering dissent in communities, exploiting vulnerabilities. | To disrupt competitor operations, discredit their offerings, or create internal conflict within their ecosystem. | Competitor instability, loss of trust in competitor's offerings, slowing competitor's progress. | [Characteristics change](/climatic-patterns/characteristics-change) (negatively for the target), [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) (if they can't adapt to the poison) |
-| [Licensing](/strategies/poison/licensing/) | Use restrictive or complex licensing terms to hinder adoption or use by others. | Predatory licensing, complex legal terms, high fees for critical components, FUD around IPR. | To make a competitor's product unviable, to slow adoption of an open standard you wish to control or supersede. | Reduced competition, increased dependency on your alternatives, revenue generation through punitive licensing. | [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) (away from poisoned area), [IPR as a decelerator (implicit)] |
+## 📊 **Poison 戦略の比較**
+
+| 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
+| :--- | :--- | :--- | :--- | :--- |
+| [Designed to Fail](/strategies/poison/designed-to-fail/) | 相手の施策を内側から失敗させる | 情報不足、無理な前提、資源誤配分 | 正面対立しにくい案件 | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
+| [Insertion](/strategies/poison/insertion/) | 相手の系へ不安定要素を混入する | 誤情報、非互換要素、内部対立 | コミュニティや連携構造が脆いとき | [特性は変化する](/climatic-patterns/characteristics-change)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |
+| [Licensing](/strategies/poison/licensing/) | ライセンスで採用を妨げる | 制限条項、高額課金、法的不安 | 標準争い、採用阻害 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
+
+## ⚠️ **使う前に考えること**
+
+- 長期的に自社ブランドへどれだけ傷が付くか
+- 反撃や規制強化を招かないか
+- 一時的な妨害で終わらず、自社の選択肢まで狭めないか
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

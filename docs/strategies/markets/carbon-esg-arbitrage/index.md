@@ -200,7 +200,7 @@ This strategy only works when operational shifts match the narrative. Marketing 
 - [Differentiation](/strategies/markets/differentiation) - turning verified low-carbon performance into a clear market distinction.
 - [Signal Distortion](/strategies/markets/signal-distortion) - the counterplay when rivals attempt to muddy ESG signals.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: ESG disclosure moves by competitors trigger new procurement expectations.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Incentives and subsidies redirect investment toward low-carbon supply chains.

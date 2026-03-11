@@ -4,10 +4,10 @@ isbn13: "9780470223390"
 
 # Differentiate or Die
 
-**Differentiate or Die** by Jack Trout and Steve Rivkin focuses on positioning and the imperative to stand out in crowded markets. The authors outline techniques for carving a unique space in customers' minds, using examples across consumer goods, services, and B2B industries.
+Jack Trout と Steve Rivkin による **Differentiate or Die** は、混み合った市場で際立つ必要性と、そのためのポジショニングに焦点を当てた本です。消費財、サービス、B2B を横断する例を使いながら、顧客の頭の中に独自の場所を築く方法を示します。
 
-They emphasise clarity of message, consistency, and aligning operations with the promised differentiation. The book helps strategists translate differentiation theory into practical brand and product choices.
+メッセージの明確さ、一貫性、約束した差別化と実運営の整合を重視しており、差別化理論を具体的なブランドやプロダクトの選択へ落とし込む助けになります。
 
-## Referenced in
+## 参照先
 
 - [Differentiation](/strategies/markets/differentiation)

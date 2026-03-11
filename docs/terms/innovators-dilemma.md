@@ -1,5 +1,5 @@
-# Innovator's Dilemma
+# イノベーターのジレンマ
 
-The Innovator's Dilemma is a concept introduced by Clayton Christensen in his book of the same name, [*The Innovator's Dilemma*](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma). It describes the challenges that established companies face when they are confronted with disruptive innovations. These innovations often start at the lower end of the market, targeting niche segments or underserved customers, and gradually improve over time, eventually displacing established products and companies.
+クレイトン・クリステンセンが提唱した概念で、既存企業が破壊的イノベーションに直面したときに抱える難しさを指します。破壊的イノベーションはしばしば市場の下位や過小評価された顧客から始まり、時間とともに改善され、やがて既存の製品や企業を置き換えます。
 
-The dilemma arises because established companies tend to focus on their most profitable customers and products, which can lead them to ignore or dismiss disruptive innovations. As a result, they may miss opportunities to adapt and innovate, ultimately leading to their decline or failure in the face of new competition.
+既存企業は収益性の高い顧客や製品に集中しがちなため、新しい破壊を軽視しやすく、その結果として適応と革新の機会を逃し、新しい競争に敗れることがあります。

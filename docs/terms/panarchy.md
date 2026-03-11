@@ -1,3 +1,3 @@
-# Panarchy
+# パナーキー
 
-Panarchy describes the nested adaptive cycles—growth, conservation, release, and reorganisation—that operate across ecological and social systems. It explains how resilience, innovation, and collapse interplay across scales.
+パナーキーは、成長、保全、解放、再編成という適応サイクルが、生態系や社会システムの複数の階層で入れ子になって働くという考え方です。レジリエンス、イノベーション、崩壊がスケールをまたいでどう絡み合うかを説明します。

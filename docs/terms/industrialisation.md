@@ -1,3 +1,3 @@
-# Industrialisation
+# 産業化
 
-The transformation of a product or activity into a scalable, repeatable, and optimised form, akin to broader [industrialisation](https://en.wikipedia.org/wiki/Industrialisation) trends. Emphasises efficiency, standardisation, and operational control.
+プロダクトや活動を、拡張可能で、反復可能で、最適化された形へ変えることです。効率、標準化、運用統制を重視します。

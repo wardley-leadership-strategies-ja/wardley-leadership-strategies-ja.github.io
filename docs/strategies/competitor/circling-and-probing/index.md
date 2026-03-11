@@ -209,7 +209,7 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
 * [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 * [Everything evolves](/climatic-patterns/everything-evolves) – rel: The landscape is constantly changing, requiring ongoing circling and probing.
 * [Characteristics change](/climatic-patterns/characteristics-change) – rel: Competitor capabilities and market dynamics shift, necessitating adaptation.

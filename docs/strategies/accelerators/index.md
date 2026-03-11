@@ -1,84 +1,55 @@
 ---
-description: Accelerate evolution and market development
+description: コンポーネントの進化と市場形成を加速する戦略群。
 authors: [dave-hulbert]
 ---
 
-# Accelerators
+# 加速戦略
 
-In Wardley Mapping, Accelerators are strategic plays designed to expedite the evolution of components, services, or practices. They focus on increasing the speed of commoditization and adoption, thereby enabling the emergence of new, higher-order systems and capabilities. By reducing friction and building momentum, Accelerators clear the path for future innovations and strategic advancements.
+加速戦略は、コンポーネント、市場、実践の進化を意図的に早めるためのプレイです。コモディティ化や標準化を促し、その上に新しい価値を積み上げやすくします。
 
-These strategies are particularly useful when a component needs to become more widespread or standardized to unlock further value, or when your overall strategy relies on the rapid maturation of other elements in the ecosystem. Accelerators encompass a range of techniques, including leveraging open approaches, enabling markets, and fostering network effects, all aimed at catalyzing change and driving progress across the landscape.
+自社単独で勝つというより、状況全体の進化速度を変えることで優位を取る発想です。基盤を広く使える状態にし、次の差別化をより高次の層で作りやすくします。
 
-## 🤔 **What are Accelerators?**
+## 🤔 **加速戦略とは何か**
 
-Accelerators in Wardley Mapping are proactive measures taken to speed up the natural evolutionary flow of a component or market. The primary goal is to reduce the time it takes for something to move from a nascent, uncertain stage (like Genesis or Custom-Built) towards a more mature, stable, and widespread state (like Product/Rental or Commodity/Utility). By doing so, you not only make the component itself more reliable and cost-effective but also unlock opportunities for new innovations that can be built upon this newly stabilized foundation.
+加速戦略は、創世記やカスタムビルドにある要素を、より安定し、広く普及した状態へ早く進めるための手です。ねらいは、摩擦を下げ、採用を広げ、上位レイヤーのイノベーションを起こしやすくすることにあります。
 
-Several distinct sub-strategies can be employed to achieve this acceleration:
+代表的な型は次のとおりです。
 
-* **[Cooperation](/strategies/accelerators/cooperation)**: Involves working with other parties, even competitors, to standardize and commoditize a component. This shared effort reduces individual investment and risk, speeding up evolution for all involved.
-* **[Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)**: Focuses on creating and leveraging the value that increases as more users adopt a component or service. This drives rapid adoption and can quickly push a component towards becoming a de facto standard.
-* **[Industrial Policy](/strategies/accelerators/industrial-policy)**: Relates to governmental or large-scale organizational interventions designed to encourage the development and adoption of specific industries or technologies, thereby accelerating their evolution.
-* **[Market Enablement](/strategies/accelerators/market-enablement)**: Involves creating the conditions necessary for a market around a component to thrive. This might include establishing standards, reducing barriers to entry, or fostering trust, all of which help the market mature faster.
-* **[Open Approaches](/strategies/accelerators/open-approaches)**: Making a component open source or using open standards can dramatically accelerate its adoption and development. It invites broader collaboration, reduces costs for adopters, and speeds up the journey towards commoditization.
+- [Cooperation](/strategies/accelerators/cooperation): 複数主体で協働し、標準化や共通基盤化を進める
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects): 利用者が増えるほど価値が増す構造を使って普及を加速する
+- [Industrial Policy](/strategies/accelerators/industrial-policy): 政策、補助金、公共調達などを使って進化を前倒しする
+- [Market Enablement](/strategies/accelerators/market-enablement): 市場が育つ条件を整え、採用を促す
+- [Open Approaches](/strategies/accelerators/open-approaches): オープン標準やオープンソースで摩擦を下げる
 
-Each of these approaches provides a different lever to influence the speed of evolution, helping to strategically shape the landscape to your advantage.
+## 📊 **加速戦略の比較**
 
-### Comparison of Accelerator Strategies
+| 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
+| :--- | :--- | :--- | :--- | :--- |
+| [Cooperation](/strategies/accelerators/cooperation/) | 協働で進化を早める | 標準化、共同研究、資源共有 | 単独では重すぎる基盤づくり | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects/) | 普及が普及を呼ぶ状態を作る | 利用者獲得、片側補助、参加障壁の低減 | プラットフォーム、SNS、市場形成 | [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
+| [Industrial Policy](/strategies/accelerators/industrial-policy/) | 政策の力で進化を前倒しする | 補助金、規制設計、公共調達 | 巨額投資が必要な産業 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [Market Enablement](/strategies/accelerators/market-enablement/) | 市場全体を育てる | 標準整備、エコシステム投資、知識共有 | まだ市場が薄い領域 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
+| [Open Approaches](/strategies/accelerators/open-approaches/) | 開放で採用を伸ばす | OSS、オープン標準、公開 API | 普及摩擦が高い基盤領域 | [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)、[下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
 
-| Strategy & Link | Primary Goal/Intent | Key Mechanisms | Typical Use Cases/Scenarios | Main Benefits | Key Climatic Patterns |
-| :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Cooperation](/strategies/accelerators/cooperation/) | Achieve mutual goals and accelerate evolution by working with others (even competitors). | Collaboration, partnerships, joint ventures, standards development, shared R&D, pooling resources. | Tasks too large, risky, or slow for one entity; establishing standards; early market formation. | Pools capabilities, distributes risk, accelerates learning & evolution, creates/expands markets, allows focus on core competencies. | [Components can co-evolve](/climatic-patterns/components-can-co-evolve), [Economy has cycles](/climatic-patterns/economy-has-cycles) |
-| [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects/) | Increase product/service value as more users join, driving rapid adoption. | User acquisition focus, removing friction for new users, subsidizing one side of a platform, platform design. | Businesses with natural network effects (social media, marketplaces, platforms); aiming for rapid growth and market dominance. | Creates barriers to entry, drives self-reinforcing adoption, increases user willingness to pay, potential for market dominance. | [Change is not always linear](/climatic-patterns/change-is-not-always-linear), [No choice on evolution](/climatic-patterns/no-choice-on-evolution) |
-| [Industrial Policy](/strategies/accelerators/industrial-policy/) | Align with or influence government policy to accelerate strategic industry growth. | Securing subsidies, tax incentives, public procurement, shaping regulation, infrastructure investment. | High-capital strategic industries (e.g., green tech, defense, semiconductors); when public support can de-risk or speed up progress. | De-risks projects, accelerates R&D, creates market demand, shapes favorable regulations, builds strategic autonomy. | [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value), [Economy has cycles](/climatic-patterns/economy-has-cycles) |
-| [Market Enablement](/strategies/accelerators/market-enablement/) | Encourage a competitive market around a component to accelerate its evolution/adoption. | Promoting open standards, developing platforms, sharing knowledge/IP, ecosystem investment, fostering community. | When overall market expansion is beneficial; when a component is nascent, slow-moving, or too expensive. | Accelerates component evolution, expands market size, can reduce costs, increases innovation, helps establish standards. | [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth), [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) |
-| [Open Approaches](/strategies/accelerators/open-approaches/) | Drive adoption, commoditization, and ecosystem growth by making tech/data/standards open. | Open sourcing software, defining open standards, releasing open data, providing open APIs, community building. | Utility-like or commoditizing components; high friction in adoption; proprietary barriers hindering market; need for ecosystem growth. | Drives adoption/standards, commoditizes layers, builds ecosystems, undercuts proprietary rivals, accelerates community innovation. | [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation), [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
+## 🚀 **なぜ使うのか**
 
-## 🚀 **Why Use Accelerators?**
+- 基盤を早く安く安定させて、上位で差別化しやすくする
+- 市場の立ち上がりを早め、自社に有利な標準や慣行を作る
+- 不確実な領域を、採用と実践の蓄積で早く右側へ寄せる
+- コスト低下によって新しい需要や周辺サービスを生む
 
-Employing Accelerator strategies offers significant strategic advantages, allowing organizations to proactively shape their operational landscape rather than merely reacting to it. By intentionally speeding up the evolution of certain components, businesses can:
+## ⚖️ **減速戦略との違い**
 
-* **Gain First-Mover Advantage:** By accelerating a component towards commodity or utility, you can be among the first to leverage it for new innovations, capturing market share before competitors adapt.
-* **Enable Higher-Order Systems:** Commoditized components become reliable building blocks. Accelerating their availability means you can start developing more complex, valuable systems on top of them sooner. For example, the widespread availability of commodity compute (an accelerated component) enabled the rise of cloud services and big data analytics.
-* **Respond to Market Dynamics:** In fast-moving environments, the ability to accelerate the adoption of new technologies or standards can be crucial for survival and growth. This allows organizations to pivot quickly and capitalize on emerging trends.
-* **Drive Down Costs:** Pushing components towards commoditization inherently drives down their costs. This can free up resources for investment in other areas of the value chain, improving overall efficiency and profitability.
-* **Build and Leverage Ecosystem Momentum:** Accelerators like open approaches or network effects can create a vibrant ecosystem around a component. This shared momentum can lead to further innovation, wider adoption, and a stronger competitive position as the ecosystem co-evolves.
-* **Reduce Uncertainty:** As components evolve towards more mature states, they become more predictable in terms of performance, cost, and availability. Accelerating this process helps reduce uncertainty in your strategic planning.
+加速戦略が進化を早めるのに対し、[減速戦略](/strategies/decelerators/) は進化を遅らせます。実務では両方を同時に使うこともあります。自社に有利な補完領域は加速し、中核収益を脅かす領域は減速する、といった組み合わせです。
 
-Ultimately, Accelerators are about playing an offensive game. They allow you to influence the pace of change, create new opportunities, and build a more resilient and adaptive organization.
+## 🧭 **見分け方**
 
-## ⚖️ **Accelerators vs. Decelerators**
+次の効果が主なら、そのプレイは加速戦略として読む価値があります。
 
-While Accelerators focus on speeding up evolution, it's important to understand their counterparts: **[Decelerators](/strategies/decelerators/)**. These two types of strategies represent opposing forces that organizations can use to manipulate the speed of change for a component or within a market.
-
-Accelerators, as we've discussed, aim to hasten commoditization, encourage widespread adoption, and pave the way for new innovations by making foundational components more readily available and cost-effective. They are about pushing forward, often by reducing friction or increasing incentives for change.
-
-Decelerators, on the other hand, are employed to slow down this evolutionary process. Organizations might use decelerating tactics to:
-
-* Protect existing, profitable revenue streams tied to less evolved components.
-* Buy time to adapt their own capabilities and offerings in the face of rapid market shifts.
-* Create barriers to entry or slow down the progress of competitors.
-* Manage the risks associated with too-rapid change before the organization or market is ready.
-
-Understanding both sets of strategies is crucial for a comprehensive approach to Wardley Mapping. The choice to accelerate or decelerate depends heavily on an organization's current position, its strategic goals, and the specific context of the component or market in question. Sometimes, a mixed approach might even be necessary, accelerating certain components while strategically decelerating others.
-
-## ➕ **Identifying Other Potential Accelerators**
-
-The strategies explicitly listed under "Accelerators" are not the only ways to speed up component evolution or market development. Many other strategic plays, while perhaps categorized differently, can have significant accelerating effects. The key is to analyze the *impact* of a strategy on the speed of change.
-
-Look for strategies that exhibit characteristics such as:
-
-* **Significant Friction Reduction:** Any action that makes a component or service much easier, cheaper, or faster to adopt or use can act as an accelerator.
-* **Promotion of Standards:** Strategies that establish, promote, or rely on recognized standards often accelerate evolution by ensuring interoperability, reducing uncertainty, and enabling a broader ecosystem.
-* **Ecosystem and Community Building:** Actions that cultivate a large, active community or a vibrant ecosystem around a component can rapidly drive its development, adoption, and refinement.
-* **Rapid Capability Enhancement:** Strategies that allow an organization to quickly gain new, critical capabilities (e.g., through partnerships, licensing, or targeted acquisitions) can accelerate their ability to compete or innovate in a market.
-
-Considering these characteristics, other strategies might be viewed through an "accelerator lens":
-
-* **"[Land Grab](/strategies/positional/land-grab)"**: While primarily a positional play, a successful land grab aims to quickly acquire dominant market share. This rapid expansion can accelerate market development around your offering, pressure competitors, and potentially hasten the commoditization of underlying components as you scale.
-* **"[Acquisition](/strategies/defensive/threat-acquisition)" (Strategic)**: Acquiring a company with key technologies or market access can be a powerful accelerator, allowing the acquirer to bypass slower organic development and rapidly advance its position or offerings. This can speed up the integration of new capabilities and accelerate entry into new evolutionary stages for certain components.
-* **Platform Plays (Internal or External):** Developing and promoting a platform (e.g., a technical platform, a data platform) can accelerate the development of services and products that build upon it. By providing standardized tools and interfaces, platforms reduce the effort needed for higher-order system creation.
-
-The crucial takeaway is to assess how a strategy influences the evolutionary lifecycle. If its primary effect is to speed up movement towards more evolved states (e.g., from custom-built to product, or product to commodity) for key components, then it's acting as an accelerator, regardless of its formal classification.
+- 採用コストを大きく下げる
+- 標準や共通基盤を広げる
+- エコシステム参加者を増やす
+- 上位システムを作る前提条件を整える
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

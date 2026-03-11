@@ -193,7 +193,7 @@ A Tower and Moat strategy is the ultimate positional play. It's not about having
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging influence over supply chains and customer relationships to deepen the moat and raise switching costs.
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - Enveloping adjacent services or functionalities into the core platform is a key method for building the "Moat" around the "Tower," by commoditizing potential differentiators.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: rapid transitions create opportunities to build the tower.
 - [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – influence: the tower aims to capture emerging value built on mature utilities.

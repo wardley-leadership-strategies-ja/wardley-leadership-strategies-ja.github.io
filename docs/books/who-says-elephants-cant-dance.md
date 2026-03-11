@@ -4,11 +4,11 @@ isbn13: "9780060523800"
 
 # Who Says Elephants Can't Dance?
 
-**Who Says Elephants Can't Dance?** is Louis V. Gerstner Jr.'s memoir of leading IBM's turnaround in the 1990s. He recounts how the company shifted from a hardware-centric culture to a services-led organisation, describing decisions on cost restructuring, cultural change, and market focus.
+**Who Says Elephants Can't Dance?** は、Louis V. Gerstner Jr. が IBM の再建を率いた 1990 年代を回想した書籍です。ハードウェア中心の文化からサービス主導の組織へどう転換したかを、コスト再構築、文化変革、市場の焦点設定とともに描きます。
 
-Gerstner highlights the importance of confronting reality, aligning incentives, and sustaining momentum amid deep-seated inertia. The narrative offers practical lessons for leaders tasked with reshaping large, legacy enterprises.
+現実直視、インセンティブの整合、深く根づいた慣性の中で勢いを保つことの重要性を示しており、大きく古い企業を作り変える役割を担うリーダーに実践的な教訓を与えます。
 
-## Referenced in
+## 参照先
 
 - [Managing Inertia](/strategies/defensive/managing-inertia)
 - [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)

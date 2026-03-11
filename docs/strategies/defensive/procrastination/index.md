@@ -199,7 +199,7 @@ For large organizations, strategic procrastination can be part of a broader port
 - **[Fast Follower](/strategies/positional/fast-follower)**: Strategic procrastination is the prerequisite for being a successful fast follower.
 - **[Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)**: While procrastinating, you must be actively scanning for weak signals that indicate the market is ready for your entry.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: overconfidence delays necessary change.
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: hesitating can forfeit uncertain but valuable opportunities.

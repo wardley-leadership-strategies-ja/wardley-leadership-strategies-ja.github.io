@@ -191,7 +191,7 @@ It's important to distinguish Tech Drops from [Ambush](/strategies/competitor/am
 - [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia) - deepening competitor complacency to prevent an effective response to your disruptive launch.
 - [Talent Raid](/strategies/competitor/talent-raid) - securing specialized talent to accelerate development and execution of your Tech Drop.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: a Tech Drop creates a punctuated equilibrium, a sudden leap in evolution.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: a Tech Drop is a direct attempt to change the game on your own terms.

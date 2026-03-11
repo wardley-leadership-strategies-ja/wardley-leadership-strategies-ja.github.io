@@ -189,7 +189,7 @@ Effective sensing requires an organisational culture that values and acts on ear
 - [Experimentation](/strategies/attacking/experimentation) - conducting targeted probes to validate weak signals and refine strategic direction.
 - [Directed Investment](/strategies/attacking/directed-investment) - allocating resources to areas highlighted by validated signals to establish a competitive edge.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Weak signals often indicate the early stages of a component's evolution or a shift in its trajectory.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Subtle changes in component characteristics can be weak signals of broader market shifts.

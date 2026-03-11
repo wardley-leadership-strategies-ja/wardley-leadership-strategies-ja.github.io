@@ -231,7 +231,7 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 - [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - The ILC cycle can drive disaggregation as new platform capabilities emerge, and re-aggregation as ecosystem players adapt to newly commoditized components.
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - The "Commoditize" phase of ILC is a form of platform envelopment, where successful ecosystem functionalities are integrated into the core platform.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – trigger: nurturing an ecosystem accelerates mutual improvement.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: commoditisation frees resources for the next wave of ideas.

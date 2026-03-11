@@ -1,3 +1,3 @@
-# Agility
+# 俊敏性
 
-The ability of an organization to move quickly and easily, responding rapidly to opportunities or threats in line with the principles of [business agility](https://en.wikipedia.org/wiki/Organizational_agility). Often contrasted with inertia; managing inertia aims to increase agility.
+組織が素早く、軽やかに動き、機会や脅威へ迅速に対応する力です。しばしば慣性と対比され、慣性管理の狙いはこの俊敏性を高めることにあります。

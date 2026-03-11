@@ -191,7 +191,7 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 
 - [Fool's Mate](/strategies/attacking/fools-mate) - baiting competitors into missteps with deliberate misinformation, setting up a rapid counterstrike.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: This strategy exploits the poor situational awareness of competitors by feeding them misleading signals.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – rel: Hype cycles and economic bubbles can be amplified or created through signal distortion.

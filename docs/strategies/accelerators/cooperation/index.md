@@ -299,7 +299,7 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - [Market Enablement](/strategies/accelerators/market-enablement) - cooperation can help build and scale ecosystems by aligning stakeholders to enable and grow the market.
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - leverages relationships with multiple parties to create competitive tension and strategic advantage through collaborative positioning.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: collaboration shapes how capabilities mature together.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts from peace to war often spur new partnerships.

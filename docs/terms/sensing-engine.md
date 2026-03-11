@@ -1,3 +1,3 @@
-# Sensing Engine
+# 感知エンジン
 
-A mechanism (usually data-driven) used to detect patterns, user behaviour, or emerging trends to inform strategy, much like a [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence) capability.
+パターン、ユーザー行動、新しいトレンドを検知し、戦略判断へつなぐ仕組みです。多くの場合、データ駆動で構築されます。

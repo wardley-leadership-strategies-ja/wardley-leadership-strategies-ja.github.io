@@ -197,7 +197,7 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - engaging multiple standard bodies or camps in parallel to influence outcomes and retain flexibility.
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control of standard implementation to influence supplier terms and buyer commitments.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Standards emerge as components evolve towards commodity; playing the standards game is a way to influence this evolution.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Standards often arise to improve efficiency and interoperability, which then enables higher-order innovation.

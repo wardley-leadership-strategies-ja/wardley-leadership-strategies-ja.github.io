@@ -186,7 +186,7 @@ This strategy is a powerful example of Joseph Schumpeter's concept of "creative 
 * [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - leveraging adoption feedback loops to reinforce dominance and outlast competitors in a market war.
 * [Confusion of Choice](/strategies/user-perception/confusion-of-choice) - overwhelming customers with options to obscure competitor offerings and sustain market control.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 * [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: attrition strategies often surface during war phases when the market contracts.
 * [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: scale efficiencies let you outlast rivals even as total spending rises.

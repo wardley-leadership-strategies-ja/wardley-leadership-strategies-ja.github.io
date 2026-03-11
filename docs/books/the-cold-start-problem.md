@@ -4,11 +4,11 @@ isbn13: "9781847942791"
 
 # The Cold Start Problem
 
-Andrew Chen's **The Cold Start Problem** explains how to launch and scale network-effect businesses. Drawing on experiences from Uber and other tech companies, Chen describes the atomic networks that ignite growth, the roles of acquisition loops, engagement loops, and economics loops, and the tactics required to move from niche communities to mass-market platforms.
+Andrew Chen の **The Cold Start Problem** は、ネットワーク効果型ビジネスの立ち上げと拡大を解説します。Uber などでの経験を踏まえ、成長を点火する原子的ネットワーク、獲得ループ、エンゲージメントループ、経済ループの役割を整理します。
 
-The book offers practical playbooks for solving early liquidity challenges, designing onboarding that kick-starts interactions, and defending networks as they mature. It is essential reading for teams orchestrating two-sided markets.
+初期流動性の課題をどう解くか、相互作用を始動させるオンボーディングをどう設計するか、成熟後のネットワークをどう守るかまでを扱っており、二面市場を統率するチームにとって重要な実務書です。
 
-## Referenced in
+## 参照先
 
 - [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
 - [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)

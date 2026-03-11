@@ -1,3 +1,3 @@
-# Double-Loop Learning
+# ダブルループ学習
 
-Double-loop learning is a discipline of reflecting on and changing the governing assumptions behind actions, not just adjusting the actions themselves. It helps teams question the frame they are using before they optimise within it.
+行動そのものを調整するだけでなく、その背後にある前提や判断基準まで振り返って変える学習の規律です。チームが今の枠組みの中で最適化する前に、その枠組み自体を問い直す助けになります。

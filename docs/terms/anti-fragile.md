@@ -1,3 +1,3 @@
-# Anti-Fragile
+# アンチフラジャイル
 
-Anti-fragile systems gain capability or insight from volatility and stress instead of merely resisting it. They use feedback from shocks to adapt and become stronger over time.
+アンチフラジャイルなシステムは、単に揺らぎやストレスに耐えるだけでなく、そこから能力や洞察を獲得します。衝撃からのフィードバックを使って適応し、時間とともに強くなっていきます。

@@ -4,10 +4,10 @@ isbn13: "9781119240860"
 
 # Monetizing Innovation
 
-**Monetizing Innovation** by Madhavan Ramanujam and Georg Tacke focuses on integrating pricing into product innovation. The authors describe how to test willingness to pay early, design offers around monetisation models, and avoid common traps like feature bloat or underpricing breakthroughs.
+Madhavan Ramanujam と Georg Tacke の **Monetizing Innovation** は、価格をプロダクトイノベーションの中へどう埋め込むかを扱います。支払意思額を早期に検証し、収益化モデルに合わせて提供物を設計し、機能過多や画期的成果の安売りといった典型的な罠を避ける方法を示します。
 
-They provide case studies and interviews showing how companies align product management, marketing, and finance around pricing hypotheses. The book delivers practical tools for building pricing experiments into the product development lifecycle.
+ケースとインタビューを通じて、プロダクト、マーケティング、財務を価格仮説でどう揃えるかを説明しており、開発ライフサイクルへ価格実験を組み込みたいチームに実用的です。
 
-## Referenced in
+## 参照先
 
 - [Pricing Policy](/strategies/markets/pricing-policy)

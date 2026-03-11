@@ -1,3 +1,3 @@
-# Chicken And Egg Problem
+# 鶏と卵の問題
 
-A situation where two interdependent groups are required for success, but neither will participate without the other—the classic [chicken-and-egg problem](https://en.wikipedia.org/wiki/Chicken_or_the_egg#Problem). Common in marketplaces and platforms where you need both buyers and sellers, or producers and consumers, to see value. Solving it usually involves seeding one side through incentives, partnerships, or staged rollout to build initial momentum.
+成功に二つの相互依存する集団が必要なのに、どちらも相手がいなければ参加しない状況です。買い手と売り手、提供者と利用者の両方が必要な市場やプラットフォームでよく起こります。通常は、一方へのインセンティブ、提携、段階的導入で最初の勢いを作って解きます。

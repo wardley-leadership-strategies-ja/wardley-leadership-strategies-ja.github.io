@@ -174,7 +174,7 @@ Reinforcing someone else's inertia often requires that the new paradigm you push
 
 - [misdirection](/strategies/competitor/misdirection) - employing deceptive signals or decoys to deepen a competitor's complacency and reinforce their resistance to change.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) - rel: this pattern is the foundation that this strategy seeks to exploit.
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) - rel: this strategy accelerates the negative consequences of a competitor's inertia.

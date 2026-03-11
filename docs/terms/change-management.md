@@ -1,3 +1,3 @@
-# Change Management
+# 変革管理
 
-The structured approach used to transition individuals, teams, and organizations from a current state to a desired future state, often involving processes to manage resistance and facilitate adoption, as formalized in [change management](https://en.wikipedia.org/wiki/Change_management) practice. Crucial when managing inertia or implementing new strategies.
+個人、チーム、組織を現在の状態から望ましい将来状態へ移行させるための構造化された取り組みです。抵抗への対処や定着支援の仕組みを含み、慣性管理や新しい戦略の実装で重要になります。

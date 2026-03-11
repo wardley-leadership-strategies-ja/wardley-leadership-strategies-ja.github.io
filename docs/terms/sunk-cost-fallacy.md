@@ -1,3 +1,3 @@
-# Sunk Cost Fallacy
+# 埋没コストの誤謬
 
-The cognitive bias where individuals or organizations continue a behavior or endeavor as a result of previously invested resources (time, money, or effort), even when current evidence suggests it's no longer the best course of action—a classic [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost) effect. A major source of inertia.
+すでに投じた時間、資金、労力のために、いまの証拠では最善でない行動を続けてしまう認知バイアスです。慣性の大きな源泉の一つです。

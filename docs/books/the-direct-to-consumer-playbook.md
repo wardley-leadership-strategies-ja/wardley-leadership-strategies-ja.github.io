@@ -4,10 +4,10 @@ isbn13: "9781398605425"
 
 # The Direct-to-Consumer Playbook
 
-Mike Stevens' **The Direct-to-Consumer Playbook** distils lessons from building and advising DTC brands. It covers positioning, digital acquisition, subscription economics, and the operational foundations needed to serve customers directly without intermediaries.
+Mike Stevens の **The Direct-to-Consumer Playbook** は、DTC ブランドの構築と支援から得た知見をまとめた本です。ポジショニング、デジタル獲得、サブスクリプション経済、仲介なしで顧客へ直接届けるために必要な運用基盤を扱います。
 
-The book emphasises understanding unit economics, building community, and orchestrating fulfilment and customer service to support recurring relationships. It is a practical manual for leaders planning to bypass traditional channels and own the end-to-end customer experience.
+ユニットエコノミクスの理解、コミュニティ形成、継続的な関係を支える配送と顧客対応の統率を重視しており、従来チャネルを飛ばして顧客体験を握りたいリーダーに実用的です。
 
-## Referenced in
+## 参照先
 
 - [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)

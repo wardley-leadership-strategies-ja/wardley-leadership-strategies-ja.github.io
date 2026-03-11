@@ -1,3 +1,3 @@
-# Utility (Evolution Stage)
+# ユーティリティ
 
-The final stage of evolution in Wardley Mapping, characterized by highly standardized, reliable, commodity-like services often provided on a pay-per-use basis (like electricity or basic cloud compute), similar to [utility computing](https://en.wikipedia.org/wiki/Utility_computing). Competition is based on operational efficiency and price.
+Wardley Map の進化における最終段階です。高度に標準化され、信頼性が高く、コモディティ化したサービスとして提供され、多くは従量課金になります。競争の中心は運用効率と価格です。

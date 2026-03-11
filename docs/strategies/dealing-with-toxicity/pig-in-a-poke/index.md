@@ -185,7 +185,7 @@ Executing a "Pig in a Poke" directly can inflict significant, long-lasting reput
 - [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) – Outsource asset operation to third parties before exiting.
 - [Refactoring](/strategies/dealing-with-toxicity/refactoring) – Internally transform or repurpose assets as an alternative.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: A component that was once valuable can become less so, tempting a seller to offload it deceptively.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: The declining characteristics of an asset might motivate its misrepresentation.

@@ -215,7 +215,7 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 - [circling-and-probing](/strategies/competitor/circling-and-probing) - running targeted probes on competitors’ positions to inform and refine experimental hypotheses.
 - [Differentiation](/strategies/markets/differentiation) - using unique experimental outcomes to distinguish offerings and gain market advantage.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – influence: uncertainty makes experimentation essential.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: small tests help you react quickly to rival moves.

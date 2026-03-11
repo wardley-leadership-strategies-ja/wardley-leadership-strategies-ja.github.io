@@ -1,3 +1,3 @@
-# Market Dominance
+# 市場支配
 
-A position where a company holds significant control over a market, often characterized by high market share, pricing power, and strong barriers to entry—hallmarks of [market power](https://en.wikipedia.org/wiki/Market_power). Strategies like 'Tower and Moat' aim to achieve this.
+高い市場シェア、価格決定力、強い参入障壁によって特徴づけられる、市場に対する強い支配的地位です。Tower and Moat のような戦略は、この状態を目指します。

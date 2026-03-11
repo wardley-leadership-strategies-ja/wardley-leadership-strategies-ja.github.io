@@ -1,3 +1,3 @@
-# User Needs Mapping
+# ユーザーニーズマッピング
 
-User needs mapping is the practice of explicitly listing and layering user needs—expressed wants, expected hygiene requirements, and hypothesised future needs—before mapping the value chain. It keeps Wardley Maps anchored on real demand instead of internal assumptions. Rich Allen’s book [User Needs Mapping](/books/user-needs-mapping) provides a practical guide to the method (<BookRef isbn="9798290256436" />).
+ユーザーニーズマッピングは、バリューチェーンを描く前に、表明されたニーズ、当然視される衛生要件、将来ニーズの仮説を明示的に洗い出して層に分ける実践です。地図を社内都合ではなく実際の需要に結びつけ続けるために役立ちます。Rich Allen の [User Needs Mapping](/books/user-needs-mapping) は、この手法の実践的なガイドです (<BookRef isbn="9798290256436" />)。

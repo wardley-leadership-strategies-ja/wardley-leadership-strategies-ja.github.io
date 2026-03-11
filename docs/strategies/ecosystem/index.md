@@ -1,81 +1,54 @@
 ---
+description: 単体プロダクトではなく、相互依存する参加者のネットワーク全体で勝つ戦略群。
 authors: [dave-hulbert]
 ---
 
-# Ecosystem
+# エコシステム戦略
 
-Ecosystem strategies in Wardley Mapping revolve around leveraging the capabilities, resources, and motivations of external entities to achieve your strategic objectives. Instead of solely relying on internal development or direct control, these plays focus on building, shaping, or participating in networks of organizations, users, or components. The core idea is to create a situation where the collective efforts of the ecosystem amplify your own, driving evolution, innovation, or market control in ways that would be difficult or impossible to achieve alone.
+エコシステム戦略は、自社単独の最適化ではなく、補完者、パートナー、開発者、流通、利用者を含む相互依存のネットワーク全体を設計するプレイです。勝ち筋は、価値を独占することより、価値が流れる場を握ることにあります。
 
-A well-executed ecosystem strategy aligns your goals with the incentives of other participants, fostering collaboration, co-creation, or co-dependency. This can lead to significant advantages such as increased speed of development, broader market reach, enhanced innovation, and shared risk. However, ecosystem plays also come with challenges, including loss of direct control, increased complexity in coordination, and the potential for ecosystem partners to become future competitors.
+誰を中へ入れ、どこを開き、どこを締め、どの層をコモディティ化するか。その設計が競争優位そのものになります。
 
-## 🤔 **What are Ecosystem Strategies?**
+## 🤔 **エコシステム戦略とは何か**
 
-Ecosystem strategies are a diverse set of approaches aimed at influencing or utilizing the interactions between various independent entities in a market or value chain. The primary goal is to create a system that is more valuable or efficient due_to the interplay of its parts, with your organization playing a key role in that system. These strategies often involve creating platforms, fostering communities, establishing standards, or forming alliances.
+エコシステム戦略は、複数主体の利害を調整しながら、自社の周辺で価値創造を増幅させる手です。プラットフォーム、標準、提携、共創、ガバナンスが主要な道具になります。
 
-Key sub-strategies within the Ecosystem category include:
+代表的な型は次のとおりです。
 
-* **[Alliances](/strategies/ecosystem/alliances)**: Forming partnerships with other organizations, sometimes even competitors, to achieve a common goal, share resources, or enter new markets. Alliances can accelerate progress by pooling expertise and distributing costs.
-* **[Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)**: Strategically altering or bypassing existing channels to market. This can involve creating new direct routes to customers or disrupting established intermediaries, often by leveraging new platform capabilities.
-* **[Co-Creation](/strategies/ecosystem/co-creation)**: Collaborating with customers, partners, or the wider community to jointly develop products, services, or solutions. This approach can lead to more innovative outcomes that are better aligned with user needs.
-* **[Community Governance and Co-Ownership](/strategies/ecosystem/community-governance-co-ownership)**: Establishing shared ownership and governance structures (foundations, councils, shared IP pools) so ecosystem participants deepen commitment and mutual investment.
-* **[Co-opting](/strategies/ecosystem/co-opting)**: A strategy where an organization influences a standard, technology, or movement, often initiated by others, to align it with its own strategic interests. This can involve contributing to an open standard in a way that favors your own complementary products.
-* **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)**: Initially adopting a widely used standard or platform (embrace) and then adding proprietary features or extensions (extend) to create differentiation and lock-in.
-* **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: A powerful cycle involving developing novel components (Innovate), using them to build and dominate higher-order systems (Leverage), and then encouraging the commoditization of those components to undermine competitors or enable new innovations (Commoditize).
-* **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: Building a strong, defensible core business (the Tower) and then creating a surrounding ecosystem of complementary products, services, or partners (the Moat) that protect and enhance the core.
-* **[Two-Factor Markets](/strategies/ecosystem/two-factor-markets)**: Creating value by connecting two distinct groups of users or customers who depend on each other, often subsidizing one side to attract the other (e.g., app stores connecting developers and users).
-* **[Platform Envelopment](/strategies/ecosystem/platform-envelopment)**: Expanding a platform's influence by integrating or bundling functionalities from other platforms or by directly competing with its own users, leveraging an existing user base to grow the ecosystem.
+- [Alliances](/strategies/ecosystem/alliances)
+- [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [Co-Creation](/strategies/ecosystem/co-creation)
+- [Co-opting](/strategies/ecosystem/co-opting)
+- [Community Governance and Co-ownership](/strategies/ecosystem/community-governance-co-ownership)
+- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend)
+- [Innovate, Leverage, Commoditize](/strategies/ecosystem/innovate-leverage-commoditize)
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
+- [Tower and Moat](/strategies/ecosystem/tower-and-moat)
+- [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
 
-### Comparison of Ecosystem Strategies
+## 📊 **エコシステム戦略の比較**
 
-| Strategy & Link | Primary Goal/Intent | Key Mechanisms | Typical Use Cases/Scenarios | Main Benefits | Key Climatic Patterns |
-| :------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Alliances](/strategies/ecosystem/alliances/) | Achieve common goals, share resources/risks, or enter new markets via partnerships. | Joint ventures, consortia, co-marketing agreements, technology sharing, standards bodies. | Large complex projects, market entry, risk mitigation, accelerating adoption of a standard. | Access to new markets/capabilities, shared costs/risks, increased legitimacy, faster progress. | [Components can co-evolve](/climatic-patterns/components-can-co-evolve), [Economy has cycles](/climatic-patterns/economy-has-cycles) |
-| [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation/) | Strategically alter or bypass existing market channels, often by leveraging new platforms. | Direct-to-consumer models, building own sales channels, creating new digital marketplaces, leveraging platform reach. | Mature industries with entrenched intermediaries, markets where new tech enables direct access, desire to own customer relationship. | Reduced channel costs, increased control over customer experience, faster feedback loops, potential for market disruption. | [Evolution to higher order systems](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption), [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) |
-| [Co-Creation](/strategies/ecosystem/co-creation/) | Collaborate with external parties (customers, partners, community) to jointly develop solutions. | Open innovation platforms, community projects (e.g., open source), customer advisory boards, participatory design. | Complex problem solving, need for diverse perspectives, building user-centric products, fostering community engagement. | More innovative solutions, better market fit, increased user adoption/loyalty, shared development burden. | [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth), [No one size fits all](/climatic-patterns/no-one-size-fits-all) |
-| [Community Governance and Co-Ownership](/strategies/ecosystem/community-governance-co-ownership/) | Share decision rights and asset ownership to deepen ecosystem commitment. | Foundations or trusts, member councils, shared IP pools, transparent voting rules. | Shared standards, open infrastructure, consortia that require long-term neutral stewardship. | Higher trust, stickier participation, reduced fear of capture, more resilient standards. | [Components can co-evolve](/climatic-patterns/components-can-co-evolve), [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
-| [Co-opting](/strategies/ecosystem/co-opting/) | Influence an existing standard, technology, or movement to align with own strategic interests. | Contributing to open standards, joining industry groups, strategic partnerships, providing key components for a broader initiative. | When a standard or movement is gaining traction but not perfectly aligned with your goals; to ensure interoperability that favors you. | Shape evolution of external systems, ensure compatibility, gain influence without direct control, leverage momentum of others. | [Components can co-evolve](/climatic-patterns/components-can-co-evolve), [Competitors actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) |
-| [Embrace and Extend](/strategies/ecosystem/embrace-and-extend/) | Adopt a widely used standard/platform, then add proprietary features to create differentiation/lock-in. | Implementing open standards, then adding value-added proprietary services/APIs, creating dependencies on your extensions. | Competing against dominant open standards, creating a "better than standard" offering, gradually shifting users to own ecosystem. | Leverages existing user base/familiarity, creates competitive differentiation, potential for vendor lock-in, undermines pure standard. | [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium), [Characteristics change](/climatic-patterns/characteristics-change) |
-| [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize/) | Develop novel components, use them to dominate higher-order systems, then commoditize them to undermine rivals. | R&D for new tech (Innovate), build valuable products/services on it (Leverage), then open/standardize the tech (Commoditize). | Long-term strategic play to reshape industries, common in tech (e.g., cloud providers commoditizing compute/storage). | Sustained competitive advantage, ability to disrupt incumbents, creation of new markets, control over value chain evolution. | [Everything evolves](/climatic-patterns/everything-evolves), [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation), [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
-| [Tower and Moat](/strategies/ecosystem/tower-and-moat/) | Build a strong core business (Tower) and protect it with a surrounding ecosystem (Moat). | Strong core product/service, complementary products/services, APIs, partner programs, community building, high switching costs. | Protecting a highly profitable core business, creating a defensible market position, industries with network effects. | Strong competitive defense, increased customer loyalty/stickiness, resilience against disruption, platform for future growth. | [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination), [Network effects (implicit)] |
-| [Two-Factor Markets](/strategies/ecosystem/two-factor-markets/) | Connect two distinct user groups who depend on each other, often subsidizing one side. | Platform business models (e.g., app stores, ride-sharing, ad networks), pricing strategies to attract one group to benefit the other. | Marketplaces, platforms, businesses where network effects between different user groups are strong. | Strong network effects, rapid growth potential, high barriers to entry once established, diverse revenue opportunities. | [Network effects (implicit)](/climatic-patterns/change-is-not-always-linear), [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) (by connecting supply/demand) |
-| [Platform Envelopment](/strategies/ecosystem/platform-envelopment/) | Expand platform influence by integrating/bundling functionalities from other platforms or competing with users. | Adding features that mimic/replace those of adjacent platforms or user-developed solutions, leveraging existing user base for adoption. | Mature platform businesses seeking new growth vectors, responding to threats from niche solutions, consolidating market power. | Increased platform value/stickiness, eliminates potential competitors or complementors, captures more user data/value. | [Evolution to higher order systems](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption), [Competitors actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) |
+| 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
+| :--- | :--- | :--- | :--- | :--- |
+| [Alliances](/strategies/ecosystem/alliances/) | 単独では取れない位置を共同で取る | 提携、共同基盤、役割分担 | 規模や政治力が必要な市場 | [「戦争」は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [Co-Creation](/strategies/ecosystem/co-creation/) | ユーザーや補完者と共に価値を作る | 共同設計、契約、共有学習 | ニーズ探索や複雑な提供物 | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [Co-opting](/strategies/ecosystem/co-opting/) | 他者の動きを取り込み無害化する | 模倣、吸収、包摂 | 競合やコミュニティの勢いが強いとき | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[創造的破壊](/climatic-patterns/creative-destruction) |
+| [Embrace and Extend](/strategies/ecosystem/embrace-and-extend/) | 既存標準の上に主導権を取り直す | 互換、拡張、周辺支配 | 標準があるが支配者が未確定 | [創造的破壊](/climatic-patterns/creative-destruction) |
+| [Innovate, Leverage, Commoditize](/strategies/ecosystem/innovate-leverage-commoditize/) | イノベーションを循環的に取り込む | 感知エンジン、API、内製化 | プラットフォーム型成長 | [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [Platform Envelopment](/strategies/ecosystem/platform-envelopment/) | 隣接市場を包み込む | バンドル、統合、隣接展開 | 中核プロダクトから横展開するとき | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
+| [Tower and Moat](/strategies/ecosystem/tower-and-moat/) | 中核価値を築き周辺で防御する | 中核機能、切替コスト、堀 | 支配的地位を維持したいとき | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
+| [Two-Factor Markets](/strategies/ecosystem/two-factor-markets/) | 市場の両側をつないで流動性を作る | 補助、参加設計、ルール設計 | マーケットプレイス、プラットフォーム | [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)、[資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
 
-## 🚀 **Why Use Ecosystem Strategies?**
+## 🌐 **なぜ使うのか**
 
-Employing Ecosystem strategies can offer substantial strategic advantages by enabling organizations to achieve outcomes beyond their individual capacity. These approaches are particularly powerful for:
+- 自社だけでは作れない価値を周辺参加者で増幅できる
+- 標準、API、契約を通じて進化方向を握れる
+- 他者の投資や学習を自社優位へ転換できる
+- 競争を単品比較からネットワーク比較へずらせる
 
-* **Scaling Innovation and Development:** By tapping into the creativity and resources of a wider network, companies can accelerate the pace of innovation and bring new offerings to market more quickly. Co-creation and open platforms are prime examples.
-* **Expanding Market Reach:** Alliances and channel strategies can provide access to new customer segments, geographies, or complementary products, significantly broadening market presence.
-* **Building Defensible Positions:** Strategies like Tower and Moat or exploiting network effects within an ecosystem can create strong competitive advantages that are difficult for others to replicate.
-* **Driving Adoption and Standards:** Ecosystem plays can be crucial in establishing new standards or driving the widespread adoption of a particular technology or platform. The more participants in an ecosystem, the stronger its gravitational pull.
-* **Managing Risk and Uncertainty:** Sharing the costs and risks of development or market entry with partners can make ambitious projects more feasible.
-* **Sensing and Responding to Change:** A vibrant ecosystem provides valuable feedback loops and insights into market trends, customer needs, and emerging threats, enhancing an organization's ability to adapt.
-* **Influencing the Evolutionary Landscape:** By encouraging the commoditization of certain components (e.g., via ILC) or by establishing platforms, organizations can strategically shape the direction and speed of evolution for key parts of the value chain.
+## ⚠️ **難しさ**
 
-Ecosystem strategies are about understanding that value creation is often a collaborative or interdependent process. By strategically engaging with external entities, organizations can create more value than they could alone.
-
-## 🌐 **Core Principles of Ecosystem Play**
-
-Successful ecosystem strategies often adhere to several underlying principles:
-
-* **Value Co-creation:** The ecosystem must offer tangible benefits to all key participants. If the value flows disproportionately or is not clear, engagement will wane.
-* **Mutual Benefit and Incentives:** Aligning your strategic goals with the motivations and incentives of your ecosystem partners is crucial for sustained collaboration.
-* **Governance and Rules:** Clear rules of engagement, standards, and governance mechanisms are often necessary to manage complexity, ensure fairness, and resolve conflicts within the ecosystem.
-* **Interdependence:** Creating a degree of mutual dependency can strengthen the ecosystem, as participants recognize their success is tied to the health of the whole.
-* **Modularity and Interfaces:** Well-defined interfaces and modular components allow different participants to contribute and innovate independently while ensuring compatibility and integration.
-* **Trust and Transparency:** Building trust among ecosystem members is vital, often fostered through transparency in operations, decision-making, or data sharing where appropriate.
-* **Evolutionary Approach:** Ecosystems are not static; they evolve. Strategies must be adaptable, allowing for changes in participants, roles, and the overall environment.
-
-## 🔗 **Ecosystems and Other Strategic Plays**
-
-Ecosystem strategies often interact with and can be amplified by other types of strategic plays. Understanding these connections can lead to more robust and effective overall strategies:
-
-* **[Accelerators](/strategies/accelerators/)**: Many ecosystem strategies inherently accelerate the evolution of components. For example, [Open Approaches](/strategies/accelerators/open-approaches) can be a cornerstone of building a vibrant development ecosystem that speeds up commoditization. Similarly, [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) is often achieved by fostering an ecosystem of users.
-* **Platform Plays**: While not a distinct category here, building a "platform" is a common way to execute an ecosystem strategy. A platform provides the foundation upon which other ecosystem participants can build products or services, creating a symbiotic relationship (e.g., [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)).
-* **[Standards Game](/strategies/markets/standards-game)**: Actively participating in or trying to control standards is a key element of many ecosystem strategies, particularly those like [Co-opting](/strategies/ecosystem/co-opting) or [Embrace and Extend](/strategies/ecosystem/embrace-and-extend). The chosen standard becomes the common language or infrastructure for the ecosystem.
-* **[Defensive Strategies](/strategies/defensive/)**: A strong ecosystem can be a powerful defensive moat. For instance, a large and engaged user base (an ecosystem) can deter new entrants, aligning with [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry).
-
-Recognizing these overlaps and interdependencies allows for a more nuanced application of ecosystem thinking, integrating it into a broader strategic framework. The key is to see the "ecosystem" not just as a standalone tactic, but as a lens through which many other strategic actions can be viewed and enhanced.
+エコシステム戦略は、制御しすぎても、放任しすぎても失敗します。オープンにする領域、収益化する領域、厳格に統治する領域を分けて考える必要があります。
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

@@ -232,7 +232,7 @@ Platforms often start open to attract users and developers, then selectively clo
 * **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)** - Similar in that it involves co-opting external functionalities, but envelopment is often more about direct competition or absorption into the platform's core.
 * [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Platform envelopment is a form of re-aggregating capabilities into the platform's value chain, often absorbing functionalities that were previously disaggregated or provided by others.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 * [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: As core platform components become more efficient and commoditized, resources are freed up to innovate and expand into adjacent areas.
 * [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – influence: Platforms envelop other services to capture new sources of value created on top of existing, more evolved components.

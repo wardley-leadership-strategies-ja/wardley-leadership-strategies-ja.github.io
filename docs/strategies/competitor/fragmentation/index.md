@@ -216,7 +216,7 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 - [Insertion](/strategies/poison/insertion) - infiltrating fragmented segments with targeted disruptions or vulnerabilities to deepen divisions and weaken cohesion.
 - [Pricing Policy](/strategies/markets/pricing-policy) - applying differentiated pricing to exploit isolated players and shape competitive dynamics in a broken market.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: breaking a monolith clears the way for new entrants.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: smaller pieces evolve faster once separated.

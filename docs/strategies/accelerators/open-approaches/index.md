@@ -224,7 +224,7 @@ Open assets thrive when governed like shared commons. Define crisp participation
 - [Standards Game](/strategies/markets/standards-game) - using openness to seed protocols or formats that become de facto standards, locking in an ecosystem.
 - [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Open approaches can facilitate the disaggregation of value chains by promoting interoperability and standard interfaces between components, and enable new forms of re-aggregation by fostering collaborative ecosystems.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.
 - [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) – influence: stable open building blocks allow rapid recombination.

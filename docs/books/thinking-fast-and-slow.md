@@ -4,11 +4,11 @@ isbn13: "9780141033570"
 
 # Thinking, Fast and Slow
 
-**Thinking, Fast and Slow** (2011) by Daniel Kahneman synthesises behavioural economics research on how people make judgements under uncertainty. It introduces the dual-system model—fast, intuitive "System 1" thinking and slower, analytical "System 2" reasoning—and shows how cognitive shortcuts shape perception, probability assessments, and risk appetite.
+Daniel Kahneman の **Thinking, Fast and Slow** は、人が不確実性の下でどう判断するかに関する行動経済学研究をまとめた本です。速く直感的な System 1 と、遅く分析的な System 2 という二重過程モデルを示し、認知の近道が知覚、確率判断、リスク選好をどう歪めるかを説明します。
 
-Kahneman outlines biases such as anchoring, availability, and loss aversion, explaining why even experts misread weak signals or overweight recent information. The book offers guidance on structuring decisions, stress-testing assumptions, and building processes that counteract mental shortcuts when stakes are high.
+アンカリング、利用可能性、損失回避といったバイアスを整理し、弱いシグナルの見落としや最近の情報への過重反応をどう防ぐかを考える助けになります。意思決定の構造化や前提検証の実務にも有効です。
 
-## Referenced in
+## 参照先
 
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)
 - [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)

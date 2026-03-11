@@ -207,7 +207,7 @@ The effectiveness and relevance of different forms of IPR change as a technology
 - [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - leveraging your current IP protections to intensify barriers and limit rivals’ evolution.
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) - deploying IP rights to legally restrict competitor activities and narrow market options.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: aggressive IP use can entrench slow-moving leaders.
 - [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – trigger: market forces eventually push technologies toward commoditisation despite protections.

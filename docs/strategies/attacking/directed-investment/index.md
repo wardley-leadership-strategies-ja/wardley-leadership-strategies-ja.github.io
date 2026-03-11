@@ -219,7 +219,7 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 
 - [Press Release Process](/strategies/attacking/press-release-process) - leveraging strategic announcements to publicise investments, shape narratives, and align stakeholders around key initiatives.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: big bets seek uncertain but high-reward opportunities.
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: anticipating a rapid shift can justify a focused investment.

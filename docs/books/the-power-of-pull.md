@@ -4,10 +4,10 @@ isbn13: "9780465028764"
 
 # The Power of Pull
 
-In **The Power of Pull**, John Hagel III, John Seely Brown, and Lang Davison argue that advantage comes from attracting resources, talent, and ideas when needed rather than owning them outright. They describe how digital networks enable organisations to sense opportunities, mobilise ecosystems, and accelerate learning through open flows of knowledge.
+John Hagel III、John Seely Brown、Lang Davison による **The Power of Pull** は、優位は資源を所有することではなく、必要なときに人材、知識、資源を引き寄せられることから生まれると論じます。デジタルネットワークが、組織に機会の感知、エコシステムの動員、開かれた知の流れによる学習加速を可能にすると説明します。
 
-The book offers frameworks for cultivating edge initiatives, shaping serendipity, and designing platforms that draw participants into shared problem solving. It is especially relevant for leaders seeking to reposition the centre of gravity of an industry or build communities around their platforms.
+エッジ施策の育て方、偶然の出会いをどう設計するか、参加者を共同問題解決へ引き込むプラットフォーム設計などの枠組みを示しており、業界の重心をずらしたり、自社プラットフォームの周辺にコミュニティを育てたりしたいリーダーに向いています。
 
-## Referenced in
+## 参照先
 
 - [Centre of Gravity](/strategies/attacking/centre-of-gravity)

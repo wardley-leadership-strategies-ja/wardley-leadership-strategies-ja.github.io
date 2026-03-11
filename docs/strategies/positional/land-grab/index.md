@@ -228,7 +228,7 @@ Maintain agility by planning divestment, spin-off, or franchise strategies for p
 - [Licensing](/strategies/poison/licensing) – control how others access critical assets once you own them.
 - [Press Release Process](/strategies/attacking/press-release-process) – signal intent and shape narratives during the grab.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – rel: faster-moving landscapes reward early positioning.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: securing key ground attracts future investment.

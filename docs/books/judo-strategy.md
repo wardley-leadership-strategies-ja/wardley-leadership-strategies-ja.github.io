@@ -4,10 +4,10 @@ isbn13: "9781591391265"
 
 # Judo Strategy
 
-In **Judo Strategy**, David B. Yoffie and Mary Kwak analyse how smaller companies can exploit the strength and momentum of incumbents. Using martial arts metaphors and business cases (such as Netscape vs. Microsoft), they describe tactics for rapid movement, leverage, and balance that let challengers turn a giant's size into a liability.
+**Judo Strategy** で David B. Yoffie と Mary Kwak は、小さな企業が既存勢力の強さと勢いを逆手に取る方法を分析します。武道の比喩と事例を通して、素早い動き、レバレッジ、均衡によって巨大企業の規模を負債へ変える戦術を描きます。
 
-The book covers moves like building alliances, shaping standards, and attacking under-served niches before incumbents can react. It is a tactical manual for entrants attempting to undermine barriers without direct confrontation.
+提携構築、標準形成、既存勢力が反応しにくい隙間市場への攻撃などを扱っており、正面衝突を避けながら参入障壁を崩したい挑戦者に向いた実践書です。
 
-## Referenced in
+## 参照先
 
 - [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)

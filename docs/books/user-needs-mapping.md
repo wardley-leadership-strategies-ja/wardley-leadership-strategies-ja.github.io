@@ -4,10 +4,10 @@ isbn13: "9798290256436"
 
 # User Needs Mapping
 
-**User Needs Mapping** by Rich Allen outlines a structured approach to capturing expressed, expected, and future user needs before drawing Wardley Maps, helping teams keep their maps anchored in real demand.
+Rich Allen の **User Needs Mapping** は、Wardley Map を描く前に、表明されたニーズ、当然視されるニーズ、将来ニーズを体系的に整理する方法を示します。地図を実際の需要にしっかり結びつけたままにしやすくします。
 
-The book focuses on practical prompts and workshop techniques for surfacing needs, sequencing them, and translating that insight into clearer value chains and evolution stages.
+実務的な問いかけやワークショップ技法に重点を置き、ニーズの洗い出し、順序づけ、その洞察をより明確なバリューチェーンと進化段階へ翻訳する流れを具体的に説明します。
 
-## Referenced in
+## 参照先
 
 - [User Needs Mapping](/terms/user-needs-mapping)

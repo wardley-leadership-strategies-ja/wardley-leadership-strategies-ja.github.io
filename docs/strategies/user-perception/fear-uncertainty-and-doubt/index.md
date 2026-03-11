@@ -194,7 +194,7 @@ The ethical spectrum of FUD is broad, from aggressive but legitimate competition
 - [Confusion of Choice](/strategies/user-perception/confusion-of-choice) - overwhelming stakeholders with options to heighten uncertainty and indecision.
 - [Brand and Marketing](/strategies/user-perception/brand-and-marketing) - leveraging brand credibility to reinforce or dispel messages of fear and doubt.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [The less evolved something is then the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – trigger: sowing doubt exploits the unknowns around emerging tech.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: FUD attempts to freeze the market while rivals manoeuvre.

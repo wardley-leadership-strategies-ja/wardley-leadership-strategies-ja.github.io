@@ -1,3 +1,3 @@
-# Cost Of Transition
+# 移行コスト
 
-The difficulty or expense required to shift from one technology, provider, or model to another, effectively a form of [switching barrier](https://en.wikipedia.org/wiki/Switching_cost). Often used to create defensive moats.
+ある技術、提供者、運用モデルから別のものへ移るときに必要な難しさや費用です。実質的には切替障壁の一種で、防御的な堀を作るためによく使われます。

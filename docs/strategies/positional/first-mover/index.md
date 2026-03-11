@@ -193,7 +193,7 @@ Heavy upfront investment requires clear signals and strong governance to avoid w
 - [Differentiation](/strategies/markets/differentiation) - using pioneer status to establish unique features and brand associations that set you apart.
 - [Signal Distortion](/strategies/markets/signal-distortion) - amplifying narratives and hype to reinforce perceived leadership and discourage followers.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – trigger: industrialising a component early can accelerate its evolution.
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – influence: being first positions you to ride sudden market shifts.

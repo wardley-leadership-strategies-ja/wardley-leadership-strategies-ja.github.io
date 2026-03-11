@@ -4,10 +4,10 @@ isbn13: "9781591841807"
 
 # Competition Demystified
 
-**Competition Demystified** by Bruce C. Greenwald and Judd Kahn simplifies strategic analysis by focusing on competitive advantage and barriers to entry. The authors argue that most industries boil down to either localised monopolies or commodity competition, and they offer frameworks for identifying which applies to your situation.
+Bruce C. Greenwald と Judd Kahn による **Competition Demystified** は、競争優位と参入障壁に焦点を絞って戦略分析を単純化します。多くの業界は、局所的な独占かコモディティ競争のどちらかに収れんするとし、自分たちがどちらにいるのかを見抜く枠組みを示します。
 
-The book uses case studies to show how companies build sustainable advantages, when scale or network effects matter, and how to respond to entrants. It complements Wardley Mapping by grounding strategy decisions in structural economics.
+企業が持続的優位をどう築くか、規模やネットワーク効果がいつ効くのか、新規参入者へどう対応すべきかをケースで説明しており、構造経済学の観点から戦略判断を補強してくれます。
 
-## Referenced in
+## 参照先
 
 - [Last Man Standing](/strategies/markets/last-man-standing)

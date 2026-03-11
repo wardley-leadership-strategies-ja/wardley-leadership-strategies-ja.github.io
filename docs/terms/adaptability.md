@@ -1,3 +1,3 @@
-# Adaptability
+# 適応力
 
-An organization's capacity to adjust its strategy, structure, and operations in response to changes in the environment, market conditions, or competitive landscape, aligning with the idea of [adaptability](https://en.wikipedia.org/wiki/Adaptability) as a core capability. Key to overcoming inertia.
+環境、市場条件、競争状況の変化に応じて、組織が戦略、構造、運営を調整できる力です。慣性を乗り越えるうえで重要な中核能力です。

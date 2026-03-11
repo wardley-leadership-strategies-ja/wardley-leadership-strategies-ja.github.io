@@ -186,7 +186,7 @@ Defensive Regulation is a strategy that is primarily available to large, powerfu
 - [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - leveraging IP frameworks to support regulatory measures and enforce legal constraints on competitors.
 - [Lobbying](/strategies/user-perception/lobbying) - influencing policymakers and public opinion to enact regulations that entrench your position and disadvantage rivals.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: regulation is often introduced when challengers threaten the status quo.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: incumbents rely on regulation when existing models make them resistant to change.

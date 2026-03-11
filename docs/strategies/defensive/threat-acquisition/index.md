@@ -187,7 +187,7 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 - [Harvesting](/strategies/markets/harvesting) - extracting and monetising acquired capabilities or market segments post-acquisition.
 - [Last Man Standing](/strategies/markets/last-man-standing) - consolidating competitors through acquisitions to emerge as the sole dominant operator.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – trigger: acquisitions help an organisation adapt as markets shift.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: buying threats offsets complacency in the core business.

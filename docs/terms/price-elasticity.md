@@ -1,3 +1,3 @@
-# Price Elasticity
+# 価格弾力性
 
-A measure of how demand changes in response to price variation, captured by [price elasticity of demand](https://en.wikipedia.org/wiki/Price_elasticity_of_demand). High elasticity means demand is sensitive to price changes.
+価格変動に対して需要がどの程度変わるかを示す尺度です。弾力性が高いほど、需要は価格変化に敏感です。

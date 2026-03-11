@@ -207,7 +207,7 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - [Press Release Process](/strategies/attacking/press-release-process) — public signals to manipulate perception.
 - [Designed to Fail](/strategies/poison/designed-to-fail) — pre-seeding flawed initiatives.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The methods of insertion and the vulnerabilities of competitors evolve over time.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Insertion aims to directly influence and manipulate competitors' actions.

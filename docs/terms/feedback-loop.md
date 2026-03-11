@@ -1,3 +1,3 @@
-# Feedback Loop
+# フィードバックループ
 
-A cycle where the output of a system influences its subsequent input, leading to amplification (positive feedback) or stabilization (negative feedback), the core dynamic of [feedback](https://en.wikipedia.org/wiki/Feedback). Network effects create positive feedback loops where growth begets more growth.
+システムの出力が次の入力へ影響し、増幅や安定化を生む循環です。ネットワーク効果は、成長がさらに成長を呼ぶ正のフィードバックループを作ります。

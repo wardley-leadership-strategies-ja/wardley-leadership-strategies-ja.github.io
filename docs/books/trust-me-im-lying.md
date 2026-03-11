@@ -4,10 +4,10 @@ isbn13: "9781788160063"
 
 # Trust Me, I'm Lying
 
-In **Trust Me, I'm Lying: Confessions of a Media Manipulator**, Ryan Holiday reveals how modern media incentives can be gamed. Drawing on his experience running marketing stunts, he explains how to seed stories in blogs, manufacture outrage, and exploit the viral news cycle.
+Ryan Holiday の **Trust Me, I'm Lying: Confessions of a Media Manipulator** は、現代メディアのインセンティブがどのように悪用されるかを暴露する本です。ブログに物語を仕込み、怒りを人工的に作り、拡散型ニュースサイクルを利用する手口を、自身の経験をもとに説明します。
 
-Holiday also warns about the societal costs of these tactics, showing how misinformation cascades through loosely fact-checked networks. The book is a cautionary manual for anyone considering or countering signal distortion campaigns.
+同時に、こうした手法が社会にもたらすコストにも警鐘を鳴らしており、シグナル歪曲キャンペーンを仕掛ける、あるいは防ぐ側の両方にとって注意深く読む価値があります。
 
-## Referenced in
+## 参照先
 
 - [Signal Distortion](/strategies/markets/signal-distortion)

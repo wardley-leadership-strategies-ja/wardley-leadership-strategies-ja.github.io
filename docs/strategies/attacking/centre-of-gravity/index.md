@@ -211,7 +211,7 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 - [Fool's Mate](/strategies/attacking/fools-mate) - executing deceptive or unexpected moves that exploit the hub's blind spots to rapidly erode its dominance.
 - [Directed Investment](/strategies/attacking/directed-investment) - injecting targeted resources into specific nodes to reorient the center of gravity toward advantageous areas.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: investment tends to cluster around emerging hubs.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: mature infrastructure can shift where gravitational pull forms.

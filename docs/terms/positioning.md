@@ -1,3 +1,3 @@
-# Positioning
+# ポジショニング
 
-Deliberately placing your organisation, product, or capability in a part of the market that offers future strategic advantage, echoing classic [marketing positioning](https://en.wikipedia.org/wiki/Positioning_(marketing)) practice.
+将来の戦略的優位が得られる市場の位置に、自社、プロダクト、能力を意図的に置くことです。

@@ -192,7 +192,7 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 
 - [Market Enablement](/strategies/accelerators/market-enablement) - preparing and priming the ecosystem so that harvested services and innovations are rapidly adopted and scaled.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The ecosystem around a platform evolves, creating new opportunities for harvesting.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Third-party innovations on a platform often seek to improve efficiency or offer new capabilities, which can then be harvested.

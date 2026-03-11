@@ -180,7 +180,7 @@ This strategy fundamentally changes competition from a battle of individual prod
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control over supply chains or customer relationships to impose onerous terms on newcomers.
 - [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - A platform can raise barriers to entry by enveloping (integrating or absorbing) adjacent services or functionalities, forcing potential new entrants to compete with a much broader and more integrated offering.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: high barriers redirect investment to emerging spaces.

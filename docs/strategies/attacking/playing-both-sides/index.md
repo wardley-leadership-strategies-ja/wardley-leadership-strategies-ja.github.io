@@ -193,7 +193,7 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 - [Ambush](/strategies/competitor/ambush) - cooperating to establish trust before executing sudden competitive strikes against both parties.
 - [Artificial Competition](/strategies/user-perception/artificial-competition) - creating the perception of rival offerings to influence decisions and negotiate from a position of strength.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: shifting alliances alter how battles unfold.
 - [A war causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – influence: playing multiple sides accelerates adaptation.

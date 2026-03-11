@@ -253,7 +253,7 @@ This strategy can fundamentally alter the competitive landscape. It can lower ba
 - [**Open Approaches**](/strategies/accelerators/open-approaches) - Disaggregated value chains often rely on open standards and interfaces to enable interoperability between components and partners.
 - [**Platform**](/strategies/ecosystem/platform-envelopment) - Re-aggregation often leads to the creation of platform business models, where the organization orchestrates value creation by third parties.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: trigger: The evolution of components and practices necessitates the re-evaluation and potential disaggregation of value chains.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: influence: As components shift from Genesis to Commodity, their role in the value chain changes, often creating opportunities for disaggregation.

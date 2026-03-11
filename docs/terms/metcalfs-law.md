@@ -1,7 +1,7 @@
-# Metcalfe's Law
+# メトカーフの法則
 
-Metcalfe's Law proposes that network value scales proportionally to the square of users (N<sup>2</sup>), reflecting the increasing connections, as described by [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law). This law highlights the growth of network value as more users join, emphasizing the importance of user base in determining a network's worth.
+ネットワークの価値は利用者数の二乗に比例して拡大するという考え方です。利用者が増えるほど接続の組み合わせが増え、ネットワーク価値が高まることを示します。
 
-## See Also
+## 関連項目
 
-- [Reed's Law](/terms/reeds-law)
+- [リードの法則](/terms/reeds-law)

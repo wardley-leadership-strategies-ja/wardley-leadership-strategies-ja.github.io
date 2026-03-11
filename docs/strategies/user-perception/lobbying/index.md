@@ -215,7 +215,7 @@ Aligning with user or public interest narratives increases the chance of success
 
 - [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt) - deploying fear-based arguments in policy debates to influence regulators and shape favourable legislation.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: lobbying efforts intensify when markets contract.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: policy wins redirect investment toward preferred players.

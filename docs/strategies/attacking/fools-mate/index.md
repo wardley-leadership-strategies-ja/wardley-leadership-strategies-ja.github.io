@@ -316,7 +316,7 @@ The best defense against a Fool's Mate is strong situational awareness. This inv
 - [Signal Distortion](/strategies/markets/signal-distortion) - While execution relies on surprise, the *threat* or capability of such a move, if perceived, could be a powerful, distorting signal.
 - [Centre of Gravity](/strategies/attacking/centre-of-gravity) - A Fool's Mate often targets a component that, while perhaps not obvious, acts as a centre of gravity for the opponent's business model, leading to systemic failure if attacked.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: incumbents dismiss the threat until the attack unfolds.
 - [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – influence: a rapid commoditisation shift creates unexpected upheaval.

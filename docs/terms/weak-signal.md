@@ -1,3 +1,3 @@
-# Weak Signal
+# 弱いシグナル
 
-Subtle, early indicators of potential future changes, trends, or disruptions in the market or technology landscape, similar to the foresight concept of [weak signals](https://en.wikipedia.org/wiki/Futures_studies#Weak_signals). Identifying and interpreting weak signals is crucial for anticipatory positional plays.
+市場や技術の将来変化、トレンド、破壊を示す、ごく初期の微かな兆候です。これを見つけて読み解くことは、先読み型のポジショニングに不可欠です。

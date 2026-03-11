@@ -1,3 +1,3 @@
-# Constraint
+# 制約
 
-A limitation or bottleneck within a system, value chain, or market that restricts flow or performance, similar to the focus on constraints in the [theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints). Strategies can involve creating, exploiting, or removing constraints to gain advantage.
+システム、バリューチェーン、市場の中にある制限やボトルネックで、流れや性能を抑え込む要因です。戦略では、制約を作る、活用する、取り除くことで優位を得ることがあります。

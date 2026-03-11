@@ -1,3 +1,3 @@
-# Evolution
+# 進化
 
-The process by which components change over time, moving from uncertain, rare, and custom-built (Genesis) towards stable, common, and industrialized (Commodity/Utility), similar to a [technology life cycle](https://en.wikipedia.org/wiki/Technology_life_cycle). Wardley Mapping places components along an evolution axis (X-axis) representing this journey.
+コンポーネントが時間とともに変化し、不確実で希少な創世記やカスタムビルドから、安定して一般化されたコモディティやユーティリティへ移っていく過程です。Wardley Map では、この移り変わりを進化軸で表します。

@@ -195,7 +195,7 @@ Superior processes, cost structures, and delivery models can overcome first-move
 - [Co-opting](/strategies/ecosystem/co-opting) - integrating successful external innovations into your offerings to accelerate product refinement.
 - [Press Release Process](/strategies/attacking/press-release-process) - using strategic announcements to highlight enhanced iterations and build on first mover momentum.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: wait until the market shows a clear acceleration before following.
 - [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – influence: once standards emerge, following quickly becomes mandatory.

@@ -10,7 +10,7 @@ export default function HomepageClimaticPatterns(): ReactNode {
         <div className={clsx(styles.miniHero, 'margin-vert--lg')}>
           <div className="container">
             <h2 className={styles.miniHero__title}>
-              <Link to="/climatic-patterns">気候パターン</Link>
+              <Link to="/climatic-patterns">状勢パターン</Link>
             </h2>
             <p className={styles.miniHero__subtitle}>
               時間をかけて市場を形づくる力学を理解し、変化を先読みします。

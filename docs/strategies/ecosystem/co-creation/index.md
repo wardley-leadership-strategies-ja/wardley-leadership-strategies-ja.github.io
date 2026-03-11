@@ -195,7 +195,7 @@ Successful co-creation programmes behave like well-managed commons. They define 
 - [Harvesting](/strategies/markets/harvesting) - monetising and integrating co-created innovations into the broader product portfolio.
 - [Differentiation](/strategies/markets/differentiation) - leveraging unique user contributions to create distinguishing features and competitive advantage.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: working directly with users shapes how products and practices mature together.
 - [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: user insight reveals novel combinations worth investing in.

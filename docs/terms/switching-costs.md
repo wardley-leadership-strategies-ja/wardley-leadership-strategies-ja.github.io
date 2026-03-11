@@ -1,3 +1,3 @@
-# Switching Costs
+# 切替コスト
 
-The effort, expense, or friction users incur when moving from one solution to another, a form of [switching barrier](https://en.wikipedia.org/wiki/Switching_cost). Often exploited to increase lock-in.
+ユーザーがある解決策から別の解決策へ移るときに負担する手間、費用、摩擦です。ロックインを強めるためによく利用されます。

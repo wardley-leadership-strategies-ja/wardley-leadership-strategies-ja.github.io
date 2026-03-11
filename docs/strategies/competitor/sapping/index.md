@@ -184,7 +184,7 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 
 - [Ambush](/strategies/competitor/ambush) - coordinating stealth erosion tactics with surprise strikes to overwhelm competitors on multiple fronts.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The competitor's strengths and weaknesses will change over time, creating new sapping opportunities.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components of a competitor's offering evolve, their dependencies might become vulnerabilities.

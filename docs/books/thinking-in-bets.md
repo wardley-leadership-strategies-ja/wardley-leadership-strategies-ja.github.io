@@ -4,11 +4,11 @@ isbn13: "9780735216358"
 
 # Thinking in Bets
 
-In **Thinking in Bets**, former professional poker player Annie Duke explains how to make better decisions under uncertainty. She introduces concepts such as resulting, probabilistic thinking, and decision accountability groups to help leaders separate decision quality from outcomes.
+元プロポーカープレイヤーの Annie Duke による **Thinking in Bets** は、不確実性の下でより良い意思決定をする方法を説明します。結果論、確率的思考、意思決定の説明責任グループといった概念を導入し、意思決定の質と結果を切り分けて考える訓練を促します。
 
-The book provides techniques for constructing scenarios, updating beliefs as new information arrives, and communicating uncertainty without paralysing teams. It is relevant for strategic plays that require timing and judgement in ambiguous environments.
+シナリオ構築、新情報に応じた信念更新、チームを麻痺させずに不確実性を伝える技法も示しており、曖昧な状況でタイミングと判断を要する戦略プレイに向いています。
 
-## Referenced in
+## 参照先
 
 - [Ambush](/strategies/competitor/ambush)
 - [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)

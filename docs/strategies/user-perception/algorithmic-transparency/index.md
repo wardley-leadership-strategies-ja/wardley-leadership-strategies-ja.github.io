@@ -183,7 +183,7 @@ Full transparency is not always viable. Mature teams design tiers: user-level ra
 - [Open Approaches](/strategies/accelerators/open-approaches) - Applies transparency through open standards and collaboration.
 - [Standards Game](/strategies/markets/standards-game) - Establishes shared disclosure formats and audit practices.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Characteristics change](/climatic-patterns/characteristics-change) – influence: transparency expectations rise as automation spreads.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: opaque incumbents resist disclosure until pressure mounts.

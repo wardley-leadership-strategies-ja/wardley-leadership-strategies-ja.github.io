@@ -232,7 +232,7 @@ An Ambush is an overtly aggressive move, and it can easily lead to an all-out wa
 * [**Restriction of Movement**](/strategies/competitor/restriction-of-movement) - A successful Ambush can severely restrict a competitor's strategic options.
 * [**Playing Both Sides**](/strategies/attacking/playing-both-sides) - An Ambush could be part of a larger strategy of playing both sides, for instance, by commoditizing a component one competitor relies on, thereby benefiting another.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 * [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: An Ambush is a direct response to a competitor's game-changing move, aiming to change it again.
 * [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: An Ambush can exploit a competitor's inertia or their overconfidence from past successes.

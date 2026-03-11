@@ -211,7 +211,7 @@ Industrial policies are subject to political winds and can change with new admin
 - [Market Enablement](/strategies/accelerators/market-enablement) - government backing can create or expand markets.  
 - [Standards Game](/strategies/markets/standards-game) - industrial policy often promotes standards to secure advantage.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: government investment channels funds toward targeted sectors.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: policy support often intensifies during war or wonder phases.

@@ -214,7 +214,7 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 - [fragmentation](/strategies/competitor/fragmentation) - breaking a competitor’s cohesive structure into isolated segments, constraining their ability to respond.
 - [Ambush](/strategies/competitor/ambush) - launching sudden strikes when competitors are restricted and unable to manoeuvre effectively.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: blocking options keeps rivals tied to outdated approaches.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: constrained players may drive investment elsewhere.

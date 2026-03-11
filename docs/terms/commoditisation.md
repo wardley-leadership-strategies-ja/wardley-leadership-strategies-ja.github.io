@@ -1,3 +1,3 @@
-# Commoditisation
+# コモディティ化
 
-The process by which a component evolves from novel and uncertain to standardised, ubiquitous, and low-cost, mirroring the dynamics of [commoditization](https://en.wikipedia.org/wiki/Commoditization). Typically involves a shift in user expectations, decreasing margins, and increasing competition.
+コンポーネントが、新規で不確実な状態から、標準化され、広く使われ、低コストな状態へ進化していく過程です。通常は、ユーザー期待の変化、利益率の低下、競争の激化を伴います。

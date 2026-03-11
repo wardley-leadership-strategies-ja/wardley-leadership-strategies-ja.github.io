@@ -181,7 +181,7 @@ This strategy is often used to neutralize a competitor's main weapon. By removin
 - [restriction-of-movement](/strategies/competitor/restriction-of-movement) - drawing critical partners into your ecosystem to constrain competitors’ strategic mobility.
 - [fragmentation](/strategies/competitor/fragmentation) - fracturing competitor networks by pulling participants into competing coalitions.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: a rival's successful move often prompts co-opting as a counter.
 - [Creative destruction](/climatic-patterns/creative-destruction) – influence: co-opting can accelerate the replacement of old approaches with new ones.

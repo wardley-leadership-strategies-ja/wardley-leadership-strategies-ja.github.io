@@ -194,7 +194,7 @@ In a two-sided market, your product is not just a piece of software; it is the e
 
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - deliberately harnessing and reinforcing cross-side and same-side effects to accelerate platform growth and engagement.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: once both sides engage, adoption can accelerate rapidly.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: thriving platforms attract investment from participants and partners.

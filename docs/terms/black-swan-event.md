@@ -1,3 +1,3 @@
-# Black Swan Event
+# ブラックスワン事象
 
-A black swan event is a rare, high-impact occurrence that sits outside normal expectations and is usually rationalised only after it happens. It exposes blind spots in sensing, resilience planning, and variety management.
+ブラックスワン事象とは、通常の想定の外側にあり、極めて大きな影響を持つまれな出来事です。発生後になって初めてもっともらしく説明されることが多く、感知、レジリエンス計画、多様性管理の盲点を露呈させます。

@@ -1,3 +1,3 @@
-# Uncertainty
+# 不確実性
 
-The lack of predictability about the future state of components, markets, or competitive actions, reflecting the strategic challenge of [uncertainty](https://en.wikipedia.org/wiki/Uncertainty). Strategies in early evolutionary stages often focus on reducing uncertainty through exploration and experimentation.
+コンポーネント、市場、競争行動の将来状態が予測しにくいことです。進化初期の戦略では、探索や実験によってこの不確実性を下げることが重要になります。

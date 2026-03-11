@@ -4,11 +4,11 @@ isbn13: "9780300078152"
 
 # Seeing Like a State
 
-James C. Scott's **Seeing Like a State** critiques high-modernist planning and the tendency of large institutions to impose simplified schemes on complex societies. Through historical case studies, Scott shows how top-down standardisation can erase local knowledge and provoke resistance.
+James C. Scott の **Seeing Like a State** は、大きな制度が複雑な社会へ単純化した設計を押しつける高モダニズム的発想を批判します。歴史事例を通じて、上意下達の標準化が現場知を消し、抵抗を招く様子を描きます。
 
-The book highlights the importance of legibility, incentives, and the messy reality of implementation. Its insights help strategists understand how dominant organisations co-opt local practices or why centralised initiatives often clash with grassroots dynamics.
+可視化の欲望、インセンティブ、実装の泥臭い現実を理解する助けとなり、支配的組織が地域慣行を取り込むときや、中央集権的な施策が草の根の力学と衝突するときを考えるのに有用です。
 
-## Referenced in
+## 参照先
 
 - [Co-opting](/strategies/ecosystem/co-opting)
 - [Governance and policy design](/leadership-skills/governance-and-policy-design)

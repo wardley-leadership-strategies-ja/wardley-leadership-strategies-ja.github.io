@@ -4,11 +4,11 @@ isbn13: "9780393354355"
 
 # Platform Revolution
 
-**Platform Revolution: How Networked Markets Are Transforming the Economy—and How to Make Them Work for You** (2016) by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary explores how platform businesses orchestrate interactions between producers and consumers.
+Geoffrey G. Parker、Marshall W. Van Alstyne、Sangeet Paul Choudary による **Platform Revolution: How Networked Markets Are Transforming the Economy—and How to Make Them Work for You** は、プラットフォーム企業が生産者と消費者の相互作用をどう統率するかを解説します。
 
-The book explains key concepts such as network effects, governance rules, and pricing strategies that help platforms ignite and scale. It provides practical frameworks for launching, growing, and monetizing platform ecosystems across industries.
+ネットワーク効果、ガバナンス、価格戦略など、プラットフォームの立ち上げと拡大に必要な概念を整理し、業界横断でプラットフォーム型エコシステムを育てる実務枠組みを提供します。
 
-## Referenced in
+## 参照先
 
 - [Harvesting](/strategies/markets/harvesting)
 - [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)

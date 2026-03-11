@@ -1,3 +1,3 @@
-# Liquidity (Marketplace)
+# 流動性
 
-In the context of marketplaces (two-factor markets), liquidity refers to the ease and likelihood with which providers can find consumers and consumers can find providers, echoing the broader notion of [market liquidity](https://en.wikipedia.org/wiki/Market_liquidity). High liquidity is crucial for marketplace success and network effects.
+マーケットプレイスや二面市場において、提供者が消費者を見つけやすく、消費者が提供者を見つけやすい状態です。高い流動性は、市場成功とネットワーク効果の重要条件です。

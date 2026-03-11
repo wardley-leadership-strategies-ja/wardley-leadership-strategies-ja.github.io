@@ -1,3 +1,3 @@
-# Horizon Scanning
+# ホライズンスキャニング
 
-The practice of systematically searching for and analyzing weak signals and potential future developments across various domains (technology, social, economic, political) to anticipate future threats and opportunities, a foresight technique known as [horizon scanning](https://en.wikipedia.org/wiki/Horizon_scanning).
+技術、社会、経済、政治など複数領域にまたがって弱いシグナルや将来の変化を体系的に探し、分析する実践です。将来の脅威や機会を先読みするために用います。

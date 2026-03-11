@@ -188,7 +188,7 @@ Anticipate potential defenses and have responses ready to uphold your newly crea
 - [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - Leverage legal rights to block competitors from evolving key technologies.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - Broader tactics to limit competitor market entry.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Characteristics change](/climatic-patterns/characteristics-change) – trigger: imposing constraints alters how components evolve.
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: self-imposed limits may hinder adaptation.

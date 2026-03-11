@@ -1,3 +1,3 @@
-# Economies Of Scale
+# 規模の経済
 
-Cost advantages gained by increasing production volume, usually through fixed cost amortisation or process efficiencies, capturing the logic behind [economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale).
+生産量を増やすことで得られるコスト優位です。通常は固定費の償却や工程効率の向上によって生まれます。

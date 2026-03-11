@@ -1,3 +1,3 @@
-# Disruption (Disruptive Innovation)
+# 破壊的イノベーション
 
-An innovation that creates a new market and value network, eventually displacing established market-leading firms, products, and alliances, as described in the theory of [disruptive innovation](https://en.wikipedia.org/wiki/Disruptive_innovation). Often starts by targeting overlooked segments or offering simpler, cheaper alternatives.
+新しい市場と価値ネットワークを生み、やがて既存の有力企業、プロダクト、提携を置き換えていくイノベーションです。見過ごされていた市場セグメントや、より単純で安価な代替案から始まることが多いです。

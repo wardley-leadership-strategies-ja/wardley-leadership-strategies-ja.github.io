@@ -4,10 +4,10 @@ isbn13: "9781578519538"
 
 # The Future of Competition
 
-C.K. Prahalad and Venkat Ramaswamy's **The Future of Competition: Co-Creating Unique Value with Customers** argues that value creation is shifting from firm-centric offerings to collaborative experiences. The authors illustrate how companies invite customers into design, production, and delivery, using dialogue, access, risk-benefits, and transparency as the DART model for co-creation.
+C.K. Prahalad と Venkat Ramaswamy の **The Future of Competition: Co-Creating Unique Value with Customers** は、価値創造が企業中心の提供から協働的な体験へ移りつつあると論じます。対話、アクセス、リスクと便益、透明性から成る DART モデルを通じて、企業が顧客を設計、生産、提供へどう巻き込むかを示します。
 
-The book provides cases from industries such as automotive, consumer goods, and technology to show how co-creation reshapes business models and relationships. It offers a strategic blueprint for organisations that want to unlock value by partnering deeply with users.
+自動車、消費財、技術などの事例を用いて、共創が事業モデルと関係性をどう変えるかを描いており、ユーザーと深く組んで新しい価値を引き出したい組織にとって戦略的な設計図になります。
 
-## Referenced in
+## 参照先
 
 - [Co-Creation](/strategies/ecosystem/co-creation)

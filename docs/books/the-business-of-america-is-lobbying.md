@@ -4,10 +4,10 @@ isbn13: "9780190215514"
 
 # The Business of America is Lobbying
 
-Lee Drutman's **The Business of America is Lobbying** analyses how corporate lobbying became a permanent part of the U.S. political system. It traces the growth of influence campaigns, the economics of lobbying firms, and why companies build in-house public affairs capabilities.
+Lee Drutman の **The Business of America is Lobbying** は、企業ロビー活動がアメリカ政治の恒常的な一部になった過程を分析します。影響工作の拡大、ロビー会社の経済性、企業が社内に渉外機能を持つ理由をたどります。
 
-Drutman explains how lobbying strategies shape regulation, framing it as a long-term investment rather than episodic activity. The book provides data-driven insight for strategists assessing when regulatory plays can reinforce competitive positions.
+ロビー活動を単発対応ではなく長期投資として捉え、規制形成をどう動かすかを説明しており、規制プレイが競争優位の補強に使えるかを見極めたい戦略担当に向いています。
 
-## Referenced in
+## 参照先
 
 - [Defensive Regulation](/strategies/defensive/defensive-regulation)

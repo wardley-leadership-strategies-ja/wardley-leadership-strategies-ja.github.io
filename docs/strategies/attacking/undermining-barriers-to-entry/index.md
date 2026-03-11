@@ -181,7 +181,7 @@ Open-sourcing a key technology is one of the most powerful ways to undermine a b
 
 - [Tech Drops](/strategies/competitor/tech-drops) - releasing open or low-cost versions of core technology to erode proprietary barriers and attract new entrants.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – trigger: incumbents may not notice barriers eroding until it's too late.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: removing a barrier lets related components evolve together more rapidly.

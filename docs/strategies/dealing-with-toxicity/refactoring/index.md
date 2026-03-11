@@ -162,7 +162,7 @@ The primary leadership challenge is **managing the transition sensitively and de
 - [**Value Chain Disaggregation and Re-aggregation**](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - While refactoring is about internal reorganization of a legacy asset, VCDAR is a broader strategic play involving breaking down and recombining entire value chains, often to create new market offerings or business models. Refactoring might be a small part of a larger VCDAR initiative if legacy components are repurposed into a new value chain structure.
 - [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Packaging toxic components within refactored entities so hidden liabilities surface only after acceptance or deployment.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems inevitably reach a point where they need refactoring or disposal due to evolution.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Components of a system change, making some parts obsolete (toxic) while others remain valuable and can be refactored.

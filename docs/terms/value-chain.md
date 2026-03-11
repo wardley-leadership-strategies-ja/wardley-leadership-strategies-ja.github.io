@@ -1,3 +1,3 @@
-# Value Chain
+# バリューチェーン
 
-A visual representation used in Wardley Mapping showing the components required to meet a user need, drawing on the management concept of the [value chain](https://en.wikipedia.org/wiki/Value_chain). Components are arranged vertically based on dependency, with user-visible value at the top and foundational elements at the bottom.
+Wardley Map で、ユーザーニーズを満たすために必要なコンポーネントを示す視覚表現です。ユーザーに近い価値を上に、基盤となる要素を下に置き、依存関係に沿って縦に並べます。

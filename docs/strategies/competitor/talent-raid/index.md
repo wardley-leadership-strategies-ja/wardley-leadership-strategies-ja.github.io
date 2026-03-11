@@ -219,7 +219,7 @@ It's essential to consider the potential optics and impact on relationships with
 - [Center of Gravity](/strategies/attacking/centre-of-gravity) - shifting critical expertise and influence by drawing key individuals to your side to establish a new talent hub.
 - [insertion](/strategies/poison/insertion) - embedding targeted messaging or incentives to destabilize competitor morale and encourage talent defections.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: securing key talent helps navigate uncertain markets.
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: poaching exposes a rival's slow response to change.

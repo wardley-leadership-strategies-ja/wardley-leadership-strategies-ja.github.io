@@ -194,7 +194,7 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - [circling-and-probing](/strategies/competitor/circling-and-probing) - leveraging alliance discussions to probe partner commitments and uncover competitor strategies.
 - [fragmentation](/strategies/competitor/fragmentation) - drawing participants into coalitions to divide and weaken competitor ecosystems.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: alliances can guide how related capabilities evolve together.

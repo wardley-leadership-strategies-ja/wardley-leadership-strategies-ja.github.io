@@ -184,7 +184,7 @@ Ethically, Confusion of Choice is a gray area. While businesses are not obligate
 - [FUD](/strategies/user-perception/fear-uncertainty-and-doubt) – Also prevents rational decision-making but via fear instead of complexity.
 - [Last Man Standing](/strategies/markets/last-man-standing) – Another strategy that exploits competitors' complacency; confusion exploits customers' cognitive limits.
 
-## ⛅ **Relevant Climatic Patterns**
+## ⛅ **関連する状勢パターン**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: overwhelming options obscure long-term benefits.
 - [Characteristics change](/climatic-patterns/characteristics-change) – trigger: products evolve, making older choices hard to compare.
