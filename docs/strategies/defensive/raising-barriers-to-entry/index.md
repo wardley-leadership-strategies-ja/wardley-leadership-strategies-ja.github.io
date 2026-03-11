@@ -1,6 +1,6 @@
 ---
-title: Raising Barriers to Entry
-description: A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.
+title: 参入障壁の引き上げ
+description: 提供範囲、統合、期待水準を引き上げ、新規参入を難しくする防御戦略。
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
 authors: [dave-hulbert]
 stages:
@@ -17,175 +17,155 @@ leadership_focus:
   - Operational excellence
   - Pricing and packaging strategy
 quick_signals:
-  - New entrants offer narrow point solutions that undercut you on price.
-  - Customers value the breadth and integration of your offer.
-  - You can add adjacent capabilities faster than challengers can replicate them.
+  - 新規参入者が狭い点の解決策だけで低価格攻勢を仕掛けている。
+  - 顧客が、単機能より統合された提供物を評価している。
+  - 競合より早く周辺機能を追加・統合できる。
 momentum_moves:
-  - Invest in integrations or services that are hard to replicate.
-  - Bundle offerings to reset market expectations of a “complete” solution.
-  - Educate customers and analysts on the total cost of switching.
+  - 模倣しづらい統合やサービスへ投資する。
+  - 抱き合わせで「これが最低限必要」という市場期待を作る。
+  - 切替の総コストを顧客とアナリストへ教育する。
 watch_outs:
-  - Increasing complexity faster than customers can absorb.
-  - Spreading teams too thin across low-value features.
-  - Breeding internal inertia that slows future innovation.
+  - 顧客が消化できない速度で複雑さを増やすこと。
+  - 価値の薄い機能へチームを拡散させること。
+  - 将来の革新を遅らせる社内慣性を自ら育てること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+**提供範囲と統合度を高め、市場の期待値そのものを引き上げることで、新規参入を難しくする防御戦略です。**
 
-**A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.**
-
-> *"Increasing expectations within a market for a range of user needs to be met in order to prevent others entering the market."*
+> *「市場で求められるユーザーニーズの範囲を引き上げ、他者が参入しにくい状態を作る。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Raising Barriers to Entry?
+### 参入障壁の引き上げとは何か
 
-Raising Barriers to Entry is a defensive strategy where an incumbent company makes it harder for new rivals to enter its market. Instead of competing on a single product or feature, the incumbent deliberately expands its offering, bundling multiple features and services together. This raises the table stakes, forcing any potential new entrant to develop a much more complex and comprehensive product just to be considered a viable alternative. The goal is to make the cost and effort of entry so high that it deters potential competitors altogether.
+既存勢力が、単一機能で戦うのではなく、複数の機能、周辺サービス、統合体験を束ねて市場の基準を上げる戦略です。新規参入者は、良い点ソリューションを一つ作るだけでは足りず、より広い提供物を揃えなければ比較対象にすらなれなくなります。
 
-### Why use this strategy?
+### なぜ使うのか
 
-This is a powerful defensive move for established players. The key benefits are:
+- 新規参入の必要投資を引き上げられる
+- 後発が一部機能だけで勝つことを難しくできる
+- 統合された提供物により顧客の切替コストを高められる
+- 「一式で買うほうが合理的」という認知を作れる
 
-- **Deterring Competition:** The high cost and complexity of entry can scare off potential new entrants.
-- **Slowing Down New Entrants:** Even if a competitor does enter, they will likely have a narrower offering, making it difficult for them to compete with your more comprehensive solution.
-- **Increasing Customer Stickiness:** Customers who are embedded in a broad ecosystem of products and services are less likely to switch to a new provider with a more limited offering.
-- **Creating a Perception of Value:** A comprehensive, bundled solution can be perceived as offering more value and quality than a collection of standalone products.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Microsoft Office
 
-### Microsoft Office Suite
+単体アプリが別々に競争していた市場で、Microsoft はスイートを低価格で束ねました。競争は単体アプリの優劣から、統合スイート全体の勝負へ移りました。
 
-In the 1990s, the market for productivity software was fragmented, with separate best-of-breed applications for word processing (WordPerfect), spreadsheets (Lotus 1-2-3), and presentations (Harvard Graphics). Microsoft bundled its own, arguably inferior, applications into the Microsoft Office suite and sold it at a very attractive price. This raised the barrier to entry enormously. A new competitor could no longer just build a better word processor; they had to build a full suite of applications that were integrated with each other. This strategy was instrumental in Microsoft's dominance of the office productivity market.
+### Atlassian の製品群
 
-### Atlassian's Product Ecosystem
+Jira、Confluence、Bitbucket などを組み合わせることで、単一ツールでの侵入を難しくしました。顧客にとっては、個別最適より統合運用のほうが魅力になっています。
 
-Atlassian has built a powerful barrier to entry in the software development tooling market. They offer a tightly integrated suite of products, including Jira (project management), Confluence (documentation), Bitbucket (code hosting), and many others. A new startup might be able to build a better project management tool than Jira, but it is very difficult to compete with the entire integrated Atlassian ecosystem, which has become the standard for many development teams.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Raising Barriers to Entry">
   <MapSignals>
-    <li>Your map shows that your product is part of a larger value chain with many adjacent components that could be bundled.</li>
-    <li>New entrants are attempting to enter the market by focusing on a single, niche component of your offering.</li>
-    <li>Customers are showing a preference for integrated solutions over a collection of point solutions.</li>
-    <li>You have the capability to build or acquire and integrate these adjacent components.</li>
+    <li>自社プロダクトが、より大きなバリューチェーンの一部になっている。</li>
+    <li>新規参入者が単一機能に絞って市場へ入ろうとしている。</li>
+    <li>顧客が、点ではなく統合ソリューションを好み始めている。</li>
+    <li>周辺機能を自社で作る、買う、組む能力がある。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a strong market position and the resources to invest in expanding our product portfolio.</li>
-    <li>Our organization is skilled at integrating different products and technologies into a cohesive user experience.</li>
-    <li>We have a strong brand that can be leveraged to promote the bundled solution.</li>
-    <li>Our leadership is willing to increase complexity to build a long-term defensive moat.</li>
+    <li>強い市場地位と投資余力がある。</li>
+    <li>異なる製品や技術をひとつの体験へ統合できる。</li>
+    <li>バンドル全体の価値を訴求できるブランドがある。</li>
+    <li>長期的な堀を作るための複雑性を引き受けられる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You are an incumbent with a strong market position.
-- You have the resources to build or acquire and integrate a suite of products.
-- The market is maturing, and customers are beginning to value convenience and integration over best-of-breed point solutions.
+- 既存勢力として一定の顧客基盤がある
+- 市場が成熟し、利便性や統合の価値が高まっている
+- 周辺機能の追加が差別化ではなく防御に効く
 
-### Avoid when
+### 避けるとき
 
-- You are a new entrant with limited resources. You cannot win by playing the incumbent's game.
-- Customers have a strong preference for best-of-breed solutions and are willing to do the integration work themselves.
-- The effort to build and maintain a complex, bundled solution would distract you from your core mission.
+- 新規参入者で資源が限られているとき
+- 顧客が個別最適の製品群を明確に好むとき
+- 複雑化によって中核品質を落とす恐れが高いとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is managing the increased complexity that this strategy entails. Building and maintaining a large, integrated suite of products is difficult and expensive. Leaders must ensure that the organization does not become slow, bloated, and bureaucratic as a result. There is a constant tension between adding more to the bundle to raise the barrier, and keeping the product focused and easy to use.
+複雑さを増やしながら、組織そのものを鈍重化させないことです。バンドルを厚くするほど防御は強くなりますが、同時に自社の慣性も育ちます。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — The ability to manage a complex portfolio of products and make strategic decisions about what to build, buy, or partner.
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — The skill to ensure that the different parts of the bundle work together seamlessly.
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — The discipline to avoid "feature creep" and only add components to the bundle that genuinely increase the barrier to entry.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — どこを自社開発し、買収し、提携するかを決める
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — バンドル全体を一つの体験として設計する
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 価値の薄い機能追加を抑える
 
-### Ethical considerations
+### 倫理面
 
-This strategy can be seen as anti-competitive, as it is explicitly designed to make it harder for new companies to enter the market. This can lead to less choice and higher prices for consumers in the long run. Bundling products together can also be seen as a form of tying, which can raise antitrust concerns. Leaders must be careful not to cross the line from fair competition to illegal, anti-competitive behavior.
+抱き合わせや複雑化は、反競争的と見なされることがあります。顧客価値を伴わない単なる囲い込みになっていないかを常に点検する必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify Adjacent Needs:** Analyze your customers' workflow and identify the adjacent needs that are not being met by your core product.
-2. **Build, Buy, or Partner:** Decide whether to build the additional functionality yourself, acquire a company that already has it, or partner with another company.
-3. **Bundle and Integrate:** Combine the different components into a single, integrated suite. The integration is key – the bundle should be more valuable than the sum of its parts.
-4. **Price the Bundle Attractively:** Price the bundle in a way that makes it a compelling choice compared to buying a collection of separate point solutions.
-5. **Market the Solution:** Clearly communicate the value proposition of the integrated solution to the market.
+1. 顧客のワークフローから周辺ニーズを洗い出す
+2. 自社開発、買収、提携のどれで進めるかを判断する
+3. 個別機能ではなく統合体験として束ねる
+4. 価格とパッケージを、単品寄せ集めより魅力的に設計する
+5. 統合で増える価値と切替コストを市場へ説明する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Lack of New Entrants:** Is the strategy successfully deterring new companies from entering your market?
-- **Market Share:** Are you maintaining or growing your market share?
-- **Adoption of the Bundle:** Are customers choosing to buy the full suite rather than individual components?
-- **Customer Retention:** Is the bundled solution increasing customer stickiness and reducing churn?
+- 新規参入数や参入速度の低下
+- バンドル採用率
+- 解約率の低下
+- 顧客あたり売上と契約継続率
+- 競合が再現するまでの時間
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Bloatware
+### 肥大化
 
-Adding too many features and components can lead to a bloated, confusing product that is difficult to use.
+機能を足しすぎると、使いにくく重い製品になります。
 
-### Poor Integration
+### 統合不足
 
-If the different parts of the bundle don't work well together, the strategy will backfire. The integration must be seamless.
+束ねただけで一体化していないと、価値より不満が増えます。
 
-### Neglecting the Core
+### 中核品質の放置
 
-Focusing on building the bundle can lead to neglecting the quality of the core product, which can open the door for a competitor with a superior point solution.
+周辺防御に気を取られて、中核機能が弱ると逆に点で負けます。
 
-### Customer Resistance
+## 🧠 **戦略的示唆**
 
-Some customers may not want the full bundle and may resent being forced to buy features they don't need.
+### エコシステムそのものが堀になる
 
-## 🧠 **Strategic Insights**
+この戦略の本質は機能数ではなく、顧客の運用を自社エコシステムへ埋め込むことです。
 
-### The Ecosystem as a Moat
+### 肥大化は逆襲の入口でもある
 
-This strategy's effectiveness lies in creating a self-reinforcing ecosystem, rather than just adding features. When an incumbent bundles products and services, their "suite" can become the customer's default choice. This ecosystem acts as a defensive moat, raising switching costs and locking customers into the platform. A highly integrated ecosystem is difficult for competitors to penetrate, especially in software where the marginal cost of new features is low but the customer value of an all-in-one solution is high. The ultimate goal is an ecosystem so convenient and comprehensive that leaving it is a major disruption for the customer.
+複雑化しすぎると、シンプルで優れた一点突破の挑戦者を招きます。堀を作ることと、重くなることは別です。
 
-### The Danger of Bloat and the Innovator's Dilemma
+## ❓ **問うべきこと**
 
-Ironically, raising barriers to entry can sow the seeds of an incumbent's downfall. Adding features can lead to a bloated, complex product that is difficult to use. This creates an opening for a new entrant with a simpler, more elegant solution that excels at one thing. This is the classic "Innovator's Dilemma": the incumbent serves existing customers by adding features, while a new entrant targets an underserved niche with a focused product. The incumbent's complex ecosystem can become a liability, slowing its response to new threats.
+- 顧客のどの周辺ニーズまで自社が面倒を見るべきか
+- 統合で本当に価値が増えるのか、単に複雑になるだけか
+- 競合に再現されにくい部分はどこか
+- この複雑さは将来の自社を鈍らせないか
 
-### Shifting the Basis of Competition
+## 🔀 **関連戦略**
 
-This strategy fundamentally changes competition from a battle of individual products to a war of ecosystems. Competitors face a stark choice: build their own costly and risky ecosystem, or find a niche within the incumbent's. This can lead to "co-opetition," where smaller companies complement the incumbent's offering and become part of its ecosystem. Incumbents may even encourage this through APIs and developer programs to strengthen their position. The result is a competitive landscape of walled gardens, not a level playing field.
-
-## ❓ **Key Questions to Ask**
-
-- **The Customer's Workflow:** What are all the steps in our customer's workflow, and which of them can we incorporate into our product?
-- **The Integration Value:** How can we make the integrated suite more valuable than the separate components?
-- **The Competitive Response:** How are our competitors likely to react to this move? Can they build their own bundle?
-- **The Complexity Cost:** Are we prepared to manage the increased complexity of a larger product portfolio?
-
-## 🔀 **Related Strategies**
-
-- **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: A strategy that often involves raising barriers to entry to protect a dominant position.
-- **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is the ultimate goal of raising the barriers to entry.
-- **[Standards Game](/strategies/markets/standards-game)**: By creating a tightly integrated suite, you can attempt to make your proprietary integration points the de facto standard for the market.
-
-- [Creating Constraints](/strategies/decelerators/creating-constraints) - embedding extra complexity or contractual requirements to raise development and integration costs for new entrants.
-- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - amplifying current dependencies or requirements to heighten costs and deter newcomers.
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) - enacting or maintaining regulations that lock in incumbent advantages and prevent new competitors.
-- [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia) - deepening competitors’ reluctance or inability to adapt, making barriers more effective.
-- [Talent Raid](/strategies/competitor/talent-raid) - draining potential rivals of critical expertise to widen capability gaps and fortify entry hurdles.
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - constraining competitors’ strategic options to sustain high entry costs.
-- [Lobbying](/strategies/user-perception/lobbying) - advocating for policy changes that institutionalise barriers and discourage new entrants.
-- [Bundling](/strategies/user-perception/bundling) - packaging offerings together to force entrants to match comprehensive solutions, raising thresholds for entry.
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control over supply chains or customer relationships to impose onerous terms on newcomers.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - A platform can raise barriers to entry by enveloping (integrating or absorbing) adjacent services or functionalities, forcing potential new entrants to compete with a much broader and more integrated offering.
+- [Tower and Moat](/strategies/ecosystem/tower-and-moat)
+- [Bundling](/strategies/user-perception/bundling)
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: high barriers redirect investment to emerging spaces.
+- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 統合された上位システムが新しい価値源になる
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – 影響: 右側の効率を土台に、左側の差別化を増やせる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Discusses how incumbents can be disrupted by new entrants with simpler, more focused products, which is the threat that this strategy is designed to counter.
-- **[Competitive Strategy](/books/competitive-strategy)** by Michael E. Porter. The classic text on competitive strategy, which includes a detailed analysis of barriers to entry.
+- [Competition Demystified](/books/competition-demystified)
+- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [The Strategy and Tactics of Pricing](/books/the-strategy-and-tactics-of-pricing)
