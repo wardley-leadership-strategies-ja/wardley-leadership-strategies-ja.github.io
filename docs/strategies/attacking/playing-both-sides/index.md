@@ -1,7 +1,6 @@
 ---
-title: Playing Both Sides
-description: Profiting from or hedging by engaging with two opposing sides in a market
-  or standards war, so that whichever side wins, you benefit.
+title: 両面張り（Playing Both Sides）
+description: 市場や標準争いで対立する両陣営と関わり、どちらが勝っても利益を得る戦略。
 tags:
 - attacking
 - markets
@@ -28,177 +27,179 @@ leadership_focus:
 - Risk framing
 - Selective openness
 quick_signals:
-- Customers demand compatibility with rival standards you cannot ignore.
-- Ecosystem partners hedge their bets instead of committing to a single platform.
-- Regulators or buyers push for neutrality to avoid lock-in.
+- 無視できない競合標準との互換性を顧客が求めている。
+- エコシステム参加者が一つのプラットフォームへ賭け切らず、両にらみになっている。
+- 規制当局や大口顧客が、囲い込み回避のため中立性を求めている。
 momentum_moves:
-- Design modular offerings so shared components serve each camp without rework.
-- Establish governance that keeps data and insights firewalled between competing efforts.
-- Invest in messaging that frames you as the trusted neutral enabler.
+- 共通部品を再利用できるよう、モジュール化した提供物を設計する。
+- 競合案件間でデータや洞察が漏れない統治を整える。
+- 信頼できる中立的な実行者として、自社の立ち位置を物語化する。
 watch_outs:
-- Spreading resources so thin that neither side receives a competitive experience.
-- Accidentally leaking insight that erodes trust with one of the camps.
-- Being perceived as disloyal and getting squeezed out by both sides.
+- 資源が薄まり、どちらの陣営にも競争力ある体験を出せないこと。
+- 一方の陣営との信頼を壊す情報漏えいを起こすこと。
+- 不忠実だと見なされ、両方から締め出されること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-
 :::note
-**Playing Both Sides** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**両面張り（Playing Both Sides）** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には挙がっていません。
 :::
 
-**Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.**
+**市場や標準争いの両陣営に関わり、どちらが勝っても利益を得られる位置に立つ戦略です。**
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Playing Both Sides?
+### 両面張りとは何か
 
-Playing Both Sides is a strategic approach where an organisation avoids committing to a single, uncertain path in a market defined by competing standards or platforms. Instead, it engages with both (or multiple) sides simultaneously. This ensures that no matter which side emerges as the victor, the organisation is positioned to benefit.
+両面張りとは、競合する標準、プラットフォーム、陣営のどれか一つに賭け切らず、複数の側へ同時に関与する戦略です。どちらが勝っても自社が利益を得られるよう、自分を中立的な供給者、仲介者、あるいはエネーブラーとして配置します。
 
-It's a form of strategic arbitrage, allowing a company to maintain neutrality while harnessing gains from the successes and failures of others. This can manifest as dual product lines (e.g., supporting competing standards), cross-licensing agreements, or investments in competing entities. The core of the strategy is to position yourself as a neutral supplier or enabler to the entire ecosystem in conflict.
+これは一種の戦略的裁定取引です。自社はどちらかの最終勝者になる必要はなく、争いそのものを支える位置に立ちます。両規格対応製品、クロスライセンス、競合企業への同時出資などが典型です。
 
-### Why use Playing Both Sides?
+### なぜ使うのか
 
-The primary motivation for this strategy is risk mitigation. When the future of a market is uncertain, picking a single standard or technology is a high-stakes gamble. By supporting multiple options, a company can reduce its exposure to the failure of any one of them.
+もっとも大きな動機はリスク分散です。市場の将来が不確実なとき、一つの標準や技術に賭けるのは高リスクです。複数案を支えることで、どれか一つが外れても致命傷を避けられます。
 
-Furthermore, this strategy can be used to prolong a profitable conflict. As long as the "war" between standards continues, the organisation can continue to profit from supplying all sides. This turns market uncertainty from a threat into an opportunity.
+加えて、この戦略は争いが続くほど利益が出る構造も作れます。標準戦争が続く間、自社は両側へ供給し続けられるため、不確実性そのものを脅威ではなく機会に変えられます。
 
 ```mermaid
 graph TD
-    subgraph Your Company
-        A(Your Product)
+    subgraph 自社
+        A(自社の提供物)
     end
-    subgraph Competing Standards
-        B(Standard A)
-        C(Standard B)
+    subgraph 競合標準
+        B(標準 A)
+        C(標準 B)
     end
     A --> B
     A --> C
 ```
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### DVD vs. HD-DVD vs. Blu-ray
+### DVD vs HD-DVD vs Blu-ray
 
-In the mid-2000s, the home video market was embroiled in a standards war between HD-DVD and Blu-ray. Some companies, like Samsung, produced players for both formats, ensuring they had a presence in the market regardless of the winner. Warner Bros. initially released movies on both formats, profiting from both user bases before Blu-ray's eventual victory.
+2000 年代半ば、家庭向け映像市場では HD-DVD と Blu-ray の標準争いが起きていました。Samsung のように両形式の再生機を出した企業は、どちらが勝っても市場に残れました。Warner Bros. も当初は両形式で映画を出し、Blu-ray 勝利まで両方の利用者基盤から利益を得ていました。
 
 ### ARM Holdings
 
-ARM Holdings designs the architecture for microprocessors used in the majority of smartphones. Companies like Apple, Samsung, and Qualcomm all license ARM's designs for their competing chips. In this way, ARM "plays both sides" of the smartphone chip war. It doesn't matter whether an iPhone or an Android device is sold; ARM receives royalties, benefiting from the entire market's growth.
+ARM はスマートフォンの大半に使われる CPU アーキテクチャを設計しています。Apple、Samsung、Qualcomm など、競合各社が ARM の設計をライセンスしています。iPhone が売れても Android が売れても ARM にはロイヤルティが入るため、スマホ戦争の両側で利益を得ています。
 
-### Corporate Venture Capital
+### コーポレートベンチャーキャピタル
 
-A large corporation might invest in two or more startups competing in the same emerging market. By doing so, it hedges its bets on which will become the market leader. The corporation can even foster competition between them to accelerate innovation. Whichever startup succeeds, the corporation wins as an investor.
+大企業が同じ新興市場で競う複数のスタートアップへ同時出資することがあります。どこが勝者になるかの賭けを分散しつつ、競争を促して技術進化を早める効果もあります。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Playing Both Sides">
   <MapSignals>
-    <li>The market is split between two or more competing standards or platforms.</li>
-    <li>The outcome of the competition is highly uncertain.</li>
-    <li>We can act as a neutral intermediary or supplier to all sides.</li>
-    <li>The cost of supporting multiple sides is lower than the potential cost of choosing the wrong one.</li>
+    <li>市場が二つ以上の競合標準やプラットフォームに分かれている。</li>
+    <li>その勝敗がまだかなり不確実である。</li>
+    <li>自社は全陣営へ中立的な仲介者や供給者として入れる。</li>
+    <li>複数陣営を支えるコストが、外れた側へ賭ける損失より小さい。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the resources to support multiple product lines or initiatives.</li>
-    <li>Our brand can withstand the ambiguity of not picking a side.</li>
-    <li>We have strong capabilities in managing complex partnerships.</li>
-    <li>Our stakeholders are comfortable with a strategy of neutrality.</li>
+    <li>複数の製品ラインや取り組みを支える資源がある。</li>
+    <li>どちらかを明確に選ばない曖昧さに、ブランドが耐えられる。</li>
+    <li>複雑なパートナー関係を管理する能力がある。</li>
+    <li>関係者が、中立戦略を受け入れている。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-The market is in a state of flux with high uncertainty. This strategy is particularly effective for intermediaries, suppliers, or platform owners who can serve all competitors without conflict.
+- 市場が流動的で、不確実性が高いとき
+- 仲介者、供給者、基盤提供者として、すべての競合へサービスできるとき
+- 特定陣営の勝利よりも、争い全体の拡大から利益を得られるとき
 
-### Avoid when
+### 避けるとき
 
-The cost of supporting multiple sides is prohibitive, or when key players demand exclusivity. If the strategy is perceived as disloyal, it can damage relationships with all parties and harm your brand's reputation.
+- 複数陣営対応のコストが高すぎるとき
+- 主要プレイヤーが排他的コミットを求めているとき
+- 不忠実だと見なされることで、関係やブランドが壊れるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The central challenge is maintaining a delicate balance. Leaders must navigate the complexities of supporting competing interests without being seen as opportunistic or untrustworthy. This requires careful management of relationships and a clear internal strategy to avoid diluting focus and resources.
+微妙な均衡を維持することです。対立する利害を同時に支えながら、機会主義的でも不誠実でもないと見せなければなりません。焦点と資源を薄めすぎず、関係管理も破綻させない設計が必要です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Managing relationships with competing partners.
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Understanding the long-term implications of market shifts.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Effectively distributing resources between competing initiatives.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Balancing the risks and rewards of a neutral stance.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 競合する相手と関係を保つ
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場変化の長期意味を読む
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 競合施策へ資源をどう配るかを判断する
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 中立姿勢の損得を制御する
 
-### Ethical considerations
+### 倫理面
 
-This strategy can be viewed as cynical or manipulative, as it may involve profiting from conflict. Leaders must consider the potential for reputational damage and the ethical implications of prolonging market uncertainty for their own gain. Transparency and a clear articulation of the strategy's rationale are crucial.
+この戦略は、対立から利益を得るため、冷笑的あるいは操作的と見られることがあります。市場の不確実性を自社利益のために長引かせるなら、評判リスクは高くなります。なぜ中立でいるのか、誰にどんな価値があるのかを明確に説明する必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify the Conflict:** Recognise a market situation with two or more competing sides where the outcome is uncertain.
-2. **Assess the Costs and Benefits:** Evaluate the financial and reputational costs of supporting each side versus the potential gains.
-3. **Establish Neutrality:** Position your organisation as a neutral party that can work with all players.
-4. **Develop Dual Offerings:** Create products, services, or partnerships that cater to each side of the conflict.
-5. **Manage Relationships:** Carefully manage relationships with all parties to maintain trust and avoid accusations of favoritism.
-6. **Monitor the Market:** Continuously monitor the market to anticipate the likely winner and be prepared to shift resources accordingly.
+1. **対立構造を特定する:** 勝敗が不確実な複数陣営の市場状況を見つける
+2. **損益を評価する:** 各陣営を支えるコストと、賭けを分散する利益を比べる
+3. **中立位置を作る:** 全プレイヤーと働ける立場を設計する
+4. **両対応の提供物を作る:** 製品、サービス、提携を各陣営向けに整える
+5. **関係を管理する:** 偏りの疑いを避けつつ、全員との信頼を保つ
+6. **市場を監視する:** どちらが優勢になるかを見つつ、資源配分を調整する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Revenue from all sides:** Tracking revenue streams from each of the competing parties.
-- **Market share of supported platforms:** Measuring the collective market share of the platforms you support.
-- **Reduced investment risk:** Assessing the financial impact of having hedged your bets.
-- **Brand perception:** Monitoring how your brand is perceived by stakeholders in the context of your neutrality.
+- 各陣営からの収益
+- 支援しているプラットフォーム群の合計市場シェア
+- 賭け分散による投資リスク低減効果
+- 中立性に関するブランド認識
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Trust Erosion
+### 信頼の侵食
 
-Both sides may become wary of your involvement with their rival, leading to a lack of trust and limited information sharing.
+双方が、ライバル側にも関わる自社を警戒し、情報共有や協力が制限されることがあります。
 
-### Resource Drain
+### 資源流出
 
-Supporting multiple standards or product lines can strain R&D, manufacturing, and marketing resources.
+複数規格や複数製品線を支えることで、研究開発、製造、販売の資源が圧迫されます。
 
-### Lack of Focus
+### 焦点の欠如
 
-By hedging your bets, you may not invest deeply enough in the winning approach to become a leader in that specific area.
+賭けを分散しすぎると、最終勝者側で十分な深さを持てず、その領域のリーダーになれません。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Power of the Intermediary
+### 仲介者の力
 
-This strategy highlights the power of being an intermediary in a value chain. By providing essential components or services to all players, you can extract value from the entire ecosystem, regardless of which end-consumer brand wins. This is a classic positional play, moving from being a player *in* the game to being the one who owns the "board".
+この戦略は、バリューチェーン上で仲介者になることの強さを示します。最終消費者向けブランドとして勝つより、全プレイヤーへ不可欠な部品やサービスを提供する側へ回る方が、より広く価値を取れることがあります。
 
-### Prolonging the War for Profit
+### 戦争を長引かせて利益化する
 
-In some cases, it may be in your interest to prolong the conflict between competing sides. As long as the "war" continues, you can continue to profit from both. This is a high-risk approach that can backfire if your actions are discovered, but it can be highly profitable. The goal shifts from winning the war to ensuring the war continues.
+場合によっては、標準戦争が続くほど利益が出る構造もあります。これは高リスクで、露見すれば逆効果ですが、勝敗そのものよりも「戦争が続くこと」から利益を得る立場に自分を置く考え方です。
 
-### Hedging Against Uncertainty
+### 不確実性へのヘッジ
 
-At its core, this is a hedging strategy. It's an admission that you cannot predict the future. Instead of making a single, high-risk bet, you are spreading your risk across the most likely outcomes. This is a defensive posture that can ensure survival in a turbulent market.
+本質的には、未来を読めないことを認めたヘッジ戦略です。一つの大きな賭けではなく、もっとも可能性の高い複数の結果へリスクを分散します。荒れた市場で生き残るための、防御的で実利的な姿勢です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Market Uncertainty:** How uncertain is the outcome of the current market conflict?
-- **Cost of Participation:** What are the costs and risks associated with supporting each side?
-- **Reputational Risk:** How will our brand be perceived if we engage with competing players?
-- **Long-term Viability:** Is this a sustainable long-term strategy, or a short-term hedge?
+- 今の市場対立の結果は、どの程度不確実か
+- 各陣営を支えるコストとリスクは何か
+- 競合プレイヤーと両方関わることで、ブランドはどう見られるか
+- これは持続的戦略か、それとも一時的なヘッジか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Cooperation](/strategies/accelerators/cooperation)**: This strategy often involves cooperating with multiple, competing players.
-- **[Standards Game](/strategies/markets/standards-game)**: Playing both sides is a specific move within a larger standards game.
-- **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: This strategy can be a component of ILC, where you leverage your position as a neutral supplier to sense where the market is heading.
-
-- [Ambush](/strategies/competitor/ambush) - cooperating to establish trust before executing sudden competitive strikes against both parties.
-- [Artificial Competition](/strategies/user-perception/artificial-competition) - creating the perception of rival offerings to influence decisions and negotiate from a position of strength.
+- [**協調（Cooperation）**](/strategies/accelerators/cooperation) - 複数の競合プレイヤーと同時に関わる協調を伴うことが多い
+- [**Standards Game**](/strategies/markets/standards-game) - 標準争いの中で取る一手の一つ
+- [**Innovate, Leverage, Commoditize (ILC)**](/strategies/ecosystem/innovate-leverage-commoditize) - 中立供給者として市場動向を読み、次の層で leverage することがある
+- [Ambush](/strategies/competitor/ambush) - 信頼関係を作ってから両陣営へ競争的に仕掛けることがある
+- [Artificial Competition](/strategies/user-perception/artificial-competition) - 競合が多いように見せ、交渉力を高めることがある
 
 ## ⛅ **関連する状勢パターン**
 
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: shifting alliances alter how battles unfold.
-- [A war causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – influence: playing multiple sides accelerates adaptation.
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 変わる同盟や標準争いの中で位置取りが重要になる
+- [戦争は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – 影響: 複数陣営へ関わることで適応速度が上がる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **"The Art of War" by Sun Tzu:** While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.
-- **"Thinking in Bets" by Annie Duke:** This book provides a framework for making decisions under uncertainty, which is the core challenge of the Playing Both Sides strategy.
+- *The Art of War* by Sun Tzu - 複数の視点から競争地形を読むための古典
+- *Thinking in Bets* by Annie Duke - 不確実性下の意思決定を扱う

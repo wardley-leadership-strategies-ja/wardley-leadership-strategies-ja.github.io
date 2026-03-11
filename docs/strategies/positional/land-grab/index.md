@@ -1,5 +1,5 @@
 ---
-title: Land Grab（先行確保）
+title: 先行確保（Land Grab）
 description: まだ価値が明白でない市場で先に要所を押さえ、将来の競争条件を決めるポジショニング戦略。
 tags:
 - land-grab

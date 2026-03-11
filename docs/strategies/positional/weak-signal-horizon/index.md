@@ -1,7 +1,6 @@
 ---
-title: Weak Signal (Horizon)
-description: Detecting subtle economic, technological, and behavioural patterns to
-  anticipate market shifts before they become obvious.
+title: 弱いシグナル（Horizon）
+description: 経済、技術、行動の微細な変化を捉え、明白になる前に市場転換を察知する戦略。
 tags:
 - weak-signal-horizon
 - positional
@@ -29,176 +28,175 @@ leadership_focus:
 - Learning culture
 - Long-horizon roadmapping
 quick_signals:
-- Your strategy process relies on lagging indicators instead of leading ones.
-- Front-line teams spot emerging behaviours but struggle to get executive attention.
-- Competitors consistently move first when new patterns emerge.
+- 戦略プロセスが先行指標ではなく遅行指標に依存している。
+- 現場は新しい行動変化に気づいているのに、経営へ届かない。
+- 新しいパターンが出るたびに、競合が先に動いている。
 momentum_moves:
-- Establish a cross-functional sensing cadence that reviews anomalies and trends.
-- Run lightweight experiments to validate weak signals before scaling.
-- Translate signal insights into scenario plans and investment options.
+- 異常値や新傾向を見直す横断的な sensing の定例を作る。
+- 弱いシグナルを、小さな実験で検証してから広げる。
+- シグナルの洞察を、シナリオと投資選択肢へ落とし込む。
 watch_outs:
-- Drowning in noise because criteria for meaningful signals are unclear.
-- Using sensing as theatre without committing resources when evidence appears.
-- Treating sensing as a centralised function instead of embedding it in teams.
+- 何が意味あるシグナルかが曖昧で、雑音に溺れること。
+- 証拠が出ても資源を出さず、sensing を儀式化すること。
+- sensing を中央部門の仕事とみなし、チームへ埋め込まないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
-**Detecting subtle economic, technological, and behavioural patterns to anticipate market shifts before they become obvious.**
+**経済、技術、行動の微細なパターンを捉え、明白になる前に市場変化を察知する戦略です。**
 
-> *"Use of common economic patterns to identify where and when to attack."*
+> *「攻撃すべき場所と時期を見つけるために、共通の経済パターンを使うこと。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Weak Signal (Horizon)?
+### 弱いシグナル（Horizon）とは何か
 
-Weak Signal (Horizon) is the organised practice of scanning for early indicators—economic anomalies, nascent behaviours, or emerging technologies—that reveal impending shifts in market landscapes or value chains.
+弱いシグナルとは、経済の異常、小さな行動変化、新興技術の兆しなど、市場やバリューチェーンの転換を先に示す早期指標を、組織的に探す営みです。
 
-Key characteristics include:
+重要な特徴は次の通りです。
 
-- Systematic signal collection from diverse sources.
-- Correlation of patterns to stages of component evolution.
-- Embedding sensing mechanisms in processes and culture.
+- 多様な情報源からシグナルを継続収集する
+- コンポーネントの進化段階とパターンを結びつけて読む
+- sensing をプロセスや文化に埋め込む
 
-### Why use Weak Signal (Horizon)?
+### なぜ使うのか
 
-Anticipating change before it becomes mainstream provides crucial lead time for strategic positioning, resource allocation, and early initiative testing, giving organisations a competitive edge.
+変化が本流になる前に察知できれば、ポジショニング、資源配分、初期実験のための時間が手に入ります。これは競争優位につながります。
 
-### How to use Weak Signal (Horizon)?
+### どう使うのか
 
-1. Establish sensing engines: analytics, user feedback, market research.
-2. Map signals onto value chain evolution and Wardley Maps.
-3. Prioritise high-impact signals and eliminate noise.
-4. Translate insights into hypotheses and small-scale experiments.
+1. 分析、ユーザーフィードバック、市場調査など、sensing の仕組みを持つ
+2. シグナルをバリューチェーンの進化や Wardley Map 上へ重ねる
+3. 影響の大きいシグナルを優先し、雑音を落とす
+4. 洞察を仮説と小規模実験へ変える
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Netflix’s Streaming Pivot
+### Netflix のストリーミング転換
 
-Netflix detected early indicators of broadband adoption and shifting consumer preferences, transitioning from DVD rental to streaming before many competitors, gaining market leadership.
+Netflix は、ブロードバンド普及と消費者行動の変化を早く捉え、DVD レンタルからストリーミングへ移りました。多くの競合より早く動けたことで市場主導権を取りました。
 
-### ARM in Mobile Computing
+### ARM とモバイル計算
 
-ARM recognised emerging demand for low-power processors in mobile devices and positioned its architecture early, becoming the de facto standard for smartphones and tablets.
+ARM は低消費電力プロセッサ需要の兆しを読み、早い段階でその位置を押さえました。その結果、スマートフォンやタブレットの事実上の標準に近い地位を得ました。
 
-### Hypothetical: Wearable Health Sensors
+### 仮想例: ウェアラブル健康センサー
 
-A healthcare provider correlates subtle increases in patient data from wearables, anticipating broader adoption of remote monitoring and launching integrated telehealth services ahead of peers.
+ある医療事業者が、ウェアラブルから流れる患者データの増加を早く見て、遠隔モニタリング需要の本格化を予測し、統合型 telehealth を先に立ち上げるようなケースです。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Weak Signal (Horizon)">
   <MapSignals>
-    <li>Value chain mapping shows components nearing transition points.</li>
-    <li>Multiple weak indicators converge on a potential strategic shift.</li>
-    <li>Early adopters or niche segments show emerging behaviours.</li>
-    <li>Technological readiness signals (e.g., cost curves, prototypes) are present.</li>
+    <li>バリューチェーン上で、コンポーネントが転換点へ近づいている。</li>
+    <li>複数の弱い指標が、一つの戦略変化へ収束し始めている。</li>
+    <li>早期採用者やニッチ市場で新しい行動が見え始めている。</li>
+    <li>コスト曲線や試作品など、技術成熟のシグナルが見えている。</li>
   </MapSignals>
   <Readiness>
-    <li>We have data collection and analysis capabilities.</li>
-    <li>Our culture values curiosity and early experimentation.</li>
-    <li>We can rapidly translate insights into pilot initiatives.</li>
-    <li>Leadership supports investment in sensing and foresight.</li>
-    <li>We maintain cross-functional collaboration to interpret signals.</li>
+    <li>データ収集と分析の能力がある。</li>
+    <li>好奇心と早期実験を尊重する文化がある。</li>
+    <li>洞察をすぐパイロットへ変えられる。</li>
+    <li>経営が sensing と foresight への投資を支えている。</li>
+    <li>シグナル解釈のための横断協働がある。</li>
   </Readiness>
 </Assessment>
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Distinguishing meaningful early signals from noise and orchestrating strategic responses without overcommitting.
+意味ある早期シグナルを雑音から見分け、過剰コミットせずに戦略反応を組み立てることです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic sensing and contextual analysis.
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — Pattern recognition and synthesis.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Decision-making under uncertainty.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Cross-domain collaboration and communication.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 文脈を踏まえてシグナルを読む
+- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — パターン認識と統合を行う
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 不確実性の中で小さく動く
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 分野横断で意味を共有する
 
-### Ethical considerations
+### 倫理面
 
-Ensuring data collection respects privacy, avoiding bias in signal interpretation, and preventing premature decisions that harm stakeholders.
+データ収集でプライバシーを侵害しないこと、解釈にバイアスを持ち込まないこと、弱い証拠だけで関係者へ害のある早すぎる判断をしないことが重要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Deploy sensors (data streams, user interviews, market scans).
-2. Aggregate and visualise signals on evolution maps.
-3. Convene cross-functional teams to review and prioritise signals.
-4. Form hypotheses and run focused experiments.
-5. Iterate sensing and experimentation cycles.
+1. データ流、ユーザー調査、市場スキャンなどのセンサーを配置する
+2. シグナルを進化地図の上に集約し、可視化する
+3. 横断チームでレビューし、優先順位を付ける
+4. 仮説を作り、集中的な実験を回す
+5. sensing と実験のサイクルを反復する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Number of actionable insights generated.
-- Time saved in strategic decision-making.
-- Early initiative success rates from sensed signals.
-- Reduction in missed opportunities or surprises.
-- ROI on sensing and foresight investments.
+- 実行可能な洞察の数
+- 戦略判断までの時間短縮
+- 弱いシグナル起点の施策成功率
+- 見逃しや想定外の減少
+- sensing への投資対効果
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Noise overwhelm
+### 雑音過多
 
-Collecting too many signals without effective filtering leads to analysis paralysis.
+たくさん集めるだけで、ふるい分けが弱いと分析麻痺になります。
 
-### Confirmation bias
+### 確証バイアス
 
-Focusing only on signals that support pre-existing beliefs undermines true foresight.
+もともとの信念に合うシグナルだけ拾うと、先読みは壊れます。
 
-### Slow feedback loops
+### フィードバックの遅さ
 
-Delays between sensing and action erode the value of early indicators.
+気づきから行動までが遅いと、早期シグナルの価値は失われます。
 
-### Resource misallocation
+### 資源誤配分
 
-Investing heavily in unvalidated signals can drain resources from core operations.
+未検証シグナルへ大きく張りすぎると、中核業務を圧迫します。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Signal integration
+### シグナル統合
 
-Combining diverse data sources uncovers patterns invisible in isolation.
+多様なデータ源を組み合わせることで、単独では見えないパターンが見えます。
 
-### Lead indicators vs lag indicators
+### 先行指標と遅行指標
 
-Focusing on signals that precede market shifts, not those that confirm them after the fact.
+市場変化の後追い確認ではなく、その前に現れる兆しへ焦点を当てる必要があります。
 
-### Cultural embedding
+### 文化への埋め込み
 
-Effective sensing requires an organisational culture that values and acts on early insights.
+有効な sensing は専任部署だけでは成り立ちません。早い洞察を拾い、行動に変える文化が必要です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Signal quality:** How credible and diverse are our data sources?
-- **Interpretation:** Are we challenging assumptions in our analysis?
-- **Action readiness:** Can we rapidly prototype based on insights?
-- **Bias checks:** What safeguards prevent confirmation bias?
-- **Resource balance:** Are we allocating enough to core operations?
+- シグナル源はどれだけ信頼でき、多様か
+- 解釈で前提を本当に疑えているか
+- 洞察をもとに素早く試作できるか
+- 確証バイアスを防ぐ仕組みがあるか
+- 中核運営との資源バランスを取れているか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Land Grab](/strategies/positional/land-grab) – using signals to guide where to stake claims.
-- [First Mover](/strategies/positional/first-mover) – to act on signals by industrialising early.
-- [Fast Follower](/strategies/positional/fast-follower) – to time entry based on pioneer signals.
-- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) – building infrastructure for systematic data collection.
-
-- [Procrastination](/strategies/defensive/procrastination) - holding action until weak signals coalesce, reducing the risk of premature commitments to false positives.
-- [Experimentation](/strategies/attacking/experimentation) - conducting targeted probes to validate weak signals and refine strategic direction.
-- [Directed Investment](/strategies/attacking/directed-investment) - allocating resources to areas highlighted by validated signals to establish a competitive edge.
+- [Land Grab](/strategies/positional/land-grab) - どこを先に押さえるべきかをシグナルで判断する
+- [First Mover](/strategies/positional/first-mover) - 弱いシグナルを先に産業化する
+- [Fast Follower](/strategies/positional/fast-follower) - 先行者の動きから入る最適な時点を測る
+- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - 系統的なデータ収集基盤を作る
+- [Procrastination](/strategies/defensive/procrastination) - 弱いシグナルが十分に束になるまで待つ防御策
+- [Experimentation](/strategies/attacking/experimentation) - シグナル検証のための探りを入れる
+- [Directed Investment](/strategies/attacking/directed-investment) - 検証済みシグナルの領域へ資源を張る
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Weak signals often indicate the early stages of a component's evolution or a shift in its trajectory.
-- [Characteristics change](/climatic-patterns/characteristics-change) – rel: Subtle changes in component characteristics can be weak signals of broader market shifts.
-- [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: Weak signals are inherently uncertain but crucial for navigating early, unevolved spaces.
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – rel: Recognizing cyclical patterns can help identify weak signals related to market peaks, troughs, and transitions.
-- [Not everything is random](/climatic-patterns/not-everything-is-random) – rel: The core belief of weak signal detection is that underlying patterns, not randomness, drive market changes.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 弱いシグナルは進化の初期兆候として現れやすい
+- [特性は変化する](/climatic-patterns/characteristics-change) – 関係: コンポーネント特性の微細変化が大きな転換の兆しになる
+- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 弱いシグナルは不確実だが、初期空間で重要になる
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: 景気循環の兆しも弱いシグナルになる
+- [すべてがランダムというわけではない](/climatic-patterns/not-everything-is-random) – 関係: 背後パターンがあるという前提がこの戦略の基盤
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Wardley, S. – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) – foundational concepts on sensing and foresight.
-- Kahneman, D. – [*Thinking, Fast and Slow*](/books/thinking-fast-and-slow) – for insights on bias and signal interpretation.
-- [*Horizon Scanning*](https://en.wikipedia.org/wiki/Horizon_scanning), Wikipedia - methodologies in foresight practice.
+- Simon Wardley – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) - sensing と foresight の基礎
+- [*Thinking, Fast and Slow*](/books/thinking-fast-and-slow) - バイアスとシグナル解釈を考える文脈
+- [Horizon Scanning](https://en.wikipedia.org/wiki/Horizon_scanning) - foresight 実務の方法論
