@@ -33,10 +33,10 @@
 ## Deployment Policy
 
 - The site builds to static files in `./build` via `npm run build`.
-- Preferred deployment target is Cloudflare Pages because preview deployments fit the ongoing translation workflow.
-- GitHub Pages is also valid. Default URLs are `https://<owner>.github.io/` for a user or organization site, and `https://<owner>.github.io/<repo>/` for a project site.
-- The current Docusaurus config assumes root hosting with `baseUrl: '/'`. That works for a custom domain or a root GitHub Pages site. For a project Pages site, update `url` and `baseUrl` before deploying.
-- `docusaurus.config.ts` currently reads `url` from `SITE_URL`. Set that for production deployments.
+- The current deployment target is GitHub Pages project site at `https://kdmsnr.github.io/wardley-leadership-strategies-ja/`.
+- GitHub Pages project URLs are `https://<owner>.github.io/<repo>/`. User or organization root sites are `https://<owner>.github.io/`.
+- `docusaurus.config.ts` reads `SITE_URL`, `BASE_URL`, `GITHUB_OWNER`, and `GITHUB_REPO`. Keep local development on `BASE_URL=/` unless you are explicitly validating the project-site path.
+- GitHub Actions deployment is defined in `./.github/workflows/deploy-pages.yml` and builds with `SITE_URL=https://kdmsnr.github.io` and `BASE_URL=/wardley-leadership-strategies-ja/`.
 - `package.json` requires Node `^24.0.0`. If using Cloudflare Pages, pin Node 24 in the build environment.
 
 ## Validation
