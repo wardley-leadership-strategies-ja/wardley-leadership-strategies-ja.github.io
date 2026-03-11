@@ -1,212 +1,221 @@
 ---
-title: Standards Game
-description: Driving adoption of your technology or process until it becomes the dominant standard, locking in customers and constraining competitors.
-tags: [standards, markets, dominance, competition, differentiation, switching costs, lock-in]
-authors: [dave-hulbert]
+title: 標準化ゲーム（Standards Game）
+description: 自社技術やプロセスが支配的標準になるまで採用を進め、顧客をロックインし競合を縛る戦略。
+tags:
+- standards
+- markets
+- dominance
+- competition
+- differentiation
+- switching costs
+- lock-in
+authors:
+- dave-hulbert
 stages:
-  - Product
-  - Commodity/Utility
+- Product
+- Commodity/Utility
 goals:
-  - Shape the market
-  - Defend your position
-  - Build ecosystem leverage
+- Shape the market
+- Defend your position
+- Build ecosystem leverage
 pressures:
-  - Ecosystem fragmentation
-  - Facing dominant incumbent
-  - Customers are nervous about change
+- Ecosystem fragmentation
+- Facing dominant incumbent
+- Customers are nervous about change
 leadership_focus:
-  - Standard stewardship
-  - Certification and compliance
-  - Coalition management
+- Standard stewardship
+- Certification and compliance
+- Coalition management
 quick_signals:
-  - Incompatible approaches are slowing adoption or integration.
-  - You already provide the reference implementation most partners copy.
-  - Regulators or large buyers seek clarity on what “good” looks like.
+- 非互換な方式が採用や統合を遅らせている。
+- すでに多くの partner がコピーする reference implementation を提供している。
+- 規制当局や大口顧客が、何が “good” かの明確化を求めている。
 momentum_moves:
-  - Publish open specifications and supporting test suites.
-  - Recruit a neutral or respected body to host the standard.
-  - Offer accreditation or compatibility programmes that reinforce trust.
+- open specification と supporting test suite を公開する。
+- respected な中立団体へ standard の host を依頼する。
+- trust を補強する accreditation や compatibility programme を提供する。
 watch_outs:
-  - Appearing self-serving and triggering regulatory backlash.
-  - Letting the standard stagnate while competitors innovate around it.
-  - Failing to resource the operational overhead of maintaining the standard.
+- 自社都合に見えすぎて、規制反発を招くこと。
+- standard 自体を停滞させ、競合に迂回 innovation を許すこと。
+- standard 維持の運用負荷を見誤ること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
-**Intentionally shaping a market standard so others must follow your approach, limiting their ability to differentiate.**
+**市場標準を意図的に形作り、他者がその方式へ従わざるを得ない状態を作る戦略です。**
 
-> *"Driving a market to a standard to create a cost of transition for others or remove the ability of others to differentiate."*
+> *「市場を標準へ押し込み、他者へ移行コストを作る、あるいは差別化能力を取り去ること。」*
 >
-> -- Simon Wardley
+> - Simon Wardley
 
 <AssessmentToolAdvert strategyName="Standards Game" />
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is the Standards Game?
+### 標準化ゲームとは何か
 
-The Standards Game is the deliberate effort to establish your technology, process, or specification as the de facto or de jure benchmark for an industry. By steering a market toward your standard, you create high switching costs and reduce competitors’ freedom to innovate outside your framework. This can be done openly—through collaborative bodies and open approaches—or covertly by leveraging market dominance until your way becomes unavoidable.
+標準化ゲームは、自社技術、プロセス、仕様を、その業界の de facto または de jure standard にする意図的な取り組みです。市場を自社標準へ寄せることで、高い switching cost を作り、競合が自分の枠組みの外で innovating する自由を減らします。
 
-### Why use the Standards Game?
+これは collaborative body や open approach を通じて open に行うこともあれば、市場支配力を leverage して「それに従うしかない」状態へ持ち込む形でも行われます。
 
-- **Lock in customers** by making alternatives costly or incompatible.
-- **Limit competitor differentiation** as rivals must conform to your chosen approach.
-- **Guide ecosystem evolution** in a direction that benefits your broader strategy.
-- **Simplify integration** and reduce friction for partners, often leading to network effects.
+### なぜ使うのか
 
-### How to use the Standards Game
+- **顧客を lock-in する**
+- **競合差別化を縛る**
+- **ecosystem の進化方向を誘導する**
+- **integration friction を減らし、network effect を作る**
 
-1. Offer a reference implementation or open specification to encourage adoption.
-2. Build alliances and industry consortia to legitimise the standard.
-3. Use lobbying or regulatory engagement to enshrine the standard in policy when possible.
-4. Maintain and evolve the standard so others depend on your guidance and updates.
-5. Provide tooling, certification, or compatibility programs to keep participants aligned.
+### どう使うのか
 
-## 🗺️ **Real-World Examples**
+1. reference implementation や open specification を出し adoption を促す
+2. alliance や consortium を組み、正統性を作る
+3. 必要なら lobbying や規制関与で policy へ埋め込む
+4. standard を継続的に update し、自社 guidance への依存を作る
+5. tooling、certification、compatibility programme を提供して参加者を揃える
 
-### USB and universal compatibility
+## 🗺️ **実例**
 
-Intel and partners promoted the USB interface as an open standard, displacing a range of proprietary connectors. Once adoption reached critical mass, hardware makers had little choice but to follow.
+### USB
 
-### GSM mobile standard
+Intel などが USB を open standard として推進し、多数の proprietary connector を置き換えました。臨界量を超えると、hardware maker は従うしかなくなりました。
 
-European regulators and telecom companies cooperated on the GSM standard, enabling roaming and interoperability across networks. This coordination gave European manufacturers an early global edge and forced others to comply or be left behind.
+### GSM モバイル標準
 
-### Amazon S3 API compatibility
+欧州の規制当局と telecom 企業は GSM 標準で協調し、roaming と interoperability を可能にしました。これが欧州メーカーに先行優位を与えました。
 
-Amazon’s S3 object storage interface has become a de facto standard. Competing clouds often implement S3-compatible APIs so existing tools and applications continue to work, effectively locking users into the S3 model.
+### Amazon S3 API
 
-## 🚦 **When to Use / When to Avoid**
+S3 の object storage interface は事実上の standard になり、競合クラウドも S3-compatible API を実装せざるを得なくなっています。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Standards Game">
   <MapSignals>
-    <li>The market suffers from fragmentation or competing formats.</li>
-    <li>We control a technology that others depend on or want access to.</li>
-    <li>Adoption of a common approach would create network effects.</li>
-    <li>Competitors are divided among incompatible alternatives.</li>
+    <li>市場が fragmentation や competing format に苦しんでいる。</li>
+    <li>他者が依存したい、または依存せざるを得ない技術を握っている。</li>
+    <li>common approach が network effect を生む。</li>
+    <li>競合が互いに非互換な alternative へ分かれている。</li>
   </MapSignals>
   <Readiness>
-    <li>We can provide and maintain a reference implementation.</li>
-    <li>We have influence with regulators or standards bodies.</li>
-    <li>Our brand or market share is strong enough to drive adoption.</li>
-    <li>We are committed to supporting the standard long term.</li>
+    <li>reference implementation を提供し続けられる。</li>
+    <li>規制当局や standards body へ影響力がある。</li>
+    <li>brand や market share に adoption を駆動する力がある。</li>
+    <li>長期で standard を支え続ける覚悟がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- A unified standard would dramatically reduce friction for customers or partners.
-- You have enough market weight or alliances to make your approach stick.
+- 共通 standard が customer や partner の friction を大きく減らすとき
+- 自社方式を stick させるだけの市場力や alliance があるとき
 
-### Avoid when
+### 避けるとき
 
-- Standardising would erode your unique value proposition.
-- The market is still exploring radically different solutions and premature standardisation would stifle innovation.
+- standard 化が自社の unique value proposition を erode するとき
+- market がまだ radically different solution を探索中で、早すぎる標準化が innovation を殺すとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Balancing openness to drive adoption with enough control to keep the standard aligned with your strategic interests.
+adoption を広げる openness と、自社戦略に沿わせる control の均衡です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Coalition building and negotiation.
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Regulatory awareness and lobbying.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Technical governance and ecosystem management.
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Clear communication and marketing.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Long-term commitment to maintenance.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — coalition と negotiation を動かす
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 規制と lobbying を読む
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — technical governance と ecosystem 管理を行う
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — communication と market trust を保つ
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 長期 maintenance を見据える
 
-### Ethical considerations
+### 倫理面
 
-Leaders must ensure the standard genuinely serves user and industry needs rather than merely entrenching their own power. Transparency in governance helps avoid accusations of lock-in or anticompetitive behaviour.
+standard が本当に user と industry needs に資するのか、それとも自社 power 固定の道具なのかを問わなければなりません。透明な governance が lock-in や反競争の疑いを減らします。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Map the landscape and identify fragmentation or emerging consensus.
-2. Publish or open-source a reference implementation or specification.
-3. Recruit partners and form or join a standards consortium.
-4. Provide tooling, certification, or compliance tests to ease adoption.
-5. Lobby regulators or influential bodies to recognise or mandate the standard.
-6. Continually evolve the standard to address new needs while maintaining backward compatibility.
+1. fragmentation や emerging consensus を地図化する
+2. reference implementation や specification を公開する
+3. partner を集め、consortium を作るか参加する
+4. tooling、certification、compliance test を用意する
+5. 必要なら規制当局や有力団体へ認知・採用を働きかける
+6. backward compatibility を保ちながら standard を進化させる
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Market share of products or services conforming to your standard
-- Number of partners or third parties certified or adopting the standard
-- Frequency of regulatory or industry references to your standard
-- Reduction in customer churn due to switching costs
-- Influence over roadmap and direction of the wider ecosystem
+- 自社 standard 準拠製品・サービスの market share
+- standard を採用・認証する partner 数
+- 規制や業界文書で自社 standard が参照される頻度
+- switching cost による churn 減少
+- wider ecosystem の roadmap と方向性への影響力
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Lack of adoption
+### adoption 不足
 
-If early uptake is weak, the standard may never reach critical mass and could be abandoned.
+初期採用が弱いと、critical mass へ届かず standard は捨てられます。
 
-### Perceived vendor lock-in
+### vendor lock-in と見なされる
 
-Heavy-handed control can generate backlash and rival standards, undermining adoption.
+支配が強すぎると反発と rival standard を呼びます。
 
-### Underestimating maintenance costs
+### maintenance コストの過小評価
 
-Standards require ongoing stewardship; neglecting updates or compatibility erodes trust.
+standard は育て続けなければ trust を失います。
 
-### Regulatory backlash
+### 規制反発
 
-Attempts to force a standard can attract antitrust scrutiny or political opposition.
+standard を押し付ける動きは antitrust や政治的反発を招きます。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Standards as chokepoints
+### standard は chokepoint になる
 
-When you define the interface everyone uses, you control the pace of change and become difficult to displace. Others innovate on top of your foundation, not against it.
+みなが使う interface を定義すると、変化速度を握り、置き換えられにくくなります。
 
-### Timing matters
+### タイミングが重要
 
-Standardise too early and you may freeze an immature approach. Too late and a rival standard may already dominate. Mapping where the component sits on the evolution curve helps judge the right moment.
+早すぎれば未熟な方法を固定し、遅すぎれば rival standard が支配している。進化軸のどこにいるかの判断が重要です。
 
-### Prepare for counterplay
+### counterplay に備える
 
-Competitors may attempt embrace-and-extend tactics or create alternative alliances. Monitoring and engaging with these efforts is essential to keep your standard central.
+competitor は embrace-and-extend や alternative alliance を作ってきます。継続監視と応答が必要です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Influence:** Which organisations or regulators must we convince to legitimise our standard?
-- **Adoption:** What incentives can we offer developers or partners to adopt it?
-- **Differentiation:** Does controlling this standard truly strengthen our position, or could it commoditise us?
-- **Long-term commitment:** Are we ready to maintain governance and backward compatibility for years?
-- **Counterplay:** How might competitors respond, and do we have a plan for their alternative standards?
+- どの組織や規制当局を説得すれば standard に正統性が出るか
+- developer や partner へ、どんな adoption incentive を出せるか
+- この standard を握ることで、本当に自社が強くなるのか、それとも自分たちを commoditize するのか
+- governance と backward compatibility を何年も支えられるか
+- competitor の alternative standard にどう応じるか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Open Approaches](/strategies/accelerators/open-approaches) – Opening code or processes can accelerate adoption and make your approach the default.
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – Embedding a standard in law cements your advantage.
-- [Lobbying](/strategies/user-perception/lobbying) – Persuading policymakers or industry bodies to endorse your approach.
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Standards can raise compliance costs for newcomers.
-- [Designed to Fail](/strategies/poison/designed-to-fail) – Poisoning rival standards can clear the field for your own.
-
-- [Cooperation](/strategies/accelerators/cooperation) - working with stakeholders to build consensus and reduce friction in standard adoption.
-- [Industrial Policy](/strategies/accelerators/industrial-policy) - leveraging government actions and incentives to mandate or encourage standard adoption.
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - harnessing network effects to accelerate adoption and entrench the standard.
-- [Market Enablement](/strategies/accelerators/market-enablement) - preparing ecosystems and pilot programmes to drive early uptake and validate the standard.
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - using compliance requirements to restrict alternative solutions and raise entry barriers.
-- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - adopting standard specifications before layering proprietary extensions to steer its evolution.
-- [Alliances](/strategies/ecosystem/alliances) - forming coalitions of organisations to coordinate and promote standardisation efforts.
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - engaging multiple standard bodies or camps in parallel to influence outcomes and retain flexibility.
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control of standard implementation to influence supplier terms and buyer commitments.
+- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) – code や process を開くと standard adoption が加速しやすい
+- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 法律へ埋め込めば standard がより強くなる
+- [Lobbying](/strategies/user-perception/lobbying) – policy maker や industry body の説得
+- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – standard compliance 自体が参入障壁になる
+- [Designed to Fail](/strategies/poison/designed-to-fail) – rival standard を毒して自分の field を空けることがある
+- [協調（Cooperation）](/strategies/accelerators/cooperation) - stakeholder と協働して friction を減らす
+- [産業政策（Industrial Policy）](/strategies/accelerators/industrial-policy) - 政府行動で adoption を後押しする
+- [ネットワーク効果の活用（Exploiting Network Effects）](/strategies/accelerators/exploiting-network-effects) - network effect が standard を固定する
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - pilot と ecosystem 育成で early uptake を作る
+- [競争制限（Limitation of Competition）](/strategies/defensive/limitation-of-competition) - compliance requirement で代替を絞る
+- [抱き込みと拡張（Embrace and Extend）](/strategies/ecosystem/embrace-and-extend) - standard を取り込み proprietary extension を重ねる
+- [アライアンス（Alliances）](/strategies/ecosystem/alliances) - coalition を組んで標準化を進める
+- [両面張り（Playing Both Sides）](/strategies/attacking/playing-both-sides) - 複数 standard camp に関わって柔軟性を保つ
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - standard 実装支配で buyer / supplier 条件を動かす
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Standards emerge as components evolve towards commodity; playing the standards game is a way to influence this evolution.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Standards often arise to improve efficiency and interoperability, which then enables higher-order innovation.
-- [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – rel: The establishment of a standard can be a punctuation point in the shift of a component to a utility.
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Competitors will fight to establish their own standards or resist yours.
-- [No one size fits all](/climatic-patterns/no-one-size-fits-all) – rel: While a standard aims for uniformity, its application might still vary, or competing standards may serve different niches.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: standard は commodity 化へ向かう進化に影響する
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: standard は効率と相互運用性を高め、高次革新を可能にする
+- [プロダクトからユーティリティへの移行は断続平衡を示しやすい](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – 関係: standard 成立は utility 化の punctuation point になる
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: competitor は自分たちの standard も立てようとする
+- [ひとつのサイズですべてに合うわけではない](/climatic-patterns/no-one-size-fits-all) – 関係: standard は uniformity を目指しても、適用差や niche 差は残る
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [USB Implementers Forum](https://www.usb.org/) – Example of industry coordination driving a ubiquitous standard.
-- [GSM Association](https://www.gsma.com/) – Case study of regulators and industry collaborating on a global mobile standard.
-- [RFC 2026 – The Internet Standards Process](https://www.rfc-editor.org/rfc/rfc2026) – Insight into how open standards bodies govern technical specifications.
+- [USB Implementers Forum](https://www.usb.org/) – industry coordination による ubiquitous standard の例
+- [GSM Association](https://www.gsma.com/) – 規制と industry 協調による mobile standard の事例
+- [RFC 2026 – The Internet Standards Process](https://www.rfc-editor.org/rfc/rfc2026) – open standard body の運営プロセス

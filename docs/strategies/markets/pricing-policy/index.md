@@ -1,7 +1,6 @@
 ---
-title: Pricing Policy
-description: Using pricing as a strategic tool to manipulate demand, shape markets,
-  and gain competitive advantage.
+title: 価格政策（Pricing Policy）
+description: 価格を戦略レバーとして使い、需要、市場構造、競争優位を動かす戦略。
 tags:
 - markets
 - pricing
@@ -28,196 +27,193 @@ leadership_focus:
 - Market segmentation
 - Data instrumentation
 quick_signals:
-- You need to stimulate demand or throttle usage without major product changes.
-- Competitors undercut pricing narratives you historically owned.
-- Unit economics vary wildly across segments, hinting at better price architectures.
+- 大きな製品変更なしに、需要を刺激または抑制する必要がある。
+- 競合が、歴史的に自社が握っていた価格物語を崩している。
+- segment ごとの unit economics が大きく異なり、より良い価格設計の余地がある。
 momentum_moves:
-- Model elasticity scenarios that align pricing moves with strategic outcomes.
-- Run controlled experiments to validate willingness to pay across segments.
-- Align pricing, marketing, and sales playbooks to reinforce the new positioning.
+- elasticity のシナリオを組み、価格変更を戦略成果へ結びつける。
+- segment ごとの willingness to pay を小さな実験で検証する。
+- pricing、marketing、sales の playbook を揃え、新しい位置付けを補強する。
 watch_outs:
-- Triggering a price war you cannot sustain.
-- Confusing customers with constant or opaque price changes.
-- Ignoring cost-to-serve differences and destroying margin.
+- 持続できない price war を起こすこと。
+- 価格変更が頻繁または不透明で customer を混乱させること。
+- cost-to-serve の違いを無視して margin を壊すこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+**価格を、需要操作、市場形成、競争優位のための戦略ツールとして使う戦略です。**
 
-**Using pricing as a strategic tool to manipulate demand, shape markets, and gain competitive advantage.**
-
-> *"Exploiting supply and demand effects including price elasticity, Jevons paradox and constraints including fragmentation plays."*
+> *「価格弾力性、Jevons paradox、制約、分断戦略を含めた需給効果を活用すること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is a Strategic Pricing Policy?
+### 戦略的な価格政策とは何か
 
-A strategic Pricing Policy treats pricing as a proactive tool to achieve specific business objectives, rather than simply a way to cover costs and generate profit. It involves setting prices to influence customer behavior, alter the competitive landscape, and maximize the value captured from the market. This can mean radically lowering prices to drive adoption or deliberately setting high prices to signal quality and maximize revenue from a niche segment.
+戦略的価格政策は、価格を単なる原価回収や利益計算の数字ではなく、特定の business objective を達成するための能動的レバーとして扱います。顧客行動を変え、競争地形を動かし、市場から取る価値を最大化するために価格を設計します。
 
-### Why use a Strategic Pricing Policy?
+### なぜ使うのか
 
-By moving beyond cost-plus or competitor-based pricing, a strategic approach can:
+原価積み上げや competitor 追随を超えて価格を使うと、次のことができます。
 
-- **Stimulate or suppress demand:** Lowering prices can dramatically increase consumption (see Jevons Paradox), while raising them can manage demand in the face of limited supply.
-- **Commoditize a market:** Aggressively low pricing can turn a previously profitable component into a low-margin utility, hurting competitors who rely on it for revenue.
-- **Create new market segments:** Modular or tiered pricing can fragment a market, allowing you to dominate specific niches.
-- **Signal value and position:** Premium pricing can signal high quality and exclusivity, while low pricing can signal efficiency and value.
-- **Build a user base:** Offering a product for free or at a very low price (freemium or penetration pricing) can be a powerful way to quickly build a large user base.
+- **需要を刺激または抑制する**
+- **市場を commoditize する**
+- **新しい segment を作る**
+- **価値と位置付けを signal する**
+- **ユーザー基盤を素早く築く**
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Amazon Web Services (AWS)
+### AWS
 
-AWS famously used a penetration pricing strategy, constantly lowering the price of its cloud computing services. This drove massive adoption, making cloud computing accessible to a much wider audience. The increased volume more than made up for the lower margins and helped establish AWS as the dominant market leader, commoditizing the underlying infrastructure for many businesses.
+AWS は penetration pricing を使い、クラウド価格を継続的に下げて採用を拡大しました。低 margin でも volume が勝ち、基盤そのものを commoditize し、市場支配を強めました。
 
-### The Dollar Shave Club
+### Dollar Shave Club
 
-The Dollar Shave Club disrupted the razor market with a simple, low-cost subscription model. By offering razors for "a dollar a month," they directly challenged the high-priced, feature-heavy models of incumbents like Gillette. This pricing strategy was central to their value proposition and helped them rapidly capture market share.
+「1ドルでカミソリ」という低価格 subscription で、Gillette の高価格モデルを正面から崩しました。pricing 自体が value proposition でした。
 
-### Apple's iPhone
+### Apple の iPhone
 
-Apple has consistently used a premium pricing strategy for the iPhone. The high price reinforces the perception of the iPhone as a high-quality, aspirational product. This strategy has allowed Apple to capture a disproportionate share of the smartphone market's profits, even without having the largest market share in terms of units sold.
+Apple は premium pricing を維持し、高品質で aspirational な製品という認識を強めつつ、スマホ市場の profit pool を大きく取っています。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Pricing Policy">
   <MapSignals>
-    <li>Your map shows a component that is ripe for commoditization through aggressive pricing.</li>
-    <li>There is a high degree of price elasticity in your market, meaning demand is sensitive to price changes.</li>
-    <li>Your competitors have rigid pricing structures that are slow to adapt.</li>
-    <li>There are opportunities to fragment the market with modular or tiered pricing.</li>
+    <li>地図上で、積極価格によって commoditize できる component がある。</li>
+    <li>市場の価格弾力性が高く、需要が価格に敏感である。</li>
+    <li>競合の価格構造が硬直していて動きが遅い。</li>
+    <li>tiered pricing や modular pricing で市場を分断できる。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a deep understanding of our cost structure and the value our products provide to customers.</li>
-    <li>Our finance and marketing teams work closely together to set and manage prices.</li>
-    <li>We have the systems in place to experiment with different pricing models and measure the results.</li>
-    <li>Our leadership is willing to use pricing as a strategic lever, even if it means short-term margin reduction.</li>
+    <li>原価構造と顧客価値を深く理解している。</li>
+    <li>finance と marketing が密に連携している。</li>
+    <li>異なる価格モデルを実験し、結果を測る仕組みがある。</li>
+    <li>短期 margin を削っても pricing を戦略レバーに使う覚悟がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You have a cost advantage that allows you to sustainably undercut competitors.
-- You want to rapidly gain market share and build a large user base.
-- Your product is highly differentiated, allowing you to command a premium price.
-- You can segment your market and offer different price points to different customer groups.
+- 持続的に competitor より安く出せる cost advantage があるとき
+- 急速に share を取り、大きな user base を作りたいとき
+- 商品差別化が強く premium を維持できるとき
+- 顧客群ごとに異なる価格帯を出せるとき
 
-### Avoid when
+### 避けるとき
 
-- You are in a market where price is not a primary driver of purchasing decisions (e.g., highly regulated industries).
-- Your brand is built on exclusivity and prestige, and lowering prices would damage it.
-- Your competitors can easily match your price changes, leading to a price war that erodes profits for everyone.
-- You do not have a clear understanding of your customers' willingness to pay.
+- 高度規制産業のように、price が主要購買要因ではないとき
+- exclusivity や prestige にブランドが依存し、値下げがそれを壊すとき
+- competitor が容易に同じ価格へ合わせられ、industry 全体の利益を壊すとき
+- 顧客の willingness to pay をよく分かっていないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The primary challenge for leaders is to balance the short-term pressure for revenue and profit with the long-term strategic goals of the pricing policy. A decision to lower prices to gain market share, for example, may be met with resistance from a finance department focused on margins. Leaders must have the conviction to see the strategy through.
+短期売上・利益の圧力と、長期戦略目的をどう両立するかです。share 拡大のための値下げは、finance 側の反発を呼びやすく、信念を持って押し切る力が要ります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — The ability to understand complex market dynamics, cost structures, and customer data.
-- [Pricing strategy](/leadership-skills/pricing-strategy) — The capacity to see pricing not just as a number, but as a tool for shaping the future of the market.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to make bold pricing decisions that may be unpopular in the short term.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to articulate the strategic rationale for the pricing policy to all stakeholders.
+- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — 市場力学、原価、顧客データを読む
+- [Pricing strategy](/leadership-skills/pricing-strategy) — price を未来形成の道具として使う
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 短期に unpopular な価格判断を下す
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — pricing rationale を関係者へ伝える
 
-### Ethical considerations
+### 倫理面
 
-Pricing policies can have significant ethical implications. Predatory pricing (setting prices below cost to drive competitors out of business) is illegal in many jurisdictions. Price gouging (charging excessively high prices for essential goods during an emergency) is also unethical and often illegal. Leaders must ensure their pricing policies are fair and transparent.
+predatory pricing や price gouging のように、違法または不公正な価格政策は大きな問題になります。公平さと透明性が前提です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Analyze the Market and Your Position:** Understand the competitive landscape, your cost structure, and the value your product provides. Use Wardley Maps to identify opportunities for commoditization or differentiation.
-2. **Define Your Strategic Objective:** What do you want to achieve with your pricing policy? (e.g., gain market share, maximize profit, deter new entrants).
-3. **Choose Your Pricing Strategy:** Select a pricing model that aligns with your objective (e.g., penetration pricing, premium pricing, freemium, subscription).
-4. **Set Your Price Points:** Determine the actual prices you will charge. This may involve A/B testing, conjoint analysis, or other market research techniques.
-5. **Implement and Communicate:** Roll out the new pricing and clearly communicate the value proposition to your customers.
-6. **Monitor and Adapt:** Continuously monitor the impact of your pricing on sales, profit, and market share. Be prepared to adjust your strategy in response to competitor actions and changing market conditions.
+1. 市場、競争、原価、自社位置を分析する
+2. 価格政策の objective を明確にする。share、profit、user acquisition など
+3. penetration、premium、freemium、subscription などからモデルを選ぶ
+4. A/B test や conjoint analysis などで実価格を決める
+5. rollout し、value proposition とともに説明する
+6. sales、profit、share、competitor 反応を見て調整する
 
-### Visualising pricing policy choices
+### 価格政策の選択を図示する
 
 ```mermaid
 flowchart TD
-    A[Map demand, elasticity<br/>and cost data] --> B{Primary objective?}
-    B -->|Accelerate adoption| C[Lower prices<br/>Penetration or freemium]
-    B -->|Protect margins| D[Signal premium value]
-    B -->|Shape segments| E[Create tiered or modular offers]
-    B -->|Throttle usage| F[Introduce usage-based controls]
-    C --> G[Monitor volume & CAC impact]
-    D --> H[Bundle differentiators<br/>to justify price]
-    E --> I[Align packages to willingness to pay]
-    F --> J[Match demand to capacity constraints]
-    G --> K[Measure market share, CLV,<br/>competitor reactions]
+    A[需要、弾力性、原価を把握する] --> B{主目的は何か}
+    B -->|採用加速| C[低価格化<br/>Penetration or freemium]
+    B -->|利益保護| D[premium 価値を示す]
+    B -->|市場分断| E[tiered or modular pricing]
+    B -->|利用抑制| F[usage-based control]
+    C --> G[volume と CAC を観測]
+    D --> H[差別化要素を bundle して正当化]
+    E --> I[willingness to pay に合わせて package]
+    F --> J[需要を capacity 制約へ合わせる]
+    G --> K[share、CLV、competitor reaction を測る]
     H --> K
     I --> K
     J --> K
-    K --> L[Iterate experiments<br/>and refine price architecture]
+    K --> L[実験を反復し、価格設計を磨く]
     L --> A
 ```
 
-This flow illustrates how teams connect strategic intent to pricing levers and then loop outcomes back into the next iteration of pricing experiments.
+## 📈 **成功指標**
 
-## 📈 **Measuring Success**
+- market share の変化
+- target profit margin の達成度
+- CAC の変化
+- CLV の変化
+- 価格弾力性の把握精度
 
-- **Market Share:** Has your pricing policy helped you gain or maintain market share?
-- **Profitability:** Are you achieving your target profit margins?
-- **Customer Acquisition Cost (CAC):** Has your pricing strategy helped to lower your CAC?
-- **Customer Lifetime Value (CLV):** Are you attracting and retaining high-value customers?
-- **Price Elasticity of Demand:** How sensitive is demand for your product to changes in price?
+## ⚠️ **失敗しやすい点**
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+### price war の開始
 
-### Starting a Price War
+積極値下げは、industry 全体の profitability を壊す race to the bottom を招きます。
 
-Aggressive price cuts can trigger a race to the bottom, destroying profitability for the entire industry.
+### customer の疎外
 
-### Alienating Customers
+複雑、不透明、頻繁な価格変更は trust を壊します。
 
-Complex or opaque pricing can confuse and frustrate customers. Sudden price increases can be seen as a betrayal of trust.
+### 価値の誤認
 
-### Misunderstanding Value
+安すぎれば money を置き忘れ、高すぎれば customer を失います。
 
-If you underprice your product, you may be leaving money on the table. If you overprice it, you may drive customers away.
+### 原価無視
 
-### Ignoring Costs
+原価理解のない価格政策は持続しません。
 
-A pricing policy that is not grounded in a solid understanding of your costs is unsustainable.
+## 🧠 **戦略的示唆**
 
-## 🧠 **Strategic Insights**
+### 価格と進化
 
-### Pricing and Evolution
+コンポーネントが Genesis から Commodity へ進化するにつれて、最適 pricing は変わります。初期は premium が可能でも、市場成熟とともに competitive pricing が中心になります。
 
-As components in a value chain evolve from Genesis to Commodity, the optimal pricing strategy changes. In the early stages, premium pricing may be possible. As the market matures, prices tend to fall, and cost-plus or competitive pricing becomes more common.
+### 価値創造と価値回収
 
-### Value Capture vs. Value Creation
+pricing は価値回収の主装置ですが、回収だけに寄ると長期の価値創造を止めます。均衡が必要です。
 
-Pricing is the primary mechanism for capturing value. However, a pricing policy that is too focused on value capture can stifle innovation and value creation in the long run. The most effective strategies find a balance between the two.
+## ❓ **問うべきこと**
 
-## ❓ **Key Questions to Ask**
+- price の主目的は何か
+- 自社製品は顧客へどれだけの価値を作り、それをどう定量化するか
+- 値上げ・値下げで volume はどう動くか
+- competitor はどう反応するか
+- pricing が brand image にどんな影響を与えるか
 
-- **Objective:** What is the primary goal of our pricing? (e.g., market share, profit, user acquisition)
-- **Value:** How much value does our product create for our customers, and how can we quantify it?
-- **Elasticity:** How will our sales volume change if we raise or lower our prices?
-- **Competitor Reaction:** How are our competitors likely to react to our pricing moves?
-- **Brand Image:** How does our pricing affect our brand's perception in the market?
+## 🔀 **関連戦略**
 
-## 🔀 **Related Strategies**
-
-- **[Fragmentation](/strategies/competitor/fragmentation)**: Pricing can be used to deliberately break a market into smaller, more manageable segments.
-- **[Jevons Paradox](/terms/jevons-paradox)**: Understanding that lowering the price of a resource can sometimes lead to a massive increase in its consumption.
-- **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: Pricing is a key lever in the power dynamics between buyers and suppliers.
-- **[Last Man Standing](/strategies/markets/last-man-standing)**: A strategy that often involves aggressive pricing to outlast competitors in a declining market.
+- [Fragmentation](/strategies/competitor/fragmentation) - pricing で市場を意図的に細分化できる
+- [Jevons Paradox](/terms/jevons-paradox) - 価格低下が消費総量を増やすことがある
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - buyer / supplier 関係での主要レバー
+- [Last Man Standing](/strategies/markets/last-man-standing) - 低価格で競合を消耗させる戦略と結びつきやすい
 
 ## ⛅ **関連する状勢パターン**
 
-- [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: lower prices can drive up overall consumption.
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: pricing tactics shift as markets move between peace, war and wonder phases.
+- [効率化は支出減少を意味しない](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – 影響: lower price が total consumption を増やすことがある
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 平時・戦時・驚異の各 phase で pricing tactics は変わる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[Confessions of the Pricing Man](/books/confessions-of-the-pricing-man)** by Hermann Simon. A deep dive into the art and science of pricing.
-- **[Monetizing Innovation](/books/monetizing-innovation)** by Madhavan Ramanujam and Georg Tacke. A practical guide to building a pricing strategy around innovation.
-- **[Priceless: The Myth of Fair Value](/books/priceless-the-myth-of-fair-value)** by William Poundstone. An exploration of the psychology of pricing.
+- [Confessions of the Pricing Man](/books/confessions-of-the-pricing-man) - pricing の理論と実務
+- [Monetizing Innovation](/books/monetizing-innovation) - innovation を pricing に結びつける方法
+- [Priceless: The Myth of Fair Value](/books/priceless-the-myth-of-fair-value) - pricing psychology の考察

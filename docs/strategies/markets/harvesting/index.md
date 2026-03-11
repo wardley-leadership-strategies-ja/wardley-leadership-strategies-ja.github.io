@@ -1,7 +1,6 @@
 ---
-title: Harvesting
-description: Scaling innovation by observing a platform's ecosystem, identifying successful
-  third-party offerings, and then acquiring, replicating, or integrating them.
+title: 収穫（Harvesting）
+description: プラットフォームのエコシステムを観察し、成功した第三者提供物を買収、複製、統合して革新を拡大する戦略。
 tags:
 - markets
 - ecosystem
@@ -29,178 +28,171 @@ leadership_focus:
 - Data instrumentation
 - Disciplined portfolio management
 quick_signals:
-- Third-party offerings on your platform repeatedly solve the same user pain.
-- Customers expect native support for capabilities currently delivered by partners.
-- You struggle to prioritise innovation because evidence is scattered.
+- プラットフォーム上の第三者提供物が、同じ user pain を繰り返し解いている。
+- 顧客が、いま partner が提供している機能の native support を求めている。
+- evidence が散っていて、innovation の優先順位付けに苦しんでいる。
 momentum_moves:
-- Instrument ecosystem usage to spot breakout adoption patterns quickly.
-- Create transparent harvesting criteria that balance partner trust and platform goals.
-- Offer acquisition, revenue share, or native integration paths to successful partners.
+- ecosystem usage を計測し、breakout adoption pattern を早く見つける。
+- partner trust と platform goal を両立する harvesting criteria を透明化する。
+- acquisition、revenue share、native integration への path を successful partner へ提示する。
 watch_outs:
-- Harvesting without rewarding partners, discouraging future investment.
-- Integrating features without matching the quality users loved originally.
-- Letting the sensing engine become bureaucratic and slow.
+- partner に報いず収穫だけして、次の投資意欲を削ぐこと。
+- 元の品質を再現できないまま機能統合すること。
+- sensing engine が bureaucracy 化して遅くなること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.**
+**プラットフォームのエコシステムを観察し、成功した第三者提供物を買収、複製、統合することで革新を拡大する戦略です。**
 
-> *"Allowing others to develop upon your offerings and harvesting those that are successful. Techniques for ensuring harvesting creates positive signals rather than creating an environment others avoid."*
+> *「他者に自分の提供物の上で開発させ、成功したものを収穫すること。収穫が ecosystem を避けられる場にしないための工夫も含む。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Harvesting?
+### 収穫とは何か
 
-Harvesting is a platform strategy where a company creates an ecosystem that encourages third parties to build new products and services on top of its core offering. The platform owner then acts as a "sensing engine," monitoring the ecosystem to see which of these third-party innovations gain the most traction with customers. Once a winner emerges, the platform owner can choose to "harvest" it by acquiring the company, replicating the functionality, or tightly integrating it into the core platform. This allows the platform owner to benefit from a wide range of experimentation without bearing all the costs and risks.
+収穫は、企業が ecosystem を作り、第三者にその上で新しい product や service を build してもらい、そのうち traction を得た innovation を sensing engine として観測する戦略です。勝ち筋が見えたら、その企業を買収する、機能を複製する、コアへ深く統合する、などの方法で「収穫」します。
 
-### Why use Harvesting?
+### なぜ使うのか
 
-This strategy offers several powerful advantages:
+- **R&D の外部化:** 初期革新の高リスク高コストを広い ecosystem へ分散できる
+- **市場検証:** third-party 成功が real customer demand の証拠になる
+- **リスク低減:** 勝者が見えてから投資できる
+- **俊敏性:** 大企業でも内製だけより速く市場へ追随できる
 
-- **Outsourced R&D:** It effectively outsources the risky and expensive process of early-stage innovation to a broad ecosystem of developers.
-- **Market Validation:** The success of a third-party offering provides clear market validation, demonstrating that there is real customer demand for a new feature or service.
-- **Reduced Risk:** By waiting for a clear winner to emerge, the platform owner significantly reduces the risk of investing in ideas that won't gain traction.
-- **Increased Agility:** It allows a large company to innovate and respond to market needs much faster than if it relied solely on its internal development processes.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Apple App Store
 
-### Apple's App Store
+Apple は iOS と App Store を提供し、アプリの大半は third party が作ります。人気 app や feature を観察し、懐中電灯、画面録画、keyboard enhancement など、成功した概念を iOS へ取り込みました。
 
-Apple provides the iOS platform and the App Store, but it doesn't create most of the apps. It observes which apps and features become popular. Over the years, Apple has integrated functionality that was once the domain of third-party apps directly into iOS. For example, features like flashlight apps, screen recording, and keyboard enhancements were all pioneered by third-party developers before being harvested by Apple and built into the operating system.
+### AWS
 
-### Amazon Web Services (AWS)
+AWS は EC2 や S3 の上に顧客が何を build しているかを見ています。共通利用パターンが見えると、それを managed service として productize し、自社価値を高めます。
 
-AWS constantly monitors how its customers are using its primitive services (like EC2 for compute and S3 for storage). When they see common usage patterns or customers building the same type of solution on top of their primitives, they often release a new, higher-level service that productizes that pattern. This makes the solution easier to use and captures more value for AWS. Many of their managed services were born from observing and harvesting customer innovation.
+### Microsoft と Windows ecosystem
 
-### Microsoft and the Windows Ecosystem
+Microsoft は長く Windows 上の vast なソフト ecosystem を観察し、ディスク圧縮やファイル検索など、大量のユーザーに必須になった utility を OS へ取り込んできました。
 
-For decades, Microsoft has observed the vast ecosystem of software built for Windows. When a particular category of utility or application becomes indispensable for a large number of users, Microsoft has often chosen to build a similar feature directly into Windows. This has happened with disk compression, file search, and many other utilities.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Harvesting">
   <MapSignals>
-    <li>Your map shows a platform with a growing ecosystem of third-party developers and solutions.</li>
-    <li>There is a high rate of experimentation and innovation happening within your ecosystem.</li>
-    <li>You can identify clear patterns of customer demand based on the success of third-party offerings.</li>
-    <li>The components being built by the ecosystem are adjacent to your core platform and could be logically integrated.</li>
+    <li>地図上で、platform の上に growing ecosystem がある。</li>
+    <li>ecosystem の中で experimentation と innovation が活発である。</li>
+    <li>third-party success から、顧客需要の clear pattern を読み取れる。</li>
+    <li>ecosystem が build している component が、core platform に隣接し、統合が自然である。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a robust platform or ecosystem that is attractive to third-party developers.</li>
-    <li>We have effective "sensing engines" (e.g., analytics, community engagement) to monitor the ecosystem.</li>
-    <li>We have the technical capability to replicate or integrate new features into our platform.</li>
-    <li>Our leadership understands the delicate balance required to harvest without poisoning the ecosystem.</li>
+    <li>third-party developer に魅力ある robust platform がある。</li>
+    <li>ecosystem を監視する sensing engine がある。</li>
+    <li>新 feature を replicate または integrate できる技術力がある。</li>
+    <li>ecosystem を毒さずに収穫する delicate balance を理解している。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You own a platform with a vibrant and active ecosystem.
-- You want to accelerate your pace of innovation without taking on all the risk.
-- The market is moving quickly, and it's difficult to predict which new features will be successful.
+- vibrant で active な ecosystem を持つ platform を所有しているとき
+- すべてのリスクを自分で負わず、innovation speed を上げたいとき
+- 市場が速く、どの新機能が当たるか予測しにくいとき
 
-### Avoid when
+### 避けるとき
 
-- You do not have a platform or your ecosystem is weak and underdeveloped.
-- You are likely to be seen as a predator, which would destroy the trust of your developer community.
-- You lack the resources or agility to act on the signals you are observing.
-- The legal or technical barriers to acquiring or replicating the innovation are too high.
+- platform がない、または ecosystem が弱いとき
+- developer community に predator と見なされ、trust を壊しそうなとき
+- 観測した signal に反応する資源や俊敏性がないとき
+- acquisition や replication の法務・技術ハードルが高すぎるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The most significant leadership challenge is managing the relationship with the ecosystem. If developers feel that their best ideas will simply be stolen, they will stop innovating on your platform. Leaders must find a way to harvest successfully while still ensuring the ecosystem remains a vibrant and attractive place for third parties to build. This requires a delicate touch and a long-term perspective.
+ecosystem との関係管理です。開発者が「良いアイデアは全部盗まれる」と感じれば、platform 上で innovating しなくなります。収穫しつつも、第三者が build したくなる場を保つ必要があります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The ability to nurture and grow a healthy community of third-party developers.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The skill to identify the most promising innovations within a noisy ecosystem.
-- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — The ability to manage the fallout from a harvesting decision and maintain trust with the community.
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — A clear understanding of what should be part of the core platform and what should be left to the ecosystem.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 健全な third-party community を育てる
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 雑音の多い ecosystem から promising innovation を見抜く
+- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — 収穫時の fallout を管理する
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 何を core にすべきか見極める
 
-### Ethical considerations
+### 倫理面
 
-Harvesting is ethically complex. On one hand, you are providing the platform that makes the innovation possible. On the other hand, you are profiting from the work of others, and potentially putting them out of business. Key questions include:
+自分の platform の上で生まれた innovation を profit に変えるわけなので、倫理的に複雑です。透明性、妥当な対価、収穫後も thriving できる ecosystem の余地が残るかが重要です。
 
-- Are we being transparent with our developer community about our intentions?
-- Are we offering fair compensation when we acquire a company?
-- Are we leaving enough room for a healthy ecosystem to thrive after we have harvested an idea?
+## 📋 **進め方**
 
-## 📋 **How to Execute**
+1. open で build しやすい platform を作って育てる
+2. API usage、app store data、community engagement など sensing engine を作る
+3. adoption、developer interest、revenue の signal から勝ち筋を見つける
+4. acquisition、replication、partnership のどれで収穫するか決める
+5. 公正な価格、または superior integration で収穫を実行する
+6. developer community へ、理由と platform 全体への便益を明確に伝える
 
-1. **Build and Nurture the Platform:** Create a robust and open platform that makes it easy for third parties to build on.
-2. **Establish Sensing Engines:** Implement mechanisms to monitor the ecosystem. This could include tracking API usage, analyzing app store data, running developer competitions, or actively engaging with the community.
-3. **Identify Successful Innovations:** Look for signals of traction: high user adoption, strong developer interest, or significant revenue generation.
-4. **Choose Your Harvesting Method:** Decide whether to acquire the company, replicate the feature internally, or create a formal partnership.
-5. **Execute the Harvest:** If acquiring, conduct due diligence and negotiate a fair price. If replicating, ensure you can build a superior or more integrated version of the feature.
-6. **Manage the Ecosystem Response:** Communicate your decision clearly and transparently to the developer community. Emphasize the benefits to the overall platform and its users.
+## 📈 **成功指標**
 
-## 📈 **Measuring Success**
+- 収穫後も ecosystem の developer 数や app 数が増えているか
+- market-validated feature をユーザーへ持ち込む速度
+- 収穫した feature が platform の価値と stickiness を高めたか
+- acquisition した場合の ROI
 
-- **Ecosystem Health:** Is the number of developers and applications on your platform still growing after a harvest?
-- **Pace of Innovation:** Are you able to bring new, market-validated features to your users more quickly?
-- **Platform Value:** Has the harvested feature increased the overall value and stickiness of your platform?
-- **Acquisition ROI:** If you acquired a company, is it delivering a positive return on investment?
+## ⚠️ **失敗しやすい点**
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+### 井戸を毒する
 
-### Poisoning the Well
-
-If you are too aggressive or unfair in your harvesting, you will destroy the trust of your developer community, and they will abandon your platform.
+攻撃的すぎる収穫は、developer trust を壊します。
 
 ### Sherlocking
 
-The term "Sherlocking" (named after an Apple search utility that replaced a popular third-party app called Watson) refers to making a third-party app obsolete by building its features into the OS. This can create significant negative sentiment in the developer community.
+third-party app を OS 内蔵で obsolete にすることは、強い negative sentiment を生みます。
 
-### Missing the Signal
+### signal を見落とす
 
-You may fail to recognize a significant innovation in your ecosystem until it is too late, and it has grown into a powerful competitor.
+大きな innovation を見逃すと、それは強力な competitor へ育つことがあります。
 
-### Poor Integration
+### 統合失敗
 
-Even if you successfully acquire or replicate a feature, a poor integration can fail to deliver the expected value to users.
+買収・複製できても、統合品質が低ければ user value は出ません。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Platform as a Sensing Engine
+### platform は sensing engine でもある
 
-This strategy reframes the purpose of a platform. It is not just a foundation for your own products, but a powerful sensing engine for detecting and capitalizing on market trends. The more open your platform, the more signals you can receive.
+platform は自社製品の土台であるだけでなく、市場 trend を検知し取り込む sensing engine でもあります。開かれているほど signal は増えます。
 
-### The Symbiotic Relationship
+### 共生関係であるべき
 
-At its best, harvesting is a symbiotic relationship. The ecosystem provides innovation and market validation, while the platform provides scale and distribution. The challenge is to maintain this balance and not allow it to become parasitic.
+理想的には、ecosystem が innovation と市場検証を担い、platform が scale と distribution を返す共生関係です。寄生的に見え始めると、長期では壊れます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Ecosystem Trust:** How can we harvest this innovation without damaging the trust of our developer community?
-- **Build vs. Buy:** Does it make more sense to acquire this company or to replicate their functionality ourselves?
-- **Strategic Importance:** Is this feature so important that it needs to be part of our core platform?
-- **Fair Compensation:** If we acquire, what is a fair price that recognizes the value the third party has created?
-- **Long-Term Impact:** What will be the long-term impact of this decision on the health and vibrancy of our ecosystem?
+- この収穫をしても developer community の trust を壊さないか
+- acquire すべきか、自前再現すべきか
+- この feature は core platform の一部であるべきほど重要か
+- 買収するなら、第三者が作った価値へ fair compensation は何か
+- 長期で ecosystem の health と vibrancy へどう響くか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: The underlying engine that drives a Harvesting strategy.
-- **[Open Approaches](/strategies/accelerators/open-approaches)**: Creating an open platform is a prerequisite for a healthy ecosystem that can be harvested.
-- **[Co-creation](/strategies/ecosystem/co-creation)**: Working with partners to build new services can be an early signal of what to harvest later.
-- **[Co-opting](/strategies/ecosystem/co-opting)**: A related strategy where you might absorb a competitor's differentiation into your platform.
-- **[Threat Acquisition](/strategies/defensive/threat-acquisition)**: Harvesting can sometimes be a defensive move to acquire a company that is becoming a threat.
-
-- [Market Enablement](/strategies/accelerators/market-enablement) - preparing and priming the ecosystem so that harvested services and innovations are rapidly adopted and scaled.
+- [**革新・活用・コモディティ化（Innovate, Leverage, Commoditize: ILC）**](/strategies/ecosystem/innovate-leverage-commoditize) - 収穫を駆動する基礎エンジン
+- [**オープンアプローチ（Open Approaches）**](/strategies/accelerators/open-approaches) - 健全な ecosystem を作る前提になりやすい
+- [**共創（Co-creation）**](/strategies/ecosystem/co-creation) - 何を後で収穫すべきかの early signal を作る
+- [**取り込み（Co-opting）**](/strategies/ecosystem/co-opting) - 競合の差別化を取り込む近縁戦略
+- [**Threat Acquisition**](/strategies/defensive/threat-acquisition) - 成長した third party を defensive に買うことがある
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 収穫した innovation を速く拡大しやすい市場を作る
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: The ecosystem around a platform evolves, creating new opportunities for harvesting.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Third-party innovations on a platform often seek to improve efficiency or offer new capabilities, which can then be harvested.
-- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Successful harvested features often become part of a higher-order system (the platform), increasing its overall value.
-- [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – rel: Platforms must evolve by incorporating successful ecosystem innovations (harvesting) to stay relevant.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Harvesting directs the platform owner's capital (build or buy) towards validated areas of value.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: platform 周辺の ecosystem も進化し、新しい収穫機会を生む
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: third-party innovation が後で平台の効率化資産になる
+- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 関係: 収穫した feature が platform 全体価値を押し上げる
+- [進化に選択の余地はない](/climatic-patterns/no-choice-on-evolution) – 関係: 生き残る platform は ecosystem innovation を取り込み続ける必要がある
+- [新しい価値領域へ資本が流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 関係: validated な価値領域へ platform owner の資本が向かう
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- <strong><BookRef isbn="9780393354355" /></strong> by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
-- **[The Business of Platforms](/books/the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.
+- [Platform Revolution](/books/platform-revolution) - platform business model の総合解説
+- [The Business of Platforms](/books/the-business-of-platforms) - platform company の戦略分析
