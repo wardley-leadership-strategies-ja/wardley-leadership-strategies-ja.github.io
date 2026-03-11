@@ -26,7 +26,7 @@ npm install
 ### Local Development
 
 ```bash
-npm start
+npm run start:local
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -34,15 +34,21 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```bash
-npm run build
+npm run build:local
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-**Note:** If you encounter issues with the faster build (e.g., on `android-arm64` environments), you can disable it by setting the `DISABLE_FASTER_BUILD` environment variable:
+To preview the static build locally:
 
 ```bash
-DISABLE_FASTER_BUILD=true npm run build
+npm run serve:local
+```
+
+For a GitHub Pages production-equivalent build, use:
+
+```bash
+npm run build:pages
 ```
 
 ## Translation Workflow
@@ -68,7 +74,13 @@ python3 scripts/translation_status.py --word-diff docs/strategies/index.md
 
 ### Deployment
 
-The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.
+The `main` branch is deployed live with GitHub Pages at:
+
+```text
+https://kdmsnr.github.io/wardley-leadership-strategies-ja/
+```
+
+Important: a GitHub Pages build uses `BASE_URL=/wardley-leadership-strategies-ja/`. If you build with that setting and then serve the files locally at `/`, Docusaurus will show a baseUrl error. For local preview, use `npm run build:local` or `npm run serve:local`.
 
 ## Running Tests
 
