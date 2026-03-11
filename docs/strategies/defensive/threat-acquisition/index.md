@@ -1,7 +1,6 @@
 ---
-title: Threat Acquisition
-description: A defensive strategy where a company acquires a potential competitor
-  to neutralize a threat and maintain market position.
+title: 脅威の買収
+description: 将来の脅威になりうる競合を買収し、市場地位を守る防御戦略。
 tags:
 - defensive
 - acquisition
@@ -27,173 +26,170 @@ leadership_focus:
 - Talent redeployment
 - Risk framing
 quick_signals:
-- A fast-growing rival begins eroding your core metrics.
-- Investors or partners pressure you to respond to a disruptive entrant.
-- "You cannot replicate the rival\u2019s capability quickly enough internally."
+- 急成長する競合が中核指標を削り始めている。
+- 投資家やパートナーが、破壊的参入者への対処を求めている。
+- 相手の能力を社内開発で再現するには時間がかかりすぎる。
 momentum_moves:
-- Set clear acquisition criteria tied to strategic gaps you must close.
-- Plan integration options ranging from full absorption to independent operation.
-- Establish guardrails to preserve the acquired team's momentum post-deal.
+- 埋めるべき戦略ギャップと買収基準を明確にする。
+- 完全吸収から独立運営まで、統合の選択肢を事前に設計する。
+- 買収後も相手チームの勢いを壊さないガードレールを置く。
 watch_outs:
-- Overpaying because the acquisition is the only strategy you prepared.
-- Crushing the acquired culture and losing the very talent you needed.
-- Inviting antitrust scrutiny by eliminating competition without delivering user benefits.
+- 他に手がなくなってから買うため高値掴みすること。
+- 買収先の文化を潰し、必要だった人材を失うこと。
+- ユーザー価値を示せないまま競争を減らし、独禁法リスクを招くこと。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
+**将来の脅威になりうる競合を買収し、自社の市場地位を守る防御戦略です。**
 
-**A defensive strategy where a company acquires a potential competitor to neutralize a threat and maintain market position.**
-
-> *"Buying up those companies that may threaten your market."*
+> *「自社市場を脅かしうる企業を買い上げること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Threat Acquisition?
+### 脅威の買収とは何か
 
-Threat Acquisition is a strategic move where a company identifies and purchases a smaller, potentially disruptive competitor. The primary goal is not necessarily to integrate the new company's products or services, but to eliminate a future threat to the acquiring company's market share, revenue streams, or overall strategic position. This can be particularly relevant when a new entrant is showing signs of rapid growth, has developed a novel technology, or is targeting a key segment of the incumbent's customer base.
+脅威の買収とは、急成長中の新興企業や破壊的な競合を見つけ、買収によって将来の競争脅威を取り除く戦略です。目的は必ずしも製品統合だけではなく、市場シェア、技術優位、人材、将来の選択肢を守ることにあります。
 
-### Why use Threat Acquisition?
+### なぜ使うのか
 
-Companies use Threat Acquisition to:
+- 競争脅威そのものを市場から消せる
+- 人材や技術を社内開発より速く取り込める
+- 支配的地位を守りやすくなる
+- 競合に買われる前に重要資産を確保できる
 
-- **Neutralize a competitor:** The most direct reason is to remove a competitive threat from the landscape.
-- **Acquire talent and technology:** It can be a fast way to bring in a skilled team or innovative technology without the time and expense of internal development.
-- **Maintain market leadership:** By acquiring potential disruptors, a company can protect its dominant position.
-- **Prevent a competitor from acquiring the target:** It can also be a defensive move to stop a rival from gaining a strategic advantage.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Facebook による Instagram 買収
 
-### Facebook's Acquisition of Instagram
+モバイルと写真共有で強い勢いを持つ Instagram は、Facebook にとって明確な脅威でした。買収により、競争相手を消すだけでなく、新しい成長面を取り込みました。
 
-In 2012, Facebook acquired Instagram for $1 billion. At the time, Instagram was a fast-growing photo-sharing app with a strong mobile presence, which was a direct threat to Facebook's dominance in social media. By acquiring Instagram, Facebook not only neutralized a significant competitor but also gained a strong foothold in the mobile and visual content space.
+### Google による Android 買収
 
-### Google's Acquisition of Android
+モバイル時代への移行を見越して Android を取得したことで、Google は新しい計算基盤の上でも存在感を保てました。
 
-Google's 2005 acquisition of Android is another classic example. Recognizing the shift towards mobile computing, Google acquired the nascent mobile operating system to ensure its services would have a place in the new ecosystem. This move prevented competitors like Microsoft from dominating the mobile OS market and ensured Google's continued relevance.
+### 失敗例: Yahoo と GeoCities
 
-### A Failed Example: Yahoo's Acquisition of GeoCities
+Yahoo は GeoCities を買いましたが、統合と活用に失敗しました。買うだけでは戦略価値は生まれず、買収後の設計が必要だと示しています。
 
-In 1999, Yahoo acquired GeoCities, a popular web hosting service. However, Yahoo failed to effectively integrate GeoCities or leverage its large user base. The acquisition ultimately failed to deliver strategic value and GeoCities was shut down in 2009. This highlights the importance of having a clear post-acquisition plan.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Threat Acquisition">
   <MapSignals>
-    <li>A new entrant on your map is gaining traction in a key market segment.</li>
-    <li>A competitor is developing a technology that could disrupt your business model.</li>
-    <li>A smaller company holds a key patent or intellectual property that is critical to your industry.</li>
-    <li>The cost of acquiring the threat is significantly lower than the potential loss of market share.</li>
+    <li>地図上の新規参入者が、重要セグメントで勢いを増している。</li>
+    <li>競合が、自社モデルを崩しかねない技術を育てている。</li>
+    <li>小さな企業が業界で重要な知財や技術を持っている。</li>
+    <li>買収コストが、失う市場シェアより十分小さい。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a dedicated team for market scanning and competitor analysis.</li>
-    <li>Our leadership is experienced in mergers and acquisitions.</li>
-    <li>We have the financial resources to make a strategic acquisition without jeopardizing our core business.</li>
-    <li>We have a clear process for integrating new companies and technologies.</li>
+    <li>市場監視と競合分析の仕組みがある。</li>
+    <li>M&amp;A を主導できる経営能力がある。</li>
+    <li>中核事業を傷めずに戦略買収できる財務余力がある。</li>
+    <li>買収後の統合プロセスが明確である。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- A competitor poses a genuine, long-term threat to your core business.
-- The acquisition can be executed at a reasonable cost.
-- You have a clear plan for integrating the acquired company.
+- 競合が中長期で本当に危険だと判断できるとき
+- 妥当な価格で買えるとき
+- 統合や独立運営の絵が明確にあるとき
 
-### Avoid when
+### 避けるとき
 
-- The acquisition cost is prohibitive and would strain your company's finances.
-- The target company's culture is vastly different from your own, making integration difficult.
-- The acquisition is likely to attract negative attention from regulators.
-- The threat is not significant enough to warrant the cost and effort of an acquisition.
+- 価格が高すぎて自社財務を痛めるとき
+- 文化差が大きく統合難易度が高すぎるとき
+- 規制当局の反応が重いとき
+- そもそも脅威が過大評価であるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core challenge for leaders is to accurately identify genuine threats and act decisively, while avoiding overpaying or making acquisitions that are strategically unsound. This requires a deep understanding of the market, a clear strategic vision, and the ability to execute complex transactions.
+本当に危険な脅威だけを見抜き、高値掴みや場当たり的 M&amp;A を避けることです。市場理解、戦略の明確さ、複雑な取引を実行する力が求められます。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — The ability to anticipate market trends and identify potential threats before they become critical.
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — The skill to accurately value a target company and structure a favorable deal.
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — The ability to secure the best possible terms for the acquisition.
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — The capability to successfully merge the acquired company's people, processes, and technology.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 脅威が本物かを見抜く
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 妥当な価格と条件を設計する
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 良い条件で取引をまとめる
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 人、技術、運営を統合する
 
-### Ethical considerations
+### 倫理面
 
-Threat acquisitions can raise ethical concerns, particularly around competition. Acquiring a competitor solely to shut it down (a "killer acquisition") can be seen as anti-competitive and may attract regulatory scrutiny. Leaders must also consider the impact on the employees of the acquired company and ensure they are treated fairly.
+競争を消すためだけの買収、いわゆる killer acquisition と見なされると、強い規制リスクがあります。また、買収先社員への配慮や、ユーザー利益の説明責任も重要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify Potential Threats:** Continuously scan the market for new entrants, disruptive technologies, and shifting customer preferences. Use Wardley Maps to visualize the competitive landscape and identify potential disruptors.
-2. **Assess the Threat Level:** Evaluate the potential impact of the threat on your business. Is it a minor nuisance or a genuine existential threat?
-3. **Conduct Due Diligence:** Thoroughly investigate the target company's financials, technology, team, and market position.
-4. **Negotiate the Acquisition:** Structure a deal that is fair to both parties and aligns with your strategic objectives.
-5. **Plan the Integration:** Develop a detailed plan for integrating the acquired company's people, processes, and technology. This is a critical step that is often overlooked.
-6. **Execute the Integration:** Carefully manage the integration process to minimize disruption and maximize the value of the acquisition.
+1. 潜在的脅威を継続的に探索する
+2. その脅威が本当に中核事業を揺るがすかを評価する
+3. 財務、技術、人材、市場のデューデリジェンスを行う
+4. 価格と条件を交渉する
+5. 統合か独立維持かを含めた買収後計画を作る
+6. 人材流出を防ぎながら統合を進める
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Threat Neutralization:** Has the competitive threat been effectively eliminated or mitigated?
-- **Market Share:** Has the acquisition protected or increased your market share?
-- **Return on Investment (ROI):** Is the acquisition delivering a positive financial return?
-- **Talent Retention:** Have you been able to retain key employees from the acquired company?
+- 競争脅威の低下または無力化
+- 市場シェアの維持または拡大
+- ROI の改善
+- 重要人材の定着率
+- 技術や顧客基盤の獲得効果
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Overpaying
+### 高値掴み
 
-The fear of missing out can lead to overpaying for an acquisition. It's crucial to have a disciplined valuation process.
+取り逃がしへの恐れが、規律のない価格提示を招きます。
 
-### Poor Integration
+### 統合失敗
 
-A failure to effectively integrate the acquired company can destroy value and lead to the loss of key talent.
+人材流出や文化衝突で、買った価値を壊してしまうことがあります。
 
-### Regulatory Scrutiny
+### 規制リスク
 
-Threat acquisitions can attract the attention of antitrust regulators. Be prepared to justify the strategic rationale for the acquisition.
+競争減少と見なされると、独禁法審査で足止めされます。
 
-### Culture Clash
+### 文化衝突
 
-A mismatch in company cultures can make integration difficult and lead to a toxic work environment.
+運営思想が合わないと、組織全体へ悪影響が及びます。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Innovator's Dilemma
+### イノベーターのジレンマへの対処法
 
-Threat Acquisition can be a way for established companies to address the "innovator's dilemma," where they are reluctant to invest in new, unproven technologies that could disrupt their existing business. By acquiring innovative startups, they can effectively "buy" innovation.
+自前では育てにくい新技術や新モデルを、買収で取り込むことは、既存勢力にとって一つの現実的な対処法です。
 
-### The Cost of Inaction
+### 何もしないコスト
 
-While threat acquisitions can be expensive, the cost of inaction can be even higher. A failure to address a disruptive threat can lead to a loss of market leadership and even business failure.
+買収は高いですが、放置して市場主導権を失うコストのほうが大きいこともあります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Threat Assessment:** Does this company represent a genuine, long-term threat to our core business?
-- **Strategic Fit:** How does this acquisition align with our overall strategic goals?
-- **Integration Plan:** Do we have a clear and realistic plan for integrating the acquired company?
-- **Valuation:** Are we paying a fair price for the acquisition?
-- **Regulatory Risk:** What is the likelihood of regulatory challenges, and how will we address them?
+- その会社は本当に長期脅威か
+- 自社の戦略全体とどう整合するか
+- 買収後にどう扱うかの計画はあるか
+- 価格は妥当か
+- 規制上の争点にどう対処するか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Co-opting](/strategies/ecosystem/co-opting)**: A less aggressive approach where a company works with a potential competitor to align their interests.
-- **[Restriction of Movement](/strategies/competitor/restriction-of-movement)**: Hindering a competitor's ability to operate without acquiring them.
-- **[Talent Raid](/strategies/competitor/talent-raid)**: Acquiring key talent from a competitor to weaken their capabilities.
-
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - acquiring rivals to remove threats and legally limit future competitive challenges.
-- [Harvesting](/strategies/markets/harvesting) - extracting and monetising acquired capabilities or market segments post-acquisition.
-- [Last Man Standing](/strategies/markets/last-man-standing) - consolidating competitors through acquisitions to emerge as the sole dominant operator.
+- [Co-opting](/strategies/ecosystem/co-opting)
+- [Restriction of Movement](/strategies/competitor/restriction-of-movement)
+- [Talent Raid](/strategies/competitor/talent-raid)
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
+- [Harvesting](/strategies/markets/harvesting)
+- [Last Man Standing](/strategies/markets/last-man-standing)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – trigger: acquisitions help an organisation adapt as markets shift.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: buying threats offsets complacency in the core business.
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – トリガー: 市場進化への適応手段として買収が使われる
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 中核事業の慣性を、外部の買収で補おうとしやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.
-- [The Innovator's Dilemma](/books/the-innovators-dilemma) by Clayton M. Christensen.
-- [Mergers & Acquisitions For Dummies](/books/mergers-and-acquisitions-for-dummies) by Bill Snow.
+- [Wardley Maps](https://medium.com/wardleymaps)
+- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [Mergers & Acquisitions For Dummies](/books/mergers-and-acquisitions-for-dummies)

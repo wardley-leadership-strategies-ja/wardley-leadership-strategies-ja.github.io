@@ -1,7 +1,6 @@
 ---
-title: Defensive Regulation
-description: A defensive strategy where an incumbent company uses government regulation
-  and lobbying to create barriers to entry and hinder competitors.
+title: 防御的規制
+description: 既存勢力が規制やロビー活動を使って参入障壁を作り、競合を鈍らせる防御戦略。
 tags:
 - defensive
 - regulation
@@ -29,169 +28,165 @@ leadership_focus:
 - Narrative control
 - Risk framing
 quick_signals:
-- New entrants threaten to bypass safeguards you spent years building.
-- Policy makers ask for clarity on safety, compliance, or consumer protection.
-- Lobbyists or trade groups invite incumbents to shape upcoming rules.
+- 新規参入者が、長年かけて築いた安全策や制度を迂回し始めている。
+- 政策担当者が、安全性、コンプライアンス、消費者保護について整理を求めている。
+- ロビー団体や業界団体が、今後のルール形成への関与を既存勢力へ促している。
 momentum_moves:
-- Document public-interest arguments that justify higher standards.
-- Build coalitions with partners and regulators around shared safeguards.
-- Invest in compliance capabilities you can later turn into market differentiators.
+- より高い基準が公共利益にかなうという論点を文書化する。
+- パートナーや規制当局と連携し、共通の安全策を軸に連合を作る。
+- 後に差別化要因へ転換できるコンプライアンス能力へ投資する。
 watch_outs:
-- Appearing self-serving and triggering regulatory backlash.
-- Stifling your own innovation while freezing competitors.
-- Assuming regulation alone will protect you without ongoing delivery excellence.
+- 私益のためだけに見え、逆に規制側の反発を招くこと。
+- 競合を凍らせるつもりで、自社の革新まで止めること。
+- 規制だけで守れると考え、提供価値の改善を怠ること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
+**規制とロビー活動を使って参入障壁を高め、競合の動きを遅らせる防御戦略です。**
 
-**A defensive strategy where an incumbent company uses government regulation and lobbying to create barriers to entry and hinder competitors.**
-
-> *"Using Government's to create protection for your market and slow down competitors."*
+> *「市場を守り、競合を遅らせるために政府を使うこと。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Defensive Regulation?
+### 防御的規制とは何か
 
-Defensive Regulation is the strategic use of government power to protect a company's market position. It involves actively lobbying policymakers and engaging with regulatory agencies to shape laws in a way that benefits the incumbent and creates significant hurdles for competitors. This can include advocating for complex licensing requirements, stringent compliance standards, or other rules that are costly and difficult for new entrants to navigate. The goal is to use the force of law to create a moat around the business, making it harder for rivals to compete.
+防御的規制は、政府や規制当局の力を使って自社の市場地位を守る戦略です。既存勢力に有利で、新規参入者には重い規制、認証、免許、監査を求める方向へルール形成を働きかけます。法の力で堀を作る発想です。
 
-### Why use this strategy?
+### なぜ使うのか
 
-This is a powerful, albeit controversial, defensive strategy for established players. The key benefits are:
+- 参入に必要な時間と費用を大きく増やせる
+- 競合を書類、監査、許認可で足止めできる
+- 新技術や新しい事業モデルによる破壊を遅らせられる
+- 既存勢力が持つ法務・渉外・コンプライアンス能力を優位に変えられる
 
-- **Creating High Barriers to Entry:** Complex regulations can make it prohibitively expensive and time-consuming for new companies to enter the market.
-- **Slowing Down Competitors:** It can tie up competitors in red tape, slowing their ability to innovate and grow.
-- **Protecting Existing Business Models:** It can be used to protect legacy business models from disruption by new technologies or more efficient competitors.
-- **Leveraging Incumbent Strengths:** Large, established companies often have the resources and expertise to navigate complex regulatory environments more effectively than smaller rivals.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### タクシーのメダリオン制度
 
-### The Taxi Medallion System
+多くの都市では、営業免許を限られた数だけ発行することで、新規参入が強く制限されていました。これは典型的な防御的規制でしたが、Uber や Lyft は技術でその外側から市場へ入りました。
 
-For decades, the taxi industry in many cities was protected by a system of medallions – a limited number of licenses that were required to operate a taxi. This was a form of defensive regulation that created an artificial scarcity, driving up the price of medallions and creating a massive barrier to entry for new taxi drivers. This system was eventually disrupted by ride-sharing companies like Uber and Lyft, who used technology to bypass the medallion system.
+### 製薬業界の承認制度
 
-### The Pharmaceutical Industry
+新薬承認には長い期間と巨額の費用がかかります。大手製薬会社はこの環境をうまく使い、小さな競合に対して高い参入障壁を維持しています。
 
-The pharmaceutical industry benefits from a highly regulated environment. The lengthy and expensive process of getting a new drug approved by the FDA creates a significant barrier to entry for smaller companies. Large pharmaceutical companies have extensive experience and dedicated teams for navigating this process, and they actively lobby to maintain these high standards, which protects their blockbuster drugs from competition.
+### 米国の自動車ディーラー法
 
-### The US Auto Dealership Laws
+いくつかの州ではメーカー直販が制限されており、Tesla は各州で法的な争いを強いられました。制度が旧来モデルを守る例です。
 
-In many US states, it is illegal for a car manufacturer to sell directly to consumers; they must go through a network of independent dealerships. These laws were originally put in place to protect small dealership owners, but they now function as a form of defensive regulation that protects the dealership model from disintermediation by companies like Tesla, who have had to fight legal battles in many states to be allowed to sell their cars directly.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Defensive Regulation">
   <MapSignals>
-    <li>Your industry is already heavily regulated, or is likely to become so.</li>
-    <li>A new technology or business model is emerging that threatens to bypass existing regulations.</li>
-    <li>Competitors are smaller and have fewer resources to deal with complex compliance requirements.</li>
-    <li>Public sentiment can be swayed to support regulations in the name of safety, privacy, or fairness.</li>
+    <li>その業界が既に強く規制されている、または今後規制強化が見込まれる。</li>
+    <li>新技術や新しい事業モデルが、既存規制の外側から市場を崩そうとしている。</li>
+    <li>競合は小さく、複雑なコンプライアンス対応に弱い。</li>
+    <li>安全、プライバシー、公平性の名目で世論を動かせる。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a sophisticated government relations or lobbying team.</li>
-    <li>We have the financial resources to engage in a long-term lobbying effort.</li>
-    <li>Our leadership has a high tolerance for the ethical and reputational risks associated with this strategy.</li>
-    <li>We can craft a narrative that frames our desired regulations as being in the public interest.</li>
+    <li>洗練された渉外・ロビー体制がある。</li>
+    <li>長期の政策対応に耐える資源がある。</li>
+    <li>倫理面と評判面のリスクを引き受ける覚悟がある。</li>
+    <li>自社に都合のよい規制を公共利益として語る物語を作れる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You are a large, established player in a regulated industry.
-- You have the resources and political connections to influence the regulatory process.
-- You are facing a disruptive threat that could be slowed or stopped by regulation.
+- 規制産業の大きな既存勢力であるとき
+- 政策形成へ影響できる資源と関係を持つとき
+- 規制によって遅らせられる破壊的脅威があるとき
 
-### Avoid when
+### 避けるとき
 
-- You are a startup or a small company with limited resources.
-- The political and regulatory environment is hostile to your interests.
-- The ethical and reputational risks are too high.
-- Over-reliance on regulation would cause you to stop innovating and become complacent.
+- スタートアップや小規模企業で資源が乏しいとき
+- 政治・規制環境が明確に逆風のとき
+- 倫理面や評判面のコストが高すぎるとき
+- 規制へ依存することで自社の革新が止まるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is to navigate the significant ethical and reputational risks of this strategy. It is a fine line between responsible corporate citizenship and self-serving "rent-seeking" that harms competition and consumers. Leaders must be prepared for public scrutiny and be able to defend their actions. They must also avoid the trap of becoming so focused on regulatory defense that they neglect to innovate and compete in the marketplace.
+企業市民としての正当性と、自己利益のための rent-seeking の境界をどう越えないかです。短期的に効いても、世論や政治の逆風を呼べば長期的には不利になります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — A deep understanding of the political process and how to influence it.
-- [Ethical judgment](/leadership-skills/ethical-judgment) — A strong moral compass to navigate the grey areas of lobbying and regulatory influence.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to frame your arguments in a way that is persuasive to both policymakers and the public.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The skill to assess and mitigate the potential for legal and reputational backlash.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政策形成の読みと働きかけ
+- [Ethical judgment](/leadership-skills/ethical-judgment) — 灰色領域を見極める判断
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 公共利益として語る能力
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法的・評判的反動への備え
 
-### Ethical considerations
+### 倫理面
 
-This strategy is fraught with ethical issues. It can be seen as an attempt to use government power to stifle competition, which can lead to higher prices, less choice, and slower innovation for consumers. The process of lobbying can also create the perception (or the reality) of corruption and undue influence. This is a strategy that should be approached with extreme caution and a strong ethical framework.
+この戦略は、競争抑制、価格上昇、選択肢減少、イノベーション停滞につながる危険があります。ロビー活動自体も、腐敗や不当影響の印象を生みやすいので、慎重な運用が必要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify the Regulatory Threat or Opportunity:** Analyze the regulatory landscape to identify areas where you can influence the rules to your advantage.
-2. **Develop a Lobbying Strategy:** Define your key messages, identify your target policymakers, and build a coalition of support.
-3. **Engage with Regulators and Policymakers:** Actively participate in the regulatory process through lobbying, public comments, and providing "expert" testimony.
-4. **Shape Public Opinion:** Use public relations and media campaigns to build support for your position.
-5. **Leverage Compliance:** Once the regulations are in place, use your expertise in compliance to your advantage and ensure that they are enforced against your competitors.
+1. 規制上の脅威または機会を特定する
+2. 望ましい規制像と論点を整理する
+3. 政策担当者、規制当局、業界団体へ働きかける
+4. 世論やメディアを使って支持基盤を作る
+5. 制度導入後は、自社のコンプライアンス優位を競争優位へ変える
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Favorable Regulations:** Have you successfully influenced the passage of regulations that benefit your business?
-- **Competitor Impact:** Have the new regulations made it more difficult for your competitors to operate or enter the market?
-- **Market Share Protection:** Have you been able to protect your market share from new entrants?
-- **Profitability:** Has the regulatory moat protected your profitability?
+- 自社に有利な規制や基準が実際に導入されたか
+- 新規参入や競合活動がどれだけ難しくなったか
+- 市場シェアや収益性を守れたか
+- コンプライアンス能力が差別化要因になったか
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Reputational Damage
+### 評判悪化
 
-Being seen as a company that uses its power to crush competition can lead to significant public backlash and brand damage.
+競争を潰す企業と見なされると、ブランド毀損が大きいです。
 
-### Regulatory Backfire
+### 規制の逆噴射
 
-Your lobbying efforts could backfire, leading to unintended consequences or even more stringent regulations that harm your business.
+働きかけが裏目に出て、より厳しい規制が自社へ返ってくることがあります。
 
-### Complacency
+### 安心しすぎる
 
-Over-reliance on regulatory protection can lead to a culture of complacency and a failure to innovate.
+規制に守られる前提が強くなると、社内の改善と革新が止まります。
 
-### Disruption
+### 技術による迂回
 
-A disruptive new technology or business model can sometimes make the regulations you fought for irrelevant.
+新しい技術やモデルが、規制自体を無意味にする場合があります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Rent-Seeking vs. Innovation
+### Rent-seeking とイノベーションは逆方向にある
 
-This strategy is a classic example of "rent-seeking," which is the practice of seeking to increase one's share of existing wealth without creating new wealth. It is the opposite of a strategy based on innovation and creating value for customers. While it can be effective in the short term, it is often a sign of a company that is no longer able to compete on the merits of its products.
+防御的規制は、顧客価値を増やすより既存の富を守る方向へ働きます。短期には効いても、長期には競争力低下の兆候であることが多いです。
 
-### The Power of Incumbency
+### 既存勢力の力の使い方そのもの
 
-Defensive Regulation is a strategy that is primarily available to large, powerful incumbents. It is one of the key ways that established players can use their power to maintain their position and fend off challenges from smaller, more innovative rivals.
+これは大きな既存勢力だからこそ使える戦略です。逆に言えば、これに頼り始めた企業は製品力で勝ちづらくなっている可能性があります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Goal:** What specific competitive threat are we trying to neutralize with this regulation?
-- **The Narrative:** How can we frame this regulation as being in the public interest, rather than just our own self-interest?
-- **The Risk:** What is the worst-case scenario if this strategy backfires?
-- **The Long Game:** Are we becoming a company that relies on lawyers and lobbyists instead of engineers and innovators?
+- どの脅威を、どの規制で無力化したいのか
+- それをどう公共利益として説明するのか
+- 失敗したときの最悪シナリオは何か
+- 自分たちは技術者よりロビイストへ依存する会社になっていないか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)**: Defensive Regulation is one of the most powerful ways to raise barriers to entry.
-- **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is often the goal of defensive regulation.
-- **[Standards Game](/strategies/markets/standards-game)**: This strategy can be used to get your proprietary standard enshrined in law, creating a powerful and legally-enforced moat.
-
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - leveraging IP frameworks to support regulatory measures and enforce legal constraints on competitors.
-- [Lobbying](/strategies/user-perception/lobbying) - influencing policymakers and public opinion to enact regulations that entrench your position and disadvantage rivals.
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
+- [Standards Game](/strategies/markets/standards-game)
+- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
+- [Lobbying](/strategies/user-perception/lobbying)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: regulation is often introduced when challengers threaten the status quo.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: incumbents rely on regulation when existing models make them resistant to change.
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 挑戦者が現状を脅かすと、規制が持ち出されやすい
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 既存勢力は適応より規制へ頼りやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Business of America is Lobbying](/books/the-business-of-america-is-lobbying)** by Lee Drutman, Oxford University Press, 2015. An overview of the role of lobbying in the American economy.
-- **[Rent-Seeking](https://www.investopedia.com/terms/r/rentseeking.asp)**, Investopedia. A good definition of the economic concept that underpins this strategy.
+- [The Business of America is Lobbying](/books/the-business-of-america-is-lobbying)
+- [Rent-Seeking](https://www.investopedia.com/terms/r/rentseeking.asp)

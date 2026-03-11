@@ -1,7 +1,6 @@
 ---
-title: First Mover
-description: Establishing a dominant position by industrialising or standardising
-  a component before others.
+title: 先行者戦略（First Mover）
+description: 他者に先んじてコンポーネントを産業化・標準化し、市場の主導権を握るポジショニング戦略。
 tags:
 - first-mover
 - positional
@@ -29,180 +28,179 @@ leadership_focus:
 - Standard stewardship
 - Partner choreography
 quick_signals:
-- You see a component ripe for industrialisation before competitors commit.
-- You can marshal capital and talent to set the standard quickly.
-- Early customers ask for a reliable provider even if it costs more initially.
+- 競合が本格参入する前に、産業化できそうなコンポーネントが見えている。
+- 標準を素早く作るための資本と人材を動員できる。
+- 初期顧客が、多少高くても信頼できる供給者を求めている。
 momentum_moves:
-- Define and publish the reference architecture or service level everyone else will
-  follow.
-- Secure flagship customers or partners who confer credibility.
-- Invest in scalable operations to handle demand spikes once the market tips.
+- 皆が従う参照アーキテクチャやサービス水準を定義して公開する。
+- 信頼を与える旗印顧客や有力パートナーを確保する。
+- 市場が跳ねたときに備えて、拡張可能な運用へ投資する。
 watch_outs:
-- Misjudging timing and industrialising before demand exists.
-- Neglecting ecosystem incentives so rivals create a better standard.
-- Overextending financially before the model stabilises.
+- 需要がない段階で早すぎる産業化をしてしまうこと。
+- エコシステム側の誘因を無視し、より良い標準を競合に作られること。
+- モデルが安定する前に資金を使いすぎること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
-**Establishing a dominant position by industrialising or standardising a component before others.**
+**他者より先に産業化や標準化を進め、初期の優位を市場支配へ変えるポジショニング戦略です。**
 
-> *"Exploiting first mover advantage especially with industrialisation to component services."*
+> *「とくにコンポーネントサービスの産業化において、先行者優位を活用すること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is First Mover?
+### First Mover とは何か
 
-A First Mover industrialises or standardises a component or service ahead of competitors, creating an early lead in brand awareness, ecosystem development, and cost leadership. This strategy turns uncertainty into scale and influence.
+First Mover は、競合より先にコンポーネントやサービスを産業化、あるいは標準化し、ブランド認知、エコシステム形成、コスト優位を先に取る戦略です。不確実性の高い左側の領域を、自分たちの規格と運用で右側へ押し進めます。
 
-Key characteristics include:
+主な特徴は次のとおりです。
 
-- Early investment in industrialisation or platform development.
-- Driving standardisation that others must adopt.
-- Building ecosystem gravity through partnerships and integrations.
+- 早期に大きな投資を行い、量産や標準化を先に進める
+- 他者が従わざるをえないインターフェースや慣行を作る
+- 提携や統合を通じてエコシステムの重力を生む
 
-### Why use First Mover?
+### なぜ使うのか
 
-First Movers can shape market standards, set cost curves, and build customer loyalty before alternatives emerge. By entrenching early, they raise the cost of transition for competitors and influence the evolution of the ecosystem.
+- 市場標準や期待値を自分たち主導で作れる
+- 量産効果と学習効果でコスト曲線を先に下げられる
+- 顧客習慣やパートナー関係を先に押さえられる
+- 後発の切替コストや追随コストを高くできる
 
-### How to use First Mover?
+## 🗺️ **実例**
 
-1. Map emerging components or services with high strategic value.
-2. Secure resources to industrialise or standardise at scale.
-3. Engage partners and consortia to adopt your standards.
-4. Invest heavily in marketing, distribution, and operational capacity.
+### IBM PC
 
-## 🗺️ **Real-World Examples**
-
-### IBM PC (1981)
-
-IBM industrialised the personal computer into a standard architecture, partnering with Microsoft and Intel to create the "Wintel" ecosystem. Competitors built compatible machines, cementing IBM's early influence.
+IBM は PC を標準アーキテクチャとして産業化し、Microsoft と Intel を巻き込んで Wintel エコシステムを形作りました。互換機が増えるほど、その初期の位置取りが効きました。
 
 ### Boeing 707
 
-Boeing was first to industrialise jet-powered commercial aircraft, establishing standards for air travel, airport infrastructure, and pilot training. This first-mover lead shaped commercial aviation for decades.
+Boeing は商用ジェット機の標準を先に作り、空港運用や整備、操縦訓練の前提まで変えました。先行者の一手が、長期の業界構造へつながった例です。
 
-### Hypothetical: Battery Standardisation
+### 仮想例: EV バッテリー規格
 
-An automotive company standardises electric vehicle battery modules, licensing the design to other manufacturers. By defining the architecture early, they capture manufacturing scale and ecosystem support.
+ある自動車会社が EV 用バッテリーモジュールを早期に標準化し、他社へもライセンスします。アーキテクチャを握ることで、製造規模と周辺支援を集められます。
 
-### Cautionary Example: Friendster
+### 注意例: Friendster
 
-Friendster was one of the first social networking sites and gained significant traction in the early 2000s. However, it was slow to innovate and failed to scale its infrastructure to meet demand. This created an opening for a "fast follower," Facebook, which learned from Friendster's mistakes, built a more stable platform, and ultimately dominated the market. This example shows that being a first mover is not enough; you must also be able to execute and adapt to maintain your lead.
+Friendster は早く市場へ入ったものの、拡張性と継続改善で失敗し、後発の Facebook に追い抜かれました。先に出るだけでは不十分で、維持と進化が必要です。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="First Mover">
   <MapSignals>
-    <li>Emerging technology or component with high strategic value and unclear standards.</li>
-    <li>Strong signals of market demand but low current competition capacity.</li>
-    <li>Opportunities to define interfaces or protocols that others must follow.</li>
-    <li>Scale advantages will translate into cost leadership or ecosystem control.</li>
+    <li>高い戦略価値を持つ新技術やコンポーネントがあり、標準が未確定である。</li>
+    <li>需要シグナルは強いが、競合の供給能力や実行能力はまだ低い。</li>
+    <li>他者が従うべきインターフェースや規格を定義できる余地がある。</li>
+    <li>規模がコスト優位やエコシステム支配へ直結する。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the capital to invest heavily at scale.</li>
-    <li>Our organisation can manage rapid industrial or platform development.</li>
-    <li>We possess strong ecosystem relationships and partnership capabilities.</li>
-    <li>We can absorb early risks and sustain losses until scale is achieved.</li>
-    <li>Our leadership is prepared to set and enforce preferred standards.</li>
+    <li>大きな先行投資に耐えられる資本がある。</li>
+    <li>急速な産業化やプラットフォーム構築を進められる。</li>
+    <li>強いパートナーシップとエコシステム形成力がある。</li>
+    <li>初期損失を吸収し、規模化まで耐えられる。</li>
+    <li>望ましい標準を定めて運用する覚悟がある。</li>
   </Readiness>
 </Assessment>
 
-## 🎯 **Leadership**
+### 向くとき
 
-### Core challenge
+- 将来の重要性が高いのに、まだ標準が決まっていないとき
+- 規模と早期学習がそのまま優位になるとき
+- 後発が容易に追いつけない資産や制度を築けるとき
 
-Committing significant resources early while managing the high degree of uncertainty and potential for [Fast Followers](/strategies/positional/fast-follower).
+### 避けるとき
 
-### Key leadership skills required
+- 需要成立が読めないとき
+- 量産や標準化の実行力が不足しているとき
+- 市場教育と運用負荷に耐えられないとき
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Visionary mapping and market foresight.
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Risk tolerance and investment discipline.
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Ecosystem engagement and partnership building.
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Operational scaling and execution management.
+## 🎯 **リーダーシップ**
 
-### Ethical considerations
+### 中核課題
 
-Balancing aggressive standard-setting with fair competition, ensuring open access when appropriate to avoid anti-competitive practices.
+大きな不確実性の中で、早い段階から大きな資源を張りつつ、[高速追随（Fast Follower）](/strategies/positional/fast-follower) に備えることです。
 
-## 📋 **How to Execute**
+### 必要なスキル
 
-1. Conduct deep mapping to identify high-value components.
-2. Allocate capital and resources for industrialisation or standardisation.
-3. Develop and publish clear standards or platform interfaces.
-4. Partner with key ecosystem players to drive adoption.
-5. Scale production, distribution, and support in parallel.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場とユーザーニーズを先読みする
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 大きな賭けに資本を配分する
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — エコシステムを巻き込む
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 規模化をやり切る
 
-## 📈 **Measuring Success**
+### 倫理面
 
-- Market share achieved by the standard or platform.
-- Adoption rate of your standards by partners and competitors.
-- Cost reductions from economies of scale.
-- Strength and growth of the ecosystem (partners, integrations).
-- Brand recognition and customer loyalty in the new space.
+標準を握る行為は、公正競争との境界を曖昧にしがちです。閉鎖性を強めすぎると、独禁法や市場支配の問題を招きます。
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## 📋 **進め方**
 
-### Overextension
+1. 地図から高価値な新興コンポーネントを特定する
+2. 産業化または標準化へ必要な資源を張る
+3. 明確な標準、仕様、参照実装を公開する
+4. パートナーや業界団体を巻き込んで採用を広げる
+5. 生産、流通、サポートを並行して拡張する
 
-Investing too broadly or deeply before market signals are clear can lead to stranded assets.
+## 📈 **成功指標**
 
-### Standard fragmentation
+- 自社標準や自社プラットフォームの採用率
+- 規模の経済によるコスト低下
+- パートナー、統合先、開発者の増加
+- 新市場でのブランド想起と継続利用
+- 後発が再現するまでの時間
 
-Releasing unclear or competing standards can fracture the ecosystem and dilute your influence.
+## ⚠️ **失敗しやすい点**
 
-### Regulatory pushback
+### 先走り
 
-Aggressive standard-setting or platform control may attract antitrust scrutiny.
+需要がない段階で大きく張ると、資産が寝ます。
 
-### Fast follower vulnerability
+### 標準の分裂
 
-Failure to industrialise quickly enough can leave you exposed to improved iterations by others. See [Fast Follower](/strategies/positional/fast-follower).
+曖昧な規格や複数路線は、エコシステムを割ってしまいます。
 
-## 🧠 **Strategic Insights**
+### 反トラスト圧力
 
-### Defining the playing field
+市場支配を急ぎすぎると、規制が逆風になります。
 
-First Movers shape not just products but the rules and economics of the ecosystem.
+### 後発への隙
 
-### Leverage through standards
+先に出ても、産業化の速度が遅ければ後発に改善版を出されます。
 
-Standards can create enduring barriers to entry and network effects when widely adopted.
+## 🧠 **戦略的示唆**
 
-### Investment timing
+### 競争の土俵を先に決める
 
-Heavy upfront investment requires clear signals and strong governance to avoid wasted capital.
+First Mover は製品を出すだけでなく、採用条件、標準、価格感覚といった競争の土俵そのものを先に作ります。
 
-## ❓ **Key Questions to Ask**
+### 標準は長い堀になる
 
-- **Market readiness:** Is demand sufficient to justify early investment?
-- **Scale capability:** Can we industrialise and support at the required scale?
-- **Ecosystem potential:** Who are the key partners or adopters?
-- **Risk appetite:** Are we prepared for delays or failures in early phases?
-- **Regulatory landscape:** What antitrust or compliance risks exist?
+広く採用された標準は、参入障壁とネットワーク効果を同時に生みます。
 
-## 🔀 **Related Strategies**
+## ❓ **問うべきこと**
 
-- [Fast Follower](/strategies/positional/fast-follower) – to enter after pioneers have proven the value.
-- [Land Grab](/strategies/positional/land-grab) – to secure critical infrastructure or resources early.
-- [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect opportunities before committing as a First Mover.
+- 需要は本当に立つのか
+- 規模化をやり切る能力があるのか
+- 誰を最初に巻き込むべきか
+- 失敗や遅延にどこまで耐えられるか
+- 反トラストや規制リスクは何か
 
-- [Directed Investment](/strategies/attacking/directed-investment) - making focused resource commitments to capitalise on early opportunities and cement market leadership.
-- [Differentiation](/strategies/markets/differentiation) - using pioneer status to establish unique features and brand associations that set you apart.
-- [Signal Distortion](/strategies/markets/signal-distortion) - amplifying narratives and hype to reinforce perceived leadership and discourage followers.
+## 🔀 **関連戦略**
+
+- [高速追随（Fast Follower）](/strategies/positional/fast-follower) — 先行者の後で市場を取りに来る動きへの備え
+- [Land Grab（先行確保）](/strategies/positional/land-grab) — 希少資産や重要地点を先に取る
+- [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) — 機会が見える前に兆候を拾う
+- [Directed Investment](/strategies/attacking/directed-investment) — 初期優位を固定するための集中投資
+- [Differentiation](/strategies/markets/differentiation) — 先行者の独自性を価値として定着させる
+- [Signal Distortion](/strategies/markets/signal-distortion) — 先行者としての印象を強める
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – trigger: industrialising a component early can accelerate its evolution.
-- [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – influence: being first positions you to ride sudden market shifts.
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – トリガー: 早期の産業化はコンポーネントの進化を加速する
+- [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – 影響: 先行していると急激な移行局面を有利に乗りやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Gawer, A. – [*Platforms, Markets and Innovation*](/books/platforms-markets-and-innovation) – analysis of platform leadership and standards.
-- Schilling, M. – [*Strategic Management of Technological Innovation*](/books/strategic-management-of-technological-innovation) – insights on timing and scaling innovations.
-- [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - Simon Wardley
-- [Is it better to be a first mover or a fast follower?](https://www.bdo.co.uk/en-gb/insights/industries/technology-media-and-life-sciences/plugdin-insights-is-it-better-to-be-a-first-mover-or-a-fast-follower)
-- [Fast Followers and First Movers: Innovation in Organizations](https://blog.siemens.com/2022/12/fast-followers-and-first-movers-innovation-in-organizations/)
-- [First Mover. Fast Follower. Smart Follower: What’s Best For You?](https://www.forbes.com/sites/dileeprao/2024/03/13/first-mover-fast-follower-smart-follower-whats-best-for-you/)
+- [Platforms, Markets and Innovation](/books/platforms-markets-and-innovation)
+- [Strategic Management of Technological Innovation](/books/strategic-management-of-technological-innovation)
+- [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)

@@ -1,7 +1,6 @@
 ---
-title: Creating Constraints
-description: Purposefully introduce new bottlenecks to constrain competitors by shaping
-  market, legal, or technical environments.
+title: 制約の創出
+description: 市場、法制度、技術環境に新たなボトルネックを作り、競合の自由度を下げる減速戦略。
 tags:
 - decelerators
 - creating-constraints
@@ -27,174 +26,168 @@ leadership_focus:
 - Risk framing
 - Policy advocacy
 quick_signals:
-- Suppliers warn that capacity is tightening around components everyone needs.
-- Regulators consider new rules that could redefine access to critical inputs.
-- Competitors rely on the same fragile distribution or manufacturing channels.
+- 供給者が、皆に必要な部材の供給逼迫を警告している。
+- 規制当局が、重要資源へのアクセス条件を変えうる新ルールを検討している。
+- 競合が同じ脆い流通や製造経路へ依存している。
 momentum_moves:
-- Lock in contracts or investments that give you preferential control of the bottleneck.
-- Co-design standards or certification schemes that raise compliance expectations.
-- Coordinate messaging that frames the constraint as necessary for quality or safety.
+- ボトルネックを優先的に押さえる契約や投資を先に固める。
+- コンプライアンス要求を引き上げる標準や認証を共同設計する。
+- その制約が品質や安全のために必要だという物語を揃える。
 watch_outs:
-- Creating constraints you cannot sustain operationally.
-- Inviting regulatory scrutiny for anti-competitive behaviour.
-- Alienating partners who feel trapped by your manoeuvre.
+- 運用上維持できない制約を作ること。
+- 反競争的行為として規制の注目を集めること。
+- パートナーに閉じ込められたと感じさせること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
-**Purposefully introduce new bottlenecks to constrain competitors by shaping market, legal, or technical environments.**
+**新しいボトルネックを意図的に作り、競合の行動自由度を下げる減速戦略です。**
 
-> *"Supply chain manipulation with a view of creating a new constraint where none existed."*
+> *「存在しなかった新しい制約を作ることを意図した、サプライチェーン操作。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Creating Constraints?
+### 制約の創出とは何か
 
-Creating Constraints is a strategy where an organization intentionally manufactures a new bottleneck. This can be in supply, regulation, or market standards, to restrict competitors' freedom of action. By controlling or limiting critical resources, the organization shapes the competitive landscape in its favor.
+制約の創出は、供給、規制、標準、契約のどこかに新しいボトルネックを作り、競合の前進を遅らせる戦略です。希少な資源、重要認証、独自規格、排他的な供給契約などを通じて、相手の選択肢を減らします。
 
-### Why use Creating Constraints?
+### なぜ使うのか
 
-Applying Creating Constraints can:
+- 競合の参入コストと複雑さを引き上げられる
+- 将来希少になる資源や経路を先に押さえられる
+- 自社に有利な市場・規制条件を作れる
 
-- Establish a sustainable competitive advantage by raising the cost and complexity for rivals.
-- Secure access to key resources or channels before they become universally scarce.
-- Shape market or regulatory conditions to align with your strategic goals.
+### 中核原則
 
-### How to use Creating Constraints?
+- 競合が気づく前に動く
+- 一時的ではなく持続できる制約にする
+- 法務・評判リスクと引き換えになることを理解する
 
-1. Map your value chain and identify components with high future importance.
-2. Assess which components you can control or influence (suppliers, standards, legal avenues).
-3. Develop mechanisms for creating scarcity (exclusive contracts, patent filings, regulatory lobbying).
-4. Secure commitments (e.g., supplier agreements, regulatory endorsements).
-5. Monitor the market, enforce constraints, and adapt to competitive responses.
+## 🗺️ **実例**
 
-### Core Principles
+### De Beers のダイヤ供給
 
-- **Proactive control:** Act before competitors recognize the emerging bottleneck.
-- **Sustainable enforcement:** Ensure you can maintain the constraint over time.
-- **Legal and ethical compliance:** Balance aggressive tactics with regulatory and reputational risks.
+採掘量と在庫を管理し、人工的な希少性を維持することで、市場全体を支配しました。
 
-## 🗺️ **Real-World Examples**
+### iPhone の通信事業者独占契約
 
-### Historical Example: De Beers and the Diamond Supply
+初期の iPhone は通信事業者との独占提携で流通制約を作り、競合に対して大きな差を作りました。
 
-De Beers dominated the diamond market for decades by stockpiling gems and controlling mine output. This artificial scarcity forced competitors and consumers to operate within De Beers' controlled supply environment, maintaining high prices and market power.
+### 仮想例: EV 用リチウム供給
 
-### Tech Example: Exclusive Carrier Deals for the iPhone
+バッテリーメーカーが主要鉱山会社と長期独占契約を結び、新規参入者の調達コストを引き上げるケースです。
 
-When Apple launched the iPhone, it secured exclusive partnerships with carriers (e.g., AT&T in the U.S.), creating an access constraint for competitors who lacked comparable distribution, thereby shaping early market adoption.
-
-### Hypothetical Example: Lithium Supply for EV Batteries
-
-A battery manufacturer signs long-term exclusive contracts with major lithium suppliers, creating a resource bottleneck that delays new electric-vehicle entrants lacking pre-negotiated supply, raising their costs and slowing their market entry.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Creating Constraints">
   <MapSignals>
-    <li>Our map shows a critical component at an early stage of evolution that will become a bottleneck.</li>
-    <li>We have identified a future resource that competitors currently take for granted.</li>
+    <li>地図上で、初期進化段階にある重要コンポーネントが将来ボトルネックになる。</li>
+    <li>競合が当然視している将来資源を、自社は先に特定できている。</li>
   </MapSignals>
   <Readiness>
-    <li>We have strong negotiation and legal capabilities.</li>
-    <li>We can commit the necessary resources to enforce exclusivity or regulation.</li>
+    <li>強い交渉力と法務能力がある。</li>
+    <li>排他契約や制度化を支える資源を投じられる。</li>
   </Readiness>
 </Assessment>
 
-**Use when:** You have foresight and leverage to lock in a key resource or standard before others adapt.
+### 向くとき
 
-**Avoid when:** Legal, regulatory, or reputational risks outweigh potential benefits, or if competitors can easily innovate around the constraint.
+- 先読みとレバレッジがあり、競合より先に重要資源や標準を押さえられるとき
 
-## 🎯 **Leadership**
+### 避けるとき
 
-### Core challenge
+- 法務、規制、評判リスクのほうが便益を上回るとき
+- 競合が容易に代替技術や代替経路を作れるとき
 
-Balancing the strategic advantage of creating constraints against legal, ethical, and ecosystem impacts while securing stakeholder alignment.
+## 🎯 **リーダーシップ**
 
-### Key leadership skills required
+### 中核課題
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight.
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and influence.
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Legal and regulatory expertise.
-- [Ethical judgment](/leadership-skills/ethical-judgment) — Risk management and ethical judgment.
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Cross-functional stakeholder alignment.
+制約を作る戦略的な利得と、法務、倫理、エコシステムへの悪影響を両立して判断することです。
 
-### Ethical considerations
+### 必要なスキル
 
-Consider the broader market and societal impact: overly restrictive constraints may harm innovation, provoke antitrust action, or damage relationships with partners and customers.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — どこが将来の制約点になるか読む
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 契約や排他条件を取りに行く
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 制度面を設計・活用する
+- [Ethical judgment](/leadership-skills/ethical-judgment) — 行き過ぎを避ける
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 社内外の足並みを揃える
 
-## 📋 **How to Execute**
+### 倫理面
 
-1. Conduct a landscape analysis and map component evolution.
-2. Identify control points where scarcity can be introduced.
-3. Build legal, regulatory, or contractual mechanisms for exclusivity.
-4. Coordinate with suppliers, regulators, and partners.
-5. Communicate strategy internally and externally to enforce the constraint.
-6. Monitor competitor responses and iterate your approach.
+制約を強めすぎると、イノベーションを阻害し、独禁法問題やパートナー離反を招きます。短期優位のために長期の市場健全性を壊していないかを確認する必要があります。
 
-## 📈 **Measuring Success**
+## 📋 **進め方**
 
-- Reduction in competitor access to the constrained component.
-- Increased time-to-market advantage or margin improvements.
-- Successful enforcement actions or regulatory approvals.
-- Growth in market share relative to constrained rivals.
-- Stability of the created constraint over time.
+1. 地図で将来の重要コンポーネントを特定する
+2. どこに希少性や排他性を入れられるかを選ぶ
+3. 契約、認証、規制、標準を使って制約を形にする
+4. 供給者、規制当局、パートナーと足並みを揃える
+5. 競合の反応を見ながら制約を維持・調整する
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## 📈 **成功指標**
 
-### Overinvestment
+- 競合のアクセス可能性がどれだけ下がったか
+- 参入時期や市場投入速度でどれだけ差が付いたか
+- 規制承認、契約履行、認証獲得の成果
+- 制約下での市場シェアや利益率の改善
+- 作った制約がどれだけ長く維持できているか
 
-Investing heavily before the market materializes can lead to wasted expenditure if the constraint loses relevance.
+## ⚠️ **失敗しやすい点**
 
-### Regulatory Pushback
+### 過剰投資
 
-Aggressive constraints may invite antitrust scrutiny or legal challenges that can nullify their value.
+市場が立たなければ、制約維持コストが丸損になります。
 
-### Partner Resistance
+### 規制の反発
 
-Suppliers or standards bodies may resist exclusivity if they perceive unfair coercion.
+行き過ぎると独禁法や不公正取引の対象になります。
 
-### Competitor Innovation
+### パートナー離反
 
-Rivals may develop alternative solutions that circumvent the constraint, undermining its effectiveness.
+供給者や標準団体が不当だと感じると、別陣営を作られます。
 
-## 🧠 **Strategic Insights**
+### 競合の迂回
 
-### Timing is Critical
+代替技術や別経路が生まれると、制約は急に意味を失います。
 
-Deploy constraints at a moment when they deliver maximal strategic leverage without premature resource waste.
+## 🧠 **戦略的示唆**
 
-### Balance Ecosystem Health
+### タイミングがすべて
 
-Maintain a healthy ecosystem to avoid long-term stagnation or backlash from partners and customers.
+早すぎれば無視され、遅すぎれば押さえられません。変曲点の直前に打つ必要があります。
 
-### Prepare Counterplay
+### エコシステムを壊しすぎない
 
-Anticipate potential defenses and have responses ready to uphold your newly created constraints.
+制約は効きますが、周辺の活力まで奪うと長期的に自社も弱ります。
 
-## ❓ **Key Questions to Ask**
+### 反撃前提で設計する
 
-- **Resource:** Is the targeted component critical enough to justify creating a constraint?
-- **Leverage:** Do we have sufficient influence (legal, economic, or technical) to enforce it?
-- **Cost vs. Benefit:** Will the strategic gains outweigh the costs and risks?
-- **Timing:** Are we acting early enough to shape the market, but not so early that the constraint is ignored?
-- **Workarounds:** Could competitors innovate around this constraint?
+競合は必ず代替策を探します。迂回される前提で次の一手を準備しておくべきです。
 
-## 🔀 **Related Strategies**
+## ❓ **問うべきこと**
 
-- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - Amplify a pre-existing bottleneck rather than creating a new one.
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - Leverage legal rights to block competitors from evolving key technologies.
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - Broader tactics to limit competitor market entry.
+- 本当にそのコンポーネントは制約に値するのか
+- 自社にはそれを維持する影響力があるか
+- 便益はコストとリスクを上回るか
+- 早すぎず遅すぎないタイミングか
+- 競合はどんな迂回策を取れるか
+
+## 🔀 **関連戦略**
+
+- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint)
+- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Characteristics change](/climatic-patterns/characteristics-change) – trigger: imposing constraints alters how components evolve.
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: self-imposed limits may hinder adaptation.
+- [特性は変化する](/climatic-patterns/characteristics-change) – トリガー: 制約を加えるとコンポーネントの進化特性が変わる
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 自分で作った制約が、後に自社の足かせになることもある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing) - Overview of how exclusive contracts can shape market access.
-- [De Beers](https://en.wikipedia.org/wiki/De_Beers) - Case study on artificially restricting diamond supply to maintain market control.
-- [Antitrust and Exclusive Agreements](https://en.wikipedia.org/wiki/Antitrust_laws) - Overview of legal considerations around exclusive arrangements.
+- [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing)
+- [De Beers](https://en.wikipedia.org/wiki/De_Beers)
+- [Antitrust and Exclusive Agreements](https://en.wikipedia.org/wiki/Antitrust_laws)
