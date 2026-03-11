@@ -1,11 +1,10 @@
 ---
-title: "Future value is inversely proportional to the certainty we have over it"
+title: "将来価値は確実性に反比例する"
 tags: [financial]
 ---
 
+未知が大きいほど、見返りの上振れ余地も大きくなります。誰もが確実だと思っている投資なら、得られる報酬はすでに価格へ織り込まれていることが多いのです。
 
-The bigger the unknowns, the greater the possible upside. If everyone is sure about an investment, the likely rewards are already priced in.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Directed Investment](/strategies/attacking/directed-investment) – trigger: targeted bets seek uncertain, potentially high-value opportunities.
+- [Directed Investment](/strategies/attacking/directed-investment) – トリガー: 狙いを定めた賭けは、不確実だが高価値になりうる機会を探しに行く。

@@ -1,15 +1,14 @@
 ---
-title: "Competitors' actions will change the game"
+title: "競合の行動はゲームを変える"
 tags: [competitors]
 ---
 
+どんな戦略も真空の中には存在しません。競合の動きは状況を変え、こちらに対応か再配置を迫ります。
 
-No strategy lives in a vacuum. Moves by rivals alter the landscape and force you to respond or reposition.
+競合の行動はゲームを変えます。先行者が運営モデルを産業化すると、その状況は他の全員にとっても書き換わります。
 
-Competitors’ actions will change the game: Early movers who industrialise their operating model will reshape the landscape for everyone else.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Experimentation](/strategies/attacking/experimentation) – trigger: small tests help you react quickly to competitive moves.
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – influence: incumbents may push for new rules when rivals shift the game.
-- [Co-opting](/strategies/ecosystem/co-opting) – influence: mimicking a competitor can neutralise their advantage.
+- [Experimentation](/strategies/attacking/experimentation) – トリガー: 小さな実験は、競争上の動きへすばやく反応する助けになる。
+- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 影響: 競合がゲームを変えたとき、既存勢力は新たなルールを求めやすい。
+- [Co-opting](/strategies/ecosystem/co-opting) – 影響: 競合を模倣することで、その優位を中和できることがある。

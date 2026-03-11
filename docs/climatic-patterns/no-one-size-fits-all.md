@@ -1,16 +1,15 @@
 ---
-title: "No one size fits all"
+title: "万能な解は存在しない"
 tags: [components]
 ---
 
+システムは、異なる進化段階にあるコンポーネントから構成されます。実験的な部分には変化の自由が必要ですが、産業化された部分には安定性と効率が必要です。この混在がある以上、単一の管理手法やデリバリー手法で全コンポーネントに対応することはできません。
 
-A system is built from components that sit at different stages of evolution. Experimental parts require freedom to change, while industrialised parts demand stability and efficiency. Because of this mix, a single management or delivery method cannot suit every component.
+これはソフトウェア開発でも調達でも同じです。
+必要なアプローチは異なります。
 
-This is true in software development as much as in purchasing.
-Approaches need to vary:
+- **探索的な仕事** には、アジャイルのような軽量で柔軟な手法が向いています。
+- **成熟しつつあるプロダクト** には、無駄を減らし学習を測る実践、しばしばリーン思考と結びつく手法が求められます。
+- **大量生産のコモディティ** には、再現性と厳密な制御が必要で、シックスシグマのような手法が力を発揮します。
 
-- **Exploratory work** benefits from lightweight, flexible techniques such as Agile.
-- **Maturing products** call for practices that reduce waste and measure learning, often associated with Lean thinking.
-- **High‑volume commodities** rely on repeatability and tight control, where methods like Six Sigma shine.
-
-The same variety applies to purchasing, budgeting, and even organisational structure. For any large endeavour, expect to blend multiple approaches rather than forcing everything into one.
+同じ多様性は、調達、予算編成、さらには組織構造にも当てはまります。大きな取り組みでは、すべてをひとつの型に押し込むのではなく、複数のアプローチを混ぜ合わせることになります。

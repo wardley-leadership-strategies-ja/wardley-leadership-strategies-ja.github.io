@@ -1,16 +1,15 @@
 ---
-title: "Characteristics change"
+title: "特性は変化する"
 tags: [components]
 ---
 
+ある活動が進化すると、その特性は大きく変わります。初期段階では不確実で、希少で、理解も浅いものです。時間がたつにつれ、それは一般化し、予測可能になり、効率重視へ移ります。
 
-As an activity evolves, its traits shift dramatically. In the early stages it is uncertain, rare, and poorly understood. Over time it becomes commonplace, predictable, and focused on efficiency.
+（Salaman と Storey は、こうした特性が時間とともにどう変わるかを説明しました。）
+よくある遷移には次のものがあります。
 
-(Salaman & Storey described how these traits morph over time.)
-Common transitions include:
+- **探索から標準化へ** – 新しいアイデアは日常的なプロダクトとなり、やがてユーティリティになります。
+- **競争優位から当然の前提へ** – かつて差別化要因だったものが、単なる当たり前になります。
+- **ペットから家畜へ** – 個別に手厚く世話された独自システムが、やがて交換可能で使い捨てのものになります。
 
-- **From exploration to standardisation** – novel ideas turn into everyday products and eventually into utilities.
-- **From competitive advantage to cost of doing business** – what once differentiated you becomes merely expected.
-- **From pets to cattle** – unique, carefully tended systems eventually become disposable and interchangeable.
-
-No matter the domain, these changes happen when competition exists. Recognising how characteristics alter over time helps determine when to invest in experimentation and when to industrialise.
+分野が何であれ、競争が存在するとこうした変化は起こります。特性が時間とともにどう変わるかを理解すると、いつ実験に投資し、いつ産業化すべきかを判断しやすくなります。

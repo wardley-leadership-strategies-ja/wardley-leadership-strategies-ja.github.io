@@ -1,12 +1,11 @@
 ---
-title: "Economy has cycles"
+title: "経済にはサイクルがある"
 tags: [prediction]
 ---
 
+市場は、平時、戦時、驚異の時代といった局面を巡ります。各段階は異なる戦術と投資水準を求めます。
 
-Markets move through phases of peace, war and wonder. Each stage calls for different tactics and levels of investment.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Industrial Policy](/strategies/accelerators/industrial-policy) – trigger: government investment often ramps up during war or wonder phases.
-- [Last Man Standing](/strategies/markets/last-man-standing) – influence: contraction phases can drive attrition strategies.
+- [Industrial Policy](/strategies/accelerators/industrial-policy) – トリガー: 戦時や驚異の局面では、政府投資が強まりやすい。
+- [Last Man Standing](/strategies/markets/last-man-standing) – 影響: 縮小局面は消耗戦略を後押しすることがある。

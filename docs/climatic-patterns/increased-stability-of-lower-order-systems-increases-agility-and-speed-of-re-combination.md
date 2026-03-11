@@ -1,12 +1,11 @@
 ---
-title: "Increased stability of lower order systems boosts agility"
+title: "下位システムの安定性向上は俊敏性を高める"
 tags: [speed]
 ---
 
+信頼できる構成要素があると、それらを素早く組み合わせ直せます。基礎が安定すると、新しい組み合わせを高速に形成できます。
 
-Reliable building blocks let you mix and match them quickly. With the basics stable, new combinations can form at speed.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Open Approaches](/strategies/accelerators/open-approaches) – influence: stable open components enable rapid recombination.
-- [Cooperation](/strategies/accelerators/cooperation) – trigger: once foundations stabilise, collaboration becomes easier.
+- [Open Approaches](/strategies/accelerators/open-approaches) – 影響: 安定したオープンコンポーネントは高速な再結合を可能にする。
+- [Cooperation](/strategies/accelerators/cooperation) – トリガー: 基盤が安定すると、協力はより容易になる。

@@ -1,11 +1,10 @@
 ---
-title: "A 'war' causes organisations to evolve"
+title: "『戦争』は組織を進化させる"
 tags: [prediction]
 ---
 
+産業化の局面は、しばしば生存競争のように感じられます。競争圧力によって、組織はすばやく適応するか、置き去りにされるかを迫られます。
 
-The point of industrialisation often feels like a battle for survival. Competitive pressure forces organisations to adapt rapidly or be left behind.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Alliances](/strategies/ecosystem/alliances) – trigger: wartime competition often drives organisations to band together.
+- [Alliances](/strategies/ecosystem/alliances) – トリガー: 戦時的な競争は、組織同士が連携する動機になりやすい。

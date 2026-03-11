@@ -1,10 +1,10 @@
 ---
-title: "Autonomy length expands"
+title: "自律の長さは広がる"
 tags: [speed, automation]
 ---
 
-Automation no longer stops at single tasks. Systems now handle multi-step outcomes, stitching together decision-making, execution, and follow-up actions without constant human intervention.
+自動化は、もはや単一タスクで止まりません。いまのシステムは、絶え間ない人手の介入なしに、意思決定、実行、追跡対応をつなぎ合わせ、複数段階の成果を扱います。
 
-As autonomy length grows, people increasingly work by setting intent rather than micromanaging each action. Triggering a capability kicks off cascades of work that would previously have taken teams days or weeks to complete.
+自律の長さが伸びるにつれ、人は各動作を細かく管理するより、意図を与えて働くようになります。ひとつの能力を起動すると、以前ならチームが数日から数週間かけていた仕事の連鎖が始まります。
 
-Landscapes tilt toward those who can orchestrate these longer chains effectively. The winners govern guardrails, monitor performance, and continually evaluate where human judgement needs to re-enter the loop.
+状況は、こうした長い連鎖をうまくオーケストレーションできる側に傾きます。勝つのは、ガードレールを管理し、性能を監視し、どこで人間の判断をループへ戻すべきかを継続的に見極める側です。

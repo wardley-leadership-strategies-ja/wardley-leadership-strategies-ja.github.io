@@ -1,27 +1,27 @@
-# Resilient Supply Network Field Guide
+# レジリエントな供給ネットワーク実践ガイド
 
-Supply shocks are inevitable; the organisations that thrive turn mapping insight into deliberate redundancy and leverage. This field guide weaves [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power), [Creating Constraints](/strategies/decelerators/creating-constraints), and [Threat Acquisition](/strategies/defensive/threat-acquisition) into a repeatable cycle that stabilises your supply base without suffocating innovation.
+供給ショックは避けられません。繁栄する組織は、地図から得た洞察を意図的な冗長性とレバレッジへ変えます。このガイドは、[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)、[Creating Constraints](/strategies/decelerators/creating-constraints)、[Threat Acquisition](/strategies/defensive/threat-acquisition) を織り込み、イノベーションを窒息させずに供給基盤を安定させる反復可能なサイクルを示します。
 
-## 🗺️ **Map Critical Dependencies End-to-End**
+## 🗺️ **重要な依存関係を端から端まで地図化する**
 
-Begin with a Wardley Map that traces the entire flow from raw inputs to customer outcomes. Highlight components with single points of failure or lead times that dwarf customer tolerance. Classify suppliers by evolution stage: genesis partners demand joint exploration, while commodity vendors should be interchangeable. This visual clarity reveals where concentration risk hides behind otherwise healthy metrics.
+まず、原材料から顧客成果までの流れ全体をたどる地図を作ります。単一障害点になっているコンポーネントや、顧客許容を大きく超えるリードタイムを強調します。サプライヤーは進化段階で分類します。創世記のパートナーには共同探索が必要ですが、コモディティなベンダーは相互に置き換え可能であるべきです。この視覚的な明瞭さが、見かけ上は健全な指標の裏に隠れた集中リスクをあぶり出します。
 
-## 🔀 **Rebalance Power Dynamics Intentionally**
+## 🔀 **力関係を意図的に組み替える**
 
-Apply [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) to negotiate from a position of insight rather than fear. Where suppliers dominate, increase optionality: cultivate alternate vendors, invest in automation, or redesign the product so that a bespoke part becomes a utility. Where you hold leverage, avoid complacency by offering long-term commitments tied to performance metrics that reinforce mutual resilience.
+[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) を使い、恐れではなく洞察から交渉します。サプライヤーが優位なら、選択肢を増やします。代替ベンダーの育成、自動化投資、特注部品をユーティリティへ変える再設計などです。自分たちが優位にいるなら、相互レジリエンスを強める性能指標つきの長期コミットメントを提示し、慢心を防ぎます。
 
-## 🧱 **Introduce Smart Constraints**
+## 🧱 **賢い制約を導入する**
 
-Use [Creating Constraints](/strategies/decelerators/creating-constraints) to slow down risky expansions while you fortify the base. Cap order volumes in markets prone to bullwhip effects, require dual-sourcing for components above a defined risk threshold, and set decision gates that demand fresh map reviews before major supplier switches. Constraints are not bureaucracy; they are shock absorbers that keep teams honest about risk trade-offs.
+基盤を固める間の危険な拡張を遅らせるために、[Creating Constraints](/strategies/decelerators/creating-constraints) を使います。ブルウィップ効果が起きやすい市場では注文量に上限を設け、一定以上のリスク閾値を超えるコンポーネントには二重調達を必須にし、大きな供給先変更の前には新しい地図レビューを要求する意思決定ゲートを置きます。制約は官僚制ではなく、チームがリスクのトレードオフに誠実であり続けるためのショックアブソーバーです。
 
-## 🛡️ **Acquire Threats Before They Erupt**
+## 🛡️ **脅威が噴き出す前に取得する**
 
-Some bottlenecks will not budge through negotiation alone. Deploy [Threat Acquisition](/strategies/defensive/threat-acquisition) selectively to buy capabilities that jeopardise continuity—specialist tooling firms, niche data providers, or regional logistics hubs. When acquisition is impractical, pursue [Alliances](/strategies/ecosystem/alliances) that give you veto power over critical decisions. Integrate these moves into your map so you can see how the supply network evolves post-deal.
+交渉だけでは動かないボトルネックもあります。継続性を脅かす能力、たとえば専門ツール会社、ニッチなデータ提供者、地域物流拠点などを、[Threat Acquisition](/strategies/defensive/threat-acquisition) で選択的に買い取ります。買収が現実的でないなら、重要判断に拒否権を持てる [Alliances](/strategies/ecosystem/alliances) を追求します。これらの動きは地図へ統合し、取引後に供給ネットワークがどう進化したかを見えるようにします。
 
-## 🧪 **Institutionalise Stress Testing**
+## 🧪 **ストレステストを制度化する**
 
-Schedule recurring war games that simulate supplier failure, regulatory shocks, or transportation breakdowns. Feed the scenarios into your maps and document the decision playbooks that emerge. Pair these exercises with real-world telemetry—inventory buffers, supplier financial health, and lead-time variance—so you can trigger contingency plans early. The goal is to make resilience a muscle, not a one-off project.
+サプライヤー障害、規制ショック、輸送寸断を模擬するウォーゲームを定期的に実施します。シナリオを地図へ流し込み、そこから得られた意思決定プレイブックを文書化します。現実のテレメトリ、たとえば在庫バッファ、サプライヤーの財務健全性、リードタイムの分散も組み合わせ、コンティンジェンシープランを早めに発動できるようにします。目標は、レジリエンスを一回限りの施策ではなく筋力にすることです。
 
-## 📈 **Measure Resilience as a Portfolio**
+## 📈 **レジリエンスをポートフォリオとして測る**
 
-Track composite indicators: percentage of spend under dual-source coverage, average time to re-route production, revenue concentration by supplier, and the cadence of map refreshes. When a metric drifts, convene the cross-functional team responsible for the guide and update both constraints and acquisition targets. Over time, this discipline shifts the organisation from reacting to supply shocks to shaping the market on its own terms.
+複合指標を追います。二重調達でカバーされた支出比率、生産再振替までの平均時間、サプライヤー別売上集中度、地図更新の頻度などです。指標が崩れたら、このガイドの責任を持つクロスファンクショナルチームを招集し、制約条件と取得対象の両方を更新します。時間が経つにつれて、この規律が組織を供給ショックへの反応型から、市場を自分たちの条件で形づくる側へ変えていきます。

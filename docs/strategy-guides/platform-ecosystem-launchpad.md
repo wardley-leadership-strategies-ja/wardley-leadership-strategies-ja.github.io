@@ -1,27 +1,27 @@
-# Platform Ecosystem Launchpad
+# プラットフォーム・エコシステム立ち上げガイド
 
-This guide helps product leaders assemble a coherent play that turns a differentiated product into a thriving ecosystem. It combines [Platform Envelopment](/strategies/ecosystem/platform-envelopment), [Two-Factor Markets](/strategies/ecosystem/two-factor-markets), and [Co-creation](/strategies/ecosystem/co-creation) with foundational doctrine so that partners and users reinforce each other's success.
+このガイドは、差別化されたプロダクトを繁栄するエコシステムへ変える一貫したプレイを、プロダクトリーダーが組み立てる助けになります。[Platform Envelopment](/strategies/ecosystem/platform-envelopment)、[Two-Factor Markets](/strategies/ecosystem/two-factor-markets)、[Co-creation](/strategies/ecosystem/co-creation) を基礎指針と組み合わせ、パートナーとユーザーが互いの成功を強め合う状態を作ります。
 
-## 🧭 **Define the Anchor and Adjacent Plays**
+## 🧭 **錨となる能力と隣接プレイを定める**
 
-Start by mapping your current value chain and identifying the anchor capability that keeps users loyal. Evaluate nearby needs that competitors satisfy poorly—payments, identity, analytics, or compliance. Use [Platform Envelopment](/strategies/ecosystem/platform-envelopment) logic to determine which adjacent markets can be merged into your offering without diluting focus. When an adjacency shares users and routines with your core, bundle it so that your ecosystem becomes the default destination.
+まず現在のバリューチェーンを地図化し、ユーザーの忠誠を保っている中核能力を特定します。競合が十分に満たせていない周辺ニーズ、たとえば決済、アイデンティティ、分析、コンプライアンスを評価します。[Platform Envelopment](/strategies/ecosystem/platform-envelopment) の論理を使い、どの隣接市場を焦点をぼかさずに自社提供へ取り込めるかを見極めます。隣接領域が中核とユーザーや業務習慣を共有するなら、それを束ねて、あなたのエコシステムを既定の行き先にします。
 
-## ⚖️ **Design the Two-Sided Incentives**
+## ⚖️ **両面市場のインセンティブを設計する**
 
-A platform falters when one side of the market lags. Use a Wardley Map to visualize each participant journey and pinpoint friction. Offer credible incentives to the side that is harder to attract: subsidies, marketing support, or accelerated onboarding. Draw from [Two-Factor Markets](/strategies/ecosystem/two-factor-markets) by sequencing growth—first secure the side that values differentiation, then commoditize access for the other side with clear APIs and predictable economics. Track liquidity metrics so you can rebalance quickly.
+市場の片側が遅れるとプラットフォームは失速します。各参加者の道のりを Wardley Map で可視化し、摩擦点を特定します。引き寄せにくい側には、補助金、マーケティング支援、迅速なオンボーディングなど、信頼できるインセンティブを提示します。[Two-Factor Markets](/strategies/ecosystem/two-factor-markets) を踏まえ、成長の順序を設計します。まず差別化を重視する側を確保し、その後は明確な API と予測可能な経済条件で、反対側へのアクセスをコモディティ化します。流動性指標を追い、偏りをすばやく補正します。
 
-## 🤝 **Codify Co-creation Boundaries**
+## 🤝 **共創の境界を明文化する**
 
-Co-creation thrives when participants know where they can experiment versus where stability matters. Publish interaction contracts that outline shared data schemas, customer ownership, and escalation paths. Combine [Co-creation](/strategies/ecosystem/co-creation) with [Use a Common Language](/doctrines/use-a-common-language) so that partners see how their components evolve on the map. Encourage extension building in differentiating zones while protecting commoditised utilities with reference implementations and automated quality checks.
+共創は、どこで実験できて、どこで安定性が重要かを参加者が理解しているときに機能します。共有データスキーマ、顧客所有権、エスカレーション経路を示すインタラクション契約を公開します。[Co-creation](/strategies/ecosystem/co-creation) と [Use a Common Language](/doctrines/use-a-common-language) を組み合わせ、パートナーが自分たちのコンポーネントが地図上でどう進化しているか見えるようにします。差別化ゾーンでの拡張開発は促しつつ、コモディティ化したユーティリティは参照実装と自動品質チェックで守ります。
 
-## 🔌 **Lower Integration Friction Relentlessly**
+## 🔌 **統合摩擦を徹底的に下げる**
 
-Every integration step that feels bespoke will choke ecosystem momentum. Pair your technical roadmap with [Market Enablement](/strategies/accelerators/market-enablement) moves: curated starter kits, sandbox environments, and certification programs that reward reliability. Instrument the developer journey to detect where partners stall and feed those signals back into your backlog. The goal is to make participation cheaper than building alone.
+特注に感じられる統合ステップは、すべてエコシステムの勢いを窒息させます。技術ロードマップに [Market Enablement](/strategies/accelerators/market-enablement) を組み合わせ、厳選されたスターターキット、サンドボックス環境、信頼性を報いる認証プログラムを提供します。開発者ジャーニーを計測し、どこでパートナーが止まるかを検知してバックログへ戻します。目標は、単独で作るより参加するほうが安い状態を作ることです。
 
-## 🛡️ **Guard Against Ecosystem Backlash**
+## 🛡️ **エコシステムからの反発に備える**
 
-As your platform expands, expect regulators and competitors to question your fairness. Pre-empt accusations of abuse by aligning with [Alliances](/strategies/ecosystem/alliances) and setting transparent governance. Offer data portability options and independent audits so you can demonstrate that success is earned, not coerced. Keep an eye on components sliding toward commodity status and be willing to open-source or standardise them before external pressure forces your hand.
+プラットフォームが広がるほど、規制当局や競合はあなたの公平性を疑います。濫用の非難を先回りするため、[Alliances](/strategies/ecosystem/alliances) と整合し、透明なガバナンスを設定します。データポータビリティの選択肢や独立監査を提供し、成功が強制ではなく実力で得られたものだと示します。コモディティ化へ滑るコンポーネントを注視し、外圧に押される前にオープンソース化や標準化を選ぶ覚悟も持ちます。
 
-## 📊 **Run the Ecosystem Control Loop**
+## 📊 **エコシステムの制御ループを回す**
 
-Treat the platform as a living system. Maintain a dashboard of leading indicators: number of active builders, partner-led revenue share, time-to-first-integration, and NPS for both sides of the market. When a metric dips, revisit the map to see whether a component has evolved, a new entrant has appeared, or incentives have drifted. A disciplined loop of sensing, adjusting, and reinvesting keeps the ecosystem vibrant and compounds your competitive advantage.
+プラットフォームを生きたシステムとして扱います。主要指標のダッシュボードを維持しましょう。アクティブな開発者数、パートナー主導売上比率、初回統合までの時間、市場の両側の NPS などです。どれかが落ちたら地図へ戻り、コンポーネントが進化したのか、新規参入者が現れたのか、インセンティブがずれたのかを確認します。感知し、調整し、再投資する規律あるループが、エコシステムを活気あるものに保ち、競争優位を複利で育てます。

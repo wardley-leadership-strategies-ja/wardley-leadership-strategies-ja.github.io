@@ -1,7 +1,6 @@
 ---
-title: "Evolution consists of multiple diffusion curves"
+title: "進化は複数の普及曲線から成る"
 tags: [prediction]
 ---
 
-
-No single adoption pattern explains everything. Different groups uptake technology in waves, each with their own diffusion curve.
+単一の採用パターンですべてを説明することはできません。異なる集団が、それぞれ固有の普及曲線を伴いながら波状に技術を取り込みます。

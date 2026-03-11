@@ -1,15 +1,14 @@
 ---
-title: "Change is not always linear"
+title: "変化は必ずしも線形ではない"
 tags: [speed]
 ---
 
+変化は、飛躍や指数的な爆発として起こることがあります。一定で予測可能なペースではなく、急速な変容の時期が来ると想定すべきです。
 
-Some shifts happen in leaps or even exponential bursts. Expect periods of rapid transformation rather than a steady, predictable pace.
+不連続な曲線や指数曲線は、整った直線をしばしば置き換えます。
 
-Discontinuous or exponential curves often replace tidy straight lines.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Fast Follower](/strategies/positional/fast-follower) – trigger: wait for signs of rapid change before committing resources.
-- [Directed Investment](/strategies/attacking/directed-investment) – influence: sudden shifts can justify concentrated bets.
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) – influence: network effects drive exponential adoption curves.
+- [Fast Follower](/strategies/positional/fast-follower) – トリガー: 急変の兆候が見えるまで待つことで、資源投入の精度を高められる。
+- [Directed Investment](/strategies/attacking/directed-investment) – 影響: 急激な変化は、集中投資を正当化しうる。
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) – 影響: ネットワーク効果は指数的な採用曲線を生みやすい。

@@ -1,9 +1,8 @@
 ---
-title: "Evolution of communication mechanisms increases overall speed"
+title: "通信手段の進化は全体速度を高める"
 tags: [speed]
 ---
 
+情報共有の手段が改善されるほど、新しいアイデアの広がりは速くなります。ひとつの変化が速く拡散すると、それがさらに次の進化の波を引き起こしやすくなります。
 
-Better ways of sharing information accelerate how quickly new ideas spread. Faster diffusion of one change often sparks further waves of evolution.
-
-Evolution of communication mechanisms increases overall speed: AI mediates and accelerates communication between humans and systems, pushing coordination costs down dramatically.
+通信手段の進化は全体速度を高めます。AI は人とシステムのあいだのコミュニケーションを媒介し加速させ、調整コストを大きく押し下げます。

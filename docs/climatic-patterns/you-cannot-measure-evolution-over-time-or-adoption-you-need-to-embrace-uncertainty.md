@@ -1,7 +1,6 @@
 ---
-title: "You cannot measure evolution over time or adoption"
+title: "時間や採用率だけで進化は測れない"
 tags: [prediction]
 ---
 
-
-Exact timings are impossible to plot. Instead of chasing precision, accept uncertainty and watch for signals that a shift is under way.
+正確なタイミングを描き切ることはできません。精密さを追い回すのではなく、不確実性を受け入れ、変化が進行していることを示すシグナルを監視すべきです。

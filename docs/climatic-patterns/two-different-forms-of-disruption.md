@@ -1,7 +1,6 @@
 ---
-title: "Two different forms of disruption"
+title: "破壊には二つの異なる形がある"
 tags: [prediction]
 ---
 
-
-Some disruptions can be anticipated, while others appear without warning. Plan for both predictable and unpredictable change.
+予見できる破壊もあれば、警告なしに現れる破壊もあります。予測可能な変化と予測不可能な変化の両方に備える必要があります。

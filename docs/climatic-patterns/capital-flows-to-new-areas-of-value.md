@@ -1,11 +1,10 @@
 ---
-title: "Capital flows to new areas of value"
+title: "資本は新しい価値領域へ流れる"
 tags: [financial]
 ---
 
+投資家は成長を求めます。新しい機会が現れると、お金は進化する領域へ流れ、衰退する領域から離れていきます。
 
-Investors seek growth. When fresh opportunities emerge, money shifts toward those evolving spaces and away from declining ones.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) – trigger: investment often clusters around the hubs that promise the greatest future value.
+- [Center of Gravity](/strategies/attacking/centre-of-gravity) – トリガー: 投資は、将来価値が最も大きいと見なされる中枢へ集まりやすい。

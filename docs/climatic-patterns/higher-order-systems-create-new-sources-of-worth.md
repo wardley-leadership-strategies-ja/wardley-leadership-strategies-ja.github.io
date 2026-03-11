@@ -1,9 +1,8 @@
 ---
-title: "Higher order systems create new sources of value"
+title: "高次システムは新たな価値源を生む"
 tags: [financial]
 ---
 
+産業化されたコンポーネントは、単にコストを下げるだけではありません。まったく新しいプロダクトや市場の土台にもなります。かつては新奇だった能力がユーティリティになると、それらは新しい組み合わせで結びつき、経済価値を生みます。電力はラジオ、電話、計算機を可能にし、クラウド基盤は無数のデジタルサービスを可能にしています。
 
-Industrialised components do more than cut costs — they provide the foundation for entirely new products and markets. As once novel capabilities become utilities, they are combined in fresh ways to generate economic value. Electricity enabled radio, telephony and computing; cloud infrastructure enables countless digital services.
-
-Unit margins may fall as something commoditises, yet volume increases and new opportunities appear above it. The challenge is spotting which higher order systems will succeed, since many experiments will fail before a few become the next generators of wealth.
+何かがコモディティ化すると、単位あたり利益率は下がるかもしれませんが、量は増え、その上位に新しい機会が現れます。課題は、どの高次システムが成功するかを見抜くことです。多くの実験は失敗し、その中のわずかが次の富の源泉になります。

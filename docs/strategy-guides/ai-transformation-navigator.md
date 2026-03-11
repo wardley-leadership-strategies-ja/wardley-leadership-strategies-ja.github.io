@@ -1,27 +1,27 @@
-# AI Transformation Navigator
+# AI 変革ナビゲーター
 
-AI promises step-change performance, but unmanaged hype burns capital and trust. This navigator blends [Experimentation](/strategies/attacking/experimentation), [Directed Investment](/strategies/attacking/directed-investment), and the [Press Release Process](/strategies/attacking/press-release-process) with adoption plays like [Education](/strategies/user-perception/education) so leaders can industrialise AI responsibly.
+AI は段違いの性能向上を約束しますが、管理されない熱狂は資本と信頼を焼き尽くします。このガイドは、[Experimentation](/strategies/attacking/experimentation)、[Directed Investment](/strategies/attacking/directed-investment)、[Press Release Process](/strategies/attacking/press-release-process) を、[Education](/strategies/user-perception/education) のような採用促進の一手と組み合わせ、リーダーが AI を責任ある形で産業化できるようにします。
 
-## 🧪 **Frame the Right Experiments**
+## 🧪 **正しい実験を設計する**
 
-Resist the urge to automate everything at once. Map the customer journey and internal workflows to spot high-friction steps where AI can relieve cognitive load. Launch tightly scoped proofs of value using [Experimentation](/strategies/attacking/experimentation): define success metrics, capture qualitative feedback, and sunset trials that fail to deliver. Keep experiments in the differentiating zone until reliability is proven.
+一度にすべてを自動化したい衝動を抑えてください。顧客ジャーニーと社内ワークフローを地図化し、AI が認知負荷を下げられる高摩擦な工程を見つけます。[Experimentation](/strategies/attacking/experimentation) を使って、範囲を絞った価値検証を立ち上げましょう。成功指標を定め、定性的なフィードバックを集め、成果が出ない試行は終了させます。信頼性が実証されるまでは、実験を差別化領域に留めます。
 
-## 🎯 **Channel Investment Deliberately**
+## 🎯 **投資先を意図的に絞る**
 
-Hype attracts scattershot funding. Apply [Directed Investment](/strategies/attacking/directed-investment) to concentrate resources on experiments that show signal. Fund shared platforms—feature stores, governance tooling, data pipelines—that multiple teams can reuse. Pair investment decisions with map reviews so you can see whether you're building new differentiators or accidentally reinventing commodities that vendors already provide.
+熱狂は散発的な資金投下を招きます。[Directed Investment](/strategies/attacking/directed-investment) を使い、シグナルが出ている実験へ資源を集中させます。複数チームが再利用できる共有基盤、たとえば feature store、ガバナンス用ツール、データパイプラインに投資します。投資判断は地図レビューと組み合わせ、新たな差別化要因を築いているのか、ベンダーがすでに提供しているコモディティを再発明しているのかを見えるようにします。
 
-## 🗞️ **Communicate the Future State Clearly**
+## 🗞️ **将来像を明確に伝える**
 
-Use the [Press Release Process](/strategies/attacking/press-release-process) to articulate what success looks like before heavy build begins. Draft the narrative, FAQs, and launch metrics that would make the AI initiative newsworthy. This backward planning exposes gaps in user understanding, regulatory posture, or operating model design. Share the press release broadly to align executives, compliance, and delivery teams on the same destination.
+本格的な構築に入る前に、[Press Release Process](/strategies/attacking/press-release-process) で成功状態を言語化します。AI 施策がニュースになるとしたら、どんな物語、FAQ、ローンチ指標になるのかを書き出します。この逆算によって、ユーザー理解、規制対応、運営モデル設計の不足が浮かび上がります。プレスリリースを広く共有し、経営層、コンプライアンス、デリバリーチームの向かう先を揃えます。
 
-## 🧑‍🏫 **Elevate Organisational Literacy**
+## 🧑‍🏫 **組織の理解度を引き上げる**
 
-Most AI programs stall because the workforce is unsure how to use the new capabilities. Launch an [Education](/strategies/user-perception/education) campaign targeted to each role: frontline staff need playbooks, managers need dashboards, and executives need risk primers. Encourage teams to annotate Wardley Maps with doctrine like [Use a Common Language](/doctrines/use-a-common-language) so that data scientists, engineers, and business owners describe evolution in consistent terms.
+多くの AI プログラムが停滞するのは、現場が新しい能力をどう使えばよいか分からないからです。役割ごとに [Education](/strategies/user-perception/education) を設計します。現場担当にはプレイブック、管理職にはダッシュボード、経営層にはリスクの基本資料が必要です。[Use a Common Language](/doctrines/use-a-common-language) のような指針に沿って Wardley Map へ注記することを促し、データサイエンティスト、エンジニア、事業オーナーが進化を一貫した言葉で語れるようにします。
 
-## ⚙️ **Industrialise What Works**
+## ⚙️ **機能したものを産業化する**
 
-Once an experiment proves value, shift into a scaling posture. Combine [Market Enablement](/strategies/accelerators/market-enablement) with platform thinking: offer reusable services, guardrails, and compliance templates so other teams can plug in quickly. Where third-party utilities already excel—speech-to-text, document classification—prefer integration over bespoke builds. Reserve custom models for the differentiating slices that map data uniqueness to user delight.
+実験が価値を証明したら、拡大姿勢へ切り替えます。[Market Enablement](/strategies/accelerators/market-enablement) とプラットフォーム思考を組み合わせ、他チームが素早く差し込める再利用可能なサービス、ガードレール、コンプライアンステンプレートを用意します。音声認識や文書分類のように、第三者ユーティリティがすでに優れている領域では、特注実装より統合を優先します。カスタムモデルは、データの独自性をユーザー価値に変えられる差別化部分に限定します。
 
-## 📏 **Measure Adoption and Trust**
+## 📏 **採用と信頼を測る**
 
-Track both technical and human signals: deployment frequency, percentage of decisions augmented by AI, model drift incidents, employee confidence scores, and regulatory approvals secured. When metrics degrade, revisit the map to identify whether the issue stems from data quality, process misalignment, or a component that has evolved into a commodity. Continuous sensing keeps the transformation grounded in value rather than novelty.
+技術面と人的側面の両方のシグナルを追います。デプロイ頻度、AI によって補強された意思決定の割合、モデルドリフトの件数、従業員の自信スコア、獲得した規制承認などです。指標が悪化したら地図に戻り、原因がデータ品質なのか、プロセスの不整合なのか、それともコンポーネントがコモディティ化したのかを見極めます。継続的な感知が、変革を新奇性ではなく価値に根ざしたものに保ちます。

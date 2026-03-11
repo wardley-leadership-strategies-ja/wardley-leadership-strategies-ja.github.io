@@ -1,7 +1,6 @@
 ---
-title: "Not everything is random"
+title: "すべてがランダムではない"
 tags: [prediction]
 ---
 
-
-Some events are certain to happen even if we can't predict precisely when. Think in terms of the probability of what will occur versus the probability of when it will happen.
+いつ起きるかを正確に予測できなくても、起こること自体は確実な出来事があります。いつ起こるかの確率ではなく、何が起こるかの確率で考えるべきです。

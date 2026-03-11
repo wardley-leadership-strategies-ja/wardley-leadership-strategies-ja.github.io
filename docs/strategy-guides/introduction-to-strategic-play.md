@@ -1,27 +1,27 @@
-# Introduction to Strategic Play
+# 戦略的プレイ入門
 
-Every map begins with a sense of possibility. This guide stitches together three foundational plays—[First Mover](/strategies/positional/first-mover), [Fast Follower](/strategies/positional/fast-follower), and [Differentiation](/strategies/markets/differentiation)—to help you build instincts for timing, tempo, and identity. Treat it as a short course: map, experiment, and reflect after each section so the ideas anchor in your own landscape.
+どの地図も、可能性の感覚から始まります。このガイドは、[First Mover](/strategies/positional/first-mover)、[Fast Follower](/strategies/positional/fast-follower)、[Differentiation](/strategies/markets/differentiation) という 3 つの基本プレイをつなぎ、タイミング、テンポ、独自性への勘を養えるようにします。短い講座だと思ってください。各節のあとに地図を描き、試し、振り返ることで、考え方を自分の状況へ定着させます。
 
-## 🎯 **Frame the Board Before You Move**
+## 🎯 **動く前に盤面を定める**
 
-Start by drawing a map that connects the user need you care about to the components that make it possible. Highlight emerging elements on the left of the evolution axis. Ask yourself who is already experimenting, what uncertainty remains, and which components could industrialise quickly. A potential First Mover play shows up when the value chain contains a critical component still in Custom-Built or Product stages but close to commoditisation. To build conviction, run lightweight probes—customer interviews, paper prototypes, or pilot partnerships—and capture the signals directly on the map.
+まず、注目しているユーザーニーズと、それを可能にするコンポーネントを結ぶ地図を描きます。進化軸の左側にある新興要素を強調します。すでに誰が実験しているのか、どんな不確実性が残っているのか、どのコンポーネントが素早く産業化しうるのかを問いましょう。First Mover の可能性は、バリューチェーンにある重要コンポーネントがまだカスタムビルドやプロダクト段階にありつつ、コモディティ化へ近づいているときに現れます。確信を高めるには、顧客インタビュー、ペーパープロトタイプ、パイロット提携のような軽量な探索を回し、シグナルを地図へ直接書き込みます。
 
-## 🧭 **Execute the First Mover Loop Deliberately**
+## 🧭 **First Mover ループを意図的に実行する**
 
-A First Mover advantage is only useful if you can convert it into position before fast followers react. Once you decide to commit, articulate the minimum viable ecosystem you must assemble. This often means bundling supporting services, nurturing early adopters, and establishing standards that others will align to. Publish your intent so the market understands the shape of the space: roadmaps, reference architectures, and open APIs all serve as anchors. Pair the play with [Land Grab](/strategies/positional/land-grab) thinking by securing scarce resources that would be hard to replicate once demand spikes.
+First Mover の優位は、Fast Follower が反応する前にポジションへ変換できてこそ意味があります。コミットを決めたら、構築すべき最小限の実行可能エコシステムを言語化します。多くの場合、それは補完サービスの束ね、初期採用者の育成、他者が合わせてくる標準の確立を意味します。市場がその空間の形を理解できるよう、意図を公開します。ロードマップ、参照アーキテクチャ、オープン API はいずれも錨になります。[Land Grab](/strategies/positional/land-grab) の考え方も組み合わせ、需要急増後には複製しにくい希少資源を先に押さえます。
 
-## ⚙️ **Design for Fast Followers from Day One**
+## ⚙️ **初日から Fast Follower に備える**
 
-Assume the rest of the market is watching. A disciplined Fast Follower will study your release, learn from missteps, and enter once the demand curve is validated. Pre-empt that move by planning your own fast-follow cycles. Instrument your product so you can spot usage patterns, then decide what to double down on and what to discard. Build feedback channels with partners to sharpen your sensing engine. If you expect a [Tower and Moat](/strategies/ecosystem/tower-and-moat) response, prepare countermeasures such as open governance or interoperability commitments that keep the space fluid. The objective is to shorten the time between your initial move and the second wave of improvements, making it harder for imitators to catch up.
+市場の残り全員が見ていると仮定してください。規律ある Fast Follower は、あなたのリリースを研究し、失敗から学び、需要曲線が実証された段階で参入します。その動きを先回りするため、自分たち自身の fast-follow サイクルを計画します。利用パターンを捉えられるようプロダクトを計測可能にし、何を深掘りし、何を捨てるかを決めます。感知エンジンを鋭くするため、パートナーとのフィードバック経路を築きます。もし [Tower and Moat](/strategies/ecosystem/tower-and-moat) 的な反応が予想されるなら、空間を流動的に保つオープンガバナンスや相互運用性の約束など、対抗策を準備します。狙いは最初の一手から第 2 波の改善までの時間を短くし、模倣者が追いつきにくくすることです。
 
-## 🧪 **Choose When to Imitate Instead of Pioneer**
+## 🧪 **先駆者ではなく模倣者になるべき時を選ぶ**
 
-Sometimes the smartest move is to become the Fast Follower yourself. Use your map to scan for evidence that a rival has validated a user need but cannot scale. Signs include feature gaps, fragile operations, or lack of ecosystem support. Enter with a differentiated offer that fixes those weaknesses while keeping switching costs low. This may involve leveraging [Open Approaches](/strategies/accelerators/open-approaches) to pull in community contributions or partnering with incumbents who fear being left behind. Fast following is less about copying and more about sequencing: take what works, remove friction, and accelerate the transition to utility.
+最も賢い手が、自分たちが Fast Follower になることもあります。競合がユーザーニーズを実証したが拡大できていない証拠を、地図を使って探します。機能の穴、脆い運用、エコシステム支援の不足などがサインです。そうした弱点を解消しつつ、切替コストを低く保った差別化提案で参入します。その際、[Open Approaches](/strategies/accelerators/open-approaches) を使ってコミュニティの貢献を取り込んだり、取り残されることを恐れる既存勢力と組むこともありえます。Fast Follower は単なるコピーではなく順序の設計です。機能するものを取り入れ、摩擦を削り、ユーティリティ化への移行を加速させるのです。
 
-## 🪄 **Commit to Differentiation Where It Matters**
+## 🪄 **重要な場所で差別化にコミットする**
 
-Whether you lead or follow, decide where you will remain distinctive. Differentiation lives on the left of the map where exploration reigns. Identify the experience, narrative, or capability that users cannot get elsewhere. For a First Mover this might be a unique sensing mechanism that continually surfaces new features. For a Fast Follower it could be operational excellence, service integration, or a pricing model that reframes value. Link differentiation to doctrine: invest in [Use a Common Language](/doctrines/use-a-common-language) so teams understand the play, and cultivate [Adaptability](/terms/adaptability) so experimentation stays healthy. Periodically review whether your differentiators are drifting rightward; when they do, be ready to commoditise them yourself and search for the next edge.
+先導するにせよ追随するにせよ、どこで独自性を残すかを決めます。差別化は、探索が支配する地図の左側に宿ります。ユーザーが他では得られない体験、物語、能力を特定します。First Mover なら、新機能を継続的に表面化させる独自の感知メカニズムかもしれません。Fast Follower なら、運用卓越性、サービス統合、価値の捉え方を変える価格モデルかもしれません。差別化は指針と結びつけます。[Use a Common Language](/doctrines/use-a-common-language) に投資してチームがプレイを理解できるようにし、[Adaptability](/terms/adaptability) を育てて実験を健全に保ちます。自分たちの差別化要因が右へ流れていないかを定期的に見直し、流れ始めたら自らコモディティ化し、次のエッジを探します。
 
-## 🧭 **Integrate the Lessons**
+## 🧭 **学びを統合する**
 
-Close the loop by writing a brief playbook entry after each experiment. Capture the context, the map snapshot, the play you ran, and the outcome. Over time you will build a personal library of when to jump first, when to wait, and how to stay distinct. The craft of strategic play is iterative—observe, orient, decide, act, and map again.
+各実験のあとに短いプレイブック項目を書いてループを閉じます。文脈、地図のスナップショット、実行したプレイ、結果を残します。時間がたつほど、いつ最初に飛び込むか、いつ待つか、どう独自性を保つかについて、あなた自身のライブラリが蓄積されます。戦略的プレイの技芸は反復的です。観察し、状況を解釈し、決め、行動し、そしてまた地図を描くのです。

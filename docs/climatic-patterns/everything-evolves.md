@@ -1,12 +1,12 @@
 ---
-title: "Everything evolves"
+title: "あらゆるものは進化する"
 tags: [components]
 ---
 
+バリューチェーンのあらゆる部分は、新奇な始まりから、明確に定義されたコモディティへ向かって動きます。競争とユーザーニーズが、活動、実践、さらには思考様式までも、実験から標準化へ押し進めます。初期にはスタック全体を自分でカスタムビルドするかもしれませんが、時間がたつと同じ能力は、単に接続して使うユーティリティになります。
 
-All parts of a value chain move from novel beginnings toward well defined commodities. Competition and user demand push activities, practices, and even mental models from experimentation to standardisation. Early on you might custom build an entire stack yourself, but over time those same capabilities become utilities that you simply plug into.
-Supply and demand competition drives this progression.
+需要と供給の競争が、この進行を駆動します。
 
-This evolution means every component has a history and a future. Knowing that change is inevitable helps leaders anticipate when once "special" capabilities will become routine services and when new components may be about to appear.
+この進化は、すべてのコンポーネントに歴史と未来があることを意味します。変化が避けられないと理解していると、かつて特別だった能力がいつ日常的なサービスになり、新しいコンポーネントがいつ現れそうかを先読みできます。
 
-Everything evolves: AI and automation capability is no exception. It’s diffusing from novel prototypes to industrialised utilities, with agents following the same product-to-commodity trajectory.
+あらゆるものは進化します。AI と自動化の能力も例外ではありません。新奇なプロトタイプから産業化されたユーティリティへ拡散し、エージェントも同じようにプロダクトからコモディティへの軌跡をたどっています。

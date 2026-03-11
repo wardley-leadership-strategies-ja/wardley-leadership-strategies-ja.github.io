@@ -1,27 +1,27 @@
-# Defensive Plays for Incumbents
+# 既存勢力のための防御プレイ
 
-Incumbents rarely lose because they lack resources; they lose because inertia blinds them to change. This guide walks established organisations through a defensive arc built on [Managing Inertia](/strategies/defensive/managing-inertia), [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry), and [Defensive Regulation](/strategies/defensive/defensive-regulation). Work through each section with your latest Wardley Map so you can identify where you must evolve, where to obstruct rivals, and when policy becomes the battleground.
+既存企業が負けるのは、資源が足りないからではなく、慣性によって変化が見えなくなるからです。このガイドは、[Managing Inertia](/strategies/defensive/managing-inertia)、[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)、[Defensive Regulation](/strategies/defensive/defensive-regulation) を基盤にした防御の流れを、既存組織向けにたどります。最新の地図と一緒に各節を進めることで、どこを進化させるべきか、どこで競合を妨げるべきか、どの時点で政策が主戦場になるかを見極められます。
 
-## 🧱 **Confront Inertia Before You Fortify**
+## 🧱 **守りを固める前に慣性と向き合う**
 
-Begin by mapping the user journey alongside your internal capabilities. Mark components that are stuck in legacy stages despite the market shifting rightward. These are the anchors holding you back. Convene a cross-functional session to catalogue the four forms of inertia—fear, culture, financial, and political—and tie each one to specific components on the map. For example, a profitable but declining product may be propped up by political capital or sunk-cost thinking. Use the [Managing Inertia](/strategies/defensive/managing-inertia) assessment checklist to prioritise which bottlenecks threaten your ability to respond. Commit to doctrine such as [Use a Common Language](/doctrines/use-a-common-language) and reinforce [Change Management](/terms/change-management) practices to create psychological safety for change.
+まず、ユーザージャーニーと内部能力を並べて地図を描きます。市場が右側へ動いているのにレガシー段階へ留まっているコンポーネントに印を付けます。そこが足を引っ張る錨です。恐怖、文化、財務、政治という 4 種類の慣性を棚卸しし、それぞれを地図上の特定コンポーネントへ結びつけるクロスファンクショナルな場を設けます。たとえば利益は出ているが衰退中の製品は、政治的資本や埋没コスト思考に支えられているかもしれません。[Managing Inertia](/strategies/defensive/managing-inertia) の評価チェックリストを使って、どのボトルネックが対応能力を脅かしているかを優先順位づけます。[Use a Common Language](/doctrines/use-a-common-language) のような指針にコミットし、[Change Management](/terms/change-management) を補強して、変化に向き合う心理的安全性をつくります。
 
-## 🔄 **Build a Renewal Cadence**
+## 🔄 **更新のリズムを作る**
 
-Managing inertia is not a one-off campaign. Establish a renewal rhythm that pairs landscape reviews with action. Every quarter, redraw the map and run a pre-mortem: if a challenger overtook us, what did they exploit? Translate answers into concrete moves—ring-fence investment for modernization, rotate leaders through emerging units, and create sunset plans for products that no longer differentiate. Encourage teams to pilot [Open Approaches](/strategies/accelerators/open-approaches) or partnerships that let you learn faster than a pure defensive stance would allow. The objective is to transform inertia from a default state into a signal that invites intervention.
+慣性管理は一度きりのキャンペーンではありません。状況レビューと行動を対にした更新リズムを作ります。四半期ごとに地図を描き直し、「もし挑戦者に追い抜かれたとしたら、何を突かれたか」というプレモータムを行います。答えを具体策に落とし込みましょう。モダナイゼーションへの予算を囲い込み、新興部門へリーダーをローテーションし、差別化しなくなった製品には終息計画を設けます。[Open Approaches](/strategies/accelerators/open-approaches) やパートナーシップの試行も促し、純粋な防御姿勢より速く学べるようにします。目標は、慣性を既定状態から介入を促すシグナルへ変えることです。
 
-## 🛡️ **Layer Barriers That Align with Value**
+## 🛡️ **価値と整合する障壁を重ねる**
 
-Once the organisation is more responsive, turn to [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry). Map the capabilities that create switching costs or integration depth. Look for opportunities to bundle complementary services, enhance data network effects, or formalise standards that competitors must adopt. Remember that the best barriers are customer-aligned: loyalty programs, ecosystem certifications, and superior compliance tooling make it rational for customers to stay with you. Combine barriers with [Tower and Moat](/strategies/ecosystem/tower-and-moat) logic—innovate at the tower, codify at the moat. Document each barrier explicitly so you can monitor whether it is eroding or creating unintended friction for users.
+組織の反応性が高まったら、[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) へ進みます。切替コストや統合の深さを生む能力を地図化します。補完サービスのバンドル、データによるネットワーク効果の強化、競合が従わざるをえない標準の制度化などを探します。最良の障壁は顧客価値と整合していることを忘れないでください。ロイヤルティプログラム、エコシステム認証、優れたコンプライアンスツールは、顧客が留まる合理性を作ります。[Tower and Moat](/strategies/ecosystem/tower-and-moat) の論理と組み合わせ、塔で革新し、堀で定着させます。各障壁を明示的に記録し、劣化していないか、あるいはユーザーへ意図しない摩擦を生んでいないかを監視します。
 
-## 🕊️ **Use Regulation as a Shield, Not a Bludgeon**
+## 🕊️ **規制を棍棒ではなく盾として使う**
 
-Defensive regulation is most effective when it reinforces legitimate public goals. Identify the societal or systemic risks that your leadership genuinely mitigates—security, resilience, or trusted stewardship of sensitive data. Engage policymakers early with evidence from your maps: show how the value chain operates, where new entrants might cut corners, and the consequences for users. Co-create standards or certification regimes that codify those safeguards. Pair this with transparency initiatives so that regulators see you as a partner rather than a rent-seeker. Maintain optionality by preparing alternative scenarios; if regulation fails or backfires, you should already have the next adaptation path mapped.
+防御的な規制戦略が最も有効なのは、正当な公共目的を補強するときです。自分たちの指揮が本当に軽減している社会的・システム的リスク、たとえばセキュリティ、レジリエンス、機微データの信頼できる管理を特定します。地図の証拠を持って、政策担当者と早い段階で関わります。バリューチェーンがどう動いているか、新規参入者がどこで手を抜きうるか、それがユーザーにどんな結果をもたらすかを示します。そうした保護策を制度化する標準や認証制度を共同で作ります。あわせて透明性施策も進め、規制当局から地代追求者ではなく協力者として見られるようにします。規制が失敗または裏目に出た場合に備え、別シナリオも準備し、次の適応経路まで地図に描いておくべきです。
 
-## 🧬 **Synchronise the Defensive System**
+## 🧬 **防御システムを同期させる**
 
-The power of this trilogy comes from integration. Managing inertia keeps the organisation adaptable so that barriers remain current. Barriers buy time for regulatory strategies to mature, while regulation can legitimize the investments that sustain your moat. Track leading indicators: speed-to-decision for change initiatives, percentage of revenue tied to bundled offerings, policy milestones achieved, and competitor response time. Share these metrics widely to maintain vigilance. When a new threat emerges—perhaps a [Tech Drop](/strategies/competitor/tech-drops) or [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) play—update the map and decide whether to double down on defence or pivot to an offensive counter.
+この 3 つを組み合わせる力は統合にあります。慣性管理が組織を適応可能に保つことで、障壁は時代遅れになりにくくなります。障壁は規制戦略が成熟する時間を買い、規制は堀を支える投資の正当性を与えます。変革施策の意思決定速度、バンドル提供に結びつく売上比率、政策マイルストーンの達成、競合の反応時間といった先行指標を追います。警戒を保つため、それらの指標は広く共有します。新しい脅威、たとえば [Tech Drop](/strategies/competitor/tech-drops) や [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) が現れたら、地図を更新し、防御を厚くするのか、攻勢のカウンターへ転じるのかを決めます。
 
-## 🧭 **Keep the User at the Centre**
+## 🧭 **ユーザーを中心に据え続ける**
 
-Defence fails when it becomes purely self-serving. Close each planning cycle by stress-testing user value: are your barriers improving experience or merely slowing the market? Are regulatory efforts preventing harm or blocking progress? Invite customers, partners, and even sceptics to annotate your maps. Their feedback will reveal where defence has drifted into complacency. The incumbents who endure are those who defend while simultaneously inventing the next horizon of value.
+防御は自己保身だけになると失敗します。各計画サイクルの終わりに、ユーザー価値をストレステストします。障壁は体験を改善しているのか、それとも市場を遅らせているだけか。規制努力は害を防いでいるのか、それとも進歩を止めているだけか。顧客、パートナー、懐疑的な人にすら地図へ注記してもらいます。そのフィードバックが、防御がどこで慢心へ流れたかを示します。生き残る既存勢力とは、守りながら同時に次の価値地平を発明する組織です。

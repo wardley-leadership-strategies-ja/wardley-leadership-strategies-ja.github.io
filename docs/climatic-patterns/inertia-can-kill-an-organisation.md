@@ -1,11 +1,10 @@
 ---
-title: "Inertia can kill an organisation"
+title: "慣性は組織を殺しうる"
 tags: [inertia]
 ---
 
+変化への抵抗が長く続くと、成功している企業でさえ失敗しうります。適応が遅いことは、より速い競合に取って代わられる余地を開きます。
 
-When change is resisted for too long, even a successful company may fail. Being slow to adapt leaves the door open for faster rivals to take its place.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Managing Inertia](/strategies/defensive/managing-inertia) – influence: proactively addressing internal resistance prevents this outcome.
+- [Managing Inertia](/strategies/defensive/managing-inertia) – 影響: 内部抵抗へ先回りして対処することが、この結末を防ぐ。

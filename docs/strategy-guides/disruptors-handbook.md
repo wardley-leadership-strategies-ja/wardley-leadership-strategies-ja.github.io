@@ -1,27 +1,27 @@
-# Disruptor's Handbook
+# 破壊者のハンドブック
 
-Disruptors thrive by moving faster than incumbents can respond. This handbook teaches how to combine [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry), [Land Grab](/strategies/positional/land-grab), and [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) into a momentum engine. Use it when you want to reshape an industry rather than just compete within existing boundaries.
+破壊者は、既存勢力が反応するより速く動くことで伸びます。このハンドブックは、[Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)、[Land Grab](/strategies/positional/land-grab)、[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) を勢いのエンジンとして組み合わせる方法を示します。既存の境界内で競争するのではなく、業界そのものを組み替えたいときに使います。
 
-## 🧨 **Expose the Fragile Barrier**
+## 🧨 **脆い障壁を露出させる**
 
-Start with a Wardley Map that highlights the incumbent's moat. Is it regulatory capture, capital intensity, or proprietary data? Analyse where the moat depends on components that are sliding toward commoditisation. Look for ways to erode switching costs: open standards, price transparency, or superior interoperability. Prototype a counter-position that delivers the same user outcome while eliminating friction. If the incumbent relies on closed IP, consider pairing with [Open Approaches](/strategies/accelerators/open-approaches) or [Tech Drops](/strategies/competitor/tech-drops) to reset expectations. Document your attack narrative so that partners, investors, and early adopters can see how the barrier will crumble.
+まず、既存勢力の堀がどこにあるかを強調した地図から始めます。規制の囲い込みか、資本集約性か、独占データか。堀が、コモディティ化へ滑り始めているコンポーネントにどこまで依存しているかを分析します。切替コストを削る手を探しましょう。オープン標準、価格透明性、高い相互運用性などです。ユーザー成果は同じまま摩擦だけを取り除く対抗ポジションを試作します。もし既存勢力が閉じた知財に依存しているなら、[Open Approaches](/strategies/accelerators/open-approaches) や [Tech Drops](/strategies/competitor/tech-drops) と組み合わせ、期待値そのものを変えることも考えます。パートナー、投資家、初期採用者が、障壁がどう崩れるか見えるように攻撃の物語を記録します。
 
-## 🚀 **Stage the Land Grab**
+## 🚀 **Land Grab を段階的に実行する**
 
-With the barrier weakening, plan a decisive Land Grab. Identify the scarce assets you must secure before others react—distribution channels, critical suppliers, developer mindshare, or regulatory approvals. Sequence moves on the map: which components must industrialise first, and which can follow once momentum builds? Invest ahead of demand where conviction is high, even if the P&L will suffer temporarily. Use narrative warfare to signal inevitability: publish roadmaps, showcase anchor customers, and demonstrate how your platform will become the default. Tie your efforts to [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) sensing so you can pivot if early feedback contradicts your thesis.
+障壁が弱まり始めたら、決定的な Land Grab を計画します。他者が反応する前に確保すべき希少資産、流通チャネル、重要サプライヤー、開発者の関心、規制承認などを特定します。地図上で手順を並べます。どのコンポーネントを先に産業化し、勢いが付いた後に何を続けるか。確信が高いなら、P/L が一時的に悪化しても需要に先んじて投資します。ロードマップ公開、旗印となる顧客の提示、自分たちのプラットフォームが既定になることの実演など、物語による戦いで不可避性を示します。[Weak Signal Horizon](/strategies/positional/weak-signal-horizon) の感知とも結びつけ、初期フィードバックが仮説に反したらすぐ転換できるようにします。
 
-## ♻️ **Run the ILC Cycle with Discipline**
+## ♻️ **ILC サイクルを規律をもって回す**
 
-A Land Grab without ILC stalls quickly. Treat your initial offering as the "Innovate" phase—differentiated, opinionated, and tuned to early adopters. As momentum grows, shift into "Leverage" by inviting partners to build atop your foundation. Offer clear APIs, toolkits, or marketplaces. Capture the signals they generate and feed them into your sensing engine. When patterns stabilise, trigger the "Commoditize" phase by folding the most successful complements into the core platform or by releasing utility versions that set a new baseline. This move should undermine any attempts by incumbents to claw back advantage and free you to hunt the next opportunity.
+ILC のない Land Grab はすぐに失速します。最初の提供物を「Innovate」段階として扱います。差別化され、主張があり、初期採用者に最適化された状態です。勢いが付いたら「Leverage」に移り、パートナーに基盤の上で構築してもらいます。明確な API、ツールキット、マーケットプレイスを提供します。そこで生じたシグナルを感知エンジンへ戻します。パターンが安定したら「Commoditize」を発動し、最も成功した補完要素を中核プラットフォームへ取り込むか、新しい基準線を定めるユーティリティ版を出します。この一手は、既存勢力が優位を取り戻そうとする動きを弱め、次の機会を狩る余地を生みます。
 
-## 🧭 **Balance Speed with Legitimacy**
+## 🧭 **速度と正統性の均衡を取る**
 
-Disruption that ignores governance burns trust. Map the regulatory landscape and identify the disciplines you need to uphold credibility: invest in [Education](/strategies/user-perception/education) to keep your message clear, anchor execution with [Use a Common Language](/doctrines/use-a-common-language), and cultivate [Agility](/terms/agility) so teams stay responsive. Engage with policymakers and industry bodies before incumbents frame the narrative. Offer voluntary compliance programs or third-party audits that demonstrate responsibility. This not only pre-empts defensive regulation but can turn regulators into allies who appreciate the resilience your model introduces.
+ガバナンスを無視した破壊は信頼を燃やします。規制上の状況を地図化し、信用を保つために必要な規律を特定します。メッセージを明確に保つため [Education](/strategies/user-perception/education) に投資し、[Use a Common Language](/doctrines/use-a-common-language) で実行を固定し、[Agility](/terms/agility) を育ててチームが敏捷に動けるようにします。既存勢力が物語を支配する前に、政策担当者や業界団体と関わります。自主的なコンプライアンスプログラムや第三者監査を提示し、責任ある姿勢を示します。これは防御規制を先回りして防ぐだけでなく、新しいモデルがもたらすレジリエンスを評価する規制当局を味方に変える可能性もあります。
 
-## 🛠️ **Operationalise the Playbook**
+## 🛠️ **プレイブックを運用へ落とす**
 
-To keep the engine turning, institutionalise learning. Create a living dossier for each barrier you target—map snapshots, experiments run, partner feedback, and metrics. Track adoption velocity, time-to-utility for each component, and the number of ecosystem contributions converted into commoditised offerings. When a new entrant appears, decide whether to integrate them via partnership, outpace them with another commoditisation move, or let them explore the frontier while you solidify your base. This cadence of probe, land, leverage, and commoditise will keep you ahead even as the landscape shifts.
+エンジンを回し続けるには、学習を制度化します。狙う障壁ごとに、生きたドシエを作ります。地図スナップショット、実施した実験、パートナーからのフィードバック、指標です。採用速度、各コンポーネントがユーティリティ化するまでの時間、コモディティ化された提供物へ変換されたエコシステム貢献数を追跡します。新規参入者が現れたら、提携で取り込むのか、追加のコモディティ化で追い越すのか、あるいは探索を任せて自分たちは基盤を固めるのかを決めます。この探る、確保する、活用する、コモディティ化するというリズムが、状況変化の中でも先行を保たせます。
 
-## 🔁 **Stay Restless**
+## 🔁 **落ち着かないことを選ぶ**
 
-The moment you settle, you become the incumbent someone else is mapping. Schedule periodic "anti-inertia" reviews where teams challenge whether today's differentiators are drifting toward commodity status. Encourage exploratory bets in adjacent spaces so you always have the next Land Grab queued. Disruption is less a single victory and more a disciplined pattern of undermining, occupying, and industrialising—over and over again.
+落ち着いた瞬間、あなたは誰かに地図化される既存勢力になります。定期的に「反慣性レビュー」を設け、今日の差別化要因がコモディティへ流れつつないかをチームに問い直させます。隣接領域への探索的な賭けを促し、常に次の Land Grab を待機させます。破壊とは一度の勝利ではなく、弱体化し、占有し、産業化することを繰り返す規律あるパターンです。

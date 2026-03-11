@@ -1,9 +1,8 @@
 ---
-title: "Rates of evolution can vary by ecosystem"
+title: "進化速度はエコシステムごとに異なる"
 tags: [components]
 ---
 
+市場はすべて同じ速度で動くわけではありません。消費者向けのシステムは、寿命の長い産業プラットフォームよりずっと速く変わることがあります。エコシステムを理解すると、コンポーネントがどれほど速く進化しそうかを見積もれます。
 
-Markets don't all move at the same speed. Consumer-facing systems often change much faster than long-lived industrial platforms. Understanding the ecosystem helps you gauge how quickly components will evolve.
-
-For example, consumer markets may evolve faster than industrial ones.
+たとえば、消費者市場は産業市場より速く進化することがあります。

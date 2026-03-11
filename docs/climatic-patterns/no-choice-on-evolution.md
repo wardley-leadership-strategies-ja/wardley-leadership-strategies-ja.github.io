@@ -1,9 +1,8 @@
 ---
-title: "No choice on evolution"
+title: "進化を避ける選択肢はない"
 tags: [components]
 ---
 
+競合がより進化したコンポーネントを採用すると、他者も追随せざるを得ない圧力を受けます。効率と能力の向上が強い引力を生み、抗いにくくなるからです。この「赤の女王」効果は、立ち止まることが選択肢として残りにくいことを意味します。誰かが前へ進めば、残りは生き残るためだけでも歩調を合わせなければなりません。
 
-When competitors adopt a more evolved component, others feel pressure to follow. The gains in efficiency and capability create a pull that is hard to resist. This "Red Queen" effect means standing still rarely remains an option: as some players move forward, the rest must keep pace simply to survive.
-
-Adapting early can be an advantage, while delaying often leads to being overtaken by faster moving entrants. Eventually most industries standardise around the new form, and only those that shifted in time remain competitive.
+早めの適応は優位になりえますが、遅れれば、より速く動く参入者に追い越されがちです。やがて多くの業界は新しい形へ標準化され、適時に移行した者だけが競争力を保ちます。

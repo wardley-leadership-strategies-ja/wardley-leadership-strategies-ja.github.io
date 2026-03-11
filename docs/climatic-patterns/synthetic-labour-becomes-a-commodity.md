@@ -1,10 +1,10 @@
 ---
-title: "Synthetic labour becomes a commodity"
+title: "合成労働はコモディティ化する"
 tags: [components, automation]
 ---
 
-As AI agents become cheap, abundant, and reliable, the cost of competence collapses. Synthetic labour shifts from an expensive, human-bound resource to a tradable service you can invoke on demand.
+AI エージェントが安価で豊富かつ信頼できるものになると、能力のコストは崩れます。合成労働は、高価で人に縛られた資源から、必要に応じて呼び出せる取引可能なサービスへ変わります。
 
-When execution is ubiquitous and utility-like, scarcity moves up the stack. Advantage comes from the quality of judgement, the trust you command, and the distribution you can reach, not from access to basic capability.
+実行がユビキタスでユーティリティ的になると、希少性はより上位の層へ移動します。優位は基本能力へのアクセスではなく、判断の質、獲得している信頼、到達できる流通から生まれます。
 
-Leaders have to re-evaluate what they consider differentiating. Owning the orchestration, governance, and ethics around these agent ecosystems becomes more important than performing the work yourself.
+リーダーは、何を差別化要因と見なすかを再評価しなければなりません。こうしたエージェント・エコシステムのオーケストレーション、ガバナンス、倫理を握ることの方が、自分で仕事を実行することより重要になります。

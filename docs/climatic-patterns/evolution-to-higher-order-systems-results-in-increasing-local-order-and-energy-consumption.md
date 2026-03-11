@@ -1,9 +1,8 @@
 ---
-title: "Evolution to higher order systems increases local order"
+title: "高次システムへの進化は局所的秩序を高める"
 tags: [financial]
 ---
 
+コンポーネントが産業化されるにつれ、それはより多くのエネルギーを消費し、複雑さを別の場所へ集中させます。効率が上がっても、総コストは増えることがあります。
 
-As components industrialise, they consume more energy and concentrate complexity elsewhere. The total cost may rise even as efficiency improves.
-
-Energy consumption often grows along with new layers of organisation.
+新しい組織レイヤーが増えるのとともに、エネルギー消費も増大しやすくなります。

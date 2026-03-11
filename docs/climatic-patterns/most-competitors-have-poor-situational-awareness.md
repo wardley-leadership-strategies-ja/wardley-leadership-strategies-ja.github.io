@@ -1,7 +1,6 @@
 ---
-title: "Most competitors have poor situational awareness"
+title: "多くの競合は状況認識が弱い"
 tags: [competitors]
 ---
 
-
-Many organisations act without a clear view of the landscape. This creates opportunities for those who map and understand the terrain better.
+多くの組織は、状況を明確に把握しないまま行動します。これは、よりよく地図を描き、状況を理解する側に機会を生みます。

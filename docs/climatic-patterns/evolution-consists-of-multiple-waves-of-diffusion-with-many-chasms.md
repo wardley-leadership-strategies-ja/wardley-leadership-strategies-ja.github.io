@@ -1,9 +1,8 @@
 ---
-title: "Evolution consists of multiple waves of diffusion"
+title: "進化は複数の普及波から成る"
 tags: [components]
 ---
 
+変化は、ひとつの滑らかな曲線ではめったに起きません。採用は異なる谷を越えるたびに加速と停滞を繰り返し、次の波へ進みます。
 
-Change rarely happens in one smooth curve. Adoption tends to surge then stall as it crosses different chasms before the next wave picks up.
-
-Each wave must bridge its own set of chasms to reach maturity.
+各波は成熟へ到達するために、それぞれ固有の谷を越えなければなりません。

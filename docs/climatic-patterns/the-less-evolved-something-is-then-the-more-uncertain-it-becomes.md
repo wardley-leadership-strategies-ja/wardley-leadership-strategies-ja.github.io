@@ -1,7 +1,6 @@
 ---
-title: "The less evolved something is the more uncertain it becomes"
+title: "未成熟なものほど不確実になる"
 tags: [prediction]
 ---
 
-
-Early-stage ideas carry significant risk. As components mature and standardise, uncertainty reduces and investment becomes safer.
+初期段階のアイデアは大きなリスクを抱えます。コンポーネントが成熟し標準化されるにつれて、不確実性は下がり、投資はより安全になります。

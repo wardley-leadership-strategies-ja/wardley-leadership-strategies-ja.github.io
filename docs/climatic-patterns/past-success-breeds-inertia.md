@@ -1,15 +1,13 @@
 ---
-title: "Past success breeds inertia"
+title: "過去の成功は慣性を生む"
 tags: [inertia]
 ---
 
+ある企業が特定のプロダクト、サービス、ビジネスモデルで継続的な成功を収めると、そのやり方へ自然に投資するようになります。その成功の周囲で育ったプロセス、文化、インセンティブは、しだいに習慣として固まっていきます。環境が変わり新しい競合が現れると、その同じ習慣が転換を難しくします。リーダーは、土台の状況が進化しているのに、以前うまくいった方法がこれからも通用すると信じてしまいがちです。
 
-When a company has enjoyed consistent success with a particular product, service, or business model, it naturally becomes invested in that approach. The processes, culture, and incentives that grew around that success often harden into habits. As the environment changes and new competitors emerge, those same habits can make it difficult to pivot. Leaders may cling to what worked before, assuming it will continue to work, even as the underlying landscape evolves.
+この慣性は、恐れと慣れの混合から生まれます。チームは、過去に成果を上げた収益源を捨てたがらず、組織構造も現状維持を強化しやすいものです。この状態が長引くほど、抜け出すのは難しくなります。過去の勝利が現在の脅威を見えなくすることを認識するのは、変化へ適応する第一歩として重要です。前のやり方が成功していたほど、この慣性は強くなります。
 
-This inertia stems from a mix of fear and familiarity. Teams are reluctant to abandon revenue streams that have historically performed well, and organizational structures can reinforce the status quo. The longer this state persists, the harder it becomes to break out of it. Recognizing that past victories can blind you to present threats is a crucial first step in adapting to changing circumstances.
-The more successful the previous approach was, the stronger this inertia becomes.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Managing Inertia](/strategies/defensive/managing-inertia) – trigger: recognising when past wins create resistance to necessary change.
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – influence: incumbents often rely on regulation when past success makes them reluctant to adapt.
+- [Managing Inertia](/strategies/defensive/managing-inertia) – トリガー: 過去の成功が必要な変化への抵抗を生む局面を見抜く。
+- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 影響: 過去の成功に縛られた既存勢力は、適応より規制へ頼りやすい。

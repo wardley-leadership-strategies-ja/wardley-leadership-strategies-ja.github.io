@@ -1,7 +1,6 @@
 ---
-title: "Shifts from product to utility show punctuated equilibrium"
+title: "製品からユーティリティへの移行は断続平衡を示す"
 tags: [speed]
 ---
 
-
-When a product becomes a utility the transition often comes in sudden bursts. Long periods of refinement are punctuated by rapid adoption.
+プロダクトがユーティリティになるとき、その移行はしばしば突発的な波として現れます。長い改良期間が、急速な採用によって断続的に区切られるのです。

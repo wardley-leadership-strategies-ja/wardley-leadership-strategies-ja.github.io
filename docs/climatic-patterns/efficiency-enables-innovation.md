@@ -1,15 +1,14 @@
 ---
-title: "Efficiency enables innovation"
+title: "効率がイノベーションを可能にする"
 tags: [speed]
 ---
 
+ある活動が標準化され効率的になると、それは信頼できる構成要素になります。こうしたコモディティなコンポーネントがあることで、より複雑な新システムを速く、低コストで組み立てられます。コンポーネント内部の改善はインターフェースの背後に隠れがちですが、その波及効果は、その上に何をどれだけ速く多様に作れるかに表れます。
 
-When an activity becomes standardised and efficient, it forms a dependable building block. These commodity components allow new, more complex systems to be assembled quickly and at lower cost. Improvements within the component are largely hidden behind its interface, but the ripple effects are felt in the speed and variety of what can be built on top.
+電力網からクラウドコンピューティングに至るまで、産業化の各波は新たな創造の波を引き起こしてきました。交換可能な部品に満ちた世界では、組織は基礎を毎回作り直すのではなく、より高次の発想へ集中できます。
 
-From electricity grids to cloud computing, each wave of industrialisation has sparked fresh waves of creativity. A world of interchangeable parts frees organisations to focus on higher order ideas rather than reinventing the basics.
+効率がイノベーションを可能にします。AI と自動化は実行をコモディティ化し、人間の能力をより高次の判断と発明へ解放します。
 
-Efficiency enables innovation: AI and automation commoditises execution, freeing human capacity for higher-order judgement and invention.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Open Approaches](/strategies/accelerators/open-approaches) – trigger: once a component becomes efficient, opening it up can drive further innovation.
+- [Open Approaches](/strategies/accelerators/open-approaches) – トリガー: コンポーネントが効率的になった段階で開くと、さらなるイノベーションを促せる。

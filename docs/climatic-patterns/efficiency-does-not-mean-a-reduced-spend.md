@@ -1,12 +1,11 @@
 ---
-title: "Efficiency does not mean a reduced spend"
+title: "効率化は支出削減を意味しない"
 tags: [financial]
 ---
 
+あるものを効率化すると、実は全体消費が増えることがあります。これはジェボンズのパラドックスとして知られ、需要が伸びることで節約効果は一時的になるかもしれません。
 
-Making something more efficient can actually lead to greater overall consumption. This is known as Jevons' Paradox and means savings may be temporary as demand rises.
+## 🔀 関連戦略
 
-## 🔀 Related Strategies
-
-- [Pricing Policy](/strategies/markets/pricing-policy) – influence: lower prices from efficiency can boost demand rather than reduce costs.
-- [Last Man Standing](/strategies/markets/last-man-standing) – trigger: relentless efficiency can fuel the attrition needed to outlast rivals.
+- [Pricing Policy](/strategies/markets/pricing-policy) – 影響: 効率化による価格低下は、コスト削減ではなく需要拡大を招くことがある。
+- [Last Man Standing](/strategies/markets/last-man-standing) – トリガー: 徹底した効率化は、競合を消耗させるための条件を強めうる。
