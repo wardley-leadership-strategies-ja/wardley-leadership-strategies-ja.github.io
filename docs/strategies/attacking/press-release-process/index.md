@@ -43,7 +43,7 @@ effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
 ---
 
-**Amazon の working backwards を戦略道具として使い、ユーザーニーズを明確にし、進化したコンポーネントの産業化を加速する手法です。**
+**Amazon の 逆算思考 を戦略道具として使い、ユーザーニーズを明確にし、進化したコンポーネントの産業化を加速する手法です。**
 
 :::note
 **プレスリリース・プロセス** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
@@ -55,7 +55,7 @@ time_horizon: Fast impact
 
 プレスリリース・プロセスは、開発を始める前に、想定する製品やサービスのプレスリリースと FAQ を先に書くやり方です。架空の発表文を先に作ることで、どのユーザーニーズを満たすのか、何が解決策なのか、どこが差別化なのかを最初から定義します。
 
-Wardley Map の文脈では、これは次を意味します。
+地図 の文脈では、これは次を意味します。
 
 - バリューチェーンの上流であるユーザーニーズから考え始める
 - 既存または十分に進化したコンポーネントの上に成果を描く
@@ -153,9 +153,9 @@ quadrantChart
 
 ### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — ビジョンを揃える
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 顧客中心で考える
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語として伝える
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — ビジョンを揃える
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 顧客中心で考える
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語として伝える
 
 ### 倫理面
 
@@ -229,13 +229,13 @@ quadrantChart
 ## 🔀 **関連戦略**
 
 - [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing) - 開発と市場への語りを結びつける
-- [Directed Investment](/strategies/attacking/directed-investment) - プレスリリースで見えた能力に資源を寄せる
-- [Market Enablement](/strategies/accelerators/market-enablement) - 顧客向け成果を支える下流の準備を整える
-- [共創（Co-creation）](/strategies/ecosystem/co-creation) - 価値提案を定義したあと、主要ユーザーやパートナーと磨ける
-- [Open Approaches](/strategies/accelerators/open-approaches) - 標準化や利用可能性の前提を満たすのに有効
-- [Education](/strategies/user-perception/education) - 行動変容が必要な物語を支える
-- [Differentiation](/strategies/markets/differentiation) - 発表文が混雑市場での位置取りを定義する
-- [高速追随（Fast Follower）](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
+- [集中投資](/strategies/attacking/directed-investment) - プレスリリースで見えた能力に資源を寄せる
+- [市場育成](/strategies/accelerators/market-enablement) - 顧客向け成果を支える下流の準備を整える
+- [共創](/strategies/ecosystem/co-creation) - 価値提案を定義したあと、主要ユーザーやパートナーと磨ける
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 標準化や利用可能性の前提を満たすのに有効
+- [教育](/strategies/user-perception/education) - 行動変容が必要な物語を支える
+- [差別化](/strategies/markets/differentiation) - 発表文が混雑市場での位置取りを定義する
+- [高速追随](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
 
 ## 📚 **参考文献**
 

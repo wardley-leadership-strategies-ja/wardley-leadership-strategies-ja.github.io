@@ -15,21 +15,21 @@ authors: [dave-hulbert]
 
 主な型は次のとおりです。
 
-- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability)
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke)
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring)
-- [Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump)
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
+- [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability)
+- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke)
+- [リファクタリング](/strategies/dealing-with-toxicity/refactoring)
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump)
+- [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
 
 ## 📊 **対処戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability/) | 有害資産を切り離す | 売却、会社分離、契約分離 | 維持より切離しが合理的なとき | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) |
-| [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke/) | 問題の見え方を操作して処理する | パッケージ化、情報非対称の利用 | 資産価値の認知差が大きいとき | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
-| [Refactoring](/strategies/dealing-with-toxicity/refactoring/) | 有害部分を分解して作り直す | 段階移行、再設計、負債圧縮 | まだ中核価値が残っているとき | [特性は変化する](/climatic-patterns/characteristics-change)、[下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
-| [Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump/) | 退出前に残存価値を最大化する | 投資抑制、短期回収、段階終了 | 終息は決まっているがまだ現金を生むとき | [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
-| [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation/) | バリューチェーンを壊して組み直す | 分解、再委託、自動化、再統合 | 複数箇所に毒性が広がるとき | [高次システムへの進化は局所的秩序を高める](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability/) | 有害資産を切り離す | 売却、会社分離、契約分離 | 維持より切離しが合理的なとき | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) |
+| [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke/) | 問題の見え方を操作して処理する | パッケージ化、情報非対称の利用 | 資産価値の認知差が大きいとき | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
+| [リファクタリング](/strategies/dealing-with-toxicity/refactoring/) | 有害部分を分解して作り直す | 段階移行、再設計、負債圧縮 | まだ中核価値が残っているとき | [特性は変化する](/climatic-patterns/characteristics-change)、[下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
+| [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump/) | 退出前に残存価値を最大化する | 投資抑制、短期回収、段階終了 | 終息は決まっているがまだ現金を生むとき | [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation/) | バリューチェーンを壊して組み直す | 分解、再委託、自動化、再統合 | 複数箇所に毒性が広がるとき | [高次システムへの進化は局所的秩序を高める](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
 
 ## 💸 **何もしないコスト**
 

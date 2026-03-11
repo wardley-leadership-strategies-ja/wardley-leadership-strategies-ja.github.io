@@ -18,6 +18,7 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "generate:strategy-navigator": "node scripts/generate-strategy-navigator.js",
     "translation:status": "python3 scripts/translation_status.py",
+    "translation:check-visible": "python3 scripts/check_visible_english.py docs/strategies src/pages",
     "typecheck": "tsc",
     "test": "jest",
     "test:watch": "jest --watch",

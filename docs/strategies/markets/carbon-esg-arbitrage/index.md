@@ -125,11 +125,11 @@ ESG 要件は、買い手の判断基準とコスト構造を書き換えてい�
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政策変化が競争条件をどう変えるかを読む
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 炭素コスト、インセンティブ、ボトルネックの位置を全体で把握する
-- [Pricing strategy](/leadership-skills/pricing-strategy) — 炭素コストや補助を価格へ織り込み、利益を崩さず勝つ
-- [Incentive design and game theory](/leadership-skills/incentive-design-and-game-theory) — 顧客需要と自社優位が揃う取引条件を設計する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 規則や監査条件の変化による露出を抑える
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 政策変化が競争条件をどう変えるかを読む
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — 炭素コスト、インセンティブ、ボトルネックの位置を全体で把握する
+- [価格戦略](/leadership-skills/pricing-strategy) — 炭素コストや補助を価格へ織り込み、利益を崩さず勝つ
+- [インセンティブ設計とゲーム理論](/leadership-skills/incentive-design-and-game-theory) — 顧客需要と自社優位が揃う取引条件を設計する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 規則や監査条件の変化による露出を抑える
 
 ### 倫理面
 
@@ -194,18 +194,18 @@ ESG 要件は、買い手の判断基準とコスト構造を書き換えてい�
 
 ## 🔀 **関連戦略**
 
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - 調達力でサプライチェーン条件を動かす
-- [価格政策（Pricing Policy）](/strategies/markets/pricing-policy) - 炭素コストとインセンティブを価格へ埋め込む
-- [標準化ゲーム（Standards Game）](/strategies/markets/standards-game) - 開示標準や報告規範そのものへ影響する
-- [差別化（Differentiation）](/strategies/markets/differentiation) - 低炭素実績を市場差別化へ変える
-- [シグナル歪曲（Signal Distortion）](/strategies/markets/signal-distortion) - 競合が ESG シグナルを濁す対抗策として現れる
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - 調達力でサプライチェーン条件を動かす
+- [価格政策](/strategies/markets/pricing-policy) - 炭素コストとインセンティブを価格へ埋め込む
+- [標準化ゲーム](/strategies/markets/standards-game) - 開示標準や報告規範そのものへ影響する
+- [差別化](/strategies/markets/differentiation) - 低炭素実績を市場差別化へ変える
+- [シグナル歪曲](/strategies/markets/signal-distortion) - 競合が ESG シグナルを濁す対抗策として現れる
 
 ## ⛅ **関連する状勢パターン**
 
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の ESG 開示が新しい調達期待を生む
 - [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 関係: 補助金と税控除が低炭素供給網へ投資を引き寄せる
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: 検証可能で効率的な運用が新しい提案を可能にする
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 関係: サプライチェーン透明性と買い手要件は一緒に進化する
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 関係: サプライチェーン透明性と買い手要件は一緒に進化する
 
 ## 📚 **参考文献**
 

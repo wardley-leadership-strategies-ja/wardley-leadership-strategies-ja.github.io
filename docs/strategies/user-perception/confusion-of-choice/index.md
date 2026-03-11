@@ -112,11 +112,11 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 曖昧さと欺瞞の境界を見極める
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 多様な階層や派生形を管理する
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — セグメントごとの複雑さ耐性を理解する
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 必要な場所だけ簡素にし、必要な場所では複雑さを保つ
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 反発と単純さを売る競合の機会を読む
+- [倫理的判断](/leadership-skills/ethical-judgment) — 曖昧さと欺瞞の境界を見極める
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 多様な階層や派生形を管理する
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — セグメントごとの複雑さ耐性を理解する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 必要な場所だけ簡素にし、必要な場所では複雑さを保つ
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management) — 反発と単純さを売る競合の機会を読む
 
 ### 倫理面
 
@@ -180,7 +180,7 @@ time_horizon: Medium-term shaping
 
 ## ⛅ **関連する状勢パターン**
 
-- [将来価値は、それに対する確実性と反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 選択肢過多は長期便益をさらに見えにくくする
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 選択肢過多は長期便益をさらに見えにくくする
 - [特性は変化する](/climatic-patterns/characteristics-change) – トリガー: 製品が進化するほど旧来比較が難しくなる
 
 ## 📚 **参考文献**

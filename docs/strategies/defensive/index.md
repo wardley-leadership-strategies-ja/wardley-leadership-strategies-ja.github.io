@@ -20,23 +20,23 @@ authors: [dave-hulbert]
 
 代表的な型は次のとおりです。
 
-- [Defensive Regulation](/strategies/defensive/defensive-regulation)
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
-- [Managing Inertia](/strategies/defensive/managing-inertia)
-- [Procrastination](/strategies/defensive/procrastination)
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)
-- [Threat Acquisition](/strategies/defensive/threat-acquisition)
+- [防御的規制](/strategies/defensive/defensive-regulation)
+- [競争制限](/strategies/defensive/limitation-of-competition)
+- [慣性の管理](/strategies/defensive/managing-inertia)
+- [戦略的先送り](/strategies/defensive/procrastination)
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
+- [脅威の買収](/strategies/defensive/threat-acquisition)
 
 ## 📊 **防御戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Defensive Regulation](/strategies/defensive/defensive-regulation/) | 制度を使って競争を制御する | ロビー活動、標準設計、規制形成 | 規制産業、既存勢力の防衛 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
-| [Limitation of Competition](/strategies/defensive/limitation-of-competition/) | 競争圧力を構造的に減らす | 排他的契約、流通掌握、閉じたエコシステム | 成熟市場、高収益市場 | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
-| [Managing Inertia](/strategies/defensive/managing-inertia/) | 社内の変化抵抗を減らす | 変革管理、リーダーシップ、再設計 | 大企業、レガシー組織 | [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)、[過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) |
-| [Procrastination](/strategies/defensive/procrastination/) | 他者が市場検証するまで待つ | 監視、後追い参入、投資抑制 | 不確実な新市場 | [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
-| [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry/) | 新規参入を難しくする | バンドル、統合、ブランド、切替コスト | 利益率の高い主力事業 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
-| [Threat Acquisition](/strategies/defensive/threat-acquisition/) | 将来の脅威を買収で無力化する | M&A、技術取得、人材獲得 | 小さな挑戦者が脅威のとき | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption) |
+| [防御的規制](/strategies/defensive/defensive-regulation/) | 制度を使って競争を制御する | ロビー活動、標準設計、規制形成 | 規制産業、既存勢力の防衛 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
+| [競争制限](/strategies/defensive/limitation-of-competition/) | 競争圧力を構造的に減らす | 排他的契約、流通掌握、閉じたエコシステム | 成熟市場、高収益市場 | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
+| [慣性の管理](/strategies/defensive/managing-inertia/) | 社内の変化抵抗を減らす | 変革管理、リーダーシップ、再設計 | 大企業、レガシー組織 | [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)、[過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) |
+| [戦略的先送り](/strategies/defensive/procrastination/) | 他者が市場検証するまで待つ | 監視、後追い参入、投資抑制 | 不確実な新市場 | [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
+| [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry/) | 新規参入を難しくする | バンドル、統合、ブランド、切替コスト | 利益率の高い主力事業 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
+| [脅威の買収](/strategies/defensive/threat-acquisition/) | 将来の脅威を買収で無力化する | M&A、技術取得、人材獲得 | 小さな挑戦者が脅威のとき | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption) |
 
 ## 🛡️ **なぜ使うのか**
 

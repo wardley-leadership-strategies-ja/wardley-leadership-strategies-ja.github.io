@@ -146,12 +146,12 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 新しい可能性を見て未来像を示す
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 提携と協業を設計し運営する
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 組織を大きな変化へ導く
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 価値連鎖全体の相互作用を理解する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 構造変化に伴うリスクを抑える
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 何を残し、何を捨て、どう組み替えるかを決める
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 新しい可能性を見て未来像を示す
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — 提携と協業を設計し運営する
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 組織を大きな変化へ導く
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — 価値連鎖全体の相互作用を理解する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 構造変化に伴うリスクを抑える
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 何を残し、何を捨て、どう組み替えるかを決める
 
 ### 倫理面
 
@@ -221,15 +221,15 @@ time_horizon: Long-term positioning
 
 ## 🔀 **関連戦略**
 
-- [**Refactoring**](/strategies/dealing-with-toxicity/refactoring) - 社内の救出と整理が主眼の、より小さな変化
-- [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) - 分解の過程で切り離すべき負担部品が見つかることがある
-- [**Innovate-Leverage-Commoditize (ILC)**](/strategies/ecosystem/innovate-leverage-commoditize) - 分解は ILC を進める土台になりうる
-- [**Open Approaches**](/strategies/accelerators/open-approaches) - 分解された部品同士の相互運用には open interface が効く
-- [**Platform**](/strategies/ecosystem/platform-envelopment) - 再統合が platform 型事業へつながることが多い
+- [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 社内の救出と整理が主眼の、より小さな変化
+- [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - 分解の過程で切り離すべき負担部品が見つかることがある
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 分解は ILC を進める土台になりうる
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 分解された部品同士の相互運用には open interface が効く
+- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - 再統合が platform 型事業へつながることが多い
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 進化により価値連鎖の見直しが必要になる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: 進化により価値連鎖の見直しが必要になる
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 創世記からコモディティへの移行が分解機会を生む
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: 一部を効率化して、他の部分へ革新余地を作れる
 

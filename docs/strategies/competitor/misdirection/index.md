@@ -69,7 +69,7 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-- **事前発表と vaporware:** 完成していない製品を発表することで、競合や顧客期待へ影響を与えることがあります。IBM の System/360 Model 91 の事前発表は、製品出荷前にもかかわらず競合売上へ影響しました。Microsoft も早期発表で競合を牽制したと批判されてきました。
+- **事前発表と ベイパーウェア:** 完成していない製品を発表することで、競合や顧客期待へ影響を与えることがあります。IBM の System/360 Model 91 の事前発表は、製品出荷前にもかかわらず競合売上へ影響しました。Microsoft も早期発表で競合を牽制したと批判されてきました。
 - **偽の投資シグナル:** 本命ではない技術や市場に大きく投資しているように見せ、競合に追随させて資源を無駄遣いさせる手法です。
 - **広報と戦略的発言:** 経営者がある市場への関心を低く見せて競合を油断させ、後から参入することがあります。Apple は iPhone 計画を極秘にし、競合へ十分な準備時間を与えませんでした。
 
@@ -111,10 +111,10 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 計算された欺きを設計する
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 陽動の物語を一貫させる
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 本命を漏らさず進める
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合の情報収集習慣を読む
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 計算された欺きを設計する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 陽動の物語を一貫させる
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 本命を漏らさず進める
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合の情報収集習慣を読む
 
 ### 倫理面
 
@@ -125,7 +125,7 @@ time_horizon: Medium-term shaping
 1. **影響経路を特定する:** 競合が見ている発信経路を洗い出す
 2. **囮の物語を作る:** 陽動目的に合う偽の筋書きを設計する
 3. **外向き発信を揃える:** 発表、会議、特許、メディア露出を囮に合わせる
-4. **本命を秘匿して進める:** need-to-know で本当の戦略を守る
+4. **本命を秘匿して進める:** 必要最小限の共有 で本当の戦略を守る
 5. **競合反応を観測する:** 相手の資源移動や発言から、陽動の効き具合を見る
 6. **切り替えを準備する:** いつ本命を表に出すか決める
 7. **社内混乱を防ぐ:** 関係チームは囮と本命を混同しないようにする
@@ -184,14 +184,14 @@ time_horizon: Medium-term shaping
 
 ## 🔀 **関連戦略**
 
-- [**競合の慣性強化（Reinforcing Competitor Inertia）**](/strategies/competitor/reinforcing-competitor-inertia) - 本当の戦略を過小評価させることで慣性を強める
-- [**Tech Drops**](/strategies/competitor/tech-drops) - 直前まで意図を隠すための下準備になる
-- [**Signal Distortion**](/strategies/markets/signal-distortion) - 市場シグナルを意図的に歪める点で近い
-- [**Fear, Uncertainty, and Doubt**](/strategies/user-perception/fear-uncertainty-and-doubt) - 競合側へ不安を作る補助手段になりうる
-- [Circling and Probing](/strategies/competitor/circling-and-probing) - 偽の探りを入れて競合反応を引き出す
-- [Artificial Competition](/strategies/user-perception/artificial-competition) - 幻の脅威や代替案を作って混乱させる
-- [Insertion](/strategies/poison/insertion) - 競合チャネルへ紛れ込ませる形の欺き
-- [Designed to Fail](/strategies/poison/designed-to-fail) - 制御された失敗を使って能力認識を誤らせる
+- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) - 本当の戦略を過小評価させることで慣性を強める
+- [テックドロップ](/strategies/competitor/tech-drops) - 直前まで意図を隠すための下準備になる
+- [シグナル歪曲](/strategies/markets/signal-distortion) - 市場シグナルを意図的に歪める点で近い
+- [恐怖・不確実性・疑念](/strategies/user-perception/fear-uncertainty-and-doubt) - 競合側へ不安を作る補助手段になりうる
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 偽の探りを入れて競合反応を引き出す
+- [見せかけの競争](/strategies/user-perception/artificial-competition) - 幻の脅威や代替案を作って混乱させる
+- [挿入](/strategies/poison/insertion) - 競合チャネルへ紛れ込ませる形の欺き
+- [失敗するよう設計する](/strategies/poison/designed-to-fail) - 制御された失敗を使って能力認識を誤らせる
 
 ## ⛅ **関連する状勢パターン**
 

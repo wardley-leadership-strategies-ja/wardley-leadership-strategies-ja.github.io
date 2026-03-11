@@ -55,7 +55,7 @@ time_horizon: Long-term positioning
 
 ここでいう **ライセンシング** は、単に権利を守るだけでなく、利用条件を設計して競合を縛ることに重点があります。たとえば利用用途の限定、商用利用時の課金、派生物の条件付けなどです。
 
-これは [Patents & IPR](/strategies/decelerators/ipr) と道具は似ていますが、目的が異なります。IPR は技術進化そのものを遅らせる法的囲い込みに寄り、ライセンシングは契約条件によって利用の仕方を制御することに寄ります。
+これは [特許と知的財産権](/strategies/decelerators/ipr) と道具は似ていますが、目的が異なります。IPR は技術進化そのものを遅らせる法的囲い込みに寄り、ライセンシングは契約条件によって利用の仕方を制御することに寄ります。
 
 :::
 
@@ -114,10 +114,10 @@ Google は Android の基盤をオープンにしつつ、重要サービスは 
 
 ### 必要なスキル
 
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と知財の設計
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 契約交渉と起草
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム関係の維持
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — リスクと準拠の統治
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 法務と知財の設計
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 契約交渉と起草
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム関係の維持
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — リスクと準拠の統治
 
 ### 倫理面
 
@@ -203,17 +203,17 @@ Google は Android の基盤をオープンにしつつ、重要サービスは 
 
 ## 🔀 **関連戦略**
 
-- [Patents & IPR](/strategies/decelerators/ipr) — 知財を使ったより広い法的囲い込み
-- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) — 逆に、標準やライセンスを開く戦略
-- [Designed to Fail](/strategies/poison/designed-to-fail) — 失敗する仕掛けを埋め込む
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) — ロックインをネットワークで強める
-- [競争制限（Limitation of Competition）](/strategies/defensive/limitation-of-competition) — 参入制限の上位目的
+- [特許と知的財産権](/strategies/decelerators/ipr) — 知財を使ったより広い法的囲い込み
+- [オープンアプローチ](/strategies/accelerators/open-approaches) — 逆に、標準やライセンスを開く戦略
+- [失敗するよう設計する](/strategies/poison/designed-to-fail) — 失敗する仕掛けを埋め込む
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) — ロックインをネットワークで強める
+- [競争制限](/strategies/defensive/limitation-of-competition) — 参入制限の上位目的
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 技術進化に合わせてライセンスも変える必要がある
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: 技術進化に合わせてライセンスも変える必要がある
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: 制約的ライセンスは効率的な組み合わせを妨げうる
-- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 関係: 上位システム構築に必要な部品へのアクセスを制御できる
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 関係: 上位システム構築に必要な部品へのアクセスを制御できる
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合はライセンスへ対抗したり代替を作ったりする
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 成功したモデルを変えられず市場変化に遅れることがある
 

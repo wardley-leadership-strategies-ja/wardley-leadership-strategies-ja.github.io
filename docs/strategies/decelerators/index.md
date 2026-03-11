@@ -15,17 +15,17 @@ authors: [dave-hulbert]
 
 代表的な型は次のとおりです。
 
-- [Creating Constraints](/strategies/decelerators/creating-constraints): 新たな制約を作る
-- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint): 既存の制約を増幅する
-- [IPR](/strategies/decelerators/ipr): 知的財産権で法的な減速をかける
+- [制約の創出](/strategies/decelerators/creating-constraints): 新たな制約を作る
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint): 既存の制約を増幅する
+- [特許と知的財産権](/strategies/decelerators/ipr): 知的財産権で法的な減速をかける
 
 ## 📊 **減速戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Creating Constraints](/strategies/decelerators/creating-constraints/) | 他者の進行を遅らせる | 供給網掌握、規制、独自標準 | 優位を維持したいとき | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
-| [Exploiting Constraint](/strategies/decelerators/exploiting-constraint/) | 既存のボトルネックを強める | チョークポイント活用、資源逼迫 | 相手に明確な依存があるとき | [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
-| [IPR](/strategies/decelerators/ipr/) | 法的に追随を遅らせる | 特許、著作権、商標、訴訟 | 中核技術や設計を守るとき | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
+| [制約の創出](/strategies/decelerators/creating-constraints/) | 他者の進行を遅らせる | 供給網掌握、規制、独自標準 | 優位を維持したいとき | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
+| [既存制約の活用](/strategies/decelerators/exploiting-constraint/) | 既存のボトルネックを強める | チョークポイント活用、資源逼迫 | 相手に明確な依存があるとき | [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
+| [特許と知的財産権](/strategies/decelerators/ipr/) | 法的に追随を遅らせる | 特許、著作権、商標、訴訟 | 中核技術や設計を守るとき | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
 
 ## 🐌 **なぜ使うのか**
 

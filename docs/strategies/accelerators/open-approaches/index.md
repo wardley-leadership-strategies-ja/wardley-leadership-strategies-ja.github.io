@@ -71,7 +71,7 @@ time_horizon: Medium-term shaping
 - 採用を広げ、市場の標準側へ回るため
 - ある層をコモディティ化し、競争の主戦場を別の場所へ動かすため
 - 貢献者やパートナーの厚いエコシステムを作るため
-- 競合の proprietary な優位を切り崩すため
+- 競合の プロプライエタリな優位を切り崩すため
 - コミュニティの参加によってイノベーション速度を上げるため
 
 ### どう使うのか
@@ -134,16 +134,16 @@ Android のオープン化は Google にとって大きな戦略的成功でし�
 
 ### 必要なスキル
 
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — エコシステムを長く健全に保つ
-- [Standardization and open strategy](/leadership-skills/standardization-and-open-strategy) — 開放の設計と標準化を進める
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 透明性ある物語を作る
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 事業モデルを組み替える
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 競争上の反撃と品質低下に備える
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 参加ルールを具体的に設計する
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — エコシステムを長く健全に保つ
+- [標準化とオープン戦略](/leadership-skills/standardization-and-open-strategy) — 開放の設計と標準化を進める
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 透明性ある物語を作る
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 事業モデルを組み替える
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 競争上の反撃と品質低下に備える
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 参加ルールを具体的に設計する
 
 ### 倫理面
 
-オープン化が本物であることは重要です。見せかけだけの「open-washing」は信頼を壊します。貢献者の権利を尊重し、コミュニティ労働を搾取せず、利用者、パートナー、エコシステム全体への影響を考えて設計する必要があります。
+オープン化が本物であることは重要です。見せかけだけの「オープンウォッシング」は信頼を壊します。貢献者の権利を尊重し、コミュニティ労働を搾取せず、利用者、パートナー、エコシステム全体への影響を考えて設計する必要があります。
 
 ## 📋 **進め方**
 
@@ -198,7 +198,7 @@ Android のオープン化は Google にとって大きな戦略的成功でし�
 
 ### 対抗策とシグナル設計
 
-オープン化は安全な手ではありません。周囲へ強いシグナルを出し、対抗策を誘発します。embrace-and-extend、フォークして商用化、標準化団体を通じた規制取り込みなどが起こりえます。だからこそ、ライセンス、ガバナンス、ブランド、コミュニティ設計を武器や盾として考える必要があります。
+オープン化は安全な手ではありません。周囲へ強いシグナルを出し、対抗策を誘発します。抱き込みと拡張、フォークして商用化、標準化団体を通じた規制取り込みなどが起こりえます。だからこそ、ライセンス、ガバナンス、ブランド、コミュニティ設計を武器や盾として考える必要があります。
 
 競合が遅く、ライセンス収入に依存しているなら、自社スタックを開くことで相手を苦しい場所へ追い込めます。一方で、相手の方が速く、資本力もあるなら、開いたものを利用されて逆に負ける可能性もあります。そのため、オープン層の上でどう価値を回収するのかを、最初から決めておく必要があります。
 
@@ -217,25 +217,25 @@ Android のオープン化は Google にとって大きな戦略的成功でし�
 
 ## 🔀 **関連戦略**
 
-- [共創（Co-creation）](/strategies/ecosystem/co-creation) - オープンな土台の上で他者の創意を引き出す
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) - 無償化や公開は参入障壁を崩す
-- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - 逆に競合が開いた技術を取り込み、独自拡張することがある
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 摩擦を減らして市場を育てる
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - 何を守り、何を開くかの線引きを設計する
-- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - 開いた基盤の上でコミュニティ主導の進化を起こす
+- [共創](/strategies/ecosystem/co-creation) - オープンな土台の上で他者の創意を引き出す
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 無償化や公開は参入障壁を崩す
+- [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 逆に競合が開いた技術を取り込み、独自拡張することがある
+- [市場育成](/strategies/accelerators/market-enablement) - 摩擦を減らして市場を育てる
+- [特許と知的財産権](/strategies/decelerators/ipr) - 何を守り、何を開くかの線引きを設計する
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 開いた基盤の上でコミュニティ主導の進化を起こす
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - オープン化の節目を物語として打ち出す
-- [Fool's Mate](/strategies/attacking/fools-mate) - 開放の戦略価値を軽視した競合を誘い込む
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - コミュニティや主要コンポーネントへ重力を集める
-- [Education](/strategies/user-perception/education) - オープンな協働の価値を教え、認識を変える
-- [Licensing](/strategies/poison/licensing) - 採用と統制の両立に効くライセンス設計
-- [Harvesting](/strategies/markets/harvesting) - 成熟したオープンエコシステムから価値を回収する
-- [Standards Game](/strategies/markets/standards-game) - オープンさを使って事実上の標準を取る
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 相互運用性を通じて分解と再統合を促す
+- [フールズ・メイト](/strategies/attacking/fools-mate) - 開放の戦略価値を軽視した競合を誘い込む
+- [重力中心](/strategies/attacking/centre-of-gravity) - コミュニティや主要コンポーネントへ重力を集める
+- [教育](/strategies/user-perception/education) - オープンな協働の価値を教え、認識を変える
+- [ライセンシング](/strategies/poison/licensing) - 採用と統制の両立に効くライセンス設計
+- [収穫](/strategies/markets/harvesting) - 成熟したオープンエコシステムから価値を回収する
+- [標準化ゲーム](/strategies/markets/standards-game) - オープンさを使って事実上の標準を取る
+- [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 相互運用性を通じて分解と再統合を促す
 
 ## ⛅ **関連する状勢パターン**
 
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – トリガー: コンポーネントの産業化が進むと、開放しやすくなる
-- [低次システムの安定性が高まるほど、再結合の俊敏性と速度が増す](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) – 影響: 安定したオープン部品が高速な再結合を可能にする
+- [下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) – 影響: 安定したオープン部品が高速な再結合を可能にする
 
 ## 📚 **参考文献**
 

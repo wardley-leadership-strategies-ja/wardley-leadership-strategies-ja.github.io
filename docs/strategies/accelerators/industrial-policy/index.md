@@ -169,10 +169,10 @@ Boeing や Airbus は、防衛契約、直接補助、共同保有に近い枠�
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政策環境と政府関係者を読み解く
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 国家や社会の物語と自社計画を結びつける
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — コンプライアンスと説明責任の構造を作る
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 官民の関係者を同じ方向へ揃える
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 政策環境と政府関係者を読み解く
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 国家や社会の物語と自社計画を結びつける
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — コンプライアンスと説明責任の構造を作る
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 官民の関係者を同じ方向へ揃える
 
 ### 倫理面
 
@@ -231,13 +231,13 @@ Boeing や Airbus は、防衛契約、直接補助、共同保有に近い枠�
 
 ## 🔀 **関連戦略**
 
-- [Lobbying](/strategies/user-perception/lobbying) - 政策形成へ働きかける主要手段
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 政府支援が市場そのものを立ち上げることがある
-- [Standards Game](/strategies/markets/standards-game) - 標準化政策が優位形成に直結する
+- [ロビー活動](/strategies/user-perception/lobbying) - 政策形成へ働きかける主要手段
+- [市場育成](/strategies/accelerators/market-enablement) - 政府支援が市場そのものを立ち上げることがある
+- [標準化ゲーム](/strategies/markets/standards-game) - 標準化政策が優位形成に直結する
 
 ## ⛅ **関連する状勢パターン**
 
-- [新しい価値領域へ資本が流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 政府資金が狙った分野へ資本を集める
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 政府資金が狙った分野へ資本を集める
 - [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 戦時や大きな社会転換期に政策支援が強まりやすい
 
 ## 📚 **参考文献**

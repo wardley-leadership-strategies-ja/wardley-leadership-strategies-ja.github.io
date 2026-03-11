@@ -115,10 +115,10 @@ Kodak は最初期のデジタルカメラを発明しながら、フィルム�
 
 ### 必要なスキル
 
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 正しいタイミングまで待つ規律
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場成熟度と最適参入点を読む
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 入ると決めたら素早く張る
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 一見受け身に見える戦略を説明する
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 正しいタイミングまで待つ規律
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 市場成熟度と最適参入点を読む
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 入ると決めたら素早く張る
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 一見受け身に見える戦略を説明する
 
 ### 倫理面
 
@@ -192,15 +192,15 @@ incumbents は既存収益を守るために、新しい破壊的技術への全
 
 ## 🔀 **関連戦略**
 
-- [**Fast Follower**](/strategies/positional/fast-follower) - 戦略的先送りの先にある実行形
-- [**弱いシグナル（Horizon）**](/strategies/positional/weak-signal-horizon) - いつ入るべきかを判断するために必要
+- [高速追随](/strategies/positional/fast-follower) - 戦略的先送りの先にある実行形
+- [弱いシグナル](/strategies/positional/weak-signal-horizon) - いつ入るべきかを判断するために必要
 
 ## ⛅ **関連する状勢パターン**
 
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 過信が必要な変化を遅らせることがある
-- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: ためらいは高価値機会を逃すこともある
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: ためらいは高価値機会を逃すこともある
 
 ## 📚 **参考文献**
 
 - [The Innovator's Dilemma](/books/the-innovators-dilemma) - incumbents が破壊的技術を先送りしやすい理由
-- [Fast Second: How Smart Companies Bypass Radical Innovation to Enter and Dominate New Markets](/books/fast-second) - fast follower 戦略の専門書
+- [Fast Second](/books/fast-second) - fast follower 戦略の専門書

@@ -58,7 +58,7 @@ FUD は、直接の嘘ではなくても、否定的な枠付けやほのめか�
 ### なぜ使うのか
 
 - **競合イノベーションの採用を遅らせる**
-- **顧客 inertia を維持する**
+- **顧客の慣性 を維持する**
 - **自社が対応する時間を稼ぐ**
 
 ## 🗺️ **実例**
@@ -69,11 +69,11 @@ FUD は、直接の嘘ではなくても、否定的な枠付けやほのめか�
 
 ### Microsoft の Linux に対する発信
 
-Linux は free ではなく、別の依存を生むといった物語を流し、企業顧客へ hidden risk を印象づけようとした例です。
+Linux は無料ではなく、別の依存を生むといった物語を流し、企業顧客へ隠れたリスクを印象づけようとした例です。
 
-### 仮想例: クラウド incumbent と新規 entrant
+### 仮想例: クラウドの既存勢力と新規参入者
 
-「安いけど 2 年後にもいるのか」という一言だけでも、慎重な enterprise buyer には十分なブレーキになります。
+「安いけど 2 年後にもいるのか」という一言だけでも、慎重な エンタープライズの買い手 には十分なブレーキになります。
 
 ## 🚦 **使いどころ**
 
@@ -102,8 +102,8 @@ Linux は free ではなく、別の依存を生むといった物語を流し�
 ### 避けるとき
 
 - 倫理や文化的基準がそれを許さないとき
-- すぐ fact-check される市場で credibility を失いやすいとき
-- new entrant 側が incumbent へ打っても逆効果になりやすいとき
+- すぐ ファクトチェック される市場で 信頼性 を失いやすいとき
+- 新規参入者側が既存勢力へ打っても逆効果になりやすいとき
 
 ## 🎯 **リーダーシップ**
 
@@ -113,11 +113,11 @@ Linux は free ではなく、別の依存を生むといった物語を流し�
 
 ### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 本物のリスクと誤解を招く発信の境界を見極める
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合の弱点と逆に自社が受ける FUD を把握する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 逆効果になる可能性を読む
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 微妙なメッセージを設計し、露見時に対応する
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 長期的な評判を守る
+- [倫理的判断](/leadership-skills/ethical-judgment) — 本物のリスクと誤解を招く発信の境界を見極める
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合の弱点と逆に自社が受ける FUD を把握する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 逆効果になる可能性を読む
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 微妙なメッセージを設計し、露見時に対応する
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management) — 長期的な評判を守る
 
 ### 倫理面
 
@@ -176,7 +176,7 @@ FUD は相互攻撃を呼びやすく、市場全体を悪化させます。
 ## ❓ **問うべきこと**
 
 - その懸念は検証可能な事実か、それとも憶測や歪曲か
-- 顧客は warning と見るか、manipulation と見るか
+- 顧客は 警告 と見るか、操作 と見るか
 - 打った場合、長期のブランド影響はどうなるか
 - 短期目標を達成しても、報復は何か
 - 責任ある差別化と不当な FUD の線はどこか
@@ -192,7 +192,7 @@ FUD は相互攻撃を呼びやすく、市場全体を悪化させます。
 
 ## ⛅ **関連する状勢パターン**
 
-- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – トリガー: 新興技術の未知性を利用する
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – トリガー: 新興技術の未知性を利用する
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: FUD は市場を凍らせることで競合の動きを変えようとする
 
 ## 📚 **参考文献**

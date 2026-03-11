@@ -1,7 +1,7 @@
 ---
 title: 実験
 description: Hackday、専門チーム、スカンクワークスで素早く仮説を試し、機会を見つけて活かす戦略。
-tags: [experimentation, attacking, innovation, culture, skunkworks, hackathons, rapid iteration, learning]
+tags: [experimentation, attacking, innovation, culture, skunkworks, ハッカソンs, rapid iteration, learning]
 authors: [dave-hulbert]
 stages:
   - Genesis
@@ -36,14 +36,14 @@ time_horizon: Fast impact
 
 **小さく速い実験を専任チームで回し、競合より早く学んで機会を捉える戦略です。**
 
-> *「専門家グループ、hackday、その他の実験メカニズムの活用。」*
+> *「専門家グループ、ハックデー、その他の実験メカニズムの活用。」*
 > – Simon Wardley
 
 ## 🤔 **解説**
 
 ### 実験とは何か
 
-実験とは、新しいアイデア、技術、市場を探索するために、軽量な試行を意図的に使うことです。組織は hackday、ラボ、スカンクワークスのような場を作り、通常の制約の外で動けるようにします。実験は可逆で安価であるべきで、大きな資源を賭ける前に、地図上の一手を試せます。
+実験とは、新しいアイデア、技術、市場を探索するために、軽量な試行を意図的に使うことです。組織は ハックデー、ラボ、スカンクワークスのような場を作り、通常の制約の外で動けるようにします。実験は可逆で安価であるべきで、大きな資源を賭ける前に、地図上の一手を試せます。
 
 ### なぜ使うのか
 
@@ -97,7 +97,7 @@ gitGraph
 
 ### Facebook の Hackathon
 
-短時間の hackathon から Like ボタンのような機能が生まれ、ユーザー関与を先行維持する助けになりました。
+短時間の ハッカソン から Like ボタンのような機能が生まれ、ユーザー関与を先行維持する助けになりました。
 
 ### 仮想例: 創薬の加速
 
@@ -115,7 +115,7 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
   </MapSignals>
   <Readiness>
     <li>経営が失敗からの学習を支える。</li>
-    <li>hackday やラボに使える時間やチームを確保できる。</li>
+    <li>ハックデー やラボに使える時間やチームを確保できる。</li>
     <li>成功した実験を本流へ統合する道筋がある。</li>
     <li>学びと影響を測る指標がある。</li>
     <li>実験者が過剰な手続きから守られている。</li>
@@ -142,10 +142,10 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 
 ### 必要なスキル
 
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 好奇心と心理的安全性を育てる
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 実験チームと予算を守る
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 伸ばす実験と止める実験を見極める
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 学びを組織全体へ伝える
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 好奇心と心理的安全性を育てる
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 実験チームと予算を守る
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 伸ばす実験と止める実験を見極める
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 学びを組織全体へ伝える
 
 ### 倫理面
 
@@ -154,7 +154,7 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 ## 📋 **進め方**
 
 1. 地図から戦略テーマを定める
-2. hackday、ラボ、spike に時間やチームを配分する
+2. ハックデー、ラボ、短期実験 に時間やチームを配分する
 3. 実験は小さく、期限を切り、記録を残す
 4. 結果を速く見て、拡張、反復、中止を決める
 5. 学びを広く共有し、次の探索を促す
@@ -164,14 +164,14 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 - 本流製品へ移った実験の数
 - アイデアから試作までの時間短縮
 - 地図上で発見された戦略選択肢の増加
-- hackday や実験プログラムへの参加度
+- ハックデー や実験プログラムへの参加度
 - 学びが戦略へ戻っているか
 
 ## ⚠️ **失敗しやすい点**
 
 ### イノベーション劇場
 
-派手な hackathon だけで、実製品へ影響しないなら信用を失います。
+派手な ハッカソン だけで、実製品へ影響しないなら信用を失います。
 
 ### 焦点不足
 
@@ -205,18 +205,18 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 
 ## 🔀 **関連戦略**
 
-- [集中投資（Directed Investment）](/strategies/attacking/directed-investment) - 実験で見えた有望領域へ大きく張る
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 強いラボは人材を引き寄せる中心になる
-- [共創（Co-creation）](/strategies/ecosystem/co-creation) - 実験をユーザーと一緒に回すと洞察が深まる
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - 実験は弱いシグナルを確かめる初動になる
-- [高速追随（Fast Follower）](/strategies/positional/fast-follower) - 他社の成功実験を素早く取り込む
+- [集中投資](/strategies/attacking/directed-investment) - 実験で見えた有望領域へ大きく張る
+- [重力中心](/strategies/attacking/centre-of-gravity) - 強いラボは人材を引き寄せる中心になる
+- [共創](/strategies/ecosystem/co-creation) - 実験をユーザーと一緒に回すと洞察が深まる
+- [弱いシグナル](/strategies/positional/weak-signal-horizon) - 実験は弱いシグナルを確かめる初動になる
+- [高速追随](/strategies/positional/fast-follower) - 他社の成功実験を素早く取り込む
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 実験結果を物語として整え、支持を広げる
-- [Circling and Probing](/strategies/competitor/circling-and-probing) - 競合位置を探る小さな試し打ちと相性がよい
-- [Differentiation](/strategies/markets/differentiation) - 実験から生まれた独自性を差別化へ変える
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 競合位置を探る小さな試し打ちと相性がよい
+- [差別化](/strategies/markets/differentiation) - 実験から生まれた独自性を差別化へ変える
 
 ## ⛅ **関連する状勢パターン**
 
-- [進化や採用は時間だけでは測れない。不確実性を受け入れる必要がある](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – 影響: 不確実性が高いほど実験が必要になる
+- [時間や採用率だけで進化は測れない](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – 影響: 不確実性が高いほど実験が必要になる
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 小さな試行で競合の一手へ速く対応できる
 
 ## 📚 **参考文献**

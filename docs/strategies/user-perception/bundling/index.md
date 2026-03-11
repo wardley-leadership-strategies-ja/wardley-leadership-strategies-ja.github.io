@@ -115,11 +115,11 @@ Microsoft が Internet Explorer を Windows に同梱した例は典型です。
 
 ### 必要なスキル
 
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 何を組み合わせれば新しい価値になるかを見る
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 顧客が搾取されたと感じない設計をする
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合と市場反応を読む
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 複数チームを通じてバンドルを一貫して届ける
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 説得と強制の境界を判断する
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 何を組み合わせれば新しい価値になるかを見る
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 顧客が搾取されたと感じない設計をする
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合と市場反応を読む
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management) — 複数チームを通じてバンドルを一貫して届ける
+- [倫理的判断](/leadership-skills/ethical-judgment) — 説得と強制の境界を判断する
 
 ### 倫理面
 
@@ -179,14 +179,14 @@ Microsoft が Internet Explorer を Windows に同梱した例は典型です。
 ## 🔀 **関連戦略**
 
 - [選択肢の混乱](/strategies/user-perception/confusion-of-choice) - 複雑なパッケージで比較をさらに難しくする
-- [参入障壁を上げる](/strategies/defensive/raising-barriers-to-entry) - 機能期待値を積み上げて新規参入を難しくする
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 機能期待値を積み上げて新規参入を難しくする
 - [先行確保](/strategies/positional/land-grab) - 既存基盤に載せて新サービスの利用者を一気に取る
 - [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - プラットフォームが新機能を取り込む典型手段
 
 ## ⛅ **関連する状勢パターン**
 
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – トリガー: コモディティ化した部品の組み合わせが新しい提供になる
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: バンドルが関連サービスの採用を変える
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: バンドルが関連サービスの採用を変える
 
 ## 📚 **参考文献**
 

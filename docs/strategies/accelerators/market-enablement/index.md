@@ -137,13 +137,13 @@ Apple の App Store は市場育成の代表例です。SDK と収益分配モ�
 
 ### 必要なスキル
 
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 組織外まで含めた価値ネットワークを見る
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 直接統制なしで参加を引き出す
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 長期で先に動く意思決定をする
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 強すぎる競合育成や回収失敗に備える
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 市場育成の意図と利益を説明する
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 関係者を束ねる
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 長く続く取り組みを粘り強く回す
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — 組織外まで含めた価値ネットワークを見る
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 直接統制なしで参加を引き出す
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 長期で先に動く意思決定をする
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 強すぎる競合育成や回収失敗に備える
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 市場育成の意図と利益を説明する
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — 関係者を束ねる
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 長く続く取り組みを粘り強く回す
 
 ### 倫理面
 
@@ -164,7 +164,7 @@ Apple の App Store は市場育成の代表例です。SDK と収益分配モ�
 4. **育成手段を選ぶ:** オープン標準、プラットフォーム、オープンソース化、投資、コミュニティ形成、啓蒙などから適切な組み合わせを選ぶ
 5. **計画を作って伝える:** ロードマップと便益を明文化し、周囲へ共有する
 6. **実行し反復する:** 開発、運営、広報、提携を進め、市場の反応に応じて調整する
-7. **エコシステムを世話する:** 少なくとも初期段階では、市場の steward として協力や品質を支える
+7. **エコシステムを世話する:** 少なくとも初期段階では、市場の世話役 として協力や品質を支える
 8. **測定し、回収方法も見直す:** 市場成熟に合わせて価値回収の仕組みを調整する
 
 ## 📈 **成功指標**
@@ -222,9 +222,9 @@ Apple の App Store は市場育成の代表例です。SDK と収益分配モ�
 
 市場全体に価値を作ることと、自社がそこから利益を得ることは同じではありません。回収に寄りすぎるとエコシステムが育たず、開きすぎると自社戦略として成り立ちません。両者の均衡が必要です。
 
-### 二次効果と attractor
+### 二次効果と 引力源
 
-市場育成は強い二次効果を生みます。エコシステムが活気づくと、さらに利用者、開発者、投資、才能が集まり、好循環になります。こうして市場そのものが attractor となり、元のコンポーネントがコモディティ化した後も、周辺で大きな優位を生むことがあります。
+市場育成は強い二次効果を生みます。エコシステムが活気づくと、さらに利用者、開発者、投資、才能が集まり、好循環になります。こうして市場そのものが 引力源 となり、元のコンポーネントがコモディティ化した後も、周辺で大きな優位を生むことがあります。
 
 ### 開放度は重要なレバー
 
@@ -242,21 +242,21 @@ Apple の App Store は市場育成の代表例です。SDK と収益分配モ�
 
 ## 🔀 **関連戦略**
 
-- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) - 市場を育てる主要な手段の一つ
-- [Alliances](/strategies/ecosystem/alliances) - 他組織と組んで市場を育てる
-- [Harvesting](/strategies/markets/harvesting) - 成熟後の市場から価値を刈り取る
-- [Standards Game](/strategies/markets/standards-game) - 標準争いを通じて市場形成を進める
-- [協調（Cooperation）](/strategies/accelerators/cooperation) - 市場育成の多くは競合を含む協力を伴う
-- [ネットワーク効果の活用（Exploiting Network Effects）](/strategies/accelerators/exploiting-network-effects) - 育った市場がネットワーク効果を生む
-- [Industrial Policy](/strategies/accelerators/industrial-policy) - 政府支援や制度設計で市場形成を加速する
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 市場を育てる主要な手段の一つ
+- [アライアンス](/strategies/ecosystem/alliances) - 他組織と組んで市場を育てる
+- [収穫](/strategies/markets/harvesting) - 成熟後の市場から価値を刈り取る
+- [標準化ゲーム](/strategies/markets/standards-game) - 標準争いを通じて市場形成を進める
+- [協調](/strategies/accelerators/cooperation) - 市場育成の多くは競合を含む協力を伴う
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) - 育った市場がネットワーク効果を生む
+- [産業政策](/strategies/accelerators/industrial-policy) - 政府支援や制度設計で市場形成を加速する
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 市場の方向性を広報で揃える
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) - 参入障壁を壊して市場を広げる
-- [Talent Raid](/strategies/competitor/talent-raid) - 市場拡大に必要な能力を先に集める
-- [Artificial Competition](/strategies/user-perception/artificial-competition) - 代替選択肢があるように見せ、市場参加を促す
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 参入障壁を壊して市場を広げる
+- [人材引き抜き](/strategies/competitor/talent-raid) - 市場拡大に必要な能力を先に集める
+- [見せかけの競争](/strategies/user-perception/artificial-competition) - 代替選択肢があるように見せ、市場参加を促す
 
 ## ⛅ **関連する状勢パターン**
 
-- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: 市場を育てると新しいバリューチェーンが立ち上がる
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: 市場を育てると新しいバリューチェーンが立ち上がる
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 標準化された部品が参加障壁を下げる
 
 ## 📚 **参考文献**

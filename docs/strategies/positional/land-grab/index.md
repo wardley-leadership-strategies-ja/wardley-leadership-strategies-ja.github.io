@@ -120,10 +120,10 @@ EV の普及前に充電インフラを敷いたことで、Tesla は車両販�
 
 ### 必要なスキル
 
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 弱いシグナルから賭けを決める
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 大きな投資と撤退条件を両立する
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 地域、規制、補完者を巻き込む
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 希少資産や独占的条件を取りに行く
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 弱いシグナルから賭けを決める
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 大きな投資と撤退条件を両立する
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 地域、規制、補完者を巻き込む
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 希少資産や独占的条件を取りに行く
 
 ### 倫理面
 
@@ -168,7 +168,7 @@ EV の普及前に充電インフラを敷いたことで、Tesla は車両販�
 
 ### 先行確保は後続戦略の土台
 
-Land Grab 自体がゴールではなく、その後の [First Mover](/strategies/positional/first-mover)、[Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)、[Tower and Moat](/strategies/ecosystem/tower-and-moat) を成立させる土台になります。
+Land Grab 自体がゴールではなく、その後の [先行者戦略](/strategies/positional/first-mover)、[ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects)、[塔と堀](/strategies/ecosystem/tower-and-moat) を成立させる土台になります。
 
 ## ❓ **問うべきこと**
 
@@ -180,19 +180,19 @@ Land Grab 自体がゴールではなく、その後の [First Mover](/strategie
 
 ## 🔀 **関連戦略**
 
-- [First Mover](/strategies/positional/first-mover)
-- [Fast Follower](/strategies/positional/fast-follower)
-- [Weak Signal Horizon](/strategies/positional/weak-signal-horizon)
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
-- [Press Release Process](/strategies/attacking/press-release-process)
+- [先行者戦略](/strategies/positional/first-mover)
+- [高速追随](/strategies/positional/fast-follower)
+- [弱いシグナル](/strategies/positional/weak-signal-horizon)
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects)
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – 影響: 進化速度が速い空間では先行確保の価値が高い
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 重要地点を押さえると資本が集まりやすい
-- [Competitors actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 地取りの宣言自体が競争地形を変える
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – トリガー: 動けない既存勢力が白地を残す
-- [Characteristics change](/climatic-patterns/characteristics-change) – 影響: いまの差別化地点が将来はコモディティになることを織り込む必要がある
+- [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – 影響: 進化速度が速い空間では先行確保の価値が高い
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 重要地点を押さえると資本が集まりやすい
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 地取りの宣言自体が競争地形を変える
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – トリガー: 動けない既存勢力が白地を残す
+- [特性は変化する](/climatic-patterns/characteristics-change) – 影響: いまの差別化地点が将来はコモディティになることを織り込む必要がある
 
 ## 📚 **参考文献**
 

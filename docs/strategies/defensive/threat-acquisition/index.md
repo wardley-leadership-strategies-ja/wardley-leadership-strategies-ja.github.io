@@ -112,10 +112,10 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 
 ### 必要なスキル
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 脅威が本物かを見抜く
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 妥当な価格と条件を設計する
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 良い条件で取引をまとめる
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — 人、技術、運営を統合する
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 脅威が本物かを見抜く
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 妥当な価格と条件を設計する
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 良い条件で取引をまとめる
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — 人、技術、運営を統合する
 
 ### 倫理面
 
@@ -176,12 +176,12 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 
 ## 🔀 **関連戦略**
 
-- [Co-opting](/strategies/ecosystem/co-opting)
-- [Restriction of Movement](/strategies/competitor/restriction-of-movement)
-- [Talent Raid](/strategies/competitor/talent-raid)
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
-- [Harvesting](/strategies/markets/harvesting)
-- [Last Man Standing](/strategies/markets/last-man-standing)
+- [取り込み](/strategies/ecosystem/co-opting)
+- [機動制限](/strategies/competitor/restriction-of-movement)
+- [人材引き抜き](/strategies/competitor/talent-raid)
+- [競争制限](/strategies/defensive/limitation-of-competition)
+- [収穫](/strategies/markets/harvesting)
+- [最後の一社](/strategies/markets/last-man-standing)
 
 ## ⛅ **関連する状勢パターン**
 

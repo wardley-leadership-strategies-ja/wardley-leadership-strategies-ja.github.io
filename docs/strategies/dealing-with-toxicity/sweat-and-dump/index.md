@@ -117,11 +117,11 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — パートナー選定と交渉
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 契約責任とリスク分界を明確にする
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 社内外の移行説明を行う
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 品質と運用監督を設計する
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — dump のタイミングと新旧接続を読む
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — パートナー選定と交渉
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 契約責任とリスク分界を明確にする
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 社内外の移行説明を行う
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 品質と運用監督を設計する
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — dump のタイミングと新旧接続を読む
 
 ### 倫理面
 
@@ -184,18 +184,18 @@ capex、サービス水準、出口責任の定義が甘いと、想定外コス
 
 ## 🔀 **関連戦略**
 
-- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) - sweat 段階なしに直接手放す
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - 欺瞞的に押し付ける危うい変種
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - 外に出さず内部で組み替える選択肢
-- [Innovate-Leverage-Commoditize](/strategies/ecosystem/innovate-leverage-commoditize) - 汗をかかせている間に未来側の革新へ資源を回せる
-- [designed-to-fail](/strategies/poison/designed-to-fail) - 失敗前提の切り離しと組み合わさることがある
-- [最後の一社（Last Man Standing）](/strategies/markets/last-man-standing) - 市場再編の中で specialist が残余リスクを吸収する場合がある
+- [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - sweat 段階なしに直接手放す
+- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 欺瞞的に押し付ける危うい変種
+- [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 外に出さず内部で組み替える選択肢
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 汗をかかせている間に未来側の革新へ資源を回せる
+- [失敗するよう設計する](/strategies/poison/designed-to-fail) - 失敗前提の切り離しと組み合わさることがある
+- [最後の一社](/strategies/markets/last-man-standing) - 市場再編の中で specialist が残余リスクを吸収する場合がある
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: ライフサイクル終盤の資産が候補になる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: ライフサイクル終盤の資産が候補になる
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 劣化した特性が specialist への移管を合理化する
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 慣性が退出判断を遅らせる
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 慣性が退出判断を遅らせる
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: レガシー外部化で革新余地が生まれる
 - [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 関係: 旧資産から未来側へ資本を戻せる
 

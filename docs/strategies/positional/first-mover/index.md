@@ -120,14 +120,14 @@ Friendster は早く市場へ入ったものの、拡張性と継続改善で失
 
 ### 中核課題
 
-大きな不確実性の中で、早い段階から大きな資源を張りつつ、[高速追随（Fast Follower）](/strategies/positional/fast-follower) に備えることです。
+大きな不確実性の中で、早い段階から大きな資源を張りつつ、[高速追随](/strategies/positional/fast-follower) に備えることです。
 
 ### 必要なスキル
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場とユーザーニーズを先読みする
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 大きな賭けに資本を配分する
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — エコシステムを巻き込む
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 規模化をやり切る
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 市場とユーザーニーズを先読みする
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 大きな賭けに資本を配分する
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — エコシステムを巻き込む
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 規模化をやり切る
 
 ### 倫理面
 
@@ -187,12 +187,12 @@ First Mover は製品を出すだけでなく、採用条件、標準、価格�
 
 ## 🔀 **関連戦略**
 
-- [高速追随（Fast Follower）](/strategies/positional/fast-follower) — 先行者の後で市場を取りに来る動きへの備え
-- [Land Grab（先行確保）](/strategies/positional/land-grab) — 希少資産や重要地点を先に取る
-- [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) — 機会が見える前に兆候を拾う
-- [Directed Investment](/strategies/attacking/directed-investment) — 初期優位を固定するための集中投資
-- [Differentiation](/strategies/markets/differentiation) — 先行者の独自性を価値として定着させる
-- [Signal Distortion](/strategies/markets/signal-distortion) — 先行者としての印象を強める
+- [高速追随](/strategies/positional/fast-follower) — 先行者の後で市場を取りに来る動きへの備え
+- [先行確保](/strategies/positional/land-grab) — 希少資産や重要地点を先に取る
+- [弱いシグナル](/strategies/positional/weak-signal-horizon) — 機会が見える前に兆候を拾う
+- [集中投資](/strategies/attacking/directed-investment) — 初期優位を固定するための集中投資
+- [差別化](/strategies/markets/differentiation) — 先行者の独自性を価値として定着させる
+- [シグナル歪曲](/strategies/markets/signal-distortion) — 先行者としての印象を強める
 
 ## ⛅ **関連する状勢パターン**
 

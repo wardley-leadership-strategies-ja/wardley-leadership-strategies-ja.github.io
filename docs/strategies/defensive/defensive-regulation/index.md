@@ -114,10 +114,10 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政策形成の読みと働きかけ
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 灰色領域を見極める判断
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 公共利益として語る能力
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法的・評判的反動への備え
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 政策形成の読みと働きかけ
+- [倫理的判断](/leadership-skills/ethical-judgment) — 灰色領域を見極める判断
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 公共利益として語る能力
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 法的・評判的反動への備え
 
 ### 倫理面
 
@@ -176,10 +176,10 @@ time_horizon: Long-term positioning
 ## 🔀 **関連戦略**
 
 - [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
-- [Standards Game](/strategies/markets/standards-game)
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
-- [Lobbying](/strategies/user-perception/lobbying)
+- [競争制限](/strategies/defensive/limitation-of-competition)
+- [標準化ゲーム](/strategies/markets/standards-game)
+- [特許と知的財産権](/strategies/decelerators/ipr)
+- [ロビー活動](/strategies/user-perception/lobbying)
 
 ## ⛅ **関連する状勢パターン**
 

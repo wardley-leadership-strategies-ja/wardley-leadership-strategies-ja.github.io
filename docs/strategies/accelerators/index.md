@@ -15,21 +15,21 @@ authors: [dave-hulbert]
 
 代表的な型は次のとおりです。
 
-- [Cooperation](/strategies/accelerators/cooperation): 複数主体で協働し、標準化や共通基盤化を進める
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects): 利用者が増えるほど価値が増す構造を使って普及を加速する
-- [Industrial Policy](/strategies/accelerators/industrial-policy): 政策、補助金、公共調達などを使って進化を前倒しする
-- [Market Enablement](/strategies/accelerators/market-enablement): 市場が育つ条件を整え、採用を促す
-- [Open Approaches](/strategies/accelerators/open-approaches): オープン標準やオープンソースで摩擦を下げる
+- [協調](/strategies/accelerators/cooperation): 複数主体で協働し、標準化や共通基盤化を進める
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects): 利用者が増えるほど価値が増す構造を使って普及を加速する
+- [産業政策](/strategies/accelerators/industrial-policy): 政策、補助金、公共調達などを使って進化を前倒しする
+- [市場育成](/strategies/accelerators/market-enablement): 市場が育つ条件を整え、採用を促す
+- [オープンアプローチ](/strategies/accelerators/open-approaches): オープン標準やオープンソースで摩擦を下げる
 
 ## 📊 **加速戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Cooperation](/strategies/accelerators/cooperation/) | 協働で進化を早める | 標準化、共同研究、資源共有 | 単独では重すぎる基盤づくり | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
-| [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects/) | 普及が普及を呼ぶ状態を作る | 利用者獲得、片側補助、参加障壁の低減 | プラットフォーム、SNS、市場形成 | [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
-| [Industrial Policy](/strategies/accelerators/industrial-policy/) | 政策の力で進化を前倒しする | 補助金、規制設計、公共調達 | 巨額投資が必要な産業 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
-| [Market Enablement](/strategies/accelerators/market-enablement/) | 市場全体を育てる | 標準整備、エコシステム投資、知識共有 | まだ市場が薄い領域 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
-| [Open Approaches](/strategies/accelerators/open-approaches/) | 開放で採用を伸ばす | OSS、オープン標準、公開 API | 普及摩擦が高い基盤領域 | [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)、[下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
+| [協調](/strategies/accelerators/cooperation/) | 協働で進化を早める | 標準化、共同研究、資源共有 | 単独では重すぎる基盤づくり | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects/) | 普及が普及を呼ぶ状態を作る | 利用者獲得、片側補助、参加障壁の低減 | プラットフォーム、SNS、市場形成 | [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
+| [産業政策](/strategies/accelerators/industrial-policy/) | 政策の力で進化を前倒しする | 補助金、規制設計、公共調達 | 巨額投資が必要な産業 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [市場育成](/strategies/accelerators/market-enablement/) | 市場全体を育てる | 標準整備、エコシステム投資、知識共有 | まだ市場が薄い領域 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
+| [オープンアプローチ](/strategies/accelerators/open-approaches/) | 開放で採用を伸ばす | OSS、オープン標準、公開 API | 普及摩擦が高い基盤領域 | [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)、[下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) |
 
 ## 🚀 **なぜ使うのか**
 

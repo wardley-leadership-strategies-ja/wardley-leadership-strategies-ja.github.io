@@ -74,7 +74,7 @@ Wardley の文脈における人材引き抜きは、競合の中核人材を戦
 
 Apple と Tesla は EV や関連技術を巡って相互に人材を取り合ってきました。Apple は Tesla 出身の技術者を大量に採用し、自社の自動車関連の取り組みを強化しました。一方で Tesla も Apple 由来の UI や半導体人材を引き抜いています。双方とも、相手の人材が競争上の重要資産だと見ていたことを示します。
 
-### Google の Acqui-hire
+### Google の 人材獲得買収
 
 Google は小規模スタートアップの買収を、製品だけでなく人材獲得のために行ってきました。DeepMind の買収も、技術だけでなくトップ級の AI 研究者を一気に取り込んだ例です。
 
@@ -125,11 +125,11 @@ Google は小規模スタートアップの買収を、製品だけでなく人�
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 人材の戦略価値を読む
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 引き抜きを実行する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法務、評判、組織リスクを扱う
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 境界線を保つ
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 新しい人材を組織へ統合する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 人材の戦略価値を読む
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 引き抜きを実行する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 法務、評判、組織リスクを扱う
+- [倫理的判断](/leadership-skills/ethical-judgment) — 境界線を保つ
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 新しい人材を組織へ統合する
 
 ### 倫理面
 
@@ -186,7 +186,7 @@ Google は小規模スタートアップの買収を、製品だけでなく人�
 
 ### 取る利益と、相手に与える損害
 
-自社が得る利益だけでなく、競合を弱めるという denial の効果が同じくらい重要なことがあります。特定の専門家一人で競合の新施策が止まるなら、その人材の価値は非常に高いです。
+自社が得る利益だけでなく、競合を弱めるという 供給遮断 の効果が同じくらい重要なことがあります。特定の専門家一人で競合の新施策が止まるなら、その人材の価値は非常に高いです。
 
 ### リスクと限界
 
@@ -215,17 +215,17 @@ AI や半導体のように専門性が希少な分野では、上位人材の�
 
 ## 🔀 **関連戦略**
 
-- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 競合の機動力を下げる点で補完関係にある
-- [Tech Drops](/strategies/competitor/tech-drops) - 引き抜き後に、弱った競合へ畳みかけることがある
+- [機動制限](/strategies/competitor/restriction-of-movement) - 競合の機動力を下げる点で補完関係にある
+- [テックドロップ](/strategies/competitor/tech-drops) - 引き抜き後に、弱った競合へ畳みかけることがある
 - [脅威の買収](/strategies/defensive/threat-acquisition) - 会社ごと取ることで人材も取り込める
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - 重要人材を吸うことで参入障壁を上げられる
-- [Market Enablement](/strategies/accelerators/market-enablement) - 市場知見や接点を持つ人材の獲得が市場拡大を助ける
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 重要人材を引き寄せることで新しい中心を作る
-- [Insertion](/strategies/poison/insertion) - 相手の士気や結束を崩す働きかけと組み合わせられる
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 重要人材を吸うことで参入障壁を上げられる
+- [市場育成](/strategies/accelerators/market-enablement) - 市場知見や接点を持つ人材の獲得が市場拡大を助ける
+- [重力中心](/strategies/attacking/centre-of-gravity) - 重要人材を引き寄せることで新しい中心を作る
+- [挿入](/strategies/poison/insertion) - 相手の士気や結束を崩す働きかけと組み合わせられる
 
 ## ⛅ **関連する状勢パターン**
 
-- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 不確実な市場で重要人材の価値は大きい
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 不確実な市場で重要人材の価値は大きい
 - [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – トリガー: 引き抜きは、競合の鈍い対応を露出させる
 
 ## 📚 **参考文献**

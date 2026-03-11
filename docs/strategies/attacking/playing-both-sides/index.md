@@ -43,7 +43,7 @@ time_horizon: Medium-term shaping
 ---
 
 :::note
-**両面張り（Playing Both Sides）** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には挙がっていません。
+**両面張り** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には挙がっていません。
 :::
 
 **市場や標準争いの両陣営に関わり、どちらが勝っても利益を得られる位置に立つ戦略です。**
@@ -77,7 +77,7 @@ graph TD
 
 ## 🗺️ **実例**
 
-### DVD vs HD-DVD vs Blu-ray
+### DVD と HD-DVD と Blu-ray
 
 2000 年代半ば、家庭向け映像市場では HD-DVD と Blu-ray の標準争いが起きていました。Samsung のように両形式の再生機を出した企業は、どちらが勝っても市場に残れました。Warner Bros. も当初は両形式で映画を出し、Blu-ray 勝利まで両方の利用者基盤から利益を得ていました。
 
@@ -126,10 +126,10 @@ ARM はスマートフォンの大半に使われる CPU アーキテクチャ�
 
 ### 必要なスキル
 
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 競合する相手と関係を保つ
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場変化の長期意味を読む
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 競合施策へ資源をどう配るかを判断する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 中立姿勢の損得を制御する
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 競合する相手と関係を保つ
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 市場変化の長期意味を読む
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 競合施策へ資源をどう配るかを判断する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 中立姿勢の損得を制御する
 
 ### 倫理面
 
@@ -188,16 +188,16 @@ ARM はスマートフォンの大半に使われる CPU アーキテクチャ�
 
 ## 🔀 **関連戦略**
 
-- [**協調（Cooperation）**](/strategies/accelerators/cooperation) - 複数の競合プレイヤーと同時に関わる協調を伴うことが多い
-- [**Standards Game**](/strategies/markets/standards-game) - 標準争いの中で取る一手の一つ
-- [**Innovate, Leverage, Commoditize (ILC)**](/strategies/ecosystem/innovate-leverage-commoditize) - 中立供給者として市場動向を読み、次の層で leverage することがある
-- [Ambush](/strategies/competitor/ambush) - 信頼関係を作ってから両陣営へ競争的に仕掛けることがある
-- [Artificial Competition](/strategies/user-perception/artificial-competition) - 競合が多いように見せ、交渉力を高めることがある
+- [協調](/strategies/accelerators/cooperation) - 複数の競合プレイヤーと同時に関わる協調を伴うことが多い
+- [標準化ゲーム](/strategies/markets/standards-game) - 標準争いの中で取る一手の一つ
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 中立供給者として市場動向を読み、次の層で 活用 することがある
+- [奇襲](/strategies/competitor/ambush) - 信頼関係を作ってから両陣営へ競争的に仕掛けることがある
+- [見せかけの競争](/strategies/user-perception/artificial-competition) - 競合が多いように見せ、交渉力を高めることがある
 
 ## ⛅ **関連する状勢パターン**
 
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 変わる同盟や標準争いの中で位置取りが重要になる
-- [戦争は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – 影響: 複数陣営へ関わることで適応速度が上がる
+- [『戦争』は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – 影響: 複数陣営へ関わることで適応速度が上がる
 
 ## 📚 **参考文献**
 

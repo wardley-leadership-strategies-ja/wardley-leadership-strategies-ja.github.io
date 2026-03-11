@@ -113,11 +113,11 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 効果が遅くても続ける忍耐
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 透明性と正確性を守る
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 伝わる形で物語化する
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 教育内容と品質を統制する
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 思想的主導権の一部として位置付ける
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience) — 効果が遅くても続ける忍耐
+- [倫理的判断](/leadership-skills/ethical-judgment) — 透明性と正確性を守る
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 伝わる形で物語化する
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 教育内容と品質を統制する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 思想的主導権の一部として位置付ける
 
 ### 倫理面
 
@@ -183,8 +183,8 @@ time_horizon: Medium-term shaping
 
 ## ⛅ **関連する状勢パターン**
 
-- [将来価値は、それに対する確実性と反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – トリガー: 学習は不確実な機会へ備える
-- [ひとつのサイズですべてに合うわけではない](/climatic-patterns/no-one-size-fits-all) – 影響: 教育方法は状況ごとに変える必要がある
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – トリガー: 学習は不確実な機会へ備える
+- [万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) – 影響: 教育方法は状況ごとに変える必要がある
 
 ## 📚 **参考文献**
 

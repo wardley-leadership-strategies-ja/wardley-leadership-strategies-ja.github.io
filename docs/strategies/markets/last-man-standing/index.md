@@ -114,10 +114,10 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 
 ### 必要なスキル
 
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — プロセス最適化とコスト除去を徹底する
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 低収益期でも資金繰りを守る
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 苦しい日常の中でも最終目的を見失わない
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 過酷な競争環境に耐える組織的持久力を持つ
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — プロセス最適化とコスト除去を徹底する
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 低収益期でも資金繰りを守る
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 苦しい日常の中でも最終目的を見失わない
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 過酷な競争環境に耐える組織的持久力を持つ
 
 ### 倫理面
 
@@ -177,12 +177,12 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 
 ## 🔀 **関連戦略**
 
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) - 崩れた競合を安く取得するのは有力な戦術になる
-- [価格政策（Pricing Policy）](/strategies/markets/pricing-policy) - この戦略は攻撃的な価格政策で動く
-- [Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - 非中核資産を先に切り離して消耗戦へ備えることがある
-- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint) - 競合の制約を突けば退場を早められる
-- [ネットワーク効果の活用（Exploiting Network Effects）](/strategies/accelerators/exploiting-network-effects) - 採用の自己強化で支配力を補強できる
-- [選択肢の混乱（Confusion of Choice）](/strategies/user-perception/confusion-of-choice) - 選択肢を増やして競合比較を難しくし、支配を維持することがある
+- [脅威の買収](/strategies/defensive/threat-acquisition) - 崩れた競合を安く取得するのは有力な戦術になる
+- [価格政策](/strategies/markets/pricing-policy) - この戦略は攻撃的な価格政策で動く
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 非中核資産を先に切り離して消耗戦へ備えることがある
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 競合の制約を突けば退場を早められる
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) - 採用の自己強化で支配力を補強できる
+- [選択肢の混乱](/strategies/user-perception/confusion-of-choice) - 選択肢を増やして競合比較を難しくし、支配を維持することがある
 
 ## ⛅ **関連する状勢パターン**
 

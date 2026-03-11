@@ -98,9 +98,9 @@ Jira、Confluence、Bitbucket などを組み合わせることで、単一ツ�
 
 ### 必要なスキル
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — どこを自社開発し、買収し、提携するかを決める
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — バンドル全体を一つの体験として設計する
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 価値の薄い機能追加を抑える
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — どこを自社開発し、買収し、提携するかを決める
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — バンドル全体を一つの体験として設計する
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 価値の薄い機能追加を抑える
 
 ### 倫理面
 
@@ -155,14 +155,14 @@ Jira、Confluence、Bitbucket などを組み合わせることで、単一ツ�
 
 ## 🔀 **関連戦略**
 
-- [Tower and Moat](/strategies/ecosystem/tower-and-moat)
-- [Bundling](/strategies/user-perception/bundling)
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
+- [塔と堀](/strategies/ecosystem/tower-and-moat)
+- [バンドリング](/strategies/user-perception/bundling)
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 統合された上位システムが新しい価値源になる
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – 影響: 右側の効率を土台に、左側の差別化を増やせる
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 統合された上位システムが新しい価値源になる
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 右側の効率を土台に、左側の差別化を増やせる
 
 ## 📚 **参考文献**
 

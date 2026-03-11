@@ -115,11 +115,11 @@ AI ツールの入力、限界、人間による介入手順を臨床現場へ�
 
 ### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 公平性と説明責任に沿わせる
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 開示、審査、不服申立ての方針を設計する
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — モデル挙動を人に伝わる物語へ変える
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 規制期待を先読みする
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 失敗や異議申立て時の露出を管理する
+- [倫理的判断](/leadership-skills/ethical-judgment) — 公平性と説明責任に沿わせる
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 開示、審査、不服申立ての方針を設計する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — モデル挙動を人に伝わる物語へ変える
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 規制期待を先読みする
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 失敗や異議申立て時の露出を管理する
 
 ### 倫理面
 
@@ -181,8 +181,8 @@ AI ツールの入力、限界、人間による介入手順を臨床現場へ�
 ## ⛅ **関連する状勢パターン**
 
 - [特性は変化する](/climatic-patterns/characteristics-change) – 影響: 自動化が広がるほど透明性期待も上がる
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 不透明な既存大手は開示を嫌う
-- [進化は選べない](/climatic-patterns/no-choice-on-evolution) – 影響: 透明性は任意から義務へ移る
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 不透明な既存大手は開示を嫌う
+- [進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) – 影響: 透明性は任意から義務へ移る
 
 ## 📚 **参考文献**
 

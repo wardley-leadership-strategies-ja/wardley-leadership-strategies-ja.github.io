@@ -49,7 +49,7 @@ time_horizon: Long-term positioning
 > - Simon Wardley
 
 :::note
-**競争制限（Limitation of Competition）** は、競争圧力を減らしたいという上位目的です。[**Defensive Regulation**](/strategies/defensive/defensive-regulation)、[**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry)、[**IPR**](/strategies/decelerators/ipr)、[**Threat Acquisition**](/strategies/defensive/threat-acquisition)、[**Standards Game**](/strategies/markets/standards-game) は、その目的を達成する個別手段です。このページは高位の文脈を扱い、具体策の詳細はそれぞれのページに譲ります。
+**競争制限（Limitation of Competition）** は、競争圧力を減らしたいという上位目的です。[防御的規制](/strategies/defensive/defensive-regulation)、[参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)、[特許と知的財産権](/strategies/decelerators/ipr)、[脅威の買収](/strategies/defensive/threat-acquisition)、[標準化ゲーム](/strategies/markets/standards-game) は、その目的を達成する個別手段です。このページは高位の文脈を扱い、具体策の詳細はそれぞれのページに譲ります。
 :::
 
 ## 🤔 **解説**
@@ -77,11 +77,11 @@ time_horizon: Long-term positioning
 
 競争制限は、以下のような戦略がぶら下がる**傘**です。
 
-- [Defensive Regulation](/strategies/defensive/defensive-regulation): 政策や政府を使って法的障壁を作る
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry): 市場や顧客期待を形作り、参入を高コスト化する
-- [IPR](/strategies/decelerators/ipr): 特許などで競合を遅らせる
-- [Threat Acquisition](/strategies/defensive/threat-acquisition): 脅威を買い取る
-- [Standards Game](/strategies/markets/standards-game): 自分の方式を市場標準にして代替を閉め出す
+- [防御的規制](/strategies/defensive/defensive-regulation): 政策や政府を使って法的障壁を作る
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry): 市場や顧客期待を形作り、参入を高コスト化する
+- [特許と知的財産権](/strategies/decelerators/ipr): 特許などで競合を遅らせる
+- [脅威の買収](/strategies/defensive/threat-acquisition): 脅威を買い取る
+- [標準化ゲーム](/strategies/markets/standards-game): 自分の方式を市場標準にして代替を閉め出す
 
 ## 🗺️ **実例**
 
@@ -143,11 +143,11 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政治・規制の読み
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 連合形成と関係者調整
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 先読みとシナリオ設計
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 倫理判断とリスク管理
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語設計と正当化
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 政治・規制の読み
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 連合形成と関係者調整
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 先読みとシナリオ設計
+- [倫理的判断](/leadership-skills/ethical-judgment) — 倫理判断とリスク管理
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語設計と正当化
 
 ### 倫理面
 
@@ -212,14 +212,14 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 
 ## 🔀 **関連戦略**
 
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 政策や政府で法的障壁を作る
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – 顧客期待や市場構造で参入を難しくする
-- [IPR](/strategies/decelerators/ipr) – 特許などで競合を遅らせる
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) – 脅威を買い取る
-- [Standards Game](/strategies/markets/standards-game) – 自社方式を標準にする
-- [Lobbying](/strategies/user-perception/lobbying) – 政策・標準へ影響する前段
-- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - 競合の可動域を狭める
-- [Licensing](/strategies/poison/licensing) - ライセンス条件で利用範囲を縛る
+- [防御的規制](/strategies/defensive/defensive-regulation) – 政策や政府で法的障壁を作る
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) – 顧客期待や市場構造で参入を難しくする
+- [特許と知的財産権](/strategies/decelerators/ipr) – 特許などで競合を遅らせる
+- [脅威の買収](/strategies/defensive/threat-acquisition) – 脅威を買い取る
+- [標準化ゲーム](/strategies/markets/standards-game) – 自社方式を標準にする
+- [ロビー活動](/strategies/user-perception/lobbying) – 政策・標準へ影響する前段
+- [機動制限](/strategies/competitor/restriction-of-movement) - 競合の可動域を狭める
+- [ライセンシング](/strategies/poison/licensing) - ライセンス条件で利用範囲を縛る
 
 ## ⛅ **関連する状勢パターン**
 

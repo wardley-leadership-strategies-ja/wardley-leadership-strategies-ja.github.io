@@ -15,29 +15,29 @@ authors: [dave-hulbert]
 
 代表的な型は次のとおりです。
 
-- [Differentiation](/strategies/markets/differentiation)
-- [Pricing Policy](/strategies/markets/pricing-policy)
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
-- [Harvesting](/strategies/markets/harvesting)
-- [Last Man Standing](/strategies/markets/last-man-standing)
-- [Standards Game](/strategies/markets/standards-game)
-- [Signal Distortion](/strategies/markets/signal-distortion)
-- [Data Sovereignty & Localization](/strategies/markets/data-sovereignty-localization)
-- [Carbon & ESG Arbitrage](/strategies/markets/carbon-esg-arbitrage)
+- [差別化](/strategies/markets/differentiation)
+- [価格政策](/strategies/markets/pricing-policy)
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power)
+- [収穫](/strategies/markets/harvesting)
+- [最後の一社](/strategies/markets/last-man-standing)
+- [標準化ゲーム](/strategies/markets/standards-game)
+- [シグナル歪曲](/strategies/markets/signal-distortion)
+- [データ主権とローカライゼーション](/strategies/markets/data-sovereignty-localization)
+- [カーボン・ESGアービトラージ](/strategies/markets/carbon-esg-arbitrage)
 
 ## 📊 **市場戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Differentiation](/strategies/markets/differentiation/) | 他と違う価値を作る | 独自機能、ブランド、体験設計 | 未成熟市場、混戦市場 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[特性は変化する](/climatic-patterns/characteristics-change) |
-| [Pricing Policy](/strategies/markets/pricing-policy/) | 価格を武器として使う | 浸透価格、高価格、動的価格 | 立上げ、拡大、収益最適化 | [経済にはサイクルがある](/climatic-patterns/economy-has-cycles)、[効率化は支出削減を意味しない](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) |
-| [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power/) | 交渉力の差を制御する | 購買規模、分散、垂直統合 | 供給制約や寡占が強い市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
-| [Harvesting](/strategies/markets/harvesting/) | 成熟資産から利益を回収する | 投資圧縮、コスト最適化、収益重視 | 成熟市場、衰退市場 | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
-| [Last Man Standing](/strategies/markets/last-man-standing/) | 消耗戦を勝ち残る | 規模、価格戦、買収、効率 | コモディティ市場 | [あらゆるものは進化する](/climatic-patterns/everything-evolves)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
-| [Standards Game](/strategies/markets/standards-game/) | 標準を握る | 提携、普及、部分的なオープン化 | 相互運用が鍵の市場 | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
-| [Signal Distortion](/strategies/markets/signal-distortion/) | 競合の判断を誤らせる | 発表、リーク、囮、FUD | 入札、製品投入、交渉 | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
-| [Data Sovereignty & Localization](/strategies/markets/data-sovereignty-localization/) | データ所在を優位に変える | ローカル処理、主権クラウド、認証 | 公共、規制産業、越境市場 | [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)、[万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) |
-| [Carbon & ESG Arbitrage](/strategies/markets/carbon-esg-arbitrage/) | 炭素・ESG 制度差を利用する | インセンティブ設計、検証データ、調達条件 | 規制変化が大きい B2B 市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [差別化](/strategies/markets/differentiation/) | 他と違う価値を作る | 独自機能、ブランド、体験設計 | 未成熟市場、混戦市場 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[特性は変化する](/climatic-patterns/characteristics-change) |
+| [価格政策](/strategies/markets/pricing-policy/) | 価格を武器として使う | 浸透価格、高価格、動的価格 | 立上げ、拡大、収益最適化 | [経済にはサイクルがある](/climatic-patterns/economy-has-cycles)、[効率化は支出削減を意味しない](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) |
+| [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power/) | 交渉力の差を制御する | 購買規模、分散、垂直統合 | 供給制約や寡占が強い市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [収穫](/strategies/markets/harvesting/) | 成熟資産から利益を回収する | 投資圧縮、コスト最適化、収益重視 | 成熟市場、衰退市場 | [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
+| [最後の一社](/strategies/markets/last-man-standing/) | 消耗戦を勝ち残る | 規模、価格戦、買収、効率 | コモディティ市場 | [あらゆるものは進化する](/climatic-patterns/everything-evolves)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
+| [標準化ゲーム](/strategies/markets/standards-game/) | 標準を握る | 提携、普及、部分的なオープン化 | 相互運用が鍵の市場 | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [シグナル歪曲](/strategies/markets/signal-distortion/) | 競合の判断を誤らせる | 発表、リーク、囮、FUD | 入札、製品投入、交渉 | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
+| [データ主権とローカライゼーション](/strategies/markets/data-sovereignty-localization/) | データ所在を優位に変える | ローカル処理、主権クラウド、認証 | 公共、規制産業、越境市場 | [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)、[万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) |
+| [カーボン・ESGアービトラージ](/strategies/markets/carbon-esg-arbitrage/) | 炭素・ESG 制度差を利用する | インセンティブ設計、検証データ、調達条件 | 規制変化が大きい B2B 市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
 
 ## 🧭 **市場戦略の読み方**
 

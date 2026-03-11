@@ -114,10 +114,10 @@ Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しまし�
 
 ### 必要なスキル
 
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 冷徹な戦略判断
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 評判リスクの調整
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と PR の連携
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 即応型の統治
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 冷徹な戦略判断
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 評判リスクの調整
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 法務と PR の連携
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 即応型の統治
 
 ### 倫理面
 
@@ -196,18 +196,18 @@ Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しまし�
 
 ## 🔀 **関連戦略**
 
-- [Misdirection](/strategies/competitor/misdirection) — 物語で注意を逸らす
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) — 毒性の高い案件を押し付ける
-- [挿入（Insertion）](/strategies/poison/insertion) — 人や物語を介して欠陥を埋め込む
-- [ライセンシング（Licensing）](/strategies/poison/licensing) — 法的条件でエコシステムを縛る
-- [Standards Game](/strategies/markets/standards-game) - 欠陥仕様を混ぜて競合標準を分断することがある
+- [陽動](/strategies/competitor/misdirection) — 物語で注意を逸らす
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) — 毒性の高い案件を押し付ける
+- [挿入](/strategies/poison/insertion) — 人や物語を介して欠陥を埋め込む
+- [ライセンシング](/strategies/poison/licensing) — 法的条件でエコシステムを縛る
+- [標準化ゲーム](/strategies/markets/standards-game) - 欠陥仕様を混ぜて競合標準を分断することがある
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: この戦略は新興市場の自然進化を乱そうとする
-- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性がこの戦術を成立させる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: この戦略は新興市場の自然進化を乱そうとする
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性がこの戦術を成立させる
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の動きを狂わせることが狙い
-- [ほとんどの競合は状況認識が乏しい](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 欠陥施策を本物だと誤認させる
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 欠陥施策を本物だと誤認させる
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: aging core を守るために使われることがある
 
 ## 📚 **参考文献**

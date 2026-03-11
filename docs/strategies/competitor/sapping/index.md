@@ -30,7 +30,7 @@ quick_signals:
 - 競合が資源制約下にあり、自社は複数の施策を同時に開ける。
 - 競合は複数軸で圧力を受けると、予測可能な反応を返す。
 - 自社には、すぐ武器化できる隣接製品やチャネルの束がある。
-momentum_moves:
+勢い_moves:
 - 価格、製品、提携の各正面で、重なるようにリリースを並べる。
 - すべての一手が同じ競合への圧力を強めるよう、メッセージを揃える。
 - 反応データを計測し、競合が弱る正面へさらに寄せる。
@@ -58,7 +58,7 @@ time_horizon: Medium-term shaping
 
 ### どう機能するのか
 
-競合は一つの攻撃には対処できても、価格、製品、提携、販売チャネルなど複数軸で同時に圧力を受けると、防御が薄くなります。消耗戦は attrition と distraction の戦略であり、相手のエネルギーを奪い、ミスや放置を誘います。
+競合は一つの攻撃には対処できても、価格、製品、提携、販売チャネルなど複数軸で同時に圧力を受けると、防御が薄くなります。消耗戦は 消耗と注意逸らし の戦略であり、相手のエネルギーを奪い、ミスや放置を誘います。
 
 ### どんなときに効くのか
 
@@ -76,7 +76,7 @@ Facebook の Snapchat への対応は、Stories の模倣、世界的配信網�
 
 ### Amazon と小売競合
 
-Amazon は EC、Prime、価格、デジタル商材、新規事業など複数正面で伝統的 retailers へ圧力をかけました。相手はサプライチェーン、価格、技術投資、新規領域を同時に考えなければならず、持久戦を強いられました。
+Amazon は EC、Prime、価格、デジタル商材、新規事業など複数正面で伝統的 小売業者 へ圧力をかけました。相手はサプライチェーン、価格、技術投資、新規領域を同時に考えなければならず、持久戦を強いられました。
 
 ## 🚦 **使いどころ**
 
@@ -120,11 +120,11 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 
 ### 必要なスキル
 
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 多正面の優先順位と実行を揃える
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — どこを強め、どこを止めるかを判断する
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 意図と momentum を共有する
-- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — 疲弊を防ぎ、委任する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 反撃に耐える
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 多正面の優先順位と実行を揃える
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — どこを強め、どこを止めるかを判断する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 意図と 勢い を共有する
+- [人材育成とチームづくり](/leadership-skills/talent-development-and-team-building) — 疲弊を防ぎ、委任する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 反撃に耐える
 
 ## 📋 **進め方**
 
@@ -134,7 +134,7 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 4. **進捗を監視する:** 効かない正面は引き、弱る正面へ集中する
 5. **勝ち筋を増幅する:** 効いたところはさらに押し込む
 6. **通信を保つ:** チーム横断のフィードバックループを切らさない
-7. **組織を整える:** 必要なら部門横断チームで silos を崩す
+7. **組織を整える:** 必要なら部門横断チームで 縦割り を崩す
 
 ## 📈 **成功指標**
 
@@ -188,10 +188,10 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 
 ## 🔀 **関連戦略**
 
-- [Tech Drops](/strategies/competitor/tech-drops) - surprise を多正面戦の一部として使える
-- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 相手の反応余地を狭める
-- [Circling and Probing](/strategies/competitor/circling-and-probing) - 弱点を探ってから多正面戦へ入る
-- [奇襲（Ambush）](/strategies/competitor/ambush) - 消耗の途中で決定打として使える
+- [テックドロップ](/strategies/competitor/tech-drops) - 奇襲性 を多正面戦の一部として使える
+- [機動制限](/strategies/competitor/restriction-of-movement) - 相手の反応余地を狭める
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 弱点を探ってから多正面戦へ入る
+- [奇襲](/strategies/competitor/ambush) - 消耗の途中で決定打として使える
 
 ## ⛅ **関連する状勢パターン**
 

@@ -124,10 +124,10 @@ Fast Follower は、先行者の成功と失敗を観察し、市場が十分に
 
 ### 必要なスキル
 
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 待つべき時と出るべき時を見極める
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 運用と品質で勝つ
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — 他者の失敗から学ぶ
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 横断的に高速実行する
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience) — 待つべき時と出るべき時を見極める
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 運用と品質で勝つ
+- [実験と学習](/leadership-skills/experimentation-and-learning) — 他者の失敗から学ぶ
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 横断的に高速実行する
 
 ### 倫理面
 
@@ -191,14 +191,14 @@ Wardley の枠組みでは、Fast Follower は Settler 的な役割を担いま�
 
 ## 🔀 **関連戦略**
 
-- [先行者戦略（First Mover）](/strategies/positional/first-mover)
-- [Land Grab（先行確保）](/strategies/positional/land-grab)
-- [Weak Signal Horizon](/strategies/positional/weak-signal-horizon)
-- [Experimentation](/strategies/attacking/experimentation)
-- [Procrastination](/strategies/defensive/procrastination)
-- [イノベート・レバレッジ・コモディティ化（ILC）](/strategies/ecosystem/innovate-leverage-commoditize)
-- [Co-opting](/strategies/ecosystem/co-opting)
-- [Press Release Process](/strategies/attacking/press-release-process)
+- [先行者戦略](/strategies/positional/first-mover)
+- [先行確保](/strategies/positional/land-grab)
+- [弱いシグナル](/strategies/positional/weak-signal-horizon)
+- [実験](/strategies/attacking/experimentation)
+- [戦略的先送り](/strategies/defensive/procrastination)
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize)
+- [取り込み](/strategies/ecosystem/co-opting)
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process)
 
 ## ⛅ **関連する状勢パターン**
 

@@ -113,10 +113,10 @@ iPhone ユーザーへ届く唯一の流通路を握ることで、Apple は開�
 
 ### 必要なスキル
 
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — バリューチェーン全体を見る
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — レバレッジを交渉成果へ変える
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 長期で効く配置を読む
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 他者がどう反応するかを見抜く
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — バリューチェーン全体を見る
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — レバレッジを交渉成果へ変える
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 長期で効く配置を読む
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 他者がどう反応するかを見抜く
 
 ### 倫理面
 
@@ -172,19 +172,19 @@ iPhone ユーザーへ届く唯一の流通路を握ることで、Apple は開�
 
 ## 🔀 **関連戦略**
 
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)
-- [Tower and Moat](/strategies/ecosystem/tower-and-moat)
-- [Standards Game](/strategies/markets/standards-game)
-- [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
-- [Pricing Policy](/strategies/markets/pricing-policy)
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
+- [塔と堀](/strategies/ecosystem/tower-and-moat)
+- [標準化ゲーム](/strategies/markets/standards-game)
+- [チャネル競合と中間排除](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [価格政策](/strategies/markets/pricing-policy)
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – 影響: 市場進化に応じて、買い手と供給者の優位は入れ替わる
-- [Characteristics change](/climatic-patterns/characteristics-change) – 影響: コモディティ化が進むと、供給者優位が買い手優位へ移ることがある
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – 影響: 効率化が進むと供給者の代替可能性が増え、力関係が変わる
-- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 新しい上位システムが新たなチョークポイントを作る
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 提携や買収など競合の一手で力の地図は大きく変わる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 影響: 市場進化に応じて、買い手と供給者の優位は入れ替わる
+- [特性は変化する](/climatic-patterns/characteristics-change) – 影響: コモディティ化が進むと、供給者優位が買い手優位へ移ることがある
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 効率化が進むと供給者の代替可能性が増え、力関係が変わる
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 新しい上位システムが新たなチョークポイントを作る
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 提携や買収など競合の一手で力の地図は大きく変わる
 
 ## 📚 **参考文献**
 

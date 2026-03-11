@@ -144,9 +144,9 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 包囲すべき地形を読む
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 先回りして押さえる
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 複数正面の賭けを組み立てる
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 包囲すべき地形を読む
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience) — 先回りして押さえる
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 複数正面の賭けを組み立てる
 
 ### 倫理面
 
@@ -218,21 +218,21 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 
 ## 🔀 **関連戦略**
 
-- [Alliances](/strategies/ecosystem/alliances) - 提携で競合の接点を狭める
-- [Co-opting](/strategies/ecosystem/co-opting) - 参加者を取り込み、相手の余地を減らす
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - 新規参入の動きを止める面で近い
-- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - 標準支配で競合の選択肢を狭める
-- [Talent Raid](/strategies/competitor/talent-raid) - 人材面の機動を奪う
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - より広い目的概念
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) - 脅威を吸収して相手の選択肢を消す
-- [Sapping](/strategies/competitor/sapping) - 資源や同盟を徐々に削る
-- [Fragmentation](/strategies/competitor/fragmentation) - 相手の一体性を壊し対応力を下げる
-- [Ambush](/strategies/competitor/ambush) - 動けなくなった瞬間に奇襲をかける
+- [アライアンス](/strategies/ecosystem/alliances) - 提携で競合の接点を狭める
+- [取り込み](/strategies/ecosystem/co-opting) - 参加者を取り込み、相手の余地を減らす
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 新規参入の動きを止める面で近い
+- [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 標準支配で競合の選択肢を狭める
+- [人材引き抜き](/strategies/competitor/talent-raid) - 人材面の機動を奪う
+- [競争制限](/strategies/defensive/limitation-of-competition) - より広い目的概念
+- [脅威の買収](/strategies/defensive/threat-acquisition) - 脅威を吸収して相手の選択肢を消す
+- [消耗戦](/strategies/competitor/sapping) - 資源や同盟を徐々に削る
+- [断片化](/strategies/competitor/fragmentation) - 相手の一体性を壊し対応力を下げる
+- [奇襲](/strategies/competitor/ambush) - 動けなくなった瞬間に奇襲をかける
 
 ## ⛅ **関連する状勢パターン**
 
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 選択肢を塞がれると競合は旧来路線に縛られやすい
-- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 封じ込められた競合の外側へ投資が移ることがある
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 封じ込められた競合の外側へ投資が移ることがある
 
 ## 📚 **参考文献**
 

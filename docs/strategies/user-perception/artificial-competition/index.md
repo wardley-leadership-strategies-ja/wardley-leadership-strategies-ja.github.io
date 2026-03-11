@@ -109,9 +109,9 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 二重主体をどう使うかを設計する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 露見や反発のリスクを抑える
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — もっともらしい独立性を維持する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 二重主体をどう使うかを設計する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 露見や反発のリスクを抑える
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — もっともらしい独立性を維持する
 
 ### 倫理面
 
@@ -169,8 +169,8 @@ time_horizon: Medium-term shaping
 
 ## ⛅ **関連する状勢パターン**
 
-- [二つの異なる破壊形態がある](/climatic-patterns/two-different-forms-of-disruption) – トリガー: 作られた競争が予期しない市場変化を引き起こす
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 演出された競争が期待と関連市場を形作る
+- [破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption) – トリガー: 作られた競争が予期しない市場変化を引き起こす
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: 演出された競争が期待と関連市場を形作る
 
 ## 📚 **参考文献**
 

@@ -116,10 +116,10 @@ AOL は、過大評価された dial-up 契約者基盤を通貨として使い�
 
 ### 必要なスキル
 
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語構築と説得
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 市場心理を見たタイミング設計
-- [Ethical judgment](/leadership-skills/ethical-judgment) — どこまで踏み込むかの判断
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と開示の境界を理解する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語構築と説得
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience) — 市場心理を見たタイミング設計
+- [倫理的判断](/leadership-skills/ethical-judgment) — どこまで踏み込むかの判断
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 法務と開示の境界を理解する
 
 ### 倫理面
 
@@ -176,17 +176,17 @@ earn-out や補償条項次第では、失敗後の負担が戻ってきます�
 
 ## 🔀 **関連戦略**
 
-- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) - より直接的な切り離し
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - 一度第三者へ運用を任せてから離脱する
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - 外へ押し付けず、内部で価値を救う代替策
+- [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - より直接的な切り離し
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 一度第三者へ運用を任せてから離脱する
+- [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 外へ押し付けず、内部で価値を救う代替策
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 価値を持っていたものが売り抜け対象へ変わる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: 価値を持っていたものが売り抜け対象へ変わる
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 劣化した特性が misrepresentation の誘惑を生む
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 買い手が過去の栄光に引きずられる
-- [多くの競合は状況認識が低い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 相手の認識不足を利用する
-- [将来価値は、それに対する確実性と反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 関係: 将来価値の確実性を偽装しやすい
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 買い手が過去の栄光に引きずられる
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 相手の認識不足を利用する
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 関係: 将来価値の確実性を偽装しやすい
 
 ## 📚 **参考文献**
 

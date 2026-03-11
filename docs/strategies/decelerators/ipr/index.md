@@ -123,10 +123,10 @@ Qualcomm は 3G/4G 標準周辺に広い特許ポートフォリオを持ち、�
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 法と規制を読む
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — ポートフォリオを戦略的に管理する
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — ライセンスと紛争を扱う
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 研究開発と将来像をつなぐ
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 法と規制を読む
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — ポートフォリオを戦略的に管理する
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — ライセンスと紛争を扱う
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 研究開発と将来像をつなぐ
 
 ### 倫理面
 
@@ -198,17 +198,17 @@ NPE や patent troll は、実体事業なしに訴訟だけで価値回収を�
 
 ## 🔀 **関連戦略**
 
-- [Licensing](/strategies/poison/licensing) - 知財をライセンスで攻撃的に使う
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) - 規制で法的制約を作る
-- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) - 協働と標準化を使う対照戦略
-- [Creating Constraints](/strategies/decelerators/creating-constraints) - 法的・契約的なボトルネックを新設する
-- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - 既存保護をより強い制約として使う
-- [競争制限（Limitation of Competition）](/strategies/defensive/limitation-of-competition) - 市場選択肢を法的に狭める上位目的
+- [ライセンシング](/strategies/poison/licensing) - 知財をライセンスで攻撃的に使う
+- [防御的規制](/strategies/defensive/defensive-regulation) - 規制で法的制約を作る
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 協働と標準化を使う対照戦略
+- [制約の創出](/strategies/decelerators/creating-constraints) - 法的・契約的なボトルネックを新設する
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 既存保護をより強い制約として使う
+- [競争制限](/strategies/defensive/limitation-of-competition) - 市場選択肢を法的に狭める上位目的
 
 ## ⛅ **関連する状勢パターン**
 
 - [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 強い知財保護は incumbents を鈍らせることがある
-- [進化に選択の余地はない](/climatic-patterns/no-choice-on-evolution) – トリガー: 保護があっても市場は最終的にコモディティ化へ向かう
+- [進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) – トリガー: 保護があっても市場は最終的にコモディティ化へ向かう
 
 ## 📚 **参考文献**
 

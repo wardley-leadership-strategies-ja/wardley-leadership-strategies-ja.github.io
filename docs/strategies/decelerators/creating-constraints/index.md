@@ -109,11 +109,11 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — どこが将来の制約点になるか読む
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 契約や排他条件を取りに行く
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 制度面を設計・活用する
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 行き過ぎを避ける
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 社内外の足並みを揃える
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — どこが将来の制約点になるか読む
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 契約や排他条件を取りに行く
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 制度面を設計・活用する
+- [倫理的判断](/leadership-skills/ethical-judgment) — 行き過ぎを避ける
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 社内外の足並みを揃える
 
 ### 倫理面
 
@@ -177,8 +177,8 @@ time_horizon: Long-term positioning
 
 ## 🔀 **関連戦略**
 
-- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint)
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint)
+- [特許と知的財産権](/strategies/decelerators/ipr)
 - [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
 
 ## ⛅ **関連する状勢パターン**

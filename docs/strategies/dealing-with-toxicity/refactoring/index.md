@@ -120,11 +120,11 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 再編と役割変更を率いる
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 残すべきものと捨てるべきものを見極める
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — なぜ組み替えるのかを明確に伝える
-- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — 人や技術をどこへ再投資するかを判断する
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — レガシーに結びつく人と運用全体への影響を理解する
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 再編と役割変更を率いる
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 残すべきものと捨てるべきものを見極める
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — なぜ組み替えるのかを明確に伝える
+- [人材育成とチームづくり](/leadership-skills/talent-development-and-team-building) — 人や技術をどこへ再投資するかを判断する
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking) — レガシーに結びつく人と運用全体への影響を理解する
 
 ### 倫理面
 
@@ -188,16 +188,16 @@ time_horizon: Long-term positioning
 
 ## 🔀 **関連戦略**
 
-- [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) - 再利用せず切り離す方向の対照戦略
-- [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) - 外部へ押し出して短期価値を取る別ルート
-- [**Value Chain Disaggregation and Re-aggregation**](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - より大きな価値連鎖再設計の一部としてリファクタリングを使うことがある
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して外へ出す危うい対照戦略
+- [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - 再利用せず切り離す方向の対照戦略
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 外部へ押し出して短期価値を取る別ルート
+- [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - より大きな価値連鎖再設計の一部としてリファクタリングを使うことがある
+- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して外へ出す危うい対照戦略
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: レガシーは進化に伴って組み替えか処分を迫られる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: レガシーは進化に伴って組み替えか処分を迫られる
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 価値を失う部分と残る部分が分かれてくる
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功が必要な整理を遅らせる
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功が必要な整理を遅らせる
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: 古い制約を除くことで新しい余力が生まれる
 - [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 関係: 救い出した部品が新しい上位システムで価値を持つ
 

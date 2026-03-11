@@ -27,7 +27,7 @@ momentum_moves:
   - 発表瞬間に期待値を塗り替える強い物語を用意する。
 watch_outs:
   - 体験や運用が scale に耐えない段階で出すこと。
-  - leaks により incumbents へ対応時間を与えること。
+  - 漏えい により incumbents へ対応時間を与えること。
   - spectacle に金を使いすぎ、持続優位を作れないこと。
 effort_level: Enterprise Transformation
 time_horizon: Fast impact
@@ -35,7 +35,7 @@ time_horizon: Fast impact
 
 **大きく予想外な技術変化を市場へ投下し、主導権を奪って競争の時計をリセットする戦略です。**
 
-> *「follow me の状況を作り、無防備な市場へ大きな技術変化を落とすこと。」*
+> *「「私に続け」の状況を作り、無防備な市場へ大きな技術変化を落とすこと。」*
 >
 > - Simon Wardley
 
@@ -43,12 +43,12 @@ time_horizon: Fast impact
 
 ### テックドロップとは何か
 
-テックドロップは、企業が市場を塗り替える規模の技術革新を、事前予告をほとんどせずに投入する proactive な競争戦略です。目的は、新しい市場パラダイムを作り、競合を自分が定義した現実へ適応させることにあります。単なる漸進改善ではなく、能力や価値の飛躍を一気に見せる点が特徴です。
+テックドロップは、企業が市場を塗り替える規模の技術革新を、事前予告をほとんどせずに投入する 先制的な競争戦略です。目的は、新しい市場パラダイムを作り、競合を自分が定義した現実へ適応させることにあります。単なる漸進改善ではなく、能力や価値の飛躍を一気に見せる点が特徴です。
 
 ### なぜ有効なのか
 
 - 市場の未来方向を、自ら主導して定義できる
-- 先行者優位と mindshare を短期間で取れる
+- 先行者優位と 認知シェア を短期間で取れる
 - 既存の競争優位やロードマップを無効化できる
 - 長期の指揮権と成長基盤を作れる
 
@@ -56,17 +56,17 @@ time_horizon: Fast impact
 
 ### どう機能するのか
 
-成功には、先見的な発想、秘密裏の開発、そして flawless な実行が必要です。多くの場合、R&D ラボやスカンクワークスで秘密裏に育て、同時に供給、インフラ、サポート、マーケを大規模採用へ備えます。発表は一つの高インパクトイベントとして行い、顧客期待を一気に塗り替えます。
+成功には、先見的な発想、秘密裏の開発、そして 隙のない実行が必要です。多くの場合、R&D ラボやスカンクワークスで秘密裏に育て、同時に供給、インフラ、サポート、マーケを大規模採用へ備えます。発表は一つの高インパクトイベントとして行い、顧客期待を一気に塗り替えます。
 
 ## 🗺️ **実例**
 
 ### Apple の iPhone（2007）
 
-Nokia、BlackBerry、Microsoft が物理キーボードや enterprise 機能の延長戦をしていた中で、Apple はマルチタッチ、フルブラウザ、iPod 統合を一気に投下しました。既存スマートフォンの価値基準をその場で古く見せた典型です。
+Nokia、BlackBerry、Microsoft が物理キーボードや エンタープライズ機能の延長戦をしていた中で、Apple はマルチタッチ、フルブラウザ、iPod 統合を一気に投下しました。既存スマートフォンの価値基準をその場で古く見せた典型です。
 
 ### AWS Lambda（2014）
 
-業界が VM と container に集中していた中で、AWS は re:Invent で serverless を市場へ投下しました。これにより新しいカテゴリが生まれ、Google や Microsoft は数年単位で追随を強いられました。
+業界が VM とコンテナ に集中していた中で、AWS は re:Invent で サーバーレス を市場へ投下しました。これにより新しいカテゴリが生まれ、Google や Microsoft は数年単位で追随を強いられました。
 
 ## 🚦 **使いどころ**
 
@@ -94,20 +94,20 @@ Nokia、BlackBerry、Microsoft が物理キーボードや enterprise 機能の�
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 非コンセンサスの秘密案へ賭ける
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 突然の大規模発表へ備える
-- [Information control and operational security](/leadership-skills/information-control-and-operational-security) — surprise を守る
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 出すべき瞬間を見極める
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 市場の語りを自分の言葉で定義する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 非コンセンサスの秘密案へ賭ける
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 突然の大規模発表へ備える
+- [情報統制とオペレーショナルセキュリティ](/leadership-skills/information-control-and-operational-security) — 奇襲性 を守る
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 出すべき瞬間を見極める
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 市場の語りを自分の言葉で定義する
 
 ### 倫理面
 
-驚きは genuine innovation に基づくべきで、競合への misinformation ではありません。勝つべき理由は優れた革新である必要があります。
+驚きは本物のイノベーションに基づくべきで、競合への誤情報ではありません。勝つべき理由は優れた革新である必要があります。
 
 ## 📋 **進め方**
 
-1. **梃子点を見つける:** 地図から unmet needs や incumbents の慣性を突ける場所を探す
-2. **秘密で進める:** スカンクワークスと情報統制で leaks を防ぐ
+1. **梃子点を見つける:** 地図から 未充足ニーズや既存勢力の慣性を突ける場所を探す
+2. **秘密で進める:** スカンクワークスと情報統制で 漏えい を防ぐ
 3. **受け皿を整える:** 供給、インフラ、サポートを事前に準備する
 4. **発表を同期する:** 製品、マーケ、PR を単一イベントへ揃える
 5. **反応を観測して刈り取る:** 市場混乱の間に顧客とパートナーを取る
@@ -128,8 +128,8 @@ sequenceDiagram
 ## 📈 **成功指標**
 
 - 市場シェアの変化
-- 競合が comparable offering を出すまでの時間
-- 新しい革新の adoption rate
+- 競合が 同等の提供物 を出すまでの時間
+- 新しい革新の 採用率
 - 発表が市場の語りをどれだけ支配したか
 - 顧客の強い肯定反応
 
@@ -137,11 +137,11 @@ sequenceDiagram
 
 ### 革新が弱い
 
-surprise 自体に十分な価値がなければ、競合は無視して終わります。
+奇襲性 自体に十分な価値がなければ、競合は無視して終わります。
 
 ### 実行が弱い
 
-製品不具合、供給不足、サポート崩壊は、華やかな発表を public failure に変えます。
+製品不具合、供給不足、サポート崩壊は、華やかな発表を 公然たる失敗 に変えます。
 
 ### Fast Follower に抜かれる
 
@@ -155,11 +155,11 @@ surprise 自体に十分な価値がなければ、競合は無視して終わ�
 
 ### 予測可能なロードマップを狙う
 
-競合の計画が読めるほど、この戦略は効きます。次の一手を obsolete にしてから出させるのが理想です。
+競合の計画が読めるほど、この戦略は効きます。次の一手を 時代遅れ にしてから出させるのが理想です。
 
 ### 物語兵器としてのテックドロップ
 
-surprise は「大胆な革新者」という認識を作り、競合を鈍い追随者に見せます。この印象は talent や partners を引き寄せる自己強化ループになります。
+奇襲性 は「大胆な革新者」という認識を作り、競合を鈍い追随者に見せます。この印象は 人材やパートナー を引き寄せる自己強化ループになります。
 
 ### 秘密のコストは高い
 
@@ -167,37 +167,37 @@ surprise は「大胆な革新者」という認識を作り、競合を鈍い�
 
 ### 奇襲との違い
 
-[奇襲（Ambush）](/strategies/competitor/ambush) も surprise を使いますが、狙いが違います。
+[奇襲](/strategies/competitor/ambush) も 奇襲性 を使いますが、狙いが違います。
 
 | 特徴 | テックドロップ | 奇襲 |
 | --- | --- | --- |
-| 主な意図 | 新しい市場やパラダイムを proactive に作る | 特定競合の優位を reactive に打ち消す |
+| 主な意図 | 新しい市場やパラダイムを 先制的 に作る | 特定競合の優位を 反応的 に打ち消す |
 | 引き金 | 内部ビジョンや機会 | 競合の行動や脅威 |
-| 落とすもの | 新しく大きな技術革新 | 既存資産の再配置や weaponization |
+| 落とすもの | 新しく大きな技術革新 | 既存資産の再配置や 武器化 |
 | 対象 | 市場全体と顧客期待 | 特定競合の戦略や事業モデル |
-| surprise の源 | 革新の規模と新規性 | 対抗の timing と性質 |
+| 奇襲性 の源 | 革新の規模と新規性 | 対抗の タイミングと性質 |
 
 ## ❓ **問うべきこと**
 
-- これは本当に leap forward か
-- surprise 後にどう守るか
-- 組織全体は scale を支えられるか
+- これは本当に 飛躍 か
+- 奇襲性 後にどう守るか
+- 組織全体は 拡大を支えられるか
 - 主要競合はどう返すか
-- reputational damage を伴う手ではないか
+- 評判毀損 を伴う手ではないか
 
 ## 🔀 **関連戦略**
 
-- [包囲と探り（Circling and Probing）](/strategies/competitor/circling-and-probing) - 大きな投下前に反応を見られる
-- [Misdirection](/strategies/competitor/misdirection) - 開発中の注意を逸らせる
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) - 新しい競争地形を作り、古い障壁を無力化する
-- [奇襲（Ambush）](/strategies/competitor/ambush) - reactive な surprise と対照的
-- [消耗戦（Sapping）](/strategies/competitor/sapping) - 競合資源を消耗させ、抵抗を弱めたうえで投下する
-- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) - complacency を深め、効果的な返しを遅らせる
-- [人材引き抜き（Talent Raid）](/strategies/competitor/talent-raid) - specialized talent を確保して開発速度を上げる
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 大きな投下前に反応を見られる
+- [陽動](/strategies/competitor/misdirection) - 開発中の注意を逸らせる
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 新しい競争地形を作り、古い障壁を無力化する
+- [奇襲](/strategies/competitor/ambush) - 反応的 な 奇襲性 と対照的
+- [消耗戦](/strategies/competitor/sapping) - 競合資源を消耗させ、抵抗を弱めたうえで投下する
+- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) - 慢心 を深め、効果的な返しを遅らせる
+- [人材引き抜き](/strategies/competitor/talent-raid) - 専門人材 を確保して開発速度を上げる
 
 ## ⛅ **関連する状勢パターン**
 
-- [変化は常に線形ではない](/climatic-patterns/change-is-not-always-linear) – 影響: テックドロップは断続平衡のような跳躍を作る
+- [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear) – 影響: テックドロップは断続平衡のような跳躍を作る
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 自らの条件でゲームを変えるための一手
 
 ## 📚 **参考文献**

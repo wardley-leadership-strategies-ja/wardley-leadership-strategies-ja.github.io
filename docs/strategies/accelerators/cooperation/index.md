@@ -71,7 +71,7 @@ time_horizon: Medium-term shaping
 
 ### 協調とは何か
 
-ここでいう協調とは、複数の主体が相互の目的を実現するために意図的に連携する、広い戦略概念です。ゆるやかな知識共有から、正式なアライアンスやジョイントベンチャーまでを含みます。より形式化された協調の下位類型としては、[アライアンス（Alliances）](/strategies/ecosystem/alliances)があります。
+ここでいう協調とは、複数の主体が相互の目的を実現するために意図的に連携する、広い戦略概念です。ゆるやかな知識共有から、正式なアライアンスやジョイントベンチャーまでを含みます。より形式化された協調の下位類型としては、[アライアンス](/strategies/ecosystem/alliances)があります。
 
 Wardley Mapping における協調は、単なる仲の良い共同作業ではありません。単独では難しい成果を、能力の補完、リスクの分担、標準の整備、共通基盤の構築によって実現するための、意図的な戦略です。相手が競合であっても、同じ制約に直面しているなら協調は成り立ちます。
 
@@ -101,9 +101,9 @@ Wardley Mapping における協調は、単なる仲の良い共同作業では�
 - **共同マーケティングや販路提携:** リーチやブランドを持ち寄る
 - **共有インフラ:** 通信塔、充電網、共同プラットフォームなどへ共同投資する
 - **共同開発や研究開発提携:** 新しいプロダクトやコンポーネントを一緒に作る
-- **標準化コンソーシアム:** 業界標準を定義し普及させる。関連戦略として [Standards Game](/strategies/markets/standards-game) がある
+- **標準化コンソーシアム:** 業界標準を定義し普及させる。関連戦略として [標準化ゲーム](/strategies/markets/standards-game) がある
 - **ジョイントベンチャー:** 新しい事業体を作って共通機会を追う
-- **[アライアンス（Alliances）](/strategies/ecosystem/alliances):** 長期・正式・共同統治を伴う協調
+- **[アライアンス](/strategies/ecosystem/alliances):** 長期・正式・共同統治を伴う協調
 
 どの形が適切かは、目的、対象コンポーネントの進化段階、当事者間の信頼水準で決まります。
 
@@ -198,9 +198,9 @@ Ericsson、Nokia、IBM、Intel などが参加した Bluetooth SIG は、無線�
 
 ### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 信頼を作り、利害を整える
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 協力関係を運営する
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 共同行動を支えるルールを設計する
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 信頼を作り、利害を整える
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — 協力関係を運営する
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 共同行動を支えるルールを設計する
 
 ### 倫理面
 
@@ -287,7 +287,7 @@ Wardley 的には、新興市場で早すぎる競争を始めると、市場全
 
 ### アライアンスとの違い
 
-[**アライアンス（Alliances）**](/strategies/ecosystem/alliances) は、協調のうち、より形式化された形です。共同研究やゆるい連携が協調だとすれば、アライアンスは次を伴うことが多いです。
+[アライアンス](/strategies/ecosystem/alliances) は、協調のうち、より形式化された形です。共同研究やゆるい連携が協調だとすれば、アライアンスは次を伴うことが多いです。
 
 - 正式な契約とガバナンス
 - 資源やインフラの共同保有
@@ -308,16 +308,16 @@ Wardley 的には、新興市場で早すぎる競争を始めると、市場全
 
 ## 🔀 **関連戦略**
 
-- [**アライアンス（Alliances）**](/strategies/ecosystem/alliances) - 協調をより正式な形にしたもの
-- [**共創（Co-creation）**](/strategies/ecosystem/co-creation) - ユーザーと共に進める協調
-- [**周回と探り（Circling and Probing）**](/strategies/competitor/circling-and-probing) - 協力ではなく、競合の反応を探る手法
-- [Standards Game](/strategies/markets/standards-game) - 協調はしばしば標準の確立を狙う
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 関係者の足並みを揃えて市場を育てる
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - 複数関係者との立ち位置を利用して競争上の緊張を作る
+- [アライアンス](/strategies/ecosystem/alliances) - 協調をより正式な形にしたもの
+- [共創](/strategies/ecosystem/co-creation) - ユーザーと共に進める協調
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 協力ではなく、競合の反応を探る手法
+- [標準化ゲーム](/strategies/markets/standards-game) - 協調はしばしば標準の確立を狙う
+- [市場育成](/strategies/accelerators/market-enablement) - 関係者の足並みを揃えて市場を育てる
+- [両面張り](/strategies/attacking/playing-both-sides) - 複数関係者との立ち位置を利用して競争上の緊張を作る
 
 ## ⛅ **関連する状勢パターン**
 
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 協力によって能力は一緒に成熟しうる
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: 協力によって能力は一緒に成熟しうる
 - [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 平時から戦時への移行が、新しい提携を促すことがある
 
 ## 📚 **参考文献**

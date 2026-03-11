@@ -118,11 +118,11 @@ Red Hat は、オープンソースのプロジェクトに投資し、それを
 
 ### 必要なスキル
 
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語と方向性を定める
-- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — 人材を引きつけ、育てる
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — エコシステムと提携を運営する
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 文化と適応を支える
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 投資を継続する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語と方向性を定める
+- [人材育成とチームづくり](/leadership-skills/talent-development-and-team-building) — 人材を引きつけ、育てる
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — エコシステムと提携を運営する
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — 文化と適応を支える
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 投資を継続する
 
 ### 倫理面
 
@@ -166,7 +166,7 @@ Red Hat は、オープンソースのプロジェクトに投資し、それを
 
 ### 慢心
 
-自分たちの引力が永続すると考えると、停滞して relevance を失います。
+自分たちの引力が永続すると考えると、停滞して 重要性 を失います。
 
 ## 🧠 **戦略的示唆**
 
@@ -192,21 +192,21 @@ Red Hat は、オープンソースのプロジェクトに投資し、それを
 
 ## 🔀 **関連戦略**
 
-- [Talent Raid](/strategies/competitor/talent-raid) - 引力を維持するにも崩すにも、人材獲得は重要な動き
-- [Alliances](/strategies/ecosystem/alliances) - 提携は重力を増し、対抗ハブへの牽制にもなる
-- [Co-opting](/strategies/ecosystem/co-opting) - 参加者を取り込むことで重力中心を補強できる
-- [Open Approaches](/strategies/accelerators/open-approaches) - 開かれた標準やプラットフォームは引力を強める
-- [Experimentation](/strategies/attacking/experimentation) - 周辺で試行を重ねることで、弱点や新しい引力点が見える
-- [Fool's Mate](/strategies/attacking/fools-mate) - ハブの盲点を突く意外な一手で支配を崩せる
-- [Directed Investment](/strategies/attacking/directed-investment) - 資源を特定の節へ寄せて重力中心を作り変える
+- [人材引き抜き](/strategies/competitor/talent-raid) - 引力を維持するにも崩すにも、人材獲得は重要な動き
+- [アライアンス](/strategies/ecosystem/alliances) - 提携は重力を増し、対抗ハブへの牽制にもなる
+- [取り込み](/strategies/ecosystem/co-opting) - 参加者を取り込むことで重力中心を補強できる
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 開かれた標準やプラットフォームは引力を強める
+- [実験](/strategies/attacking/experimentation) - 周辺で試行を重ねることで、弱点や新しい引力点が見える
+- [フールズ・メイト](/strategies/attacking/fools-mate) - ハブの盲点を突く意外な一手で支配を崩せる
+- [集中投資](/strategies/attacking/directed-investment) - 資源を特定の節へ寄せて重力中心を作り変える
 
 ## ⛅ **関連する状勢パターン**
 
-- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 新しいハブの周りへ投資が集まりやすい
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 新しいハブの周りへ投資が集まりやすい
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 成熟基盤がどこに引力が生まれるかを変える
 
 ## 📚 **参考文献**
 
 - [Clusters and the New Economics of Competition (Michael Porter, HBR)](https://hbr.org/1998/11/clusters-and-the-new-economics-of-competition)
 - [The Power of Pull](/books/the-power-of-pull)
-- [Critical Mass](/terms/critical-mass)
+- [クリティカルマス](/terms/critical-mass)

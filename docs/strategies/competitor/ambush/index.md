@@ -45,7 +45,7 @@ time_horizon: Fast impact
 **特定の競合の進行を、タイミングを合わせた意外な一手で崩し、優位を打ち消す戦略です。**
 
 :::note
-**奇襲（Ambush）** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
+**奇襲** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
 :::
 
 ## 🤔 **解説**
@@ -112,23 +112,23 @@ time_horizon: Fast impact
 
 ### 必要なスキル
 
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合の一手と弱点を読む
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 早すぎる行動を抑える
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 発動時に強く実行する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 強い反発を受け止める
-- [Information control and operational security](/leadership-skills/information-control-and-operational-security) — 計画を漏らさない
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 最後の状況変化へ合わせて調整する
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合の一手と弱点を読む
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience) — 早すぎる行動を抑える
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 発動時に強く実行する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 強い反発を受け止める
+- [情報統制とオペレーショナルセキュリティ](/leadership-skills/information-control-and-operational-security) — 計画を漏らさない
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 最後の状況変化へ合わせて調整する
 
 ### 倫理面
 
-奇襲は攻撃的です。虚偽情報、違法な反競争行為、破壊工作に踏み込めば一線を越えます。正当な事業上の手段で、相手の優位を打ち消すことに留めるべきです。タイミングは surprise でも、実行内容は説明可能である必要があります。
+奇襲は攻撃的です。虚偽情報、違法な反競争行為、破壊工作に踏み込めば一線を越えます。正当な事業上の手段で、相手の優位を打ち消すことに留めるべきです。タイミングは 奇襲性 でも、実行内容は説明可能である必要があります。
 
 ## 📋 **進め方**
 
 1. **対象競合を定めて監視する:** 製品計画、資金状況、提携、依存関係、発表予定を継続収集する
 2. **引き金と弱点を特定する:** 何が起きたら奇襲が効くのかを見極める
 3. **奇襲シナリオを準備する:** 値付け、バンドル、買収、オープン化、代替提案などを事前設計する
-4. **秘匿を保つ:** surprise を壊さない
+4. **秘匿を保つ:** 奇襲性 を壊さない
 5. **引き金まで待つ:** 早撃ちはしない
 6. **強く発動する:** 相手の勢いを止めるだけの強度で出す
 7. **事後を管理する:** 競合反応、市場認識、次の一手をすぐ動かす
@@ -193,7 +193,7 @@ sequenceDiagram
 
 ### Tech Drop との違い
 
-[Tech Drops](/strategies/competitor/tech-drops) も surprise を含みますが、目的が違います。Tech Drop は新しい状況を作るための一手です。奇襲は、特定競合の優位を打ち消すための対抗策です。未来を作るのが Tech Drop、相手の未来獲得を妨げるのが奇襲です。
+[テックドロップ](/strategies/competitor/tech-drops) も 奇襲性 を含みますが、目的が違います。Tech Drop は新しい状況を作るための一手です。奇襲は、特定競合の優位を打ち消すための対抗策です。未来を作るのが Tech Drop、相手の未来獲得を妨げるのが奇襲です。
 
 ### 市場認識とエコシステムへの波及
 
@@ -214,11 +214,11 @@ sequenceDiagram
 
 ## 🔀 **関連戦略**
 
-- [Tech Drops](/strategies/competitor/tech-drops) - 違いを理解すると奇襲の位置づけが明確になる
-- [Circling and Probing](/strategies/competitor/circling-and-probing) - 奇襲に必要な情報収集を支える
-- [Sapping](/strategies/competitor/sapping) - 競合の力や士気を削る点で近い
-- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 奇襲が相手の選択肢をさらに狭めることがある
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - 一方をコモディティ化して別の側を利する構図と組み合わせられる
+- [テックドロップ](/strategies/competitor/tech-drops) - 違いを理解すると奇襲の位置づけが明確になる
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 奇襲に必要な情報収集を支える
+- [消耗戦](/strategies/competitor/sapping) - 競合の力や士気を削る点で近い
+- [機動制限](/strategies/competitor/restriction-of-movement) - 奇襲が相手の選択肢をさらに狭めることがある
+- [両面張り](/strategies/attacking/playing-both-sides) - 一方をコモディティ化して別の側を利する構図と組み合わせられる
 
 ## ⛅ **関連する状勢パターン**
 

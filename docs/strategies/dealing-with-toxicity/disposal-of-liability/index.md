@@ -137,10 +137,10 @@ PayPal を独立させることで、双方がそれぞれの市場に合わせ�
 
 ### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 利害関係者を動かす
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 切り離す理由を一貫して伝える
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 財務、運用、評判リスクを抑える
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 交渉と取引の実務をまとめる
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 利害関係者を動かす
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 切り離す理由を一貫して伝える
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 財務、運用、評判リスクを抑える
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making) — 交渉と取引の実務をまとめる
 
 ### 倫理面
 
@@ -204,17 +204,17 @@ PayPal を独立させることで、双方がそれぞれの市場に合わせ�
 
 ## 🔀 **関連戦略**
 
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - 直接処分が難しいとき、外部へ運用を押し出してから離脱する
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して押し付ける危うい変種
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - 外に出さず、社内で組み替えて価値を救う代替策
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 分解によって負債部品を切り離しやすくする
+- [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 直接処分が難しいとき、外部へ運用を押し出してから離脱する
+- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して押し付ける危うい変種
+- [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 外に出さず、社内で組み替えて価値を救う代替策
+- [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 分解によって負債部品を切り離しやすくする
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: かつて資産だったものが負担へ変わる
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: かつて資産だったものが負担へ変わる
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 親会社にとって有害な特性へ変わることがある
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功体験が処分を遅らせる
-- [Creative Destruction](/climatic-patterns/creative-destruction) – 関係: 古いものを壊して新しい成長へ資源を移す
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功体験が処分を遅らせる
+- [創造的破壊](/climatic-patterns/creative-destruction) – 関係: 古いものを壊して新しい成長へ資源を移す
 - [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 関係: 切り離しで解放した資本が新領域へ流れる
 
 ## 📚 **参考文献**

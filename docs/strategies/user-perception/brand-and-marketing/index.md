@@ -65,7 +65,7 @@ time_horizon: Medium-term shaping
 Wardley Map では多くの提供物が右へ進み、やがてコモディティ化します。ブランディングは、この自然な進化圧力に対抗して、知覚上は提供物を左へ引き戻す力になります。中身が成熟していても、語り方と体験設計によって「特別」「あつらえ向き」に感じさせられれば、知覚上のコモディティ化を遅らせられます。
 
 <figure>
-    ![Wardley Map showing the effect of branding on a component, moving it up (more visible) and left (away from commodity)](branding-map.png)
+    ![Wardley Map showing the effect of branding on a コンポーネント, moving it up (more visible) and left (away from commodity)](branding-map.png)
     <figcaption>ブランド化されたコンポーネントは、より可視化され、より差別化されて見える。</figcaption>
 </figure>
 
@@ -78,9 +78,9 @@ Wardley Map では多くの提供物が右へ進み、やがてコモディテ�
 
 ## 🗺️ **実例**
 
-### BlackBerry の "It's not a toy"
+### BlackBerry の「おもちゃではない」
 
-BlackBerry は、自社 phone を professional tool と位置付け、iPhone を frivolous に見せることで corporate user との結びつきを守ろうとしました。
+BlackBerry は、自社の電話を業務用ツールと位置付け、iPhone を軽薄に見せることで企業利用者 との結びつきを守ろうとしました。
 
 ### Orange の "NJU Mobile"
 
@@ -128,13 +128,13 @@ Orange は若年層向けのサブブランドを出し、主力ブランドを�
 
 ### 必要なスキル
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 対象読者を深く理解する
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 発信と位置付けを設計する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 反発や危機に備える
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 対象読者を深く理解する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 発信と位置付けを設計する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 反発や危機に備える
 
 ### 倫理面
 
-campaign で mislead したり、deliver できない promise を打ち上げたりしないことが前提です。
+キャンペーンでミスリードしたり、実現できない約束 を打ち上げたりしないことが前提です。
 
 ## 📋 **進め方**
 
@@ -148,20 +148,20 @@ campaign で mislead したり、deliver できない promise を打ち上げた
 
 - 忠誠と維持率の増加
 - 対象顧客層での前向きなブランド認知
-- sales や share の成長
+- 売上やシェア の成長
 - 競合に対する知覚上の差別化
 
 ## ⚠️ **失敗しやすい点**
 
-### mis-targeting
+### 標的の外れ
 
 響かないメッセージは無関心では済まず、反発を生むことがあります。
 
-### over-promising
+### 過剰な約束
 
 攻めすぎたマーケティングは反発を呼びます。
 
-### product fit の無視
+### 製品適合 の無視
 
 悪い製品をブランディングだけで支えるのは長続きしません。
 
@@ -189,7 +189,7 @@ campaign で mislead したり、deliver できない promise を打ち上げた
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 影響: 製品が成熟するほどブランドメッセージも変化が必要
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 影響: 製品が成熟するほどブランドメッセージも変化が必要
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 競合の動きに合わせて物語も変わる
 
 ## 📚 **参考文献**

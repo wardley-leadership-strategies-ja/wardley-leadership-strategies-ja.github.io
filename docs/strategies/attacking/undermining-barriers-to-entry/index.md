@@ -53,13 +53,13 @@ time_horizon: Medium-term shaping
 
 ### 参入障壁の切り崩しとは何か
 
-これは、たいてい挑戦者側の企業が、incumbent を守っている重要な参入障壁を見つけ、それを意図的に崩す戦略です。障壁は、高コスト、proprietary 技術、複雑な規制、排他的流通網など、さまざまな形を取ります。そこをオープンソース化、低価格化、新しい事業モデルなどで崩すことで、新規競争が一気に入りやすくなり、incumbent の優位を削れます。
+これは、たいてい挑戦者側の企業が、既存勢力 を守っている重要な参入障壁を見つけ、それを意図的に崩す戦略です。障壁は、高コスト、プロプライエタリ 技術、複雑な規制、排他的流通網など、さまざまな形を取ります。そこをオープンソース化、低価格化、新しい事業モデルなどで崩すことで、新規競争が一気に入りやすくなり、既存勢力 の優位を削れます。
 
 ### なぜ使うのか
 
 これは典型的な破壊的な一手です。主な便益は次の通りです。
 
-- **incumbent の優位源泉を直接叩ける**
+- **既存勢力 の優位源泉を直接叩ける**
 - **より有利な条件で戦えるようになる**
 - **新しいエコシステムを立ち上げられる**
 - **競争軸を相手の強みから自社の強みへ移せる**
@@ -68,9 +68,9 @@ time_horizon: Medium-term shaping
 
 ### Google Android vs Apple iOS
 
-スマートフォン初期には、競争力あるモバイル OS を作ること自体が大きな参入障壁でした。Apple の iOS は閉じた proprietary システムで、大きな優位を持っていました。Google は Android を開発し、オープンソース化することでこの障壁を切り崩しました。これにより Samsung、LG、HTC など多数のメーカーが、自前 OS を作らず市場へ入れるようになりました。
+スマートフォン初期には、競争力あるモバイル OS を作ること自体が大きな参入障壁でした。Apple の iOS は閉じた プロプライエタリ システムで、大きな優位を持っていました。Google は Android を開発し、オープンソース化することでこの障壁を切り崩しました。これにより Samsung、LG、HTC など多数のメーカーが、自前 OS を作らず市場へ入れるようになりました。
 
-### Mozilla Firefox vs Microsoft Internet Explorer
+### Mozilla Firefox と Microsoft Internet Explorer
 
 最初のブラウザ戦争では、Microsoft のレンダリングエンジンが新規ブラウザにとって大きな参入障壁でした。Mozilla は Gecko という強力なオープンソース・レンダリングエンジンを作り、Firefox を立ち上げただけでなく、他の開発者もその上にブラウザを作れるようにしました。これが Microsoft の締め付けを弱めました。
 
@@ -97,7 +97,7 @@ time_horizon: Medium-term shaping
 
 ### 向くとき
 
-- 強い incumbent が支配する市場へ、挑戦者として割り込みたいとき
+- 強い 既存勢力 が支配する市場へ、挑戦者として割り込みたいとき
 - 相手の強みを弱みに変えられる手があるとき
 - 自分が作る新しい競争市場でも戦う準備があるとき
 
@@ -111,21 +111,21 @@ time_horizon: Medium-term shaping
 
 ### 中核課題
 
-大胆で破壊的な一手を打ち、incumbent からの強い反撃にも耐えることです。既存秩序へ挑み、より開かれた競争環境を自ら作り、その新しい世界で自社がどう繁栄するかを描けなければなりません。
+大胆で破壊的な一手を打ち、既存勢力 からの強い反撃にも耐えることです。既存秩序へ挑み、より開かれた競争環境を自ら作り、その新しい世界で自社がどう繁栄するかを描けなければなりません。
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 相手の強みを弱みに変える位置を見抜く
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 強い競合へ正面から挑む
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 障壁低下が自社以外にもどう利益を返すかを見る
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 相手の強みを弱みに変える位置を見抜く
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 強い競合へ正面から挑む
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — 障壁低下が自社以外にもどう利益を返すかを見る
 
 ### 倫理面
 
-この戦略は一般に競争促進的で、消費者にとって有益と見なされやすい一方、incumbent の事業や雇用には破壊的です。創造的破壊が引き起こす広い影響も見なければなりません。
+この戦略は一般に競争促進的で、消費者にとって有益と見なされやすい一方、既存勢力 の事業や雇用には破壊的です。創造的破壊が引き起こす広い影響も見なければなりません。
 
 ## 📋 **進め方**
 
-1. **主要障壁を特定する:** incumbent を守る最重要の壁を一つ見極める
+1. **主要障壁を特定する:** 既存勢力 を守る最重要の壁を一つ見極める
 2. **武器を作る:** その壁を崩せる技術、価格モデル、オープン施策を作る
 3. **攻撃を開始する:** 旧来の壁を回避できる新経路として市場へ投入する
 4. **新しいエコシステムを育てる:** 他社や利用者が新経路へ参加しやすいよう支援する
@@ -135,7 +135,7 @@ time_horizon: Medium-term shaping
 
 - 市場参入のコストや難易度が実際に下がったか
 - 新規参入者が増えたか
-- incumbent が価格や事業モデルを変えざるを得なくなったか
+- 既存勢力 が価格や事業モデルを変えざるを得なくなったか
 - 新しく開いた市場で自社がシェアを取れているか
 
 ## ⚠️ **失敗しやすい点**
@@ -144,44 +144,44 @@ time_horizon: Medium-term shaping
 
 障壁を壊いた結果、他の新規参入者に自分が負ける可能性があります。
 
-### incumbent の反撃
+### 既存勢力 の反撃
 
-強い incumbent は黙っていません。値下げ、製品改良、市場力を使った圧力で反撃してきます。
+強い 既存勢力 は黙っていません。値下げ、製品改良、市場力を使った圧力で反撃してきます。
 
 ### 半端な破壊
 
-障壁を中途半端にしか崩せないと、incumbent は適応して優位を維持します。
+障壁を中途半端にしか崩せないと、既存勢力 は適応して優位を維持します。
 
 ## 🧠 **戦略的示唆**
 
 ### 非対称戦
 
-これは非対称戦です。小さく俊敏な挑戦者が、巨大な incumbent の弱点一点を突いて形勢を変えます。
+これは非対称戦です。小さく俊敏な挑戦者が、巨大な 既存勢力 の弱点一点を突いて形勢を変えます。
 
 ### オープンの力
 
-proprietary システムに基づく障壁を崩すには、オープンソース化が最も強力な手段の一つです。自社だけでなく、開発者コミュニティ全体を味方にできます。
+プロプライエタリ システムに基づく障壁を崩すには、オープンソース化が最も強力な手段の一つです。自社だけでなく、開発者コミュニティ全体を味方にできます。
 
 ## ❓ **問うべきこと**
 
-- どの単一障壁を外せば、incumbent の地位が崩れるのか
+- どの単一障壁を外せば、既存勢力 の地位が崩れるのか
 - 自社には、その障壁を壊すどんな固有能力があるのか
 - 壁がなくなった後、市場はどう変わり、自社はどう勝つのか
-- incumbent はどう報復してくるか。どう受けるか
+- 既存勢力 はどう報復してくるか。どう受けるか
 
 ## 🔀 **関連戦略**
 
-- [**オープンアプローチ（Open Approaches）**](/strategies/accelerators/open-approaches) - proprietary 技術に基づく壁を壊す典型的手段
-- [**市場育成（Market Enablement）**](/strategies/accelerators/market-enablement) - 壁を崩すことで新市場が立ち上がることが多い
-- [**Fool's Mate**](/strategies/attacking/fools-mate) - 重要障壁の崩壊が、急速な崩れを呼ぶ局面で効く
-- [Tech Drops](/strategies/competitor/tech-drops) - 中核技術のオープン版や低価格版を出して壁を侵食する
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - プロプライエタリ 技術に基づく壁を壊す典型的手段
+- [市場育成](/strategies/accelerators/market-enablement) - 壁を崩すことで新市場が立ち上がることが多い
+- [フールズ・メイト](/strategies/attacking/fools-mate) - 重要障壁の崩壊が、急速な崩れを呼ぶ局面で効く
+- [テックドロップ](/strategies/competitor/tech-drops) - 中核技術のオープン版や低価格版を出して壁を侵食する
 
 ## ⛅ **関連する状勢パターン**
 
-- [ほとんどの競合は状況認識が乏しい](/climatic-patterns/most-competitors-have-poor-situational-awareness) – トリガー: incumbent は壁の侵食に気づくのが遅いことがある
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 障壁除去で関連コンポーネントも一緒に進化しやすくなる
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – トリガー: 既存勢力 は壁の侵食に気づくのが遅いことがある
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: 障壁除去で関連コンポーネントも一緒に進化しやすくなる
 
 ## 📚 **参考文献**
 
 - [The Innovator's Dilemma](/books/the-innovators-dilemma) - 破壊的挑戦者が既存勢力を崩す理論的背景
-- [Judo Strategy](/books/judo-strategy) - 小さな挑戦者が incumbent の重さを逆用する戦略
+- [Judo Strategy](/books/judo-strategy) - 小さな挑戦者が 既存勢力 の重さを逆用する戦略

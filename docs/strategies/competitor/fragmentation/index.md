@@ -17,11 +17,11 @@ leadership_focus:
   - Alliance building
   - Narrative counter-positioning
 quick_signals:
-  - 顧客が、周辺ニーズを無視する巨大 incumbents へ不満を持っている。
+  - 顧客が、周辺ニーズを無視する巨大 既存勢力 へ不満を持っている。
   - パートナーや規制当局は代替案に前向きだが、まだ足並みが揃っていない。
   - 隣接ニッチで複数の差別化案を支援・育成できる。
 momentum_moves:
-  - incumbents が手薄な楔セグメントを選ぶ。
+  - 既存勢力 が手薄な楔セグメントを選ぶ。
   - ツール、資金、メッセージで味方を支え、シェア獲得を促す。
   - 代替案を選ぶことが普通だと見える成功事例を増やす。
 watch_outs:
@@ -56,7 +56,7 @@ time_horizon: Medium-term shaping
 
 核心は、市場を複数の小さな塊に割ることです。典型的には次のような手があります。
 
-- 高価格 incumbents を、無料または低価格の代替案で崩す
+- 高価格 既存勢力 を、無料または低価格の代替案で崩す
 - 競合が規模を取れないよう、複数の代替案を支援する
 - 競合の制約や弱点を突く
 
@@ -72,7 +72,7 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 ### 価格戦争による市場分断
 
-割安航空会社が国営・大手航空会社中心の市場へ入ったとき、航空市場はビジネス客向けと価格重視客向けへ分かれました。ソフトウェアの freemium も、同じように enterprise incumbents の市場を割ります。
+割安航空会社が国営・大手航空会社中心の市場へ入ったとき、航空市場はビジネス客向けと価格重視客向けへ分かれました。ソフトウェアの フリーミアム も、同じように エンタープライズ 既存勢力 の市場を割ります。
 
 ## 🚦 **使いどころ**
 
@@ -117,9 +117,9 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 ### 必要なスキル
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 割れ目になるニーズを見つける
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合の制約と脆さを読む
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 短期収益の犠牲と長期位置取りを関係者へ理解させる
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 割れ目になるニーズを見つける
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合の制約と脆さを読む
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 短期収益の犠牲と長期位置取りを関係者へ理解させる
 
 ### 倫理面
 
@@ -168,7 +168,7 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 ## 🧠 **戦略的示唆**
 
-### incumbents の統一市場ほど脆い
+### 既存勢力 の統一市場ほど脆い
 
 統一支配された市場ほど、相手は自傷なしに追随しづらく、断片化に弱いことがあります。
 
@@ -188,7 +188,7 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 顧客混乱や相互運用性の問題が出るので、後で標準化や整理が必要になることもあります。
 
-### Divide and Conquer そのもの
+### 分断して征服するそのもの
 
 競合が自己破壊なしに追随できないとき、断片化は強く効きます。時間を味方にできるかが鍵です。
 
@@ -203,13 +203,13 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 ## 🔀 **関連戦略**
 
-- [Alliances](/strategies/ecosystem/alliances) - 分断側の陣営を作る
-- [Co-opting](/strategies/ecosystem/co-opting) - 第三者を味方にして競合支配を崩す
-- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - 標準変更を通じて断片化を生みうる
-- [Circling and Probing](/strategies/competitor/circling-and-probing) - どこを割るかを探るための前段
-- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 競合の柔軟性を奪う
-- [Insertion](/strategies/poison/insertion) - 分断された部分へ入り込み、結束をさらに崩す
-- [Pricing Policy](/strategies/markets/pricing-policy) - 価格差で市場を割る
+- [アライアンス](/strategies/ecosystem/alliances) - 分断側の陣営を作る
+- [取り込み](/strategies/ecosystem/co-opting) - 第三者を味方にして競合支配を崩す
+- [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 標準変更を通じて断片化を生みうる
+- [包囲と探り](/strategies/competitor/circling-and-probing) - どこを割るかを探るための前段
+- [機動制限](/strategies/competitor/restriction-of-movement) - 競合の柔軟性を奪う
+- [挿入](/strategies/poison/insertion) - 分断された部分へ入り込み、結束をさらに崩す
+- [価格政策](/strategies/markets/pricing-policy) - 価格差で市場を割る
 
 ## ⛅ **関連する状勢パターン**
 

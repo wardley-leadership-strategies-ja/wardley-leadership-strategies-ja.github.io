@@ -15,25 +15,25 @@ authors: [dave-hulbert]
 
 代表的な型は次のとおりです。
 
-- [Centre of Gravity](/strategies/attacking/centre-of-gravity): 人材や能力を一点へ集め、他者が寄らざるをえない中核を作る
-- [Directed Investment](/strategies/attacking/directed-investment): 将来価値が大きい領域へ狙いを絞って賭ける
-- [Experimentation](/strategies/attacking/experimentation): 小さな実験を高速に回して学習速度で勝つ
-- [Fool's Mate](/strategies/attacking/fools-mate): 相手の守りが薄い重要コンポーネントを一気に突く
-- [Playing Both Sides](/strategies/attacking/playing-both-sides): 対立する複数陣営に関わり、どちらが勝っても得をする
-- [Press Release Process](/strategies/attacking/press-release-process): 顧客向けの未来像から逆算して構想を固める
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry): 既存勢力の参入障壁を壊して市場を開く
+- [重力中心](/strategies/attacking/centre-of-gravity): 人材や能力を一点へ集め、他者が寄らざるをえない中核を作る
+- [集中投資](/strategies/attacking/directed-investment): 将来価値が大きい領域へ狙いを絞って賭ける
+- [実験](/strategies/attacking/experimentation): 小さな実験を高速に回して学習速度で勝つ
+- [フールズ・メイト](/strategies/attacking/fools-mate): 相手の守りが薄い重要コンポーネントを一気に突く
+- [両面張り](/strategies/attacking/playing-both-sides): 対立する複数陣営に関わり、どちらが勝っても得をする
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process): 顧客向けの未来像から逆算して構想を固める
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry): 既存勢力の参入障壁を壊して市場を開く
 
 ## 📊 **攻勢戦略の比較**
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Centre of Gravity](/strategies/attacking/centre-of-gravity/) | 他者が依存する中核になる | 人材集中、必須機能の掌握 | 標準争い、プラットフォーム形成 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
-| [Directed Investment](/strategies/attacking/directed-investment/) | 将来優位を先に取る | 集中投資、買収、長期研究 | 将来像は見えるが市場は未成熟 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) |
-| [Experimentation](/strategies/attacking/experimentation/) | 学習速度で差をつける | 実験、小規模試行、学習ループ | 不確実性が高い領域 | [特性は変化する](/climatic-patterns/characteristics-change)、[進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves) |
-| [Fool's Mate](/strategies/attacking/fools-mate/) | 相手の急所を一撃で崩す | 依存関係分析、急速実行 | 競合に明確な弱点がある | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |
-| [Playing Both Sides](/strategies/attacking/playing-both-sides/) | 結果に左右されず利益を取る | 中立供給、複数規格への関与 | 規格争い、地政学リスク | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
-| [Press Release Process](/strategies/attacking/press-release-process/) | 顧客価値から逆算する | PR/FAQ、文章化、仮説精緻化 | 新規事業、重要機能の立ち上げ | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
-| [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry/) | 市場を閉じている壁を壊す | オープン化、新技術、規制変化 | 高収益だが閉じた市場 | [高次システムへの進化は局所的秩序を高める](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
+| [重力中心](/strategies/attacking/centre-of-gravity/) | 他者が依存する中核になる | 人材集中、必須機能の掌握 | 標準争い、プラットフォーム形成 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
+| [集中投資](/strategies/attacking/directed-investment/) | 将来優位を先に取る | 集中投資、買収、長期研究 | 将来像は見えるが市場は未成熟 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) |
+| [実験](/strategies/attacking/experimentation/) | 学習速度で差をつける | 実験、小規模試行、学習ループ | 不確実性が高い領域 | [特性は変化する](/climatic-patterns/characteristics-change)、[進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves) |
+| [フールズ・メイト](/strategies/attacking/fools-mate/) | 相手の急所を一撃で崩す | 依存関係分析、急速実行 | 競合に明確な弱点がある | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |
+| [両面張り](/strategies/attacking/playing-both-sides/) | 結果に左右されず利益を取る | 中立供給、複数規格への関与 | 規格争い、地政学リスク | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)、[経済にはサイクルがある](/climatic-patterns/economy-has-cycles) |
+| [プレスリリース・プロセス](/strategies/attacking/press-release-process/) | 顧客価値から逆算する | PR/FAQ、文章化、仮説精緻化 | 新規事業、重要機能の立ち上げ | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |
+| [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry/) | 市場を閉じている壁を壊す | オープン化、新技術、規制変化 | 高収益だが閉じた市場 | [高次システムへの進化は局所的秩序を高める](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)、[製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) |
 
 ## 🎯 **なぜ使うのか**
 

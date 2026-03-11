@@ -16,9 +16,9 @@ Poison の手は、認知、インセンティブ、制度、技術のいずれ�
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [Designed to Fail](/strategies/poison/designed-to-fail/) | 相手の施策を内側から失敗させる | 情報不足、無理な前提、資源誤配分 | 正面対立しにくい案件 | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
-| [Insertion](/strategies/poison/insertion/) | 相手の系へ不安定要素を混入する | 誤情報、非互換要素、内部対立 | コミュニティや連携構造が脆いとき | [特性は変化する](/climatic-patterns/characteristics-change)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |
-| [Licensing](/strategies/poison/licensing/) | ライセンスで採用を妨げる | 制限条項、高額課金、法的不安 | 標準争い、採用阻害 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
+| [失敗するよう設計する](/strategies/poison/designed-to-fail/) | 相手の施策を内側から失敗させる | 情報不足、無理な前提、資源誤配分 | 正面対立しにくい案件 | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
+| [挿入](/strategies/poison/insertion/) | 相手の系へ不安定要素を混入する | 誤情報、非互換要素、内部対立 | コミュニティや連携構造が脆いとき | [特性は変化する](/climatic-patterns/characteristics-change)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |
+| [ライセンシング](/strategies/poison/licensing/) | ライセンスで採用を妨げる | 制限条項、高額課金、法的不安 | 標準争い、採用阻害 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
 
 ## ⚠️ **使う前に考えること**
 

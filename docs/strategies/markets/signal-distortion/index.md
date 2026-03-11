@@ -116,10 +116,10 @@ time_horizon: Fast impact
 
 ### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 法的、評判的な破局線を越えない判断力
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語を作り制御する力
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 反動と副作用を理解し抑える力
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 競合、顧客、市場がどう受け取るかを読む力
+- [倫理的判断](/leadership-skills/ethical-judgment) — 法的、評判的な破局線を越えない判断力
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語を作り制御する力
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 反動と副作用を理解し抑える力
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 競合、顧客、市場がどう受け取るかを読む力
 
 ### 倫理面
 
@@ -182,21 +182,21 @@ time_horizon: Fast impact
 
 ## 🔀 **関連戦略**
 
-- [Misdirection](/strategies/competitor/misdirection) - より広い意味での誤誘導戦略
-- [Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs) - 競合側ではなくユーザー側の知覚を操作する戦略
-- [First Mover](/strategies/positional/first-mover) - 先行者であるという知覚自体が強いシグナルになることがある
-- [Fear, Uncertainty, and Doubt (FUD)](/terms/fear-uncertainty-and-doubt) - 競合への否定的知覚を作る典型的な戦術
-- [Fool's Mate](/strategies/attacking/fools-mate) - 誤情報で相手を急所へ誘導し、速攻を決める
+- [陽動](/strategies/competitor/misdirection) - より広い意味での誤誘導戦略
+- [人工的ニーズの創出](/strategies/user-perception/creating-artificial-needs) - 競合側ではなくユーザー側の知覚を操作する戦略
+- [先行者戦略](/strategies/positional/first-mover) - 先行者であるという知覚自体が強いシグナルになることがある
+- [恐怖・不確実性・疑念 (FUD)](/terms/fear-uncertainty-and-doubt) - 競合への否定的知覚を作る典型的な戦術
+- [フールズ・メイト](/strategies/attacking/fools-mate) - 誤情報で相手を急所へ誘導し、速攻を決める
 
 ## ⛅ **関連する状勢パターン**
 
-- [多くの競合は状況認識が低い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 競合の状況認識の弱さを利用する
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 競合の状況認識の弱さを利用する
 - [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: hype cycle やバブルはシグナル歪曲で増幅される
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功シグナルに依存する競合は、新しい歪んだシグナルに引っかかりやすい
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功シグナルに依存する競合は、新しい歪んだシグナルに引っかかりやすい
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の行動変化そのものが目的である
-- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性はシグナル歪曲を効かせやすい
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性はシグナル歪曲を効かせやすい
 
 ## 📚 **参考文献**
 
-- [Trust Me, I'm Lying: Confessions of a Media Manipulator](/books/trust-me-im-lying) - メディア操作の実情を扱う本
+- [Trust Me, I'm Lying](/books/trust-me-im-lying) - メディア操作の実情を扱う本
 - [The Art of War](/books/the-art-of-war) - 欺瞞と陽動に関する古典

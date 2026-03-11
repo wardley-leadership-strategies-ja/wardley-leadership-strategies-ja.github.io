@@ -116,11 +116,11 @@ De Beers は、婚約にダイヤが必要だという社会規範をマーケ�
 
 ### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — どこまでが許容線かを見極める
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 潜在欲求、社会トレンド、心理トリガーを理解する
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 響く物語を作る
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 語りに見合う製品を作る
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 短命な流行で終わらせない
+- [倫理的判断](/leadership-skills/ethical-judgment) — どこまでが許容線かを見極める
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — 潜在欲求、社会トレンド、心理トリガーを理解する
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management) — 響く物語を作る
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership) — 語りに見合う製品を作る
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 短命な流行で終わらせない
 
 ### 倫理面
 
@@ -185,8 +185,8 @@ De Beers は、婚約にダイヤが必要だという社会規範をマーケ�
 
 ## ⛅ **関連する状勢パターン**
 
-- [将来価値は、それに対する確実性と反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – トリガー: 投機的な将来利益へ賭ける戦略である
-- [多くの競合は状況認識が低い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 影響: 市場理解の隙を利用する
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – トリガー: 投機的な将来利益へ賭ける戦略である
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 影響: 市場理解の隙を利用する
 
 ## 📚 **参考文献**
 

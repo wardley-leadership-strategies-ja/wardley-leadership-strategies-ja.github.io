@@ -134,10 +134,10 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
 
 ### 必要なスキル
 
-- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — パートナーからの強い圧力に耐える
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 変化の理由を関係者へ説明する
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 新しいチャネルモデルへの移行を進める
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — リスクのある一手をやり切る
+- [対立管理と外交](/leadership-skills/conflict-management-and-diplomacy) — パートナーからの強い圧力に耐える
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 変化の理由を関係者へ説明する
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 新しいチャネルモデルへの移行を進める
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — リスクのある一手をやり切る
 
 ### 倫理面
 
@@ -197,17 +197,17 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
 
 ## 🔀 **関連戦略**
 
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - 買い手との力関係を変える直接の一手
-- [Value Chain](/terms/value-chain) - 中間排除はバリューチェーンの再統合でもある
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - 買い手との力関係を変える直接の一手
+- [バリューチェーン](/terms/value-chain) - 中間排除はバリューチェーンの再統合でもある
 - [Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer) - 中間排除の代表的な実装形
-- [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - 従来の流通を飛ばし、供給側と需要側を直接つなぐ
+- [両面市場](/strategies/ecosystem/two-factor-markets) - 従来の流通を飛ばし、供給側と需要側を直接つなぐ
 
 ## ⛅ **関連する状勢パターン**
 
 - [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – トリガー: コモディティ化が進むと直販経路が現れやすい
-- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 成功した中間排除へ投資が流れやすい
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 成功した中間排除へ投資が流れやすい
 
 ## 📚 **参考文献**
 
 - [The Direct-to-Consumer Playbook](/books/the-direct-to-consumer-playbook)
-- [Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](/books/unlocking-the-customer-value-chain)
+- [Unlocking the Customer Value Chain](/books/unlocking-the-customer-value-chain)

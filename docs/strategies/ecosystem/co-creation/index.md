@@ -112,11 +112,11 @@ Threadless は、世界中のアーティストが T シャツデザインを投
 
 ### 必要なスキル
 
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 活気ある協働コミュニティを育てる
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 多様な声をまとめて方向を作る
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — 外からの学びを受け入れ実験する
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 混沌を防ぐ枠組みを与える
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 公正な参加ルールとフィードバックループを設計する
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — 活気ある協働コミュニティを育てる
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 多様な声をまとめて方向を作る
+- [実験と学習](/leadership-skills/experimentation-and-learning) — 外からの学びを受け入れ実験する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 混沌を防ぐ枠組みを与える
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 公正な参加ルールとフィードバックループを設計する
 
 ### 倫理面
 
@@ -182,19 +182,19 @@ Threadless は、世界中のアーティストが T シャツデザインを投
 
 ## 🔀 **関連戦略**
 
-- [Open Approaches](/strategies/accelerators/open-approaches) - 共創はオープンイノベーションの一形態
-- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - 次に何をコモディティ化するかのシグナルを得られる
-- [Cooperation](/strategies/accelerators/cooperation) - パートナーや顧客と密に連携して提案を磨く
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 共創はオープンイノベーションの一形態
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 次に何をコモディティ化するかのシグナルを得られる
+- [協調](/strategies/accelerators/cooperation) - パートナーや顧客と密に連携して提案を磨く
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 共創の成果や価値を対外的な物語にまとめる
-- [Experimentation](/strategies/attacking/experimentation) - ユーザーと試しながら概念を育てる
-- [Harvesting](/strategies/markets/harvesting) - 共創で生まれた成果を製品群へ取り込む
-- [Differentiation](/strategies/markets/differentiation) - 独自のユーザー貢献を差別化に変える
+- [実験](/strategies/attacking/experimentation) - ユーザーと試しながら概念を育てる
+- [収穫](/strategies/markets/harvesting) - 共創で生まれた成果を製品群へ取り込む
+- [差別化](/strategies/markets/differentiation) - 独自のユーザー貢献を差別化に変える
 
 ## ⛅ **関連する状勢パターン**
 
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: ユーザーと直接働くことで、製品と実践が一緒に進化する
-- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: ユーザー洞察が新しい組み合わせ価値を示す
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: ユーザーと直接働くことで、製品と実践が一緒に進化する
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: ユーザー洞察が新しい組み合わせ価値を示す
 
 ## 📚 **参考文献**
 
-- [The Future of Competition: Co-Creating Unique Value with Customers](/books/the-future-of-competition)
+- [The Future of Competition](/books/the-future-of-competition)

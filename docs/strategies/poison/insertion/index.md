@@ -109,10 +109,10 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — stealth operation の設計
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語とメディア管理
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 情報収集
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 危機と発覚リスクの管理
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — stealth operation の設計
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語とメディア管理
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 情報収集
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 危機と発覚リスクの管理
 
 ### 倫理面
 
@@ -188,7 +188,7 @@ SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は
 
 ### 他戦略との相乗効果
 
-挿入は、[Misdirection](/strategies/competitor/misdirection)、[Fragmentation](/strategies/competitor/fragmentation)、[Designed to Fail](/strategies/poison/designed-to-fail) と組み合わせると効きやすくなります。
+挿入は、[陽動](/strategies/competitor/misdirection)、[断片化](/strategies/competitor/fragmentation)、[失敗するよう設計する](/strategies/poison/designed-to-fail) と組み合わせると効きやすくなります。
 
 ## ❓ **問うべきこと**
 
@@ -200,19 +200,19 @@ SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は
 
 ## 🔀 **関連戦略**
 
-- [Misdirection](/strategies/competitor/misdirection) — 物語で注意を逸らす
-- [Talent Raid](/strategies/competitor/talent-raid) — 人を引き抜く逆方向の戦略
-- [Fragmentation](/strategies/competitor/fragmentation) — 分断を作る
-- [Press Release Process](/strategies/attacking/press-release-process) — 公開シグナルを操る
-- [Designed to Fail](/strategies/poison/designed-to-fail) — 欠陥施策を先に埋め込む
+- [陽動](/strategies/competitor/misdirection) — 物語で注意を逸らす
+- [人材引き抜き](/strategies/competitor/talent-raid) — 人を引き抜く逆方向の戦略
+- [断片化](/strategies/competitor/fragmentation) — 分断を作る
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process) — 公開シグナルを操る
+- [失敗するよう設計する](/strategies/poison/designed-to-fail) — 欠陥施策を先に埋め込む
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 挿入手法と脆弱性自体も進化する
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: 挿入手法と脆弱性自体も進化する
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 挿入は競合の行動そのものを変えようとする
-- [ほとんどの競合は状況認識が乏しい](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 自分が影響されていることに気づきにくい弱さを突く
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 自分が影響されていることに気づきにくい弱さを突く
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 既存の判断枠組みに合う物語ほど刺さりやすい
-- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 不確実性が高い空間ほど挿入の余地がある
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 不確実性が高い空間ほど挿入の余地がある
 
 ## 📚 **参考文献**
 

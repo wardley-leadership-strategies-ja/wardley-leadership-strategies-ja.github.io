@@ -115,11 +115,11 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 法律、規制当局、通商政策が市場参入をどう変えるかを読む
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 法的義務を運用上のガードレールへ落とす
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — 洞察価値を失わずに所在地要件を満たすデータ設計を行う
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 越境フローやベンダー依存の露出を理解する
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 現地エコシステムと準拠パートナーを築く
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 法律、規制当局、通商政策が市場参入をどう変えるかを読む
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 法的義務を運用上のガードレールへ落とす
+- [データ戦略と分析](/leadership-skills/data-strategy-and-analytics) — 洞察価値を失わずに所在地要件を満たすデータ設計を行う
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 越境フローやベンダー依存の露出を理解する
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — 現地エコシステムと準拠パートナーを築く
 
 ### 倫理面
 
@@ -184,18 +184,18 @@ time_horizon: Medium-term shaping
 
 ## 🔀 **関連戦略**
 
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - データ所在地要件は現地提供者への交渉力を強める
-- [標準化ゲーム（Standards Game）](/strategies/markets/standards-game) - 主権認証や準拠プログラムが市場標準になることがある
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) - 規制が市場参入を守る側にも制限する側にも働く
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 現地エコシステム整備で準拠市場が成立する
-- [参入障壁を上げる（Raising Barriers to Entry）](/strategies/defensive/raising-barriers-to-entry) - ローカライゼーション要件自体が新規参入の障壁になる
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - データ所在地要件は現地提供者への交渉力を強める
+- [標準化ゲーム](/strategies/markets/standards-game) - 主権認証や準拠プログラムが市場標準になることがある
+- [防御的規制](/strategies/defensive/defensive-regulation) - 規制が市場参入を守る側にも制限する側にも働く
+- [市場育成](/strategies/accelerators/market-enablement) - 現地エコシステム整備で準拠市場が成立する
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - ローカライゼーション要件自体が新規参入の障壁になる
 
 ## ⛅ **関連する状勢パターン**
 
-- [進化速度はエコシステムごとに異なりうる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – 関係: ローカライゼーション要求は地域ごとに異なる
-- [ひとつのサイズですべてに合うわけではない](/climatic-patterns/no-one-size-fits-all) – 関係: グローバル設計はローカル制約へ適応が必要
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 関係: 規制、インフラ、信頼期待は一緒に進化する
-- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: グローバル前提の成功体験が必要な転換を妨げる
+- [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – 関係: ローカライゼーション要求は地域ごとに異なる
+- [万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) – 関係: グローバル設計はローカル制約へ適応が必要
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 関係: 規制、インフラ、信頼期待は一緒に進化する
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: グローバル前提の成功体験が必要な転換を妨げる
 
 ## 📚 **参考文献**
 

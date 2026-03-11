@@ -122,9 +122,9 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — どこに慣性があるかを見抜く
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 変化側へ賭ける
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合の反応を読む
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — どこに慣性があるかを見抜く
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 変化側へ賭ける
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 競合の反応を読む
 
 ### 倫理面
 
@@ -180,11 +180,11 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 
 ## 🔀 **関連戦略**
 
-- [Managing Inertia](/strategies/defensive/managing-inertia) - 自社内部の慣性を扱う防御面
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - 適応しづらい市場条件をさらに強められる
-- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint) - 外部制約を使う点で近い
-- [Tech Drops](/strategies/competitor/tech-drops) - 相手が鈍い瞬間に突然の攻撃を仕掛ける
-- [Misdirection](/strategies/competitor/misdirection) - 偽のシグナルで相手の油断や硬直を深める
+- [慣性の管理](/strategies/defensive/managing-inertia) - 自社内部の慣性を扱う防御面
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 適応しづらい市場条件をさらに強められる
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 外部制約を使う点で近い
+- [テックドロップ](/strategies/competitor/tech-drops) - 相手が鈍い瞬間に突然の攻撃を仕掛ける
+- [陽動](/strategies/competitor/misdirection) - 偽のシグナルで相手の油断や硬直を深める
 
 ## ⛅ **関連する状勢パターン**
 

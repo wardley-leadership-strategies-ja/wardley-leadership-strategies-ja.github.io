@@ -142,11 +142,11 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 未来変化を読む
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — リスクとシナリオを扱う
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 関係者を整合させる
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 資本を守って配る
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — 学習文化を育てる
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 未来変化を読む
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — リスクとシナリオを扱う
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 関係者を整合させる
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation) — 資本を守って配る
+- [実験と学習](/leadership-skills/experimentation-and-learning) — 学習文化を育てる
 
 ### 倫理面
 
@@ -211,16 +211,16 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 
 ## 🔀 **関連戦略**
 
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - 早いシグナルが集中投資の起点になる
-- [先行者戦略（First Mover）](/strategies/positional/first-mover) - 集中投資は先行優位を取るための主要手段
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 人材や活動の新しい中心を作る投資になることがある
-- [実験（Experimentation）](/strategies/attacking/experimentation) - 大きな賭けの前後で、実験が機会を見極める
+- [弱いシグナル](/strategies/positional/weak-signal-horizon) - 早いシグナルが集中投資の起点になる
+- [先行者戦略](/strategies/positional/first-mover) - 集中投資は先行優位を取るための主要手段
+- [重力中心](/strategies/attacking/centre-of-gravity) - 人材や活動の新しい中心を作る投資になることがある
+- [実験](/strategies/attacking/experimentation) - 大きな賭けの前後で、実験が機会を見極める
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 投資対象の物語を整え、社内外を揃える
 
 ## ⛅ **関連する状勢パターン**
 
-- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 大きな賭けは不確実だが高い価値を狙う
-- [変化は常に線形ではない](/climatic-patterns/change-is-not-always-linear) – トリガー: 急な移行を見越して資源を集中する理由になる
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 大きな賭けは不確実だが高い価値を狙う
+- [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear) – トリガー: 急な移行を見越して資源を集中する理由になる
 
 ## 📚 **参考文献**
 

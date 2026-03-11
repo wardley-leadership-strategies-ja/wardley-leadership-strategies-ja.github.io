@@ -113,9 +113,9 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 
 ### 必要なスキル
 
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — どの脅威を取り込むべきか素早く見抜く
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — コピー判断を早く下し、即座に実行へ移す
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 模倣に見える行為の物語を管理する
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence) — どの脅威を取り込むべきか素早く見抜く
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — コピー判断を早く下し、即座に実行へ移す
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management) — 模倣に見える行為の物語を管理する
 
 ### 倫理面
 
@@ -172,13 +172,13 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 
 ## 🔀 **関連戦略**
 
-- [**抱き込みと拡張（Embrace and Extend）**](/strategies/ecosystem/embrace-and-extend) - 既存標準全体を取り込んで支配を狙う、より攻撃的な形
-- [**高速追随（Fast Follower）**](/strategies/positional/fast-follower) - 取り込みを継続的に使える組織は fast follower になりやすい
-- [**Harvesting**](/strategies/markets/harvesting) - 外部のアイデアを採る点は似ているが、収穫対象が競合か自陣営かで異なる
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) - 買収や提携で競合能力そのものを吸収する
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重心をずらす
-- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
-- [Fragmentation](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
+- [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 既存標準全体を取り込んで支配を狙う、より攻撃的な形
+- [高速追随](/strategies/positional/fast-follower) - 取り込みを継続的に使える組織は fast follower になりやすい
+- [収穫](/strategies/markets/harvesting) - 外部のアイデアを採る点は似ているが、収穫対象が競合か自陣営かで異なる
+- [脅威の買収](/strategies/defensive/threat-acquisition) - 買収や提携で競合能力そのものを吸収する
+- [重力中心](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重心をずらす
+- [機動制限](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
+- [断片化](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
 
 ## ⛅ **関連する状勢パターン**
 

@@ -109,10 +109,10 @@ Satya Nadella のもとで、Microsoft は Windows と買い切りライセン�
 
 ### 必要なスキル
 
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 変化の痛みを上回る未来像を語る
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 変革の流れを設計する
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 抵抗の源泉を理解し対話する
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 反発や失速を織り込みながら進める
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 変化の痛みを上回る未来像を語る
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation) — 変革の流れを設計する
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 抵抗の源泉を理解し対話する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 反発や失速を織り込みながら進める
 
 ### 倫理面
 
@@ -168,13 +168,13 @@ Satya Nadella のもとで、Microsoft は Windows と買い切りライセン�
 
 ## 🔀 **関連戦略**
 
-- [Reinforcing Competitor Inertia](/strategies/competitor/reinforcing-competitor-inertia) — 自社の慣性管理の裏返しとして、競合の慣性は攻撃対象になる
+- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) — 自社の慣性管理の裏返しとして、競合の慣性は攻撃対象になる
 - [Change Management](https://en.wikipedia.org/wiki/Change_management) — 変革を進めるための広い実務領域
 
 ## ⛅ **関連する状勢パターン**
 
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – トリガー: 過去の成功が必要な変化への抵抗を生む
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 放置された慣性は組織そのものを敗北へ導く
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 過去の成功が必要な変化への抵抗を生む
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 放置された慣性は組織そのものを敗北へ導く
 
 ## 📚 **参考文献**
 

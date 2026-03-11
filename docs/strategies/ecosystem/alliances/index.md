@@ -57,7 +57,7 @@ time_horizon: Long-term positioning
 
 :::note
 
-アライアンスは、[**協調（Cooperation）**](/strategies/accelerators/cooperation) の中でも、より正式で構造化された形です。すべてのアライアンスは協調ですが、すべての協調がアライアンスではありません。
+アライアンスは、[協調](/strategies/accelerators/cooperation) の中でも、より正式で構造化された形です。すべてのアライアンスは協調ですが、すべての協調がアライアンスではありません。
 
 :::
 
@@ -135,11 +135,11 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 
 ### 必要なスキル
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 組織境界をまたぐ協働を運営する
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 戦略整合を作る
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 共同統治を設計する
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 信頼を作り、方向を読む
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム全体を視野に入れる
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management) — 組織境界をまたぐ協働を運営する
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 戦略整合を作る
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 共同統治を設計する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 信頼を作り、方向を読む
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム全体を視野に入れる
 
 ### 倫理面
 
@@ -193,18 +193,18 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 
 ## 🔀 **関連戦略**
 
-- [協調（Cooperation）](/strategies/accelerators/cooperation) - 共通目的に向けた協調の構造化形態
-- [Standards Game](/strategies/markets/standards-game) - 共有標準の推進や防衛にアライアンスが使われる
-- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重心を動かせる
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 資源や能力を束ねて市場を育てる
-- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
-- [周回と探り（Circling and Probing）](/strategies/competitor/circling-and-probing) - 協議を通じて相手の本気度や競争状況を探る
-- [Fragmentation](/strategies/competitor/fragmentation) - 参加者を自陣営へ引き込み、競合エコシステムを割る
+- [協調](/strategies/accelerators/cooperation) - 共通目的に向けた協調の構造化形態
+- [標準化ゲーム](/strategies/markets/standards-game) - 共有標準の推進や防衛にアライアンスが使われる
+- [重力中心](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重心を動かせる
+- [市場育成](/strategies/accelerators/market-enablement) - 資源や能力を束ねて市場を育てる
+- [機動制限](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
+- [包囲と探り](/strategies/competitor/circling-and-probing) - 協議を通じて相手の本気度や競争状況を探る
+- [断片化](/strategies/competitor/fragmentation) - 参加者を自陣営へ引き込み、競合エコシステムを割る
 
 ## ⛅ **関連する状勢パターン**
 
-- [戦争は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – トリガー: 激しい競争がアライアンス形成を促す
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: アライアンスが関連能力の進化方向を揃える
+- [『戦争』は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – トリガー: 激しい競争がアライアンス形成を促す
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: アライアンスが関連能力の進化方向を揃える
 
 ## 📚 **参考文献**
 

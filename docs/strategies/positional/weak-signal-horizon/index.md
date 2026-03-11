@@ -112,10 +112,10 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 文脈を踏まえてシグナルを読む
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — パターン認識と統合を行う
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 不確実性の中で小さく動く
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 分野横断で意味を共有する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 文脈を踏まえてシグナルを読む
+- [データ戦略と分析](/leadership-skills/data-strategy-and-analytics) — パターン認識と統合を行う
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 不確実性の中で小さく動く
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 分野横断で意味を共有する
 
 ### 倫理面
 
@@ -179,24 +179,24 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 ## 🔀 **関連戦略**
 
-- [Land Grab](/strategies/positional/land-grab) - どこを先に押さえるべきかをシグナルで判断する
-- [First Mover](/strategies/positional/first-mover) - 弱いシグナルを先に産業化する
-- [Fast Follower](/strategies/positional/fast-follower) - 先行者の動きから入る最適な時点を測る
-- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - 系統的なデータ収集基盤を作る
-- [Procrastination](/strategies/defensive/procrastination) - 弱いシグナルが十分に束になるまで待つ防御策
-- [Experimentation](/strategies/attacking/experimentation) - シグナル検証のための探りを入れる
-- [Directed Investment](/strategies/attacking/directed-investment) - 検証済みシグナルの領域へ資源を張る
+- [先行確保](/strategies/positional/land-grab) - どこを先に押さえるべきかをシグナルで判断する
+- [先行者戦略](/strategies/positional/first-mover) - 弱いシグナルを先に産業化する
+- [高速追随](/strategies/positional/fast-follower) - 先行者の動きから入る最適な時点を測る
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 系統的なデータ収集基盤を作る
+- [戦略的先送り](/strategies/defensive/procrastination) - 弱いシグナルが十分に束になるまで待つ防御策
+- [実験](/strategies/attacking/experimentation) - シグナル検証のための探りを入れる
+- [集中投資](/strategies/attacking/directed-investment) - 検証済みシグナルの領域へ資源を張る
 
 ## ⛅ **関連する状勢パターン**
 
-- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 弱いシグナルは進化の初期兆候として現れやすい
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 関係: 弱いシグナルは進化の初期兆候として現れやすい
 - [特性は変化する](/climatic-patterns/characteristics-change) – 関係: コンポーネント特性の微細変化が大きな転換の兆しになる
-- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 弱いシグナルは不確実だが、初期空間で重要になる
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 弱いシグナルは不確実だが、初期空間で重要になる
 - [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: 景気循環の兆しも弱いシグナルになる
-- [すべてがランダムというわけではない](/climatic-patterns/not-everything-is-random) – 関係: 背後パターンがあるという前提がこの戦略の基盤
+- [すべてがランダムではない](/climatic-patterns/not-everything-is-random) – 関係: 背後パターンがあるという前提がこの戦略の基盤
 
 ## 📚 **参考文献**
 
 - Simon Wardley – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) - sensing と foresight の基礎
-- [*Thinking, Fast and Slow*](/books/thinking-fast-and-slow) - バイアスとシグナル解釈を考える文脈
+- [Thinking, Fast and Slow](/books/thinking-fast-and-slow) - バイアスとシグナル解釈を考える文脈
 - [Horizon Scanning](https://en.wikipedia.org/wiki/Horizon_scanning) - foresight 実務の方法論

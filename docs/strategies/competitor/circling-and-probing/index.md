@@ -42,7 +42,7 @@ time_horizon: Fast impact
 ---
 
 :::note
-**包囲と探り（Circling and Probing）** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
+**包囲と探り** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
 :::
 
 **競合の領域へ小さく入り込み、水深を測るように反応と機会を探る戦略です。**
@@ -53,7 +53,7 @@ time_horizon: Fast impact
 
 ### 包囲と探りとは何か
 
-包囲と探りは、競合市場へ小規模に入り込み、機会と競争地形を探索する戦略です。企業は周縁から観察し、実験的な提供を通じて unmet needs や競合の弱点を掘り出します。
+包囲と探りは、競合市場へ小規模に入り込み、機会と競争地形を探索する戦略です。企業は周縁から観察し、実験的な提供を通じて 未充足ニーズ や競合の弱点を掘り出します。
 
 ### なぜ有効なのか
 
@@ -66,21 +66,21 @@ time_horizon: Fast impact
 
 ### どう進めるのか
 
-核心は competitive exploration です。パイロット、限定提供、ベータ版などで相手の守りと顧客反応を試します。市場と競合がどう動くかを見ながら、次の一手を調整します。
+核心は 競争環境の探索 です。パイロット、限定提供、ベータ版などで相手の守りと顧客反応を試します。市場と競合がどう動くかを見ながら、次の一手を調整します。
 
 ## 🗺️ **実例**
 
 ### Netflix のゲーム進出
 
-Netflix は最初からフルスケールでゲーム市場へ行かず、モバイルゲーム追加や TV・PC 向けの限定テストを通じて反応を見ました。これは console/PC dominant の市場を周縁から探った例です。
+Netflix は最初からフルスケールでゲーム市場へ行かず、モバイルゲーム追加や TV・PC 向けの限定テストを通じて反応を見ました。これは コンソールや PC が支配する市場を周縁から探った例です。
 
 ### Google の試験投入製品
 
-Google は、競合が強い領域へベータ版製品をよく投じます。Google+ や Google Wave のような試みは、成功可否とは別に、ユーザー行動や市場反応を学ぶ probe でもありました。
+Google は、競合が強い領域へベータ版製品をよく投じます。Google+ や Google Wave のような試みは、成功可否とは別に、ユーザー行動や市場反応を学ぶ 探り でもありました。
 
 ### Amazon の限定展開
 
-Amazon は食料配送やファッションで、地域限定や beta 形式の試し打ちを重ねてきました。promising なら広げ、だめなら限定損失で止めます。
+Amazon は食料配送やファッションで、地域限定や ベータ版形式の試し打ちを重ねてきました。有望なら広げ、だめなら限定損失で止めます。
 
 ## 🚦 **使いどころ**
 
@@ -107,7 +107,7 @@ Amazon は食料配送やファッションで、地域限定や beta 形式の�
 ### 向くとき
 
 - 競合の領域を小さく試したいとき
-- unmet needs や弱点を見つけたいとき
+- 未充足ニーズ や弱点を見つけたいとき
 - 大きなコミット前に不確実性を減らしたいとき
 - 変化の速い市場で手触りのある情報が欲しいとき
 
@@ -125,18 +125,18 @@ Amazon は食料配送やファッションで、地域限定や beta 形式の�
 
 ### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 景観を読む
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 不確実性下で動く
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 小さく安全に試す
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 学びを共有する
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 景観を読む
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 不確実性下で動く
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 小さく安全に試す
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 学びを共有する
 
 ### 倫理面
 
-知財侵害や deceptive practices は避けるべきです。正当な探索であることが前提です。
+知財侵害や 欺瞞的な行為 は避けるべきです。正当な探索であることが前提です。
 
 ## 📋 **進め方**
 
-1. **仮説を定義する:** この probe で何を学びたいのか明示する
+1. **仮説を定義する:** この 探り で何を学びたいのか明示する
 2. **最小提供を作る:** 速く、小さく、限定投資で出せるものにする
 3. **対象を絞る:** 地域や属性で露出を制限する
 4. **学習のために計測する:** 定量指標と定性フィードバックを取る
@@ -147,7 +147,7 @@ Amazon は食料配送やファッションで、地域限定や beta 形式の�
 ## 📈 **成功指標**
 
 - 学習目的を満たせたか
-- 低コストで probe を実施できたか
+- 低コストで 探り を実施できたか
 - 競合反応から有用な情報が取れたか
 - 市場機会の有無を検証できたか
 - 反復速度は十分か
@@ -159,7 +159,7 @@ Amazon は食料配送やファッションで、地域限定や beta 形式の�
 
 ### 過信
 
-競合を甘く見たり、probe の影響を過大評価したりすると危険です。
+競合を甘く見たり、探り の影響を過大評価したりすると危険です。
 
 ### 分析麻痺
 
@@ -177,7 +177,7 @@ Amazon は食料配送やファッションで、地域限定や beta 形式の�
 
 ### 心理的な揺さぶりも起こせる
 
-小さな probe は競合を不安定にし、過剰反応や焦点分散を誘うことがあります。
+小さな 探り は競合を不安定にし、過剰反応や焦点分散を誘うことがあります。
 
 ### 他戦略の前段になりやすい
 
@@ -185,7 +185,7 @@ Misdirection や Tech Drop の前に、景観確認として使うと強いで�
 
 ### 組織内の位置づけを明確にする
 
-本業と probe を混同すると、両方が弱くなります。
+本業と 探り を混同すると、両方が弱くなります。
 
 ### 目的は行動につなぐこと
 
@@ -197,19 +197,19 @@ Misdirection や Tech Drop の前に、景観確認として使うと強いで�
 - 最小投資はいくらか
 - 競合はどう反応しそうか
 - 何を学べたら成功とみなすか
-- reputational risk をどう抑えるか
+- 評判リスク をどう抑えるか
 - 学びを全体戦略へどうつなぐか
 
 ## 🔀 **関連戦略**
 
-- [Misdirection](/strategies/competitor/misdirection) - 意図を誤認させる
-- [Tech Drops](/strategies/competitor/tech-drops) - 大きな一手の前に景観確認として使える
-- [実験（Experimentation）](/strategies/attacking/experimentation) - 新しいやり方を探る
-- [Alliances](/strategies/ecosystem/alliances) - 競合を試す代わりに協力する対照戦略
-- [Cooperation](/strategies/accelerators/cooperation) - 協業の顔をしながら市場理解を深める場面もある
-- [消耗戦（Sapping）](/strategies/competitor/sapping) - 防御を柔らかくしてから探る
-- [断片化（Fragmentation）](/strategies/competitor/fragmentation) - 競合ネットワークを割って孤立点を作る
-- [奇襲（Ambush）](/strategies/competitor/ambush) - 探りで見えた弱点へ決定打を当てる
+- [陽動](/strategies/competitor/misdirection) - 意図を誤認させる
+- [テックドロップ](/strategies/competitor/tech-drops) - 大きな一手の前に景観確認として使える
+- [実験](/strategies/attacking/experimentation) - 新しいやり方を探る
+- [アライアンス](/strategies/ecosystem/alliances) - 競合を試す代わりに協力する対照戦略
+- [協調](/strategies/accelerators/cooperation) - 協業の顔をしながら市場理解を深める場面もある
+- [消耗戦](/strategies/competitor/sapping) - 防御を柔らかくしてから探る
+- [断片化](/strategies/competitor/fragmentation) - 競合ネットワークを割って孤立点を作る
+- [奇襲](/strategies/competitor/ambush) - 探りで見えた弱点へ決定打を当てる
 
 ## ⛅ **関連する状勢パターン**
 

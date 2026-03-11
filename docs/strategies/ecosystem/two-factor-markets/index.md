@@ -115,10 +115,10 @@ App Store はアプリ開発者と iPhone 利用者をつなぐ両面市場で�
 
 ### 必要なスキル
 
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 異なる二つの利用者コミュニティを育てる
-- [Incentive design and game theory](/leadership-skills/incentive-design-and-game-theory) — フライホイールを回す誘因を設計する
-- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — 公正で安全で信頼できる場を作る
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — データを戦略資産として使う
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — 異なる二つの利用者コミュニティを育てる
+- [インセンティブ設計とゲーム理論](/leadership-skills/incentive-design-and-game-theory) — フライホイールを回す誘因を設計する
+- [プラットフォーム戦略とネットワーク効果](/leadership-skills/platform-strategy-and-network-effects) — 公正で安全で信頼できる場を作る
+- [データ戦略と分析](/leadership-skills/data-strategy-and-analytics) — データを戦略資産として使う
 
 ### 倫理面
 
@@ -186,15 +186,15 @@ App Store はアプリ開発者と iPhone 利用者をつなぐ両面市場で�
 
 ## 🔀 **関連戦略**
 
-- [Network Effects](/terms/metcalfs-law) - 両面市場を動かす基礎力学
-- [Tower and Moat](/strategies/ecosystem/tower-and-moat) - 成功した両面市場は強い堀を作る
+- [メトカーフの法則](/terms/metcalfs-law) - 両面市場を動かす基礎力学
+- [塔と堀](/strategies/ecosystem/tower-and-moat) - 成功した両面市場は強い堀を作る
 - [チャネル競合と中間排除](/strategies/ecosystem/channel-conflict-and-disintermediation) - 既存流通を飛ばして両側をつなぐ文脈で重なる
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - 両側・同側ネットワーク効果を加速する
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) - 両側・同側ネットワーク効果を加速する
 
 ## ⛅ **関連する状勢パターン**
 
-- [変化は常に線形ではない](/climatic-patterns/change-is-not-always-linear) – 影響: 両側が揃うと採用が急加速することがある
-- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 伸びるプラットフォームへ投資が集まりやすい
+- [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear) – 影響: 両側が揃うと採用が急加速することがある
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 伸びるプラットフォームへ投資が集まりやすい
 
 ## 📚 **参考文献**
 

@@ -121,10 +121,10 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法的、評判、競争上のリスクを評価し抑える
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 正面から激しく競争する覚悟を持つ
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — どの拡張が支配につながるかを見抜く
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 規制当局や世論との語りを管理する
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 法的、評判、競争上のリスクを評価し抑える
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 正面から激しく競争する覚悟を持つ
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight) — どの拡張が支配につながるかを見抜く
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 規制当局や世論との語りを管理する
 
 ### 倫理面
 
@@ -184,20 +184,20 @@ time_horizon: Long-term positioning
 
 ## 🔀 **関連戦略**
 
-- [**Tower and Moat**](/strategies/ecosystem/tower-and-moat) - 新しい未来市場に塔を築く戦略で、既存標準を乗っ取る本戦略とは異なる
-- [**Standards Game**](/strategies/markets/standards-game) - 標準争いをもっとも攻撃的に戦う形の一つ
-- [**Lock-In**](/terms/lock-in) - この戦略の終局目標
-- [**Fear, Uncertainty, and Doubt (FUD)**](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
-- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) - 互換性を守りながら開く戦略で、本戦略とは対極にある
-- [取り込み（Co-opting）](/strategies/ecosystem/co-opting) - 互換実装を吸収した後に独自拡張へ進むことがある
-- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
-- [Fragmentation](/strategies/competitor/fragmentation) - 非互換の亜種を導入し、エコシステムを割る
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - 標準を取り込んでから独自拡張で閉じることで、包摂戦略の手段になる
+- [塔と堀](/strategies/ecosystem/tower-and-moat) - 新しい未来市場に塔を築く戦略で、既存標準を乗っ取る本戦略とは異なる
+- [標準化ゲーム](/strategies/markets/standards-game) - 標準争いをもっとも攻撃的に戦う形の一つ
+- [ロックイン](/terms/lock-in) - この戦略の終局目標
+- [恐怖・不確実性・疑念 (FUD)](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 互換性を守りながら開く戦略で、本戦略とは対極にある
+- [取り込み](/strategies/ecosystem/co-opting) - 互換実装を吸収した後に独自拡張へ進むことがある
+- [機動制限](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
+- [断片化](/strategies/competitor/fragmentation) - 非互換の亜種を導入し、エコシステムを割る
+- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - 標準を取り込んでから独自拡張で閉じることで、包摂戦略の手段になる
 
 ## ⛅ **関連する状勢パターン**
 
 - [創造的破壊](/climatic-patterns/creative-destruction) – トリガー: 標準の拡張が既存アプローチを壊すことがある
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 中核標準の変更に合わせ、周辺も適応を迫られる
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: 中核標準の変更に合わせ、周辺も適応を迫られる
 
 ## 📚 **参考文献**
 

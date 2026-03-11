@@ -136,11 +136,11 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — policy を読み動かす
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 連合を組む
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 見通しとシナリオを描く
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 対外向けの物語を作る
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 利権追求や規制取り込みに滑らない
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — policy を読み動かす
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 連合を組む
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 見通しとシナリオを描く
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 対外向けの物語を作る
+- [倫理的判断](/leadership-skills/ethical-judgment) — 利権追求や規制取り込みに滑らない
 
 ### 倫理面
 
@@ -200,7 +200,7 @@ time_horizon: Long-term positioning
 - [競争制限](/strategies/defensive/limitation-of-competition) - 多くのロビー活動の上位目的
 - [標準化ゲーム](/strategies/markets/standards-game) - 技術的手法を制度化する
 - [産業政策](/strategies/accelerators/industrial-policy) - 政府投資や戦略優先事項へ整合する
-- [参入障壁を上げる](/strategies/defensive/raising-barriers-to-entry) - ロビー活動で市場期待自体を変えることがある
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - ロビー活動で市場期待自体を変えることがある
 - [恐怖・不確実性・疑念](/strategies/user-perception/fear-uncertainty-and-doubt) - 政策論争で恐怖に基づく議論を使う暗い手法
 
 ## ⛅ **関連する状勢パターン**
