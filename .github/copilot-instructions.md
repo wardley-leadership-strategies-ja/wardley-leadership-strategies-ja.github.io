@@ -18,6 +18,9 @@
 - Keep translations reviewable against the English source. Avoid unnecessary rewrites that make upstream diffs hard to inspect.
 - Prefer page-by-page translation work instead of broad unrelated rewrites across many files.
 - Use the canonical terminology in `notes/translation-glossary.md` for Wardley Mapping, doctrine, climatic patterns, and evolution terms. Do not invent alternate Japanese labels unless the glossary is explicitly updated.
+- Front matter `title` values for translated pages should be Japanese only. Do not use `日本語（English）` style titles.
+- Internal headings, internal strategy names, and internal related-link labels should also be Japanese only unless the glossary explicitly requires English.
+- Prefer natural Japanese prose in page body text. Keep English only when it is part of an external reference title, a proper noun, an accepted acronym, or a technical identifier that should not be translated.
 - Blog content is removed from this Japanese edition. Do not reintroduce `./blog` content or `/blog` navigation unless the policy is explicitly changed later.
 - When upstream changes are suspected, run `git fetch upstream` and `npm run translation:status`.
 - For a file-level diff against upstream English, run `python3 scripts/translation_status.py --word-diff <path>`.
@@ -45,6 +48,7 @@
 - If changing content in `./docs` then run `python -m pytest tests`. Fix content quality issues in the documents rather than masking them with placeholder content.
 - Run `npm run lint:md:fix` just before committing content-heavy changes.
 - If translation workflow or deployment config changed, also run `npm run build`.
+- If changing translated page titles or navigation labels, quickly check that no `title: 日本語（English）` style strings remain in `docs` or `src/pages`.
 
 ## File Sync
 
