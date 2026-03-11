@@ -2,20 +2,20 @@
 tags: [stakeholders, influence, alignment, buy-in]
 ---
 
-# Stakeholder alignment and influence
+# ステークホルダー調整と影響力
 
-The skill of securing commitment across executives, teams, partners, and regulators with differing incentives.
+異なるインセンティブを持つ経営層、チーム、パートナー、規制当局のあいだでコミットメントを確保するスキルです。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps execution coherent when a strategy spans multiple interests.
+複数の利害にまたがる戦略でも、実行を一貫させられます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Map stakeholder motivations and anticipate points of resistance.
-- Translate strategy into each stakeholder's success metrics.
-- Create feedback loops that keep alignment alive over time.
+- ステークホルダーの動機を地図化し、抵抗ポイントを予測する。
+- 戦略を各ステークホルダーの成功指標へ翻訳する。
+- 調整を持続させるフィードバックループをつくる。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Influence: The Psychology of Persuasion](/books/influence-the-psychology-of-persuasion)

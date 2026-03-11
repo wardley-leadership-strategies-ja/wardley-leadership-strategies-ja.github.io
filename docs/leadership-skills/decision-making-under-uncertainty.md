@@ -2,21 +2,21 @@
 tags: [decision-making, uncertainty, risk, judgment]
 ---
 
-# Decision-making under uncertainty
+# 不確実性下での意思決定
 
-The ability to make timely commitments despite incomplete information and ambiguous signals.
+情報が不完全でシグナルが曖昧でも、タイムリーにコミットする能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It balances speed with discipline so the organisation acts before the window closes.
+組織が機会の窓を逃す前に、規律を保ちながら素早く動けるようにします。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Define decision thresholds and pre-agreed triggers before pressure hits.
-- Use small probes to reduce uncertainty before larger commitments.
-- Document reversible versus irreversible decisions and act accordingly.
+- 圧力が高まる前に、判断基準と事前合意済みのトリガーを定める。
+- 大きなコミットの前に、小さな探索で不確実性を下げる。
+- 可逆な判断と不可逆な判断を記録し、それに応じて動く。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Thinking in Bets](/books/thinking-in-bets)
 - [Thinking, Fast and Slow](/books/thinking-fast-and-slow)

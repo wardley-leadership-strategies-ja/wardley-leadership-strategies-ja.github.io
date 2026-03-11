@@ -2,21 +2,21 @@
 tags: [change, transformation, adoption, leadership]
 ---
 
-# Change leadership and transformation
+# 変革リーダーシップ
 
-The ability to guide organisations through restructures, new operating models, or shifts in strategy.
+組織再編、新たな運営モデル、戦略転換を通じて組織を導く能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps momentum while reducing fatigue and resistance.
+疲弊や抵抗を抑えながら、勢いを維持できます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Create a clear change narrative and milestones.
-- Equip leaders to model the new behaviours early.
-- Plan for capability gaps and transition support.
+- 変革の物語と節目を明確にする。
+- リーダー自身が新しい振る舞いを早期に示せるようにする。
+- 能力ギャップと移行支援を事前に計画する。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Leading Change](/books/leading-change)
 - [Who Says Elephants Can't Dance?](/books/who-says-elephants-cant-dance)

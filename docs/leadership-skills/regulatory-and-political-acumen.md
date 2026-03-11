@@ -2,16 +2,16 @@
 tags: [regulation, policy, government, advocacy]
 ---
 
-# Regulatory and political acumen
+# 規制・政治リテラシー
 
-The ability to navigate policy environments, anticipate regulatory shifts, and engage decision-makers responsibly.
+政策環境を読み、規制変化を予測し、意思決定者と責任ある形で関わる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It is crucial when strategies intersect with governments or public scrutiny.
+戦略が政府や世論の監視と交差するときに重要です。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Track upcoming legislation and regulatory precedent.
-- Build principled relationships with policymakers and industry bodies.
-- Prepare compliance and public affairs plans before they are needed.
+- 今後の立法や規制上の先例を追う。
+- 政策立案者や業界団体と原則に基づく関係を築く。
+- 必要になる前に、コンプライアンス計画と渉外計画を準備する。

@@ -2,16 +2,16 @@
 tags: [standards, openness, interoperability, commons]
 ---
 
-# Standardization and open strategy
+# 標準化とオープン戦略
 
-The ability to use open approaches, standards, or shared infrastructure to accelerate adoption.
+オープンなアプローチ、標準、共有インフラを使って採用を加速する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It can shift competition from components to higher-value layers.
+競争の重心をコンポーネントから、より高い価値の層へ移せます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Identify which components should be open versus proprietary.
-- Work with partners to define standards that reinforce your position.
-- Plan for the cost of transition and the governance of the standard.
+- どのコンポーネントをオープンにし、どれを独自に保つべきかを見極める。
+- パートナーと協力し、自分たちの立場を強める標準を定義する。
+- 標準への移行コストと、そのガバナンスを計画する。

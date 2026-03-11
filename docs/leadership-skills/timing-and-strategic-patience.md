@@ -2,16 +2,16 @@
 tags: [timing, patience, sequencing, cadence]
 ---
 
-# Timing and strategic patience
+# タイミングと戦略的忍耐
 
-The discipline to wait for the right moment while preparing to move quickly once conditions align.
+適切な瞬間を待ちつつ、条件が整ったらすばやく動けるよう準備する規律です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It protects against premature action and maximizes impact when windows open.
+時期尚早の行動を避け、窓が開いたときの影響を最大化できます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Define trigger conditions before committing to a move.
-- Maintain readiness so execution can happen fast when timing is right.
-- Review signals regularly to avoid acting on outdated assumptions.
+- コミット前に、行動を起こすトリガー条件を定義する。
+- タイミングが来たら素早く実行できるよう準備状態を保つ。
+- 古いシグナルで動かないよう、状況を定期的に見直す。

@@ -2,16 +2,16 @@
 tags: [ethics, integrity, governance, accountability]
 ---
 
-# Ethical judgment
+# 倫理的判断
 
-The discipline of weighing the moral and societal consequences of strategic moves, not just the competitive gain.
+戦略の競争上の利得だけでなく、道徳的・社会的な帰結を秤にかける規律です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It protects long-term legitimacy, trust, and license to operate.
+長期的な正統性、信頼、事業継続の許認可を守ります。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Define non-negotiable principles before high-pressure decisions.
-- Assess who bears the cost of a strategy, not just who benefits.
-- Invite diverse perspectives to surface blind spots.
+- 高圧的な判断の前に、譲れない原則を定める。
+- 誰が利益を得るかだけでなく、誰がコストを負うかを評価する。
+- 多様な視点を招き、盲点を表に出す。

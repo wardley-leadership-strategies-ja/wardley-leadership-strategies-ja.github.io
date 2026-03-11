@@ -2,16 +2,16 @@
 tags: [partnerships, alliances, collaboration, ecosystems]
 ---
 
-# Partnership and alliance management
+# 提携とアライアンスの運営
 
-The discipline of building, coordinating, and sustaining multi-party relationships over time.
+複数当事者の関係を構築し、調整し、時間をかけて維持する規律です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It enables ecosystem strategies to stay stable as incentives shift.
+インセンティブが変わっても、エコシステム戦略を安定させられます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Establish shared goals and success metrics at the outset.
-- Invest in joint operating rhythms and escalation paths.
-- Monitor partner health and adjust agreements as the landscape evolves.
+- 最初に共有目標と成功指標を定める。
+- 共同の運営リズムとエスカレーション経路に投資する。
+- パートナーの健全性を監視し、状況の進化に応じて合意を調整する。

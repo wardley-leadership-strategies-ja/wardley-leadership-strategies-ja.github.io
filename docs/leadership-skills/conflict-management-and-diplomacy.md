@@ -2,16 +2,16 @@
 tags: [conflict, diplomacy, mediation, relationships]
 ---
 
-# Conflict management and diplomacy
+# 対立管理と外交
 
-The skill of navigating tension between partners, competitors, or internal teams without destroying trust.
+パートナー、競合、社内チームの緊張関係を、信頼を壊さずにさばくスキルです。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It is essential when interests clash inside alliances or ecosystems.
+アライアンスやエコシステムの内部で利害が衝突するときに不可欠です。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Surface conflict early and separate issues from personal stakes.
-- Use neutral facilitators or escalation paths when needed.
-- Agree on shared principles for resolving disputes.
+- 対立を早期に表面化し、争点と個人的利害を切り分ける。
+- 必要に応じて中立な調停役やエスカレーション経路を使う。
+- 紛争解決の共通原則を合意する。

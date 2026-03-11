@@ -2,16 +2,16 @@
 tags: [customers, market-research, insight, needs]
 ---
 
-# Market and customer insight
+# 市場と顧客インサイト
 
-A deep understanding of user needs, willingness to pay, and adoption dynamics across segments.
+ユーザーニーズ、支払い意思、セグメントごとの採用ダイナミクスを深く理解する力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps strategies anchored in real demand instead of internal narratives.
+戦略を、内部の物語ではなく現実の需要に結びつけたままにします。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Use interviews and journey mapping to uncover unmet needs and switching costs.
-- Validate assumptions with pricing, conversion, or demand experiments.
-- Track shifts in buyer power, substitutes, and procurement behaviour.
+- インタビューやジャーニーマッピングで、満たされていないニーズと切替コストを掘り起こす。
+- 価格、転換率、需要実験によって前提を検証する。
+- 買い手の交渉力、代替手段、調達行動の変化を追う。

@@ -2,16 +2,16 @@
 tags: [execution, operations, efficiency, delivery]
 ---
 
-# Execution discipline and operational excellence
+# 実行規律とオペレーショナルエクセレンス
 
-The capability to deliver consistently, reduce waste, and translate plans into reliable outcomes.
+一貫して成果を出し、無駄を減らし、計画を確実な結果へ変える能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It is vital when strategies demand speed, efficiency, or sustained pressure.
+速度、効率、継続的な圧力を求める戦略で重要になります。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Set explicit delivery metrics and review them frequently.
-- Remove bottlenecks that slow critical workflows.
-- Create clear accountability for execution outcomes.
+- 明確なデリバリー指標を定め、頻繁に見直す。
+- 重要なワークフローを遅らせるボトルネックを取り除く。
+- 実行結果に対する明確な責任を置く。

@@ -2,16 +2,16 @@
 tags: [incentives, game-theory, behavior, alignment]
 ---
 
-# Incentive design and game theory
+# インセンティブ設計とゲーム理論
 
-The skill of shaping incentives so others behave in ways that reinforce your strategy.
+他者が自分たちの戦略を強化する方向で行動するよう、インセンティブを設計するスキルです。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It improves adoption, cooperation, and the stability of multi-player moves.
+採用、協調、複数プレイヤーの一手の安定性を高めます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Model how each player benefits and where incentives misalign.
-- Use carrots and constraints to steer behaviour ethically.
-- Revisit incentives as the environment evolves.
+- 各プレイヤーが何を得るか、どこでインセンティブがずれるかをモデル化する。
+- 倫理的に、報酬と制約を使って行動を方向づける。
+- 環境の進化に合わせてインセンティブを見直す。

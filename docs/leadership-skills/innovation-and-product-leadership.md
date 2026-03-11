@@ -2,21 +2,21 @@
 tags: [innovation, product, roadmap, differentiation]
 ---
 
-# Innovation and product leadership
+# イノベーションとプロダクトリーダーシップ
 
-The ability to create or evolve offerings that deliver differentiated value in shifting markets.
+変化する市場で差別化された価値を届ける提供物を生み出し、進化させる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps strategies rooted in user outcomes rather than defensive positioning alone.
+防御的なポジショニングだけでなく、戦略をユーザー成果に根ざしたものに保ちます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Invest in discovery and rapid prototyping cycles.
-- Balance incremental improvements with disruptive experiments.
-- Align product decisions with the evolving value chain.
+- 探索と高速プロトタイピングのサイクルに投資する。
+- 漸進的改善と破壊的実験のバランスを取る。
+- プロダクト判断を進化するバリューチェーンに合わせる。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Empowered](/books/empowered)
 - [Working Backwards](/books/working-backwards)

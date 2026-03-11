@@ -2,16 +2,16 @@
 tags: [community, ecosystem, stewardship, engagement]
 ---
 
-# Community and ecosystem stewardship
+# コミュニティとエコシステムの育成
 
-The capability to foster healthy communities and balance interests across ecosystem participants.
+健全なコミュニティを育み、エコシステム参加者の利害を均衡させる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps shared platforms vibrant and resilient.
+共有プラットフォームを活気ある強靭なものに保てます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Invest in community feedback loops and transparent contribution rules.
-- Reward behaviours that strengthen the ecosystem, not just the platform owner.
-- Protect against dominant players that distort shared value.
+- コミュニティのフィードバックループと透明な貢献ルールに投資する。
+- プラットフォーム所有者だけでなく、エコシステム全体を強くする行動を報いる。
+- 共有価値をゆがめる支配的プレイヤーから守る。

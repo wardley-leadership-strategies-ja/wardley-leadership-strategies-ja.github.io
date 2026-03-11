@@ -2,16 +2,16 @@
 tags: [ip, legal, protection, contracts]
 ---
 
-# IP and legal strategy
+# 知財と法務戦略
 
-The capability to use intellectual property, contracts, and legal levers to protect advantage.
+知的財産、契約、法的レバーを使って優位を守る能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It underpins licensing, defensive plays, and regulatory strategy.
+ライセンス、防御的な一手、規制戦略を下支えします。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Audit critical IP assets and ensure ownership clarity.
-- Align legal tactics with broader strategic intent.
-- Monitor legal exposure when using aggressive tactics.
+- 重要な知財資産を棚卸しし、権利帰属を明確にする。
+- 法務上の戦術を、より広い戦略意図に合わせる。
+- 攻撃的な一手を使う際の法的エクスポージャーを監視する。

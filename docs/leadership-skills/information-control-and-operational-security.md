@@ -2,20 +2,20 @@
 tags: [security, information-control, confidentiality, risk]
 ---
 
-# Information control and operational security
+# 情報統制とオペレーショナルセキュリティ
 
-The ability to protect sensitive plans, timing, or data from leakage and counter-moves.
+機密性の高い計画、タイミング、データが漏えいし、対抗策を打たれるのを防ぐ能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It prevents competitors from pre-empting aggressive strategies.
+競合に攻撃的な戦略を先回りされるのを防ぎます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Limit plan visibility to those who need to execute.
-- Use operational checklists to prevent accidental leaks.
-- Plan disclosure timing alongside launch execution.
+- 実行に必要な人へだけ計画の可視性を限定する。
+- 偶発的な漏えいを防ぐため、運用チェックリストを使う。
+- 公開タイミングをローンチ実行と合わせて計画する。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [The Art of Deception](/books/the-art-of-deception)

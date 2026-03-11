@@ -2,16 +2,16 @@
 tags: [competition, intelligence, market-signals, rivals]
 ---
 
-# Competitive intelligence
+# 競争インテリジェンス
 
-The ability to track competitors, infer intent, and anticipate moves without relying on speculation.
+競合を追跡し、意図を推測し、憶測に頼らず次の一手を予測する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It helps leaders time attacks, defend positions, and choose counterplay with precision.
+攻撃のタイミング、防御の維持、カウンタープレイの選択を高い精度で行えます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Build a cadence for monitoring market signals, hiring shifts, and product changes.
-- Separate evidence from assumptions and capture confidence levels explicitly.
-- Share insights early so teams can rehearse responses before surprises hit.
+- 市場シグナル、人材採用、製品変更を監視する定期的なリズムをつくる。
+- 証拠と前提を分け、確信度を明示的に記録する。
+- 不意打ちの前に対応を練れるよう、知見を早めに共有する。

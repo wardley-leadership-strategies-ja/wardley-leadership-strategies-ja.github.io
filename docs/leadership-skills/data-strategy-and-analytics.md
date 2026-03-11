@@ -2,16 +2,16 @@
 tags: [data, analytics, measurement, insights]
 ---
 
-# Data strategy and analytics
+# データ戦略と分析
 
-The ability to treat data as a strategic asset and use analytics to steer decisions.
+データを戦略資産として扱い、分析によって意思決定を導く能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It enables better forecasting, segmentation, and advantage from scale.
+より良い予測、セグメンテーション、規模からの優位を実現できます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Define which data is strategically differentiating versus operational.
-- Invest in governance, quality, and access pathways.
-- Use analytics to connect signals to strategic choices.
+- 何のデータが戦略的差別化要因で、何が運用データなのかを定義する。
+- ガバナンス、品質、アクセス経路に投資する。
+- シグナルを戦略的選択へ結びつけるために分析を使う。

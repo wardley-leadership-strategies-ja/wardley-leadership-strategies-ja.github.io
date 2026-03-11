@@ -2,20 +2,20 @@
 tags: [governance, policy, compliance, decision-rights]
 ---
 
-# Governance and policy design
+# ガバナンスと政策設計
 
-The capability to define rules, standards, and decision rights that keep complex initiatives coherent.
+複雑な取り組みを一貫させるためのルール、標準、意思決定権を定義する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It ensures ecosystems, platforms, and shared assets remain fair and predictable.
+エコシステム、プラットフォーム、共有資産を公正で予測可能なものに保ちます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Clarify who decides what, and how disputes are resolved.
-- Use lightweight governance early, then add structure as scale grows.
-- Regularly review policies to avoid unintended lock-in or bias.
+- 誰が何を決め、争いをどう解くかを明確にする。
+- 初期は軽量なガバナンスで始め、規模拡大に応じて構造を足す。
+- 意図しない固定化やバイアスを避けるため、政策を定期的に見直す。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Seeing Like a State](/books/seeing-like-a-state)

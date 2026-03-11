@@ -2,16 +2,16 @@
 tags: [talent, teams, coaching, culture]
 ---
 
-# Talent development and team building
+# 人材育成とチームづくり
 
-The capability to attract, retain, and grow people who can execute ambitious strategies.
+野心的な戦略を実行できる人材を引きつけ、維持し、育てる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It keeps skills and capacity ahead of strategic demand.
+戦略が求めるより先に、スキルと組織能力を整えられます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Map critical roles and build succession plans early.
-- Invest in learning paths tied to strategic goals.
-- Create incentives that reinforce desired behaviours.
+- 重要ロールを地図化し、早めに後継計画をつくる。
+- 戦略目標に結びついた学習経路へ投資する。
+- 望ましい行動を強化するインセンティブを設計する。

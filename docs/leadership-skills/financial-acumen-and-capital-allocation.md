@@ -2,16 +2,16 @@
 tags: [finance, capital-allocation, investment, portfolio]
 ---
 
-# Financial acumen and capital allocation
+# 財務感覚と資本配分
 
-The ability to balance investment, cash flow, and risk to sustain strategic moves.
+投資、キャッシュフロー、リスクのバランスを取り、戦略的な一手を持続させる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It prevents ambitious strategies from starving core operations or overextending.
+野心的な戦略が中核業務を飢えさせたり、過剰拡張したりするのを防ぎます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Model investment scenarios and stress-test assumptions.
-- Align budgets to evolution stages and expected returns.
-- Track leading indicators that signal when to reinvest or exit.
+- 投資シナリオをモデル化し、前提をストレステストする。
+- 予算を進化段階と期待リターンに合わせる。
+- 再投資や撤退の判断を示す先行指標を追う。

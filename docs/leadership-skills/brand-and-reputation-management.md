@@ -2,16 +2,16 @@
 tags: [brand, reputation, trust, perception]
 ---
 
-# Brand and reputation management
+# ブランドと評判のマネジメント
 
-The skill of shaping perception and protecting trust during aggressive or disruptive moves.
+攻撃的または破壊的な一手を打つときに、認識を形づくり信頼を守るスキルです。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It ensures short-term tactics do not erode long-term legitimacy.
+短期的な戦術が長期的な正統性を傷つけないようにします。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Define the reputation you are willing to risk for a move.
-- Monitor sentiment and respond quickly to misinformation.
-- Coordinate messaging across marketing, PR, and leadership.
+- その一手でどの評判までなら賭けられるかを定義する。
+- 世論や反応を監視し、誤情報にはすばやく対応する。
+- マーケティング、広報、リーダーシップのメッセージをそろえる。

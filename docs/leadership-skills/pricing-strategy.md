@@ -2,21 +2,21 @@
 tags: [pricing, monetization, value, positioning]
 ---
 
-# Pricing strategy
+# 価格戦略
 
-The ability to set prices and packaging that shape demand, signal value, and manage competitive dynamics.
+需要を形づくり、価値を示し、競争ダイナミクスを管理する価格とパッケージを設計する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It is central to market moves, barriers to entry, and adoption acceleration.
+市場での一手、参入障壁、採用加速の中核になります。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Tie pricing to user value and evolution stage, not just costs.
-- Model the competitive response to pricing moves.
-- Use pricing experiments to test elasticity and segmentation.
+- 価格をコストだけでなく、ユーザー価値と進化段階に結びつける。
+- 価格変更に対する競争反応をモデル化する。
+- 価格実験で弾力性とセグメンテーションを検証する。
 
-## 📚 **Related books**
+## 📚 **関連書籍**
 
 - [Confessions of the Pricing Man](/books/confessions-of-the-pricing-man)
 - [The Strategy and Tactics of Pricing](/books/the-strategy-and-tactics-of-pricing)

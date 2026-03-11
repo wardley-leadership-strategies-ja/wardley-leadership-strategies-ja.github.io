@@ -2,16 +2,16 @@
 tags: [communication, storytelling, alignment, narrative]
 ---
 
-# Strategic communication and storytelling
+# 戦略的コミュニケーションとストーリーテリング
 
-The ability to explain intent, trade-offs, and value in a way that aligns teams, partners, and markets.
+意図、トレードオフ、価値を、チーム、パートナー、市場を整列させる形で説明する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It shapes perception, reduces confusion, and builds momentum for change.
+認識を形づくり、混乱を減らし、変化への勢いを生みます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Craft a clear narrative that links user needs to strategic moves.
-- Tailor messages for internal, partner, and public audiences.
-- Communicate bad news early to preserve credibility.
+- ユーザーニーズと戦略的な一手を結ぶ明確な物語をつくる。
+- 社内向け、パートナー向け、対外向けにメッセージを調整する。
+- 悪い知らせこそ早めに伝え、信頼を守る。

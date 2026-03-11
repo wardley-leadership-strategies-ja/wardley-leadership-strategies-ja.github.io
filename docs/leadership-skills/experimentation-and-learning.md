@@ -2,16 +2,16 @@
 tags: [experimentation, learning, iteration, discovery]
 ---
 
-# Experimentation and learning
+# 実験と学習
 
-The habit of running small, fast tests to validate assumptions and adapt direction.
+前提を検証し、方向を適応させるために、小さく速いテストを回す習慣です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It reduces the cost of uncertainty and accelerates insight.
+不確実性のコストを下げ、洞察を加速します。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Design experiments with clear hypotheses and success criteria.
-- Share results openly, including failed experiments.
-- Turn learnings into updated maps and decisions quickly.
+- 明確な仮説と成功基準をもつ実験を設計する。
+- 失敗した実験を含め、結果をオープンに共有する。
+- 学びをすばやく地図更新と意思決定につなげる。

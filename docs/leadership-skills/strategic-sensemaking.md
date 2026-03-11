@@ -2,16 +2,16 @@
 tags: [sensemaking, mapping, situational-awareness, strategic-analysis]
 ---
 
-# Strategic sensemaking
+# 戦略的センスメイキング
 
-The discipline of reading the landscape, interpreting weak signals, and building a coherent view of where a strategy should move next.
+状況を読み、弱いシグナルを解釈し、戦略が次に進むべき方向について一貫した見立てをつくる規律です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It turns maps, market evidence, and competitive moves into a shared direction before committing scarce resources.
+希少な資源をコミットする前に、地図、市場の証拠、競争上の動きを共有方向へまとめ上げます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Practice mapping cycles that connect user needs, value chains, and evolution stages.
-- Review assumptions regularly and document what changed and why.
-- Use pre-mortems and scenario thinking to test strategic narratives.
+- ユーザーニーズ、バリューチェーン、進化段階を結ぶ地図作成サイクルを実践する。
+- 前提を定期的に見直し、何が変わったか、その理由を記録する。
+- プレモータムやシナリオ思考で戦略的な物語を試す。

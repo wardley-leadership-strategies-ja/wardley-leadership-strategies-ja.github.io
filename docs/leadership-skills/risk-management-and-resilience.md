@@ -2,16 +2,16 @@
 tags: [risk, resilience, mitigation, continuity]
 ---
 
-# Risk management and resilience
+# リスク管理とレジリエンス
 
-The capability to anticipate downside scenarios, build mitigations, and keep the organisation steady under stress.
+下振れシナリオを予測し、緩和策を作り、圧力下でも組織を安定させる能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It prevents bold moves from becoming existential threats.
+大胆な一手が存亡の危機に変わるのを防ぎます。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Identify technical, legal, reputational, and financial risks early.
-- Design contingency plans and rehearse crisis responses.
-- Build buffers in capital, talent, and supplier options.
+- 技術、法務、評判、財務のリスクを早期に洗い出す。
+- コンティンジェンシープランを設計し、危機対応を訓練する。
+- 資本、人材、供給者オプションにバッファを持たせる。

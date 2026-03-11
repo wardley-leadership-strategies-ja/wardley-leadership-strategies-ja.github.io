@@ -2,16 +2,16 @@
 tags: [negotiation, deals, agreements, leverage]
 ---
 
-# Negotiation and deal-making
+# 交渉とディールメイキング
 
-The ability to structure agreements that protect strategic intent while delivering mutual value.
+戦略意図を守りながら、相互価値を届ける合意を設計する能力です。
 
-## 🎯 **What it enables**
+## 🎯 **何を可能にするか**
 
-It is critical for alliances, acquisitions, licensing, and platform deals.
+アライアンス、買収、ライセンス、プラットフォーム取引で重要になります。
 
-## 🧭 **How to build it**
+## 🧭 **どう育てるか**
 
-- Prepare BATNAs and define walk-away positions in advance.
-- Design deals that balance short-term concessions with long-term leverage.
-- Document governance, exit options, and dispute resolution clearly.
+- BATNA を準備し、撤退ラインを事前に定義する。
+- 短期的な譲歩と長期的なレバレッジのバランスを取った契約を設計する。
+- ガバナンス、出口条件、紛争解決を明確に文書化する。
