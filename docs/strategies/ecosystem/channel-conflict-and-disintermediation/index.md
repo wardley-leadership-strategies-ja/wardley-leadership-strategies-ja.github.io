@@ -1,7 +1,6 @@
 ---
-title: Channel Conflict and Disintermediation
-description: A strategy of deliberately creating tension between distribution channels
-  to gain control, reshape value flows, and own the customer relationship.
+title: チャネル競合と中間排除
+description: 流通チャネル間に意図的な緊張を作り、価値の流れと顧客接点の主導権を握る戦略。
 tags:
 - ecosystem
 - channel-conflict
@@ -28,191 +27,187 @@ leadership_focus:
 - Narrative building
 - Platform stewardship
 quick_signals:
-- Intermediaries block access to customer data or slow your go-to-market.
-- Customers complain about inconsistent experiences across channels.
-- Partners resist experimenting with new offerings you want to bring to market.
+- 中間業者が顧客データへのアクセスを妨げ、販売展開も遅くしている。
+- チャネルごとに顧客体験がばらつくという不満が出ている。
+- パートナーが、新しい提供形態の実験に消極的である。
 momentum_moves:
-- Launch a direct channel pilot that proves superior experience and economics.
-- Re-negotiate partner agreements with incentives tied to shared data and standards.
-- Invest in systems that unify pricing, inventory, and service across every route
-  to market.
+- 体験と採算の両面で優位を示せる直販チャネルの実証を始める。
+- データ共有や標準順守に連動した誘因で、パートナー契約を再設計する。
+- 価格、在庫、サポートを全チャネルで統合するシステムへ投資する。
 watch_outs:
-- Alienating partners without a plan to replace their coverage.
-- Underestimating the operational complexity of running multiple channels.
-- Sending conflicting messages that confuse customers and sales teams.
+- 代替計画なしにパートナーを疎外すること。
+- 複数チャネル運営の複雑さを過小評価すること。
+- 顧客や営業を混乱させる矛盾したメッセージを出すこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**A strategy of deliberately creating tension between distribution channels to gain control, reshape value flows, and own the customer relationship.**
+**流通チャネル間に意図的な競合を生み出し、顧客関係、価格、価値の流れに対する主導権を取り戻す戦略です。**
 
-> *"Exploiting new channels and conflict within existing channels to create favourable terms."*
+> *「新しいチャネルと既存チャネル内の競合を利用し、有利な条件を作ること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Channel Conflict and Disintermediation?
+### チャネル競合と中間排除とは何か
 
-**Channel Conflict** is the act of intentionally creating competition and tension between your different routes to market. This often takes the form of launching a direct-to-consumer (DTC) channel that competes with your existing network of partners, resellers, or distributors.
+**チャネル競合** とは、市場への経路同士にあえて緊張関係を作ることです。典型例は、既存の代理店、再販業者、流通業者のネットワークと競合する直販チャネルを立ち上げることです。
 
-**Disintermediation** is the most common form of this conflict, where a company bypasses its traditional intermediaries to sell directly to the end customer. The goal is not just to create conflict, but to use that conflict as a lever to achieve a strategic objective, such as gaining more control over pricing, branding, and the customer relationship.
+**中間排除** はその代表形で、従来の中間業者を迂回し、最終顧客へ直接販売するやり方です。目的は衝突そのものではなく、その衝突を梃子にして、価格、ブランド、顧客接点を自社で握り直すことにあります。
 
-### Why use this strategy?
+### なぜ使うのか
 
-While it can be disruptive, creating channel conflict is a powerful way to:
+- **顧客関係を自分で持てる:** 顧客データを直接取り、ブランド体験を統制できる
+- **粗利を改善できる:** 中間マージンを減らし、より多くの利益を確保できる
+- **市場進化を速められる:** パートナー経由より速く製品やメッセージを変えられる
+- **力関係を変えられる:** 既存流通の交渉力を下げ、自社に有利な条件を作れる
 
-- **Take Control of the Customer Relationship:** Bypassing intermediaries gives you direct access to your customers, allowing you to build a relationship, gather data, and control the brand experience.
-- **Increase Margins:** By cutting out the middleman, you can capture a larger share of the profit from each sale.
-- **Accelerate Market Evolution:** A direct channel allows you to innovate and iterate on your product and messaging much faster than if you had to work through partners.
-- **Shift Power Dynamics:** It can be used to weaken the power of entrenched distributors or retailers, forcing them to accept more favorable terms.
-
-### Visualising the conflict you are creating
+### 作り出す競合を地図化する
 
 ```mermaid
 flowchart LR
-    subgraph Legacy Channel
-        A[Producer] --> B[Intermediary / Partner]
-        B --> C[Customer]
+    subgraph 従来チャネル
+        A[供給者] --> B[中間業者 / パートナー]
+        B --> C[顧客]
     end
-    A --> D["Direct channel (store, site, app)"]
+    A --> D[直販チャネル]
     D --> C
-    D --> E[Data, experience & margin feedback]
+    D --> E[データと体験のフィードバック]
     E --> A
-    B -.->|Resistance, demands, lobbying| A
-    A -->|Rebalanced incentives, selective access| B
+    B -.->|抵抗、要求、ロビー活動| A
+    A -->|条件再設計、選択的アクセス| B
 ```
 
-The diagram highlights how launching a direct route introduces a new feedback loop with customers while simultaneously creating tension with incumbent intermediaries that leaders must proactively manage.
+この図は、直販経路を作ることで顧客との新しいフィードバックループが生まれ、同時に既存中間業者との緊張管理が必要になることを示しています。
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Apple's Retail Stores
+### Apple の直営店
 
-When Apple launched its own retail stores, it created massive channel conflict with its existing network of authorized resellers and big-box electronics stores. By selling directly to consumers, Apple gained complete control over the customer experience, captured higher margins, and built one of the most powerful brands in the world. The move ultimately forced resellers to compete on Apple's terms.
+Apple が自社直営店を始めたとき、既存の認定販売店や量販店とは大きなチャネル競合が生まれました。Apple は顧客体験を完全に管理し、粗利を高め、強いブランドを築きました。結果として販売店は Apple の条件で競争するしかなくなりました。
 
-### Tesla's Direct-to-Consumer Model
+### Tesla の DTC モデル
 
-Tesla famously rejected the traditional automotive dealership model and chose to sell its cars directly to consumers through its own showrooms and website. This created intense conflict with powerful dealership lobbies but gave Tesla full control over pricing, branding, and the customer journey. It allowed them to educate consumers about electric vehicles in a way that traditional dealerships, with their focus on gasoline cars, would not have done.
+Tesla は従来の自動車ディーラー方式を採らず、自社ショールームとサイトで直接販売しました。ディーラー業界との激しい対立を招きましたが、価格、ブランド、顧客体験を自社で握れたことで、EV の価値提案を自分たちの言葉で市場へ伝えられました。
 
-### Nike's DTC Push
+### Nike の DTC シフト
 
-In recent years, Nike has deliberately reduced its reliance on wholesale partners like Foot Locker and Amazon, choosing instead to focus on its own direct-to-consumer channels, such as its website, apps, and flagship stores. This has created conflict with its former partners but has given Nike higher margins, direct access to customer data, and greater control over its brand image.
+Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社サイト、アプリ、旗艦店へ寄せています。旧来パートナーとの摩擦はありましたが、粗利改善、顧客データ取得、ブランド統制という果実を得ました。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Channel Conflict and Disintermediation">
   <MapSignals>
-    <li>Your map shows that powerful intermediaries (distributors, retailers) control access to your end users.</li>
-    <li>Your partners are slow-moving, have high margins, or are resistant to innovation.</li>
-    <li>There is a significant gap between your desired customer experience and what your partners are delivering.</li>
-    <li>A direct-to-consumer model is becoming viable in your industry due to new technology (e.g., e-commerce platforms).</li>
+    <li>強い中間業者が、エンドユーザーへのアクセスを握っている。</li>
+    <li>パートナーが遅く、高マージンで、イノベーションにも抵抗している。</li>
+    <li>望む顧客体験と、パートナー経由で実際に提供される体験の間に大きな差がある。</li>
+    <li>新技術により、直販モデルが実行可能になってきた。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a brand that is strong enough to attract customers directly.</li>
-    <li>We have the operational capability to manage logistics, customer service, and e-commerce.</li>
-    <li>Our leadership has the conviction to manage the inevitable backlash from our existing partners.</li>
-    <li>We have a clear plan for how to manage pricing and product availability across different channels.</li>
+    <li>顧客を直接引き寄せられるだけのブランド力がある。</li>
+    <li>物流、顧客対応、EC 運営を担える能力がある。</li>
+    <li>既存パートナーからの反発を受け止める覚悟がある。</li>
+    <li>価格、商品供給、案件配分をチャネル横断で設計できる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You have a strong brand and can attract customers without relying on partners.
-- You need direct access to customer data to drive your business.
-- Your partners are holding you back or capturing too much value.
-- You have the operational capability to handle direct sales and fulfillment.
+- 強いブランドがあり、パートナーなしでも顧客を集められるとき
+- 顧客データを直接取りたいとき
+- パートナーが進化を妨げたり、価値を取りすぎたりしているとき
+- 直販運営を回せる能力があるとき
 
-### Avoid when
+### 避けるとき
 
-- You are heavily dependent on your channel partners for sales and market access.
-- Your customers rely on the value-added services provided by your partners (e.g., complex installation, local support).
-- You lack the brand strength or operational capacity to go direct.
-- The backlash from your partners would be too damaging to your business.
+- チャネルパートナーへの依存が大きすぎるとき
+- パートナーが提供する導入、保守、地域支援が不可欠なとき
+- ブランド力や運営能力が不足しているとき
+- パートナー反発が事業へ致命傷になるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is managing the fallout. This strategy will inevitably anger your existing partners, and they will likely retaliate. Leaders must have the courage to withstand this pressure and the strategic clarity to communicate why the move is necessary for the long-term health of the business. It requires a willingness to break old relationships to build new, more valuable ones.
+最大の課題は、必ず起こる反発を管理することです。既存パートナーは怒り、報復してくる可能性があります。指揮は、その圧力に耐えつつ、なぜこの移行が事業の長期的健全性に必要なのかを明確に語らなければなりません。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — The ability to stay the course in the face of intense pressure and criticism from partners.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to craft and deliver a clear narrative that explains the rationale for the change to all stakeholders.
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — The ability to manage the internal and external transition to a new channel model.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to make a bold, potentially risky move and see it through.
+- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — パートナーからの強い圧力に耐える
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 変化の理由を関係者へ説明する
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 新しいチャネルモデルへの移行を進める
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — リスクのある一手をやり切る
 
-### Ethical considerations
+### 倫理面
 
-This strategy can have a significant negative impact on the businesses of your partners. It is crucial to be transparent and fair in your dealings, even as you are creating conflict. Blindsiding long-term partners or using your power to crush them can be seen as unethical and can damage your reputation. While the goal is to shift the power dynamic, it should be done with a degree of professionalism and respect.
+この戦略はパートナー事業へ大きな悪影響を与える可能性があります。対立を作るとしても、透明で、公正で、敬意ある進め方が必要です。長年のパートナーを不意打ちし、力で押し潰すような振る舞いは、評判を傷つけます。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Analyze the Value Chain:** Map out your current routes to market and identify the costs and benefits of each. Where is value being created, and where is it being captured?
-2. **Develop the Direct Channel:** Build the infrastructure for your direct channel. This could be an e-commerce website, a physical store, or a direct sales team.
-3. **Define the Rules of Engagement:** Decide how you will manage the conflict. Will you offer different products or pricing in your direct channel? How will you handle leads that come through your website but are in a partner's territory?
-4. **Launch and Communicate:** Launch your direct channel and clearly communicate the new reality to your partners. Be prepared for a negative reaction.
-5. **Manage the Transition:** Carefully manage the transition period. You may need to offer incentives to partners to keep them on board, or you may need to be prepared to lose some of them.
-6. **Optimize the Direct Channel:** Continuously invest in and improve your direct channel to make it the preferred route to market for your customers.
+1. **バリューチェーンを分析する:** 現在の販売経路ごとの価値創出と価値取得を整理する
+2. **直販チャネルを構築する:** EC、直販チーム、実店舗など必要な基盤を作る
+3. **交戦規則を決める:** 価格差、品揃え、案件配分、地域対応をどう扱うか決める
+4. **立ち上げて伝える:** 新しい現実をパートナーへ明確に伝え、反応に備える
+5. **移行を管理する:** 必要なら誘因を設け、失うパートナーも想定しておく
+6. **直販を磨き続ける:** 顧客にとって最良の経路になるよう継続投資する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Direct Revenue Growth:** Is the revenue from your direct channel growing and becoming a significant part of your business?
-- **Margin Improvement:** Are your overall profit margins improving as you shift sales to the direct channel?
-- **Customer Data:** Are you gathering valuable customer data that you can use to improve your products and marketing?
-- **Brand Strength:** Is your brand becoming stronger and more recognized in the market?
+- 直販売上の成長
+- 全体粗利の改善
+- 取得できる顧客データの質と量
+- ブランド認知とブランド統制の向上
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Underestimating Partner Backlash
+### 反発の過小評価
 
-Your partners will not be happy, and they may actively work to undermine your business. Be prepared for a fight.
+パートナーは不満を持つだけでなく、積極的に妨害してくることがあります。
 
-### Operational Failures
+### 運営破綻
 
-If you are not ready to handle the complexities of e-commerce, logistics, and customer service, your direct channel will fail and damage your brand.
+物流、EC、顧客サポートを回せない直販は、ブランドを傷つけます。
 
-### Channel Confusion
+### チャネル混乱
 
-If customers are confused about where to buy your product or see inconsistent pricing across channels, it can create a negative experience.
+どこで買うべきか、価格がなぜ違うのかが分からないと、顧客体験が悪化します。
 
-### Half-Measures
+### 半端な実行
 
-A hesitant or poorly executed move into a direct channel can give you the worst of both worlds: you anger your partners without gaining the full benefits of going direct.
+中途半端に直販へ入ると、パートナーは怒るのに、直販の果実は得られません。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Inevitability of Disintermediation
+### 中間排除は多くの業界で不可避
 
-In many industries, the internet has made disintermediation inevitable. The companies that embrace this shift and build direct relationships with their customers are the ones that are most likely to succeed in the long run.
+インターネットによって、多くの業界では中間排除が避けがたい流れになりました。顧客との直接関係を築く企業ほど、長期的に強くなりやすいです。
 
-### Conflict as a Catalyst
+### 競合は変化の触媒にもなる
 
-Channel conflict is not just about cutting costs; it's about forcing change. It can be a powerful catalyst for innovation and a way to break free from the inertia of legacy business models.
+チャネル競合は単なるコスト削減ではなく、変化を強制する手でもあります。旧来モデルの慣性を破り、新しい提供形態へ進むきっかけになります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Power Dynamic:** Who currently owns the customer relationship in our market, and why?
-- **The Value of Intermediaries:** What value are our partners providing, and can we provide that value ourselves?
-- **The Risk of Inaction:** What is the long-term risk of allowing our partners to control our destiny?
-- **The Operational Readiness:** Are we truly ready to handle the operational complexities of a direct-to-consumer business?
-- **The Transition Plan:** How will we manage the transition and the inevitable conflict with our existing partners?
+- 今の市場で顧客関係を誰が握っているのか
+- 中間業者はどの価値を提供しており、それを自社で再現できるのか
+- パートナーに運命を委ね続ける長期リスクは何か
+- 直販の運営複雑性に本当に耐えられるか
+- 既存パートナーとの衝突をどう移行管理するか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: This strategy is a direct attempt to shift the balance of power between you and your buyers (in this case, your channel partners).
-- **[Vertical Integration](/terms/value-chain)**: Disintermediation is a form of vertical integration, as you are taking on a part of the value chain that was previously outsourced.
-- **[Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer)**: This is the most common manifestation of a disintermediation strategy.
-
-- [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - creating platforms that directly connect supply and demand sides, bypassing traditional channel partners.
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - 買い手との力関係を変える直接の一手
+- [Value Chain](/terms/value-chain) - 中間排除はバリューチェーンの再統合でもある
+- [Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer) - 中間排除の代表的な実装形
+- [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - 従来の流通を飛ばし、供給側と需要側を直接つなぐ
 
 ## ⛅ **関連する状勢パターン**
 
-- [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: direct channels emerge as industries commoditise.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: investment follows successful disintermediation efforts.
+- [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – トリガー: コモディティ化が進むと直販経路が現れやすい
+- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 成功した中間排除へ投資が流れやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Direct-to-Consumer Playbook](/books/the-direct-to-consumer-playbook)** by Mike Stevens. A guide to building a DTC business.
-- **[Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](/books/unlocking-the-customer-value-chain)** by Thales S. Teixeira and Greg Piechota. Analysis of how decoupling shifts value and drives disintermediation.
+- [The Direct-to-Consumer Playbook](/books/the-direct-to-consumer-playbook)
+- [Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](/books/unlocking-the-customer-value-chain)

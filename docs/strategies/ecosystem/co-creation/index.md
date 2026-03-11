@@ -1,7 +1,6 @@
 ---
-title: Co-creation
-description: A strategy of actively involving customers or users in the product development
-  process to create more valuable and user-centric solutions.
+title: 共創（Co-creation）
+description: 顧客やユーザーを開発プロセスに積極的に巻き込み、より価値ある解を共に作る戦略。
 tags:
 - ecosystem
 - collaboration
@@ -28,178 +27,174 @@ leadership_focus:
 - Experience design
 - Learning culture
 quick_signals:
-- Users already hack together workarounds or share their own enhancements.
-- Your roadmap lags behind demand because insight and capacity are limited.
-- Communities form around the product without formal support from you.
+- ユーザーがすでに回避策を作ったり、自分たちの拡張を共有したりしている。
+- 需要に対してロードマップが遅れており、洞察も開発余力も足りない。
+- 正式支援がなくても、製品の周りにコミュニティが生まれている。
 momentum_moves:
-- Create structured programmes where users can submit ideas and prototypes.
-- Provide tooling, APIs, and documentation that lower the barrier to contribution.
-- Highlight co-created wins publicly to celebrate contributors and attract more.
+- ユーザーがアイデアや試作品を投稿できる、構造化された場を作る。
+- 貢献の障壁を下げるため、ツール、API、文書を整備する。
+- 共創から生まれた成果を公に称え、新しい貢献者を呼び込む。
 watch_outs:
-- Ignoring contributor feedback once the programme launches.
-- Allowing governance gaps that let a few voices dominate the community.
-- Failing to integrate co-created work into your core offering.
+- プログラム開始後に、貢献者の声を無視すること。
+- ガバナンス不在のまま、一部の声だけが支配すること。
+- 共創の成果を中核提供物へ組み込めないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+**顧客やユーザーを受け手ではなく共同制作者として扱い、より価値が高く、ユーザー中心の解を一緒に作る戦略です。**
 
-**A strategy of actively involving customers or users in the product development process to create more valuable and user-centric solutions.**
-
-> *"Working with end users to drive evolution of a specific activity, practice or data set."*
+> *「特定の活動、実践、データセットの進化を、エンドユーザーと共に進めること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Co-creation?
+### 共創とは何か
 
-Co-creation is a strategy that moves customers from being passive recipients of a product to active partners in its creation. It involves building a collaborative relationship with users, inviting them to contribute ideas, provide feedback, and participate directly in the design and development process. This ensures that the final product is deeply rooted in user needs and context, rather than being based on internal assumptions. It is a powerful way to drive the evolution of a product by working directly with the people who will use it.
+共創とは、顧客を製品の受け手から、製品づくりの能動的なパートナーへ変える戦略です。アイデア提供、フィードバック、設計や開発への直接参加を促し、最終的な成果を社内の仮説ではなく、実際のユーザーニーズと文脈に根ざしたものにします。誰のために何を進化させるのかを、使う人と一緒に作るやり方です。
 
-### Why use Co-creation?
+### なぜ使うのか
 
-By involving users as partners, companies can:
+- **より良いプロダクトを作れる:** ユーザーの知識や創意を直接取り込める
+- **顧客ロイヤルティが高まる:** 参加者は所有感を持ち、支持者になりやすい
+- **市場リスクを減らせる:** 継続的に検証できるため、誰も望まないものを作りにくい
+- **コミュニティを育てられる:** 製品やブランドの周囲に参加型の基盤ができる
 
-- **Develop Better Products:** Directly tap into user knowledge and creativity to build solutions that are a better fit for the market.
-- **Increase Customer Loyalty:** When users feel a sense of ownership and contribution, they are more likely to become loyal advocates for the product and brand.
-- **Reduce Market Risk:** Co-creation provides continuous validation from the target market, reducing the risk of building something nobody wants.
-- **Foster a Community:** The collaborative process can build a strong, engaged community around a product or brand.
-
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
 ### LEGO Ideas
 
-LEGO Ideas is a platform where fans can submit their own designs for new LEGO sets. The community votes on these submissions, and if a design gets enough support, LEGO will review it for production as an official set, with the original fan designer receiving a share of the royalties. This is a perfect example of co-creation, where the company has outsourced a significant part of its product design to its most passionate users, resulting in some of its most popular and creative sets.
+LEGO Ideas では、ファンが新しいセットのデザインを投稿し、コミュニティが投票します。一定の支持を集めた案は公式製品候補となり、元の投稿者には報酬もあります。熱心なユーザーへ設計の一部を開き、人気商品を生み出している典型例です。
 
-### Linux and the Open Source Community
+### Linux とオープンソース・コミュニティ
 
-The entire open-source software movement is a massive example of co-creation. The Linux operating system, for instance, is not built by a single company but by a global community of developers who are also its users. They contribute code, fix bugs, and decide on the future direction of the project. Companies like Red Hat then build businesses by packaging and supporting this co-created software.
+Linux は、単一企業ではなく、利用者でもある世界中の開発者コミュニティが、コードを書き、バグを直し、将来の方向を決めてきた大規模な共創の例です。Red Hat のような企業は、その共創の成果を支える事業を築いています。
 
 ### Threadless
 
-Threadless is a t-shirt company that built its entire business model on co-creation. Artists from around the world submit t-shirt designs, and the community votes on which designs should be printed and sold. This allows Threadless to offer a constantly changing, community-curated selection of products with minimal in-house design staff.
+Threadless は、世界中のアーティストが T シャツデザインを投稿し、コミュニティ投票で販売商品を決めるモデルを築きました。少ない社内デザイン人員でも、多様で継続的な商品群を提供できます。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Co-creation">
   <MapSignals>
-    <li>Your map shows a product or service where user needs are diverse, complex, or poorly understood.</li>
-    <li>There is a passionate, engaged community of users around your product or market.</li>
-    <li>Competitors are offering generic, one-size-fits-all solutions.</li>
-    <li>The value of your product is highly dependent on user context and creativity.</li>
+    <li>地図上で、ユーザーニーズが多様、複雑、または十分理解されていない。</li>
+    <li>製品や市場の周りに、熱量の高いコミュニティがある。</li>
+    <li>競合が画一的な解しか提供していない。</li>
+    <li>製品価値がユーザー文脈や創意に強く依存している。</li>
   </MapSignals>
   <Readiness>
-    <li>We have a culture that is open to external ideas and values customer feedback.</li>
-    <li>We have the tools and platforms to facilitate collaboration with our user community.</li>
-    <li>Our leadership is willing to relinquish some control over the product development process.</li>
-    <li>We have a clear process for managing, evaluating, and integrating user contributions.</li>
+    <li>外部のアイデアに開かれ、顧客フィードバックを尊重する文化がある。</li>
+    <li>ユーザーコミュニティと協働するための道具や場がある。</li>
+    <li>製品開発の一部で主導権を手放す覚悟がある。</li>
+    <li>外部からの貢献を評価し、統合する明確なプロセスがある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You have an engaged and motivated user base that is willing to contribute.
-- You are operating in a market where deep user understanding is a key competitive advantage.
-- You want to build a strong community and foster brand loyalty.
+- 参加意欲の高いユーザー基盤があるとき
+- 深いユーザー理解が競争優位になるとき
+- コミュニティとブランド忠誠を育てたいとき
 
-### Avoid when
+### 避けるとき
 
-- Your users lack the knowledge or motivation to contribute meaningfully.
-- Your development process requires a high degree of secrecy or control.
-- You do not have the resources or commitment to properly manage the co-creation process. Asking for input and then ignoring it is worse than not asking at all.
+- ユーザーに意味ある貢献をする知識や動機がないとき
+- 高い秘匿性や統制が必要な開発であるとき
+- 共創をきちんと運営する資源や覚悟がないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is to shift the organizational mindset from "we know best" to a genuine partnership with users. This requires a degree of humility and a willingness to cede some creative control. Leaders must also create a structure and a culture that can effectively manage and integrate a high volume of external contributions without losing strategic focus or design coherence.
+「自分たちが最善を知っている」から、本当にユーザーと共同で作る姿勢へ組織を変えることです。そこには謙虚さと、創造的統制の一部を手放す意思が必要です。同時に、大量の外部貢献を扱っても戦略焦点や設計の整合を失わない構造を作らなければなりません。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The ability to foster and nurture a vibrant, collaborative community.
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — The skill to guide the co-creation process and synthesize diverse inputs into a coherent vision.
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — A willingness to listen to and act on ideas from outside the organization.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to provide a clear strategic framework within which the co-creation can happen, preventing it from becoming a chaotic free-for-all.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Designing participation rules, boundaries, and feedback loops with the community so they feel fair and locally relevant—mirroring Elinor Ostrom’s principles for stewarding shared resources.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — 活気ある協働コミュニティを育てる
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 多様な声をまとめて方向を作る
+- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — 外からの学びを受け入れ実験する
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 混沌を防ぐ枠組みを与える
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 公正な参加ルールとフィードバックループを設計する
 
-### Ethical considerations
+### 倫理面
 
-The main ethical consideration is fairness. If you are asking users to contribute their time and creativity, you must be transparent about how their contributions will be used and recognized. This could involve financial compensation (like LEGO Ideas), public recognition, or simply a clear explanation of why an idea was or was not used. Exploiting free labor under the guise of co-creation can quickly destroy community trust.
+重要なのは公正さです。時間と創造性を提供してもらうなら、その貢献をどう使い、どう認識するのかを明確にしなければなりません。LEGO Ideas のような金銭的報酬でも、公的な称賛でも構いませんが、ただの無償労働として搾取すれば信頼は壊れます。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify Your Co-creators:** Find the most passionate and knowledgeable users in your community.
-2. **Choose Your Method:** Select a co-creation method that fits your context. This could range from online forums and idea submission platforms to in-person workshops and user advisory boards.
-3. **Provide a Framework:** Give your co-creators a clear brief and a set of constraints to work within. This ensures that their contributions are aligned with your strategic goals.
-4. **Establish Commons Governance:** Co-design contribution rules with representatives of the community—clarify who can join, how decisions get made, what monitoring looks like, and the graduated consequences for abuse. Keep conflict resolution low friction and ensure external stakeholders respect the community’s autonomy.
-5. **Facilitate the Process:** Actively manage the collaboration, provide feedback, and help the community to build on each other's ideas.
-6. **Evaluate and Integrate:** Establish a clear process for evaluating the co-created ideas and integrating the best ones into your product roadmap.
-7. **Recognize and Reward:** Publicly acknowledge the contributions of your co-creators and find appropriate ways to reward them for their efforts.
+1. **共創者を見つける:** もっとも熱心で知識のあるユーザーを特定する
+2. **方法を選ぶ:** フォーラム、提案投稿、ワークショップ、ユーザー委員会など、状況に合う方式を選ぶ
+3. **枠組みを与える:** 目的と制約を明確にし、戦略とずれないようにする
+4. **コモンズのガバナンスを設計する:** 誰が参加し、どう意思決定し、どう監視し、濫用にどう段階的に対処するかを共同で決める
+5. **プロセスを支える:** フィードバックを返し、参加者同士が相互に積み上げられるよう促進する
+6. **評価して統合する:** 優れた提案を製品ロードマップへ取り込む明確な手順を持つ
+7. **認識し報いる:** 貢献者を公に認め、適切に報いる
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Quality and Quantity of Contributions:** Are you receiving a high volume of valuable ideas and contributions from your community?
-- **Product Improvement:** Have the co-created features led to measurable improvements in user satisfaction, engagement, or sales?
-- **Community Growth and Health:** Is your co-creation community growing and remaining actively engaged?
-- **Brand Loyalty:** Do participants in the co-creation process show higher levels of brand loyalty and advocacy?
+- 有用な提案や成果物の量と質
+- 共創から生まれた機能による満足度、利用、売上の改善
+- 共創コミュニティの成長と健全性
+- 参加者のブランド忠誠や推奨度
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Managing the Noise
+### ノイズの増大
 
-A large, active community can generate a huge volume of ideas, making it difficult to identify the signal in the noise.
+活発なコミュニティは大量のアイデアを生みます。信号と雑音を分ける設計が要ります。
 
-### Disappointment and Burnout
+### 失望と燃え尽き
 
-If community members feel that their contributions are being ignored, they will quickly become disillusioned and disengage.
+貢献が無視されていると感じた参加者は、すぐに離れます。
 
-### Loss of Cohesion
+### 一貫性の喪失
 
-Without a strong guiding hand, a co-created product can become a disjointed collection of features that lacks a coherent vision.
+強い方向づけがなければ、製品は寄せ集めの機能群になります。
 
-### Intellectual Property Issues
+### 知財問題
 
-Be clear from the outset about who owns the intellectual property of the co-created ideas to avoid legal disputes down the line.
+提案の権利帰属を最初から明確にしないと、後で法的紛争になります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The End of the Black Box
+### ブラックボックスの終わり
 
-Co-creation breaks down the traditional "black box" model of product development, where companies create products in secret and then push them to the market. It recognizes that in a networked world, the best ideas can come from anywhere.
+共創は、企業が密室で製品を作り、市場へ押し出す従来のブラックボックス型開発を壊します。ネットワーク化した世界では、最良のアイデアは社外からも来るという前提に立ちます。
 
-### Value is Jointly Created
+### 価値は共同で作られる
 
-The core insight of co-creation is that value is not created by the company and then delivered to the customer. Instead, value is co-created through the interaction between the company and the customer.
+価値は企業が作って顧客へ渡すものではなく、企業と顧客の相互作用の中で共同生成されます。これが共創の中核です。
 
-### Co-creation as Commons Stewardship
+### 共創はコモンズ運営でもある
 
-Successful co-creation programmes behave like well-managed commons. They define clear community and asset boundaries, adapt participation rules to local context, and let contributors co-create the rules they live under. Monitoring is transparent and often carried out by the community itself, with proportionate sanctions that protect trust instead of crushing experimentation. Provide accessible conflict-resolution channels so disagreements don’t fester, ensure external sponsors respect the community’s right to self-govern, and, as the initiative scales, nest governance layers (workgroups, councils, steering forums) so decisions stay close to the work. Ostrom’s design principles give leaders a checklist for sustaining energy, fairness, and resilience in a shared innovation space.
+成功する共創プログラムは、よく管理されたコモンズのように振る舞います。境界を定め、地域文脈に合ったルールを設け、参加者自身がそのルール作りに関われるようにします。監視は透明で、しばしばコミュニティ自身が担い、制裁は信頼を壊さず実験を守る程度に抑えます。対立解決の経路は軽く、外部スポンサーは共同体の自律を尊重し、規模拡大時には作業部会や評議会など複数層のガバナンスへ分けることで、意思決定を現場の近くに保てます。Ostrom の設計原則は、活力、公正、しなやかさを保つための実務的なチェックリストになります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Community:** Who are our most passionate users, and how can we engage them in our development process?
-- **The Platform:** What tools and platforms do we need to facilitate effective co-creation?
-- **The Process:** How will we manage the flow of ideas and ensure that the best ones are implemented?
-- **The Value Exchange:** What is the value proposition for our co-creators? Why should they participate?
-- **The Control:** How much control are we willing to give up to our community?
-- **The Commons:** Have we clarified boundaries, decision rights, monitoring, and escalation paths so the community can steward the shared assets confidently?
+- 最も熱量の高いユーザーは誰で、どう巻き込むか
+- どんな道具や場が必要か
+- アイデアの流れをどう扱い、最良のものをどう実装するか
+- 共創者にとっての価値交換は何か
+- どこまで主導権を手放すのか
+- 境界、意思決定権、監視、エスカレーション経路は明確か
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Open Approaches](/strategies/accelerators/open-approaches)**: Co-creation is a form of open innovation and often relies on open platforms and standards.
-- **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: Co-creation can be a powerful input to the "Leverage" phase of the ILC cycle, providing clear signals about what to commoditize next.
-
-- [Cooperation](/strategies/accelerators/cooperation) - working closely with partners and customers to jointly develop and refine offerings.
-- [Press Release Process](/strategies/attacking/press-release-process) - communicating co-creation milestones publicly to attract contributors and validate user-driven features.
-- [Experimentation](/strategies/attacking/experimentation) - running collaborative tests with users to co-develop and validate concepts before full-scale development.
-- [Harvesting](/strategies/markets/harvesting) - monetising and integrating co-created innovations into the broader product portfolio.
-- [Differentiation](/strategies/markets/differentiation) - leveraging unique user contributions to create distinguishing features and competitive advantage.
+- [Open Approaches](/strategies/accelerators/open-approaches) - 共創はオープンイノベーションの一形態
+- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - 次に何をコモディティ化するかのシグナルを得られる
+- [Cooperation](/strategies/accelerators/cooperation) - パートナーや顧客と密に連携して提案を磨く
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 共創の成果や価値を対外的な物語にまとめる
+- [Experimentation](/strategies/attacking/experimentation) - ユーザーと試しながら概念を育てる
+- [Harvesting](/strategies/markets/harvesting) - 共創で生まれた成果を製品群へ取り込む
+- [Differentiation](/strategies/markets/differentiation) - 独自のユーザー貢献を差別化に変える
 
 ## ⛅ **関連する状勢パターン**
 
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: working directly with users shapes how products and practices mature together.
-- [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: user insight reveals novel combinations worth investing in.
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: ユーザーと直接働くことで、製品と実践が一緒に進化する
+- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: ユーザー洞察が新しい組み合わせ価値を示す
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Future of Competition: Co-Creating Unique Value with Customers](/books/the-future-of-competition)** by C.K. Prahalad and Venkat Ramaswamy. The book that popularized the concept of co-creation.
+- [The Future of Competition: Co-Creating Unique Value with Customers](/books/the-future-of-competition)

@@ -1,5 +1,5 @@
 ---
-title: Restriction of Movement
+title: 機動制限（Restriction of Movement）
 tags:
 - restriction-of-movement
 - competitor
@@ -11,8 +11,7 @@ tags:
 - limitation
 authors:
 - dave-hulbert
-description: "Limiting a rival\u2019s options so they cannot adapt or expand into\
-  \ your territory."
+description: 競合の選択肢を絞り、適応や拡張を難しくする封じ込め戦略。
 stages:
 - Custom-Built
 - Product
@@ -29,197 +28,213 @@ leadership_focus:
 - Policy advocacy
 - Risk framing
 quick_signals:
-- Competitors court your partners or suppliers to open new channels.
-- You see rivals experimenting in adjacencies that threaten your core.
-- There are regulatory or contract windows where exclusivity can be locked in.
+- 競合が自社のパートナーや供給者へ接近し、新しい販路を作ろうとしている。
+- 競合が中核周辺の隣接領域で実験し始めている。
+- 規制や契約の隙間を使って、排他的条件を先に押さえられそうだ。
 momentum_moves:
-- Secure exclusive access to distribution, data, or capabilities that form the bottleneck.
-- Negotiate agreements that tie key partners closer through mutual incentives.
-- Stack legal, technical, and ecosystem barriers so alternatives appear unattractive.
+- ボトルネックになる流通、データ、能力への排他的アクセスを確保する。
+- 主要パートナーを相互誘因でより強く結びつける契約を結ぶ。
+- 法務、技術、エコシステムの障壁を積み重ね、代替案を魅力薄にする。
 watch_outs:
-- Overplaying exclusivity and triggering antitrust or partner backlash.
-- Blocking rivals without investing in your own evolution.
-- Boxing yourself in with the same constraints you impose on others.
+- 排他性を強く出しすぎて、独禁法やパートナー反発を招くこと。
+- 相手を塞ぐことに集中し、自分の進化を止めること。
+- 相手に課した制約で、自分まで動けなくなること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
-**Limiting a rival's ability to maneuver or adapt**.
+**競合が動ける経路を一つずつ塞ぎ、適応や拡張の余地を狭める戦略です。**
 
-> *"Limiting a competitors ability to adapt."*
+> *「競合の適応能力を制限すること。」*
 >
 > - Simon Wardley
 
-This strategy, sometimes called "Circling," aims to constrain a competitor by blocking their options to evolve or react effectively.
+この戦略は「囲い込み」とも呼べます。競合が前へ出ようとするたびに別の壁に当たる状態を作ります。
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Restriction of Movement?
+### 機動制限とは何か
 
-Restriction of Movement, or Circling, involves strategically limiting a competitor's ability to adapt or maneuver. It's about cornering them within the market or ecosystem, constraining their choices. If they try to innovate, you've boxed them in with patents or standards. If they try to expand, you're already there. If they seek partnerships, you've secured exclusivity. The competitor faces obstacles at every turn, confined to a limited space.
+機動制限、あるいは Circling は、競合が動ける方向を戦略的に制限するやり方です。市場、供給、提携、標準、人材、知財などの要所を押さえ、相手が進化したり、隣接領域へ広がったりする余地を狭めます。相手が何かを試そうとすると、どこかが既に埋まっている。そんな状態を狙います。
 
-### Why is Restriction of Movement a valuable leadership strategy?
+### なぜ有効なのか
 
-This strategy doesn't necessarily eliminate a competitor but restricts their growth, change, or effective reaction, leading to stagnation while you capitalize.
+必ずしも競合を消す必要はありません。相手の成長、変化、反応を鈍らせ、自分がその間に市場を取りやすくすることが目的です。
 
-### How?
+### どう進めるのか
 
-By strategically controlling key aspects of the market, a business can limit a competitor's ability to grow or adapt. This can involve securing exclusive deals, establishing dominant standards, or creating patent thickets. The effect is to limit the competitor's options, forcing them into a constrained position.
+排他的契約、支配的標準、知財の壁、隣接市場への先回り、人材の確保などを組み合わせて、競合の選択肢を減らします。効果は単発ではなく、複数面からの包囲で強まります。
 
-### Mapping the encirclement
+### 囲い込みを地図化する
 
 ```mermaid
 flowchart TD
-    A[Map competitor avenues<br/>for adaptation] --> B{Which front?}
-    B -->|Product & market| C[Launch adjacent offers<br/>and saturate price points]
-    B -->|Partnerships| D[Secure exclusivity with suppliers,<br/>channels, data sources]
-    B -->|Talent & capability| E[Acquire key teams,<br/>tie talent into ecosystem]
-    B -->|Regulation & IP| F[Shape standards,<br/>file defensive patents]
-    C --> G[Narrow differentiation corridor]
+    A[競合の適応経路を地図化] --> B{どの正面か}
+    B -->|製品と市場| C[隣接提供を出し
+価格帯を埋める]
+    B -->|提携| D[供給者やチャネルと
+排他的条件を結ぶ]
+    B -->|人材と能力| E[重要人材やチームを
+確保する]
+    B -->|規制と知財| F[標準を形作り
+防御特許を積む]
+    C --> G[差別化の余地を狭める]
     D --> G
     E --> G
     F --> G
-    G --> H[Competitor options shrink]
-    H --> I[Monitor escape attempts<br/>and refresh the map]
+    G --> H[競合の選択肢が縮む]
+    H --> I[逃げ道を監視し
+地図を更新する]
     I --> A
 ```
 
-This view shows how multiple coordinated moves progressively reduce the viable moves available to a rival, making constant monitoring essential to keep the containment tight without overreaching.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Facebook による Snapchat の囲い込み
 
-- **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.
+Facebook は Snapchat の買収に失敗した後、Instagram Stories、WhatsApp Status、Facebook Stories などを展開し、Snapchat の独自性が生きる空間を狭めました。成長の余地を減らした典型例です。
 
-- **Exclusive Deals and Ecosystem Control:** Apple's App Store policies restrict competitors on its platform by prohibiting alternative app stores and certain third-party functionalities. Microsoft's exclusive licensing deals with PC manufacturers in the 1990s limited rival operating systems' distribution.
+### 排他的契約とエコシステム支配
 
-- **Patent Fencing:** Companies create "patent thickets" by patenting a broad array of technologies, not just core inventions. This restricts competitors' innovation paths, as seen in the smartphone patent wars.
+Apple の App Store ポリシーは、代替ストアや第三者機能を制限し、競争相手の動きを抑えています。1990 年代の Microsoft の PC メーカーとの契約も、競合 OS の流通を狭めました。
 
-## 🚦 **When to Use / When to Avoid**
+### 特許フェンス
+
+企業が広範な特許網を作り、競合の技術的進路を狭めるやり方です。スマートフォン特許戦争はその典型です。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Restriction of Movement">
   <MapSignals>
-    <li>The competitor depends heavily on a limited set of suppliers, channels, technologies, or partnerships to compete.</li>
-    <li>The ecosystem shows signs of centralisation: critical enablers (e.g., platforms, standards, IP, influencers) can be controlled or preempted.</li>
-    <li>Market boundaries are shifting, making it possible to act ahead of the competitor in adjacent segments.</li>
-    <li>Your mapping reveals vulnerable access points (e.g., talent hubs, regulatory choke points, key APIs or standards) that the competitor relies on.</li>
-    <li>The competitor has made recent moves that expose overdependence or lack of diversification in their strategic options.</li>
-    <li>You have identified untapped user needs or areas where you can over-service the market to preempt lateral moves.</li>
+    <li>競合が、限られた供給者、チャネル、技術、提携に大きく依存している。</li>
+    <li>重要な実現要素を先回りして押さえられるだけの集中性がエコシステムにある。</li>
+    <li>市場境界が動いており、競合より先に隣接セグメントへ打てる。</li>
+    <li>規制、標準、API、インフルエンサーなど、競合依存の接点が見えている。</li>
+    <li>競合の最近の動きが、依存の偏りや戦略選択肢の狭さを示している。</li>
+    <li>競合の横展開を先回りできる未充足ニーズがある。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the operational scale or ecosystem reach to preemptively lock in key resources (e.g., suppliers, partners, infrastructure).</li>
-    <li>We can coordinate across functions (product, legal, partnerships, marketing) to execute a coherent constraint strategy.</li>
-    <li>We maintain strong intelligence on competitor movements and ecosystem dynamics to detect shifts quickly.</li>
-    <li>We understand how to frame our actions to avoid regulatory or reputational blowback (e.g., as innovation or customer service).</li>
-    <li>We have diversified capabilities that allow us to respond flexibly while restricting the movement of others.</li>
-    <li>We can model and monitor multiple fronts of competitive interaction (technology, market access, partnerships, talent).</li>
-    <li>We maintain ethical and strategic clarity to avoid escalation or overreach that damages long-term position.</li>
+    <li>重要資源を先回りして押さえられる運営規模や到達範囲がある。</li>
+    <li>プロダクト、法務、提携、マーケティングを横断して動ける。</li>
+    <li>競合の動きとエコシステム変化を継続監視できる。</li>
+    <li>規制や評判の反発を避ける語り方と設計ができる。</li>
+    <li>相手を塞ぎつつ自分は柔軟に動ける能力がある。</li>
+    <li>技術、市場アクセス、提携、人材の複数正面を同時に見られる。</li>
+    <li>長期的立場を損なう過剰反応を避ける判断力がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-Leadership should use this strategy when they want to holistically control the competitive landscape.
+- 競争地形を全体として制御したいとき
+- 競合の成長経路が比較的読みやすいとき
+- 重要資源を押さえる力があるとき
 
-### Avoid when
+### 避けるとき
 
-Leaders should be cautious of harming industry relationships or attracting regulatory scrutiny.
+- 業界関係を不必要に損ないそうなとき
+- 規制当局の注目を強く集めるとき
+- 競合より自社のほうが機動性を失いかねないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-To pursue this strategy, leadership must think holistically and "surround" the competitive landscape. Leaders identify and control the competitor's critical enablers of flexibility, such as access to suppliers, distribution channels, talent, and technology. This often involves preemptive strikes, like securing exclusive partnerships.
+全体を俯瞰し、競合の柔軟性を支える実現要素を押さえることです。供給者、流通、人材、技術、規制などの複数面を「囲む」発想が要ります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — proactive.
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — preemptive.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — highly strategic.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 包囲すべき地形を読む
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 先回りして押さえる
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 複数正面の賭けを組み立てる
 
-## 📋 **How to Execute**
+### 倫理面
 
-1. **Map avenues of competitor growth**: Identify new markets, target customers, and potential innovations.
-2. **Devise actions to block or limit each avenue**: This could involve securing distribution rights, introducing competing products, or locking in key partners.
-3. **Product/Market Front**: Ensure offerings in adjacent spaces to prevent competitor diversification. Maintain multiple brands to cover market segments and eliminate pricing gaps for competitors.
-4. **Contract/Partnership Front**: Secure exclusive deals with suppliers or channels. Sign rising technology providers to exclusive agreements.
-5. **Talent Front**: Poach or occupy talent to limit the competitor's access to expertise.
-6. **Legal/IP Front**: File patents and assert IP to block competitor innovation. Lobby for regulations and standards that favor your approach.
-7. **Gather information**: Monitor the competitor's plans through sales teams, industry gossip, and hiring patterns.
-8. **Accelerate encirclement**: Quickly address any gaps in containment.
-9. **Maintain core business strength**: Do not neglect customers or overextend the organization.
-10. **Programmatic execution**: Create a checklist of potential competitor actions and systematically address each.
+攻撃性と公正の境界管理が必要です。合法でも、過度な封じ込めは長期的な信頼や業界健全性を損なうことがあります。
 
-### Ethical considerations
+## 📋 **進め方**
 
-Leaders should balance aggression with fair play within legal bounds.
+1. 競合が成長・適応できる経路を洗い出す
+2. それぞれを塞ぐ手を設計する
+3. **製品・市場面:** 隣接空間へ先回りし、価格帯や用途を埋める
+4. **契約・提携面:** 供給者やチャネルとの排他条件を押さえる
+5. **人材面:** 必要人材やチームを確保する
+6. **法務・知財面:** 特許、防御策、標準、政策形成を使う
+7. 情報を集め、競合の逃げ道を監視する
+8. 包囲の隙間を見つけたら早く埋める
+9. 自社の中核事業を弱らせない
+10. 想定される競合の一手に対し、プログラムとして対抗策を準備する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-Success is often seen in what doesn't happen, such as a competitor's failure to gain market share or launch new products. Proxy metrics include:
+- 重要提携をどれだけ押さえられたか
+- 製品ポートフォリオの幅
+- 競合への顧客流出率
+- 競合が新製品や新市場を出せない状態が続いているか
 
-- Share of key partnerships secured
-- Breadth of product portfolio
-- Customer churn to competitors
+## ⚠️ **失敗しやすい点**
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+### 競合の脱出
 
-- **Competitor escape attempts**: Leaders must continually monitor competitors and respond quickly to plug any gaps in containment.
-- **Overkill**: Completely encircling a non-threatening competitor can waste resources.
-- **Dynamic markets**: Focus on a current competitor might blind you to new entrants or shifts.
-- **Competitor changing the game**: Competitors might bypass your restrictions by introducing different business models.
+囲い込みには継続監視が必要です。抜け道は必ず探されます。
 
-## 🧠 **Strategic Insights**
+### やりすぎ
 
-Restriction of movement is fundamentally about **controlling the competitive landscape** to neutralize competitors.
+脅威でない競合まで完全包囲しようとすると、資源浪費です。
 
-### Competitor Behavior
+### 市場変化の見落とし
 
-This strategy can force competitors into strategic errors.
+いまの競合に意識を向けすぎると、新規参入者や技術転換を見逃します。
 
-When restricted, competitors might attempt high-risk moves or focus on narrow market segments. If the company using restriction of movement is prepared, these reactions can weaken the competitor. For example, competitors blocked from traditional channels might try unconventional methods that fail, or focus on a small customer group. This strategy can funnel competitors into unfavorable spaces.
+### ゲームそのものを変えられる
 
-### External Perception
+競合が別の事業モデルへ飛ぶと、包囲線が無意味になることがあります。
 
-A well-executed restriction of movement can be perceived as market leadership.
+## 🧠 **戦略的示唆**
 
-Externally, the company appears omnipresent and customer-focused. Competitor complaints about being boxed out may not resonate, as actions can be framed as better service or innovation. This can make the strategy sustainable, if legal.
+### 競争地形そのものを制御する
 
-### Strategic Prudence
+機動制限の本質は、競争相手ではなく競争地形を支配することです。相手がどう動くか以前に、動ける空間自体を狭くします。
 
-Prudence is needed to avoid counterproductivity and maintain vigilance.
+### 追い詰められた相手は誤る
 
-Completely encircling a non-threatening competitor can waste resources. The strategy is most effective against potentially challenging competitors. It's vital to consider market dynamics, as focusing on a current competitor might create blindness to new entrants or technological shifts. Competitors might bypass restrictions with different business models. It's strategically prudent to regularly revisit and update the competitive landscape analysis as markets evolve.
+選択肢が減ると、競合は過大な賭けや狭い市場への逃避など、悪手を打ちやすくなります。こちらがそこまで読めていれば、さらに有利になります。
 
-Ultimately, restriction of movement can create a **stalemate favoring the stronger party**. The competitor remains, but their threat is limited. The company wins by controlling the status quo. It's a strategy of control and denial, limiting competitor options to erode their strength.
+### 外部からは市場リーダーに見える
 
-## ❓ **Key Questions to Ask**
+うまく実行すると、外からは「顧客にとって便利な総合提供者」に見え、競合の不満は届きにくくなります。ただし法的に持続可能であることが前提です。
 
-- What are the competitor's potential avenues for growth or adaptation?
-- How can we effectively block or limit each of these avenues?
-- What are the potential unintended consequences of this strategy?
-- How will we measure the success of this strategy?
-- How can we adapt this strategy as the market evolves?
+### 常に包囲図を更新する
 
-## 🔀 **Related Strategies**
+市場は動きます。囲い込みは一度やれば終わりではなく、継続的に地図を更新して維持する戦略です。
 
-- [**Alliances**](/strategies/ecosystem/alliances) - Forming alliances can be a way to restrict a competitor's access to partners.
-- [**Co-opting**](/strategies/ecosystem/co-opting) - Can be used to influence the ecosystem to restrict a competitor.
-- [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - Aims to restrict new competitors, similar to restricting existing ones.
-- [**Embrace and Extend**](/strategies/ecosystem/embrace-and-extend) - Can be used to control standards and limit competitor options.
-- [**Talent Raid**](/strategies/competitor/talent-raid) - Limits a competitor's movement by restricting access to talent.
-- [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) - The overarching goal of restriction of movement.
+## ❓ **問うべきこと**
 
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) - absorbing potential competitors or disruptive technologies to remove threats and limit their strategic options.
-- [sapping](/strategies/competitor/sapping) - gradually eroding a competitor’s resources and alliances to reduce their operational flexibility.
-- [fragmentation](/strategies/competitor/fragmentation) - breaking a competitor’s cohesive structure into isolated segments, constraining their ability to respond.
-- [Ambush](/strategies/competitor/ambush) - launching sudden strikes when competitors are restricted and unable to manoeuvre effectively.
+- 競合が成長または適応できる経路は何か
+- その経路をどう塞ぐか
+- どんな副作用がありうるか
+- 成功を何で測るか
+- 市場変化に合わせてどう更新するか
+
+## 🔀 **関連戦略**
+
+- [Alliances](/strategies/ecosystem/alliances) - 提携で競合の接点を狭める
+- [Co-opting](/strategies/ecosystem/co-opting) - 参加者を取り込み、相手の余地を減らす
+- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - 新規参入の動きを止める面で近い
+- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - 標準支配で競合の選択肢を狭める
+- [Talent Raid](/strategies/competitor/talent-raid) - 人材面の機動を奪う
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - より広い目的概念
+- [Threat Acquisition](/strategies/defensive/threat-acquisition) - 脅威を吸収して相手の選択肢を消す
+- [Sapping](/strategies/competitor/sapping) - 資源や同盟を徐々に削る
+- [Fragmentation](/strategies/competitor/fragmentation) - 相手の一体性を壊し対応力を下げる
+- [Ambush](/strategies/competitor/ambush) - 動けなくなった瞬間に奇襲をかける
 
 ## ⛅ **関連する状勢パターン**
 
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: blocking options keeps rivals tied to outdated approaches.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: constrained players may drive investment elsewhere.
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 選択肢を塞がれると競合は旧来路線に縛られやすい
+- [資本は新たな価値の領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 封じ込められた競合の外側へ投資が移ることがある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- *United States v. Microsoft Corp.* - Microsoft's bundling of Internet Explorer with Windows limited Netscape's access to the market.
-- *Antitrust Division | U.S. V. Microsoft: Proposed Findings Of Fact* - Detailed evidence of how Microsoft restricted competitor movement.
+- [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
+- [Antitrust Division | U.S. V. Microsoft: Proposed Findings Of Fact](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)

@@ -1,7 +1,6 @@
 ---
-title: Press Release Process
-description: Using Amazon's "working backwards" method to ensure clarity of vision
-  and market fit.
+title: プレスリリース・プロセス
+description: Amazon の working backwards を使い、ビジョンの明確さと市場適合を先に固める戦略。
 tags:
 - press-release-process
 - attacking
@@ -29,224 +28,217 @@ leadership_focus:
 - Launch choreography
 - Learning culture
 quick_signals:
-- Teams struggle to articulate why their initiative matters to users.
-- Roadmaps sprawl because no one agrees on the user-facing outcome.
-- Competitive launches keep owning the story before your teams can respond.
+- チームが、その取り組みがなぜユーザーに重要なのかを言語化できない。
+- ロードマップが広がる一方で、ユーザー向けの成果像に合意がない。
+- 競合の発表が先に物語を作り、自社は後追い説明に回っている。
 momentum_moves:
-- Facilitate working-backwards sessions with cross-functional teams to define the
-  target press release.
-- Use the FAQ to expose risky assumptions and trigger discovery work.
-- Socialise the vision artefacts so enabling teams can align dependencies early.
+- 部門横断で working backwards セッションを行い、目標となるプレスリリースを定義する。
+- FAQ を使って危うい前提をあぶり出し、探索すべき論点を明確にする。
+- ビジョン文書を周知し、支援チームが依存関係を早めに揃えられるようにする。
 watch_outs:
-- Treating the artefacts as theatre without changing investment choices.
-- Locking the story too early and ignoring evidence from research.
-- Letting the press release drift away from actual delivery capability.
+- 投資判断を変えず、儀式として成果物だけを作ること。
+- ストーリーを早く固めすぎて、調査から出た証拠を無視すること。
+- プレスリリースの約束が、実際の実行能力から乖離すること。
 effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
 ---
 
-**Use Amazon’s “working backwards” method as a strategic tool to clarify user needs and accelerate industrialisation of evolved components.**
+**Amazon の working backwards を戦略道具として使い、ユーザーニーズを明確にし、進化したコンポーネントの産業化を加速する手法です。**
 
 :::note
-**Press Release Process** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**プレスリリース・プロセス** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
 :::
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Press Release Process?
+### プレスリリース・プロセスとは何か
 
-The Press Release Process starts by writing the press release and FAQ for a proposed product before development begins. This fictional launch artefact defines the user problem, the solution, and the differentiation—anchoring the vision in customer value from day one.
+プレスリリース・プロセスは、開発を始める前に、想定する製品やサービスのプレスリリースと FAQ を先に書くやり方です。架空の発表文を先に作ることで、どのユーザーニーズを満たすのか、何が解決策なのか、どこが差別化なのかを最初から定義します。
 
-In Wardley terms, this means:
+Wardley Map の文脈では、これは次を意味します。
 
-- Anchoring your thinking at the top of the value chain (user needs).
-- Describing an outcome built on existing or well-evolved components.
-- Driving activity toward industrialisation rather than novelty.
+- バリューチェーンの上流であるユーザーニーズから考え始める
+- 既存または十分に進化したコンポーネントの上に成果を描く
+- 新奇さの追求ではなく、産業化に向けて活動を向ける
 
-This process helps avoid building products with no market narrative and ensures initiatives have a compelling value proposition.
+この方法は、市場で語る言葉を持たない製品を作ってしまう失敗を防ぎ、取り組みに説得力ある価値提案があるかを早い段階で確認させます。
 
 <AssessmentToolAdvert strategyName="Press Release Process" />
 
-### From Doctrine to Strategy
+### 指針から戦略へ
 
-The Press Release Process is doctrinal by default. It encourages clarity, alignment, and mapping. But it only becomes strategic when the mismatches it reveals are acted upon deliberately. A press release that depends on an immature capability surfaces a tension. Strategic leaders notice that gap then they decide how to respond. That response might involve accelerating evolution, reshaping the user need, leveraging an ecosystem, or constraining scope. It’s these decisions that are shaped by position, movement, and intent, that turn a doctrinal process into a strategic play.
+プレスリリース・プロセスそのものは、明確化、整合、マッピングを促すという意味で、まずは指針に近い実践です。しかし、そこから見えたズレに対して意図的に動いたときに戦略になります。未成熟な能力に依存したプレスリリースは緊張を露わにします。そこで指揮が、その能力の進化を早めるのか、ユーザーニーズの定義を変えるのか、エコシステムを使うのか、対象範囲を絞るのかを決める。この判断が、位置取り、動き、意図を伴って初めて戦略になります。
 
-### Why use Press Release Process?
+### なぜ使うのか
 
-This strategy forces strategic clarity and alignment:
+この戦略は、戦略上の明確さと整合を強制します。
 
-- Avoids tech-led meandering by fixing on a compelling user-facing outcome.
-- Reveals whether the idea leverages mature capabilities or chases ill-defined novelty.
-- Highlights value chain dependencies and makes gaps or weaknesses visible early.
+- 技術主導の迷走を避け、ユーザーに見える成果へ固定できる
+- アイデアが成熟した能力を活かしているのか、曖昧な新規性を追っているのかが分かる
+- バリューチェーン上の依存関係を可視化し、欠落や弱点を早く見つけられる
 
-It’s about **identifying what’s ready to be commoditised**, and building efficiently toward that.
+要するに、**何がコモディティ化へ向かう準備ができているかを見極め、それに合わせて効率よく作る** ための方法です。
 
-### How to use Press Release Process?
+### どう使うのか
 
-- Start with the press release: What’s the end-user outcome? Why will they care?
-- Write the FAQ: What questions will customers (and internal stakeholders) have?
-- Map the supporting value chain: Which components exist? Which are custom? Which can be bought or reused?
-- Iterate the release until it describes something both valuable and buildable using existing capabilities.
+- まずプレスリリースを書く: エンドユーザーにどんな成果が起きるのか。なぜ気にかけるのか。
+- FAQ を書く: 顧客や社内関係者は何を疑問に思うのか。
+- 支えるバリューチェーンを地図化する: どのコンポーネントが既にあり、どれがカスタムで、どれが購入・再利用可能か。
+- 価値があり、かつ既存能力で実現可能な内容になるまで発表文を磨く。
 
-Then execute against that. The press release becomes a forcing function for evolutionary acceleration, team alignment, and strategic focus.
+その後は、それに沿って実行します。プレスリリースは、進化の加速、チーム整合、戦略集中を促す強制装置になります。
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
 ### Amazon
 
-Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
+Amazon では Kindle、AWS、Echo など多くの製品が、内部のプレスリリース草案から始まりました。たとえば AWS Lambda では、「サーバー管理なしでコードを実行する」という発表文が、開発の方向とローンチ時の説明を揃える役目を果たしました。
 
 ### Netflix
 
-Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
+Netflix も近い手法を機能開発で使っています。たとえばオフライン視聴向けのダウンロード機能では、先に発表文や告知文を書くことで、競合より分かりやすく価値を伝えられました。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Press Release Process">
   <MapSignals>
-    <li>We're initiating development of a new product, feature, or user-facing service.</li>
-    <li>Our maps show high user visibility but unclear or underdefined value propositions.</li>
-    <li>The supporting components are largely evolved (Product/Commodity) and suitable for industrialisation.</li>
-    <li>We’ve struggled in the past with alignment, scope creep, or launching initiatives with weak customer traction.</li>
-    <li>There’s a mismatch between technical enthusiasm and market pull in our current pipeline.</li>
-    <li>We need a mechanism to surface capability gaps early and steer resource allocation accordingly.</li>
+    <li>新しい製品、機能、ユーザー向けサービスの開発を始めようとしている。</li>
+    <li>地図上ではユーザーへの可視性が高いのに、価値提案が曖昧である。</li>
+    <li>支えるコンポーネントの多くが進化しており、産業化に向いている。</li>
+    <li>過去に整合不足、スコープ肥大化、顧客牽引力の弱いローンチで苦労した。</li>
+    <li>今のパイプラインで、技術側の熱量と市場の引力にズレがある。</li>
+    <li>能力ギャップを早く見つけ、資源配分を修正する仕組みが必要である。</li>
   </MapSignals>
   <Readiness>
-    <li>We have teams willing and able to adopt narrative-driven development practices (e.g., writing a press release first).</li>
-    <li>We are comfortable iterating product ideas at a narrative level before committing to build.</li>
-    <li>We have the strategic discipline to let user-facing narrative shape scope and priorities, not the other way around.</li>
-    <li>We can map value chains and assess component maturity to validate feasibility of the proposed press release.</li>
-    <li>We are able to integrate marketing, product, and engineering perspectives early in the development process.</li>
-    <li>We can use narrative friction (e.g., press release feels weak) as a legitimate signal to rethink or stop.</li>
-    <li>We treat the press release as a living artefact that continues to guide execution—not just a kickoff ritual.</li>
+    <li>プレスリリースを先に書くような、物語起点の開発実践を採り入れられるチームがある。</li>
+    <li>作り始める前に、物語レベルで製品案を反復できる。</li>
+    <li>ユーザー向けの物語が、後付けではなくスコープと優先順位を決める規律がある。</li>
+    <li>バリューチェーンを地図化し、コンポーネントの成熟度を見て実現性を確かめられる。</li>
+    <li>マーケティング、プロダクト、エンジニアリングを早い段階で統合できる。</li>
+    <li>プレスリリースが弱いと感じたこと自体を、見直しや中止の妥当なシグナルとして扱える。</li>
+    <li>プレスリリースを、開始時の儀式ではなく、実行を導く生きた成果物として使える。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- Developing new products or major features.
-- Ensuring market-driven development.
-- Aligning cross-functional teams.
+- 新製品や大きな機能を開発するとき
+- 市場起点の開発に戻したいとき
+- 複数部門の足並みを揃えたいとき
 
-### Avoid when
+### 避けるとき
 
-- Working on extremely secretive innovations.
-- Teams resist the cultural shift or don't take the process seriously.
-- Initiatives have no marketing angle (e.g., back-end infrastructure improvements).
+- 極端に秘匿性の高い研究を進めているとき
+- チームが文化的転換を受け入れず、形だけになるとき
+- マーケット向けの物語を必要としない取り組みだけを扱うとき
 
 ```mermaid
 quadrantChart
-    title Strategic Fitness of Press Release
-    x-axis Market Clarity --> Confusion
-    y-axis Capability Readiness --> Capability Gap
-    quadrant-1 "Visionary But Risky"
-    quadrant-2 "Green Light"
-    quadrant-3 "Technically Ready, No Pull"
-    quadrant-4 "Abandon or Rethink"
+    title プレスリリース適合性
+    x-axis 市場の明確さ --> 混乱
+    y-axis 実行準備度 --> 能力不足
+    quadrant-1 構想は強いが危険
+    quadrant-2 実行すべき
+    quadrant-3 技術はあるが需要が弱い
+    quadrant-4 捨てるか再考する
 ```
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Ensuring the process is taken seriously and influences product design is critical to its success. Leaders must foster a culture where the press release process is foundational step in product development, rather than a formality. This involves actively engaging teams to iterate on the press release until it is compelling and aligns with customer needs.
+このプロセスを本気で扱い、製品設計に実際の影響を与えることです。指揮は、これを単なる形式ではなく、開発の土台として扱う文化を作らなければなりません。ユーザーニーズに合う、魅力的な発表文になるまでチームに反復を求める必要があります。
 
-Leaders should ensure that the press release remains a living document, guiding decisions throughout the development lifecycle. Without this commitment, the process risks becoming a superficial exercise with little impact on the final product.
+また、プレスリリースを開発ライフサイクル全体で生きた文書として使い続けることも重要です。そこへのコミットがないと、この方法は見栄えのよい儀式で終わります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Vision alignment.
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Customer-centric thinking.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and storytelling.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — ビジョンを揃える
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 顧客中心で考える
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語として伝える
 
-### Ethical considerations
+### 倫理面
 
-Avoid overhyping or promising features that cannot be delivered.
+実現できない機能を誇張したり、過度に期待を煽ったりしないことです。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Draft a press release and FAQ for the product.
-2. Iterate on the product idea until the press release is compelling.
-3. Use the press release as a guiding document throughout development.
-4. Update the press release as the product evolves.
+1. 製品のプレスリリースと FAQ を草案化する
+2. プレスリリースが魅力的になるまで製品案を反復する
+3. 開発全体でプレスリリースを判断基準として使う
+4. 製品の進化に合わせて内容も更新する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Clear and compelling press releases for all initiatives.
-- Improved product-market fit.
-- Faster adoption and positive customer feedback.
-- Alignment across teams.
-- Reduced feature creep.
+- 各施策に明確で魅力的なプレスリリースがある
+- プロダクトと市場の適合が改善する
+- 採用が速まり、顧客反応がよくなる
+- チーム間の整合が高まる
+- 機能の増殖が減る
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Faking it
+### 形だけ作る
 
-Writing a press release without letting it influence design yields no benefit.
+設計や投資判断に影響しないプレスリリースは、ほとんど意味がありません。
 
-### Lack of follow-up
+### フォロー不足
 
-Ignoring the press release after writing it wastes the effort.
+書いたあとに参照されなければ、工数だけが無駄になります。
 
-### Overhyping risk
+### 過剰な約束
 
-Overpromising in the press release can lead to a disconnect at launch.
+発表文で期待を上げすぎると、ローンチ時に現実との差が問題になります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Forcing Function for Value Chain Coherence
+### バリューチェーンの整合を強制する
 
-The Press Release Process acts as a forcing function to define a coherent value chain *before* resources are committed. By articulating the end-state (customer value) up front, it forces strategic decisions about *what must exist* to realise that value. This exposes key components, dependencies, and whether you're working with industrialised building blocks—or inventing where you shouldn’t be. It transforms vague intent into explicit structure.
+プレスリリース・プロセスは、資源を投じる前に、整合したバリューチェーンを定義させる強制装置です。顧客価値という終点を先に書くことで、その価値を実現するのに何が必要かを逆算させます。これにより、重要なコンポーネントや依存関係、産業化済みの土台に乗っているのか、そうでないのかが明確になります。
 
-### Anchoring in the Top of the Value Chain
+### バリューチェーンの上流に固定する
 
-By starting with the customer-facing press release, the process forces teams to begin at the **top of the value chain**, where visibility and value are highest. Rather than being pulled down into solution-space or premature technical discussions, it keeps strategy focused on the actual user need. This anchoring helps prevent misalignment between user goals and system capabilities: a common failure in mapping.
+顧客向けの発表文から始めることで、チームは **バリューチェーン上流のユーザーニーズ** から考えざるを得ません。技術解に引きずられず、本当に満たすべき需要に焦点を保てます。
 
-### Exposing Gaps in Evolution
+### 進化のギャップを露出させる
 
-Simulating a launch context early reveals mismatches between the desired experience and the maturity of the underlying components. If a proposed press release implies commodity-scale availability but the capabilities are still in custom or product stages, that’s a signal: either evolve or adapt the vision. It’s a pragmatic check against strategic overreach or wishful thinking.
+早い段階でローンチ文脈を仮想的に作ると、望む体験と、下支えするコンポーネントの成熟度のズレが見えます。コモディティ並みの可用性を匂わせているのに、実際はカスタムやプロダクト段階なら、それは戦略上の警告です。
 
-### Constraint as Strategy
+### 制約そのものを戦略にする
 
-The press release constraint rather than just narrative. It narrows the field of play by discarding paths that don't serve the declared value. This reduces noise, eliminates scope creep, and accelerates convergence. In strategic terms, it forces the team to act like an industrialist, not an inventor, by identifying where reuse and scale are feasible, and where not to explore.
+プレスリリースは単なる物語ではなく制約です。宣言した価値に寄与しない道を捨てさせ、ノイズを減らし、スコープ肥大化を抑え、収束を早めます。
 
-### Narrative as Inertia Manipulation
+### 物語で慣性を作る
 
-A clear, simple press release generates internal and external inertia. Internally, it aligns actors across functions by tying their efforts to a visible outcome. Externally, it sets expectations and primes the market. In mapping terms, this narrative can shape the landscape by triggering anticipatory moves from competitors or stimulating adjacent ecosystem activity. It’s low-effort inertia creation.
+明快なプレスリリースは、社内外に慣性を生みます。社内では関係者を可視な成果へ揃え、社外では市場期待を先に形作ります。低コストで慣性を作る手です。
 
-### Competitive Tempo via Pre-commitment
+### 事前コミットでテンポを上げる
 
-In fast-moving markets, delay often stems from poor alignment and rework. Pre-committing to a clear press release gives the team a stable attractor, reducing ambiguity and increasing execution speed. This supports **temporal advantage**: faster adaptation, faster evolution, faster feedback. The strategy isn’t so much about *what* you build but *how quickly* you can industrialise it.
+動きの速い市場では、遅れの原因は整合不足と手戻りです。明確なプレスリリースに先にコミットすると、チームは安定した引力点を得て、曖昧さが減り、実行速度が上がります。
 
-### Strategic Fitness: Testable Narratives
+### 試せる物語としての適合性
 
-A press release that reads as weak or incoherent is a fast signal of strategic unfitness. If you can’t make the narrative credible, it likely means the need isn’t real, the differentiation is unclear, or the supporting capabilities don’t exist. This gives you a cheap, fast, repeatable filter, before expensive commitments are made.
+読んで弱いプレスリリースは、戦略的不適合を示す速いシグナルです。価値が本物でないか、差別化が弱いか、必要な能力が存在しない可能性があります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Customer focus:** Does the press release clearly articulate the customer benefit?
-- **Clarity:** Is the message simple and compelling?
-- **Differentiation:** Does the product stand out from competitors?
+- 顧客便益は明確に書けているか
+- メッセージは単純で魅力的か
+- 競合と何が違うのか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Integrates marketing into development.
-- [Directed Investment](/strategies/attacking/directed-investment) – Helps prioritise resources toward capabilities surfaced during the press release process.
-- [Market Enablement](/strategies/accelerators/market-enablement) – Ensures downstream ecosystem or partner support for the customer-facing outcome.
-- [Co-creation](/strategies/ecosystem/co-creation) – Can be used to shape offerings with key users or partners once the press release defines the value proposition.
-- [Open Approaches](/strategies/accelerators/open-approaches) – Useful when the press release assumes availability or standardisation not yet realised.
-- [Education](/strategies/user-perception/education) – Supports narratives that require user behavioural change or awareness to realise adoption.
-- [Differentiation](/strategies/markets/differentiation) – Tightly coupled; the press release defines your positioning in a crowded space.
-- [Fast Follower](/strategies/positional/fast-follower) – The press release process can be used to quickly respond to emerging user needs with evolved capabilities.
-- [Experimentation](/strategies/attacking/experimentation) – Use press releases to simulate outcomes and test resonance before committing resources.
+- [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing) - 開発と市場への語りを結びつける
+- [Directed Investment](/strategies/attacking/directed-investment) - プレスリリースで見えた能力に資源を寄せる
+- [Market Enablement](/strategies/accelerators/market-enablement) - 顧客向け成果を支える下流の準備を整える
+- [共創（Co-creation）](/strategies/ecosystem/co-creation) - 価値提案を定義したあと、主要ユーザーやパートナーと磨ける
+- [Open Approaches](/strategies/accelerators/open-approaches) - 標準化や利用可能性の前提を満たすのに有効
+- [Education](/strategies/user-perception/education) - 行動変容が必要な物語を支える
+- [Differentiation](/strategies/markets/differentiation) - 発表文が混雑市場での位置取りを定義する
+- [高速追随（Fast Follower）](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
 
-- [Insertion](/strategies/poison/insertion) - embedding subtle caveats or qualifiers into announcements to undermine competitor narratives or provoke doubt.
+## 📚 **参考文献**
 
-## ⛅ **関連する状勢パターン**
-
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: describing the end state clarifies uncertain outcomes.
-- [Everything evolves](/climatic-patterns/everything-evolves) – influence: the press release helps teams anticipate how the product will mature.
-
-## 📚 **Further Reading & References**
-
-- [Working Backwards](/books/working-backwards) - Details Amazon's methodology.
+- [Working Backwards](/books/working-backwards)
+- [The Everything Store](/books/the-everything-store)
+- The Mom Test - Rob Fitzpatrick
