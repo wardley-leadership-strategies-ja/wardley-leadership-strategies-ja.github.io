@@ -1,310 +1,326 @@
 ---
-title: Cooperation
-description: Working with others, even competitors, to achieve a goal.
-tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
+title: 協調（Cooperation）
+description: 競合を含む他者と協力し、単独では達成しにくい目的を実現する戦略。
+tags:
+- cooperation
+- accelerators
+- collaboration
+- partnerships
+- standards
+- alliances
+- ecosystem
+- mutual benefit
 ethical_alignment: Medium
-leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
+leadership_skills_needed:
+- Trust-Building
+- Negotiation
+- Strategic Thinking
 related_strategies:
-  - alliances
-  - co-creation
-  - circling-and-probing
+- alliances
+- co-creation
+- circling-and-probing
 evolution_stage: Genesis/Custom
 strategic_insight_area: Ecosystem
-when_to_use: Task is too large, risky, or slow to do alone; establishing a new standard.
-when_to_avoid: Goals fundamentally clash with partners; giving a weaker competitor undue advantage.
-core_challenge: Balancing control and openness.
-authors: [dave-hulbert]
+when_to_use: 単独では大きすぎる、危険すぎる、遅すぎる課題に直面しているとき。新しい標準を確立したいとき。
+when_to_avoid: パートナー候補と目的が根本的に衝突しているとき。弱い競合を不必要に強くしてしまうとき。
+core_challenge: 統制と開放性の両立。
+authors:
+- dave-hulbert
 stages:
-  - Genesis
-  - Custom-Built
+- Genesis
+- Custom-Built
 goals:
-  - Accelerate adoption
-  - Build ecosystem leverage
-  - Secure long-term investment
+- Accelerate adoption
+- Build ecosystem leverage
+- Secure long-term investment
 pressures:
-  - Limited resources or capacity
-  - Market is nascent or undefined
-  - Facing dominant incumbent
+- Limited resources or capacity
+- Market is nascent or undefined
+- Facing dominant incumbent
 leadership_focus:
-  - Trust-building
-  - Partner choreography
-  - Shared governance discipline
+- Trust-building
+- Partner choreography
+- Shared governance discipline
 quick_signals:
-  - The work is too risky or capital intensive to pursue alone.
-  - Your map reveals complementary players around the same user need.
-  - Speed to establish a de facto approach matters more than owning everything.
+- 単独では追えないほど、取り組みが高リスクまたは資本集約的になっている。
+- 地図上で、同じユーザーニーズの周囲に補完関係のプレイヤーが見えている。
+- すべてを自分で握ることよりも、事実上の標準や共通手法を先に作ることの方が重要だ。
 momentum_moves:
-  - Map mutual value exchanges and publish the shared intent.
-  - Pilot a narrow collaboration to build trust and working rhythms.
-  - Create a lightweight governance forum that keeps decisions transparent.
+- 相互の価値交換を地図にし、共有する意図を明文化する。
+- まずは狭い協業から始めて、信頼と作業リズムを作る。
+- 意思決定を透明に保つ、軽量な共同ガバナンスの場を設ける。
 watch_outs:
-  - Misaligned incentives that turn collaboration into competition.
-  - Sharing differentiating capabilities without a plan to protect them.
-  - Cultural friction or slow decision cycles between partners.
+- インセンティブがずれて、協調が競争へ反転すること。
+- 守る計画がないまま、差別化要素まで共有してしまうこと。
+- 文化摩擦や意思決定の遅さで、協力の速度が失われること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Working with others, even competitors, to achieve a goal**.
+**競合を含む他者と協力し、単独では難しい目標を達成する戦略です。**
 
-> *"Working with others. Sounds easy, actually it's not."*
+> *「他者と協力する。簡単そうに聞こえるが、実際にはそうではない。」*
 >
 > - Simon Wardley
 
-This strategy is about forming partnerships, joint ventures, or industry collaborations where mutual benefit can be found.
+この戦略は、相互利益が見込める場面で、提携、共同事業、業界横断の協業を組むことを扱います。
 
 <AssessmentToolAdvert strategyName="Cooperation" />
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Cooperation
+### 協調とは何か
 
-**Cooperation** in this context is a broad strategy involving collaboration between entities to achieve mutual goals. It encompasses a range of practices, from informal knowledge sharing to formal alliances and joint ventures. See [Alliances](/strategies/ecosystem/alliances) for a more structured, formal subset of cooperation.
+ここでいう協調とは、複数の主体が相互の目的を実現するために意図的に連携する、広い戦略概念です。ゆるやかな知識共有から、正式なアライアンスやジョイントベンチャーまでを含みます。より形式化された協調の下位類型としては、[アライアンス（Alliances）](/strategies/ecosystem/alliances)があります。
 
-Cooperation in Wardley's framework refers to deliberate collaboration between entities (including competitors) to achieve mutual benefits that would be difficult or impossible to achieve independently. Unlike general collaboration, strategic cooperation in Wardley Mapping is specifically focused on accelerating component evolution or creating new market spaces through combined capabilities, shared risk, or unified standards.
+Wardley Mapping における協調は、単なる仲の良い共同作業ではありません。単独では難しい成果を、能力の補完、リスクの分担、標準の整備、共通基盤の構築によって実現するための、意図的な戦略です。相手が競合であっても、同じ制約に直面しているなら協調は成り立ちます。
 
-### Why is Cooperation a valuable leadership strategy?
+### なぜ価値があるのか
 
-Cooperation becomes a critical strategy when facing challenges beyond a single entity's capabilities or when the cost of going alone outweighs potential competitive advantage.
+協調が重要になるのは、課題が単独企業の能力を超えていたり、単独で進むコストの方が、競争上の見返りより大きかったりするときです。
 
-It creates value by:
+価値は主に次の形で生まれます。
 
-- Pooling complementary capabilities to fill gaps
-- Distributing risk across multiple parties
-- Accelerating component evolution through shared learning
-- Creating standards that expand total market opportunity
-- Enabling focus on core competencies while leveraging partners for others
+- **補完能力の結合:** 自社に足りないものを他者の強みで埋められる
+- **リスク分散:** 高コスト・高不確実性の賭けを複数主体で引き受けられる
+- **進化の加速:** 学習、データ、研究成果を持ち寄ることで進化が早まる
+- **市場拡大:** 共通標準や共通基盤を作り、市場全体の器を広げられる
+- **集中の実現:** 自社は本当に差別化すべき部分へ資源を集中できる
 
-### How?
+### どう機能するのか
 
-The origin is basic: two heads (or companies) can be better than one when tackling large challenges (market creation, standards, expensive R&D). The purpose is to achieve something you couldn't alone (or not as efficiently). Key principles: alignment of interests, clear governance, and trust. Cooperation can range from loose (co-marketing agreements, sharing research) to formal (joint venture company, standards consortium). It can **accelerate evolution** by pooling resources and knowledge: an "accelerator" in that sense. However, culturally it requires stepping out of pure competitive mindset, which is tricky.
+出発点は単純です。大きな課題、市場形成、標準化、高額な研究開発では、二つ以上の頭脳や企業の方が一つより強いことがあります。目的は、単独では実現できないか、効率が悪すぎることを達成することです。そのために必要なのは、利害の整合、明確なガバナンス、そして信頼です。
 
-Cooperation can range from loose (co-marketing agreements, shared research, open source contributions) to formal (joint ventures, standards consortia, strategic alliances). It can accelerate evolution by pooling resources and knowledge. However, cooperation requires a shift from zero-sum thinking to ecosystem thinking, which can be culturally difficult.
+協調は、共同マーケティングや調査共有のような緩い形から、ジョイントベンチャーや標準化団体のような重い形まで幅があります。資源と知識を束ねることで**進化を加速**できるため、ここでは加速戦略に分類されます。一方で、純粋なゼロサム競争の発想から一歩外れ、エコシステム全体を見る視点が必要になるため、文化的には難しい戦略でもあります。
 
-### Types of Cooperation
+### 協調の類型
 
-Cooperation strategies can take many forms, depending on the level of commitment, formality and strategic alignment:
+協調は、関与の深さ、形式、戦略整合の度合いによって多様な形を取ります。
 
-- **Informal knowledge sharing** – e.g. open research, shared tooling, ecosystem meetups
-- **Co-marketing or distribution partnerships** – sharing reach or branding
-- **Shared infrastructure** – joint investments in platforms or networks (e.g. telecom towers, charging networks)
-- **Co-development or R&D partnerships** – collaborating on new products or components
-- **Standards consortia** – forming a body to define or promote an industry standard. See also [**Standards Game**](/strategies/markets/standards-game)
-- **Joint ventures** – creating a new entity to pursue a shared opportunity
-- **[Alliances](/strategies/ecosystem/alliances)** – formalised, often long-term collaboration with shared branding or governance
+- **非公式な知識共有:** 共同研究、共通ツール、コミュニティ集会など
+- **共同マーケティングや販路提携:** リーチやブランドを持ち寄る
+- **共有インフラ:** 通信塔、充電網、共同プラットフォームなどへ共同投資する
+- **共同開発や研究開発提携:** 新しいプロダクトやコンポーネントを一緒に作る
+- **標準化コンソーシアム:** 業界標準を定義し普及させる。関連戦略として [Standards Game](/strategies/markets/standards-game) がある
+- **ジョイントベンチャー:** 新しい事業体を作って共通機会を追う
+- **[アライアンス（Alliances）](/strategies/ecosystem/alliances):** 長期・正式・共同統治を伴う協調
 
-Each form carries different risks and strategic benefits. Choosing the right type depends on the goal, the evolution stage of the component, and trust between parties.
+どの形が適切かは、目的、対象コンポーネントの進化段階、当事者間の信頼水準で決まります。
 
 ```mermaid
 mindmap
-  root((Cooperation))
-    Forms
-      Informal Knowledge Sharing
-      Co-marketing Partnerships
-      Shared Infrastructure
-      Co-development & R&D
-      Standards Consortia
-      Joint Ventures
-      Formal Alliances
-    Goals
-      Accelerate Evolution
-      Risk Sharing
-      Market Creation
-      Expand Ecosystem
-      Shape Standards
-    Risks
-      Misalignment
-      Trust Breakdown
-      Slower Decisions
-      Competitive Exposure
-      Governance Failure
-    Success Factors
-      Aligned Incentives
-      Trust Mechanisms
-      Clear Governance
-      Complementary Capabilities
-      Exit Strategies
+  root((協調))
+    形態
+      非公式な知識共有
+      共同マーケティング
+      共有インフラ
+      共同開発と研究開発
+      標準化コンソーシアム
+      ジョイントベンチャー
+      公式アライアンス
+    目的
+      進化の加速
+      リスク分担
+      市場形成
+      エコシステム拡大
+      標準形成
+    リスク
+      利害不一致
+      信頼崩壊
+      意思決定の遅延
+      競争上の露出
+      ガバナンス不全
+    成功要因
+      インセンティブ整合
+      信頼の仕組み
+      明確なガバナンス
+      補完能力
+      退出戦略
 ```
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### The Sony-Ericsson partnership (early 2000s)
+### Sony Ericsson の提携（2000 年代前半）
 
-Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They cooperated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
+Sony は家電の強みを持ち、Ericsson は通信インフラと携帯電話技術を持っていました。両者は協調して Sony Ericsson の携帯電話を生み出し、互いの欠落を補いました。この協調によって、単独では難しかった規模で Nokia などの大手と戦えました。
 
-### The Bluetooth SIG (Special Interest Group)
+### Bluetooth SIG
 
 [![Bluetooth SIG Wardley map](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
 
- An industry cooperation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they cooperated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
+Ericsson、Nokia、IBM、Intel などが参加した Bluetooth SIG は、無線周辺接続の標準を協調して作った例です。互いに別規格を争う代わりに、一つの標準を確立し、市場全体を広げ、Bluetooth の進化を加速しました。
 
-### Hypothetical examples
+### 仮想例: 希少疾患向け治療の共同開発
 
-Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
+中堅の製薬企業 2 社が、それぞれ候補化合物を持っていたとします。別々に高価な治験を走らせるのではなく、共同契約を結び、併用療法の試験とデータ共有を行う方が早く安く進められるかもしれません。成功すれば、両社は地域分担や販売分担で市場を分け合い、単独では難しかった治療法の進化を早められます。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Cooperation">
   <MapSignals>
-    <li>We’re addressing a component in the Genesis or Custom stage that is too large, risky, or slow to develop alone.</li>
-    <li>Our competitors or peers face similar challenges and could benefit from a shared approach.</li>
-    <li>There is an emerging opportunity that would benefit from ecosystem expansion or standardisation.</li>
-    <li>Success in this area depends on interoperability, platform effects, or shared infrastructure.</li>
-    <li>Our current value chain includes adjacent players with complementary capabilities.</li>
-    <li>Market formation is more important than short-term control or differentiation.</li>
-    <li>There is strategic ambiguity that makes solo investment unattractive but joint exploration viable.</li>
+    <li>創世記またはカスタムビルド段階のコンポーネントが、単独では大きすぎる、危険すぎる、遅すぎる。</li>
+    <li>競合や同業他社も同じ課題を抱えており、共有アプローチの便益がある。</li>
+    <li>エコシステム拡大や標準化が有利に働く新しい機会が立ち上がっている。</li>
+    <li>相互運用性、プラットフォーム効果、共有インフラが成功条件になっている。</li>
+    <li>現在のバリューチェーンに、補完能力を持つ隣接プレイヤーが見えている。</li>
+    <li>短期的な統制や差別化より、市場形成の方が重要である。</li>
+    <li>不確実性が高く、単独投資は重いが、共同探索なら成立する。</li>
   </MapSignals>
   <Readiness>
-    <li>We have mechanisms to build and maintain trust with external partners (e.g., transparent reporting, aligned incentives).</li>
-    <li>We are comfortable with shared governance and joint decision-making.</li>
-    <li>We have experience with partnerships or alliances, even informal ones.</li>
-    <li>We are capable of negotiating and managing co-created intellectual property or standards.</li>
-    <li>Our culture supports ecosystem thinking rather than zero-sum competition.</li>
-    <li>We can articulate clear value to prospective partners and are willing to share gains.</li>
-    <li>We have planned for exit scenarios and can manage partner divergence without destabilising our core business.</li>
+    <li>透明な報告や利害調整など、外部パートナーとの信頼を築き維持する仕組みがある。</li>
+    <li>共同ガバナンスと共同意思決定を受け入れられる。</li>
+    <li>非公式なものも含め、提携やアライアンスの経験がある。</li>
+    <li>共同で生まれる知財や標準を交渉し管理できる。</li>
+    <li>ゼロサム競争ではなく、エコシステム思考を支える文化がある。</li>
+    <li>候補パートナーへ明確な便益を示し、成果を分け合う意思がある。</li>
+    <li>退出や方針分岐を想定し、中核事業を不安定化させず扱える。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-The **task is too large, risky, or slow** to do alone, and partners have complementary strengths. Also when establishing a new standard or platform where **ecosystem is more valuable than solo control** (e.g., to beat a common enemy or to grow a pie that's currently small). Cooperation is key in early market formation (fighting too early can stall everyone).
+- **課題が大きすぎる、危険すぎる、遅すぎる**ため、単独では成立しないとき
+- 新しい標準やプラットフォームを作る場面で、**単独支配よりエコシステム形成の価値が大きい**とき
+- 市場形成の初期で、早すぎる競争が全員の成長を止めてしまうとき
 
-### Avoid when
+### 避けるとき
 
-Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
+- 自社と候補パートナーの目的が根本的に衝突しているとき
+- 共同開発の成果をめぐって、後で直接対立することが見えているとき
+- 協調によって弱い競合へ過大な便益を与え、それが将来自社への脅威になるとき
+- 自力で勝ち切れるのに、成果を不必要に分け合ってしまうとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-A leader must **balance control and openness**. Cooperation can accelerate innovation but also risks creating dependencies or eroding unique advantages. Effective leadership in cooperation means structuring agreements that align interests while maintaining strategic flexibility.
+協調では、**統制と開放性の均衡**を取らなければなりません。協力はイノベーションを加速しますが、依存や独自優位の希薄化も招きます。優れた指揮とは、利害を揃えながら将来の選択肢を残す契約と運営を組むことです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — fostering trust.
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — managing alliances.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — setting governance rules.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 信頼を作り、利害を整える
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 協力関係を運営する
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 共同行動を支えるルールを設計する
 
-### Ethical considerations
+### 倫理面
 
-## 📋 **How to Execute**
+協調では、公正な価値配分と透明性が重要です。片方だけが学習を持ち帰り、後から単独で刈り取る構図になると、信頼は壊れます。契約だけでなく、期待値、情報共有範囲、知財の扱い、紛争解決を明確にし、相手を搾取しない設計にする必要があります。
 
-1. Assess alignment and goals
-   - alignment: Incentive structuring: Revenue-sharing models, IP-sharing agreements, performance-based milestones
-2. Define governance
-   - consortium vs. joint venture vs. strategic partnership
-3. Set trust mechanisms
-   - build trust early: Pilot projects, transparency mechanisms, pre-agreed dispute resolution
-4. Establish exit strategies
+## 📋 **進め方**
 
-## 📈 **Measuring Success**
+1. **目的と利害を見極める:** 何を達成したいのか、双方が何を得るのかを明確にする
+2. **協力の器を決める:** コンソーシアム、ジョイントベンチャー、提携など、目的に合う形を選ぶ
+3. **信頼の仕組みを先に作る:** 小さな試行、透明性、事前合意した紛争解決手段を用意する
+4. **ガバナンスを定める:** 意思決定権、成果配分、知財、情報共有、品質基準を明文化する
+5. **退出条件を持つ:** 方向がずれたとき、関係を壊さず離脱できる条件を定める
 
-- Speed metrics: Reduction in time-to-market or development cycles compared to solo efforts
-- Cost efficiency: Reduced R&D or market-entry costs versus going alone
-- Market creation: Growth in total addressable market (especially for standards-based cooperation)
-- Knowledge transfer: New capabilities developed within each organization
-- Strategic positioning: Improved position on the value chain for core business
-- Governance efficiency: Time taken to make joint decisions versus escalations/disputes
-- Partner satisfaction: Regular assessment of all parties' perceived value from the arrangement
-- Innovation rate: Number of new features, products, or methods developed through the partnership
+## 📈 **成功指標**
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+- 単独で進めた場合に比べた市場投入速度や開発サイクルの短縮
+- 研究開発費、参入費、インフラ投資の削減幅
+- 標準化や市場形成による総市場規模の拡大
+- 各組織へ持ち帰れた新しい能力や知識
+- 中核事業のバリューチェーン上での位置強化
+- 共同意思決定に要する時間と紛争件数
+- 参加各社の満足度と継続意欲
+- 協力を通じて生まれた新機能、新製品、新手法の数
 
-### Alignment issues
+## ⚠️ **失敗しやすい点**
 
-Cooperation can fail due to misaligned incentives (one party might freeride or diverge later). Clear agreements and exit strategies are crucial.
+### 利害のずれ
+
+協調は、インセンティブがずれると簡単に壊れます。どちらかがただ乗りしたり、途中で別方向へ向かったりするからです。明確な合意と退出戦略が必要です。
 
 ```mermaid
 quadrantChart
-    title Cooperation Partner Evaluation
-    x-axis Goals Misaligned --> Goals Aligned
-    y-axis Low Comlementarity --> High Complementarity
-    quadrant-3 Avoid
-    quadrant-2 High Maintenance
-    quadrant-4 Potential Win-Win
-    quadrant-1 Ideal Partner
+    title 協力相手の評価
+    x-axis 目的がずれている --> 目的が揃っている
+    y-axis 補完性が低い --> 補完性が高い
+    quadrant-3 避ける
+    quadrant-2 手間が大きい
+    quadrant-4 勝ち筋あり
+    quadrant-1 理想的な相手
 ```
 
-### Slower decisions
+### 意思決定の遅さ
 
-Partnerships mean committees: things can move slower than a single, decisive entity. This can hamper agility.
+協力には委員会や調整がつきものです。単独で決めるより遅くなりやすく、機動力を失う危険があります。
 
-### Breaking trust
+### 信頼の破綻
 
-If one side unilaterally exploits the partnership (e.g., learns from cooperation then goes solo), it can lead to sour relations or even legal battles.
+片側が一方的に学習を持ち逃げしたり、成果を独占したりすると、関係は悪化し、法的対立にまで発展しかねません。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Evolution and Cooperation
+### 進化段階で意味が変わる
 
-Cooperation strategies differ dramatically based on component evolution stage:
+協調は、対象の進化段階によって意味が大きく変わります。
 
-- Genesis/Custom: Cooperation focuses on risk-sharing, pooling scarce expertise amd informal knowledge sharing
-- Product/Commodity: Cooperation typically centers on standards creation and market expansion
+- **創世記 / カスタムビルド:** 希少な知識や高い不確実性を分け合うための協調になる
+- **プロダクト / コモディティ:** 標準や市場拡大を目的とする協調が中心になる
 
-### Value Chain Positioning
+### バリューチェーン上の使い方
 
-Cooperation allows organizations to:
+協調を使うことで、組織は次のことができます。
 
-- Focus on high-value activities while partnering for commoditizing components
-- Create "force multipliers" by connecting complementary positions in the value chain
-- Defend against disruption by forming collaborative barriers to entry
+- 差別化すべき高付加価値領域へ集中し、コモディティ化する部分は他者と組む
+- バリューチェーン上の補完位置を結び、倍率効果を作る
+- 共同で参入障壁を作り、外部からの破壊に備える
 
-### Expanding the Pie vs. Fighting for Slices
+### パイを広げるか、取り合うか
 
-Wardley's perspective emphasizes that premature competition in emerging markets often stunts overall growth.
+Wardley 的には、新興市場で早すぎる競争を始めると、市場全体の成長を止めることがあります。
 
-Cooperation can:
+協調は次の手段になります。
 
-- Create common platforms that enable innovation at higher levels
-- Establish standards that accelerate adoption and market formation
-- Allow competitors to focus on differentiation in areas that matter to users while collaborating on underlying infrastructure
+- 上位レイヤーのイノベーションを支える共通基盤を作る
+- 標準を整え、採用と市場形成を早める
+- ユーザーニーズに近い差別化部分で競い、基盤部分は協力する
 
-### Strategic Leverage Points
+### てこの支点を狙う
 
-Successful cooperation often targets specific *leverage points*:
+成功する協調は、しばしば特定の支点を狙います。
 
-- Inertia points: Where industry resistance requires collective pressure
-- Constraint removal: Where a shared bottleneck limits all players
-- Network effects: Where combined user bases create exponentially more value
+- **慣性点:** 業界全体の圧力がないと動かない抵抗領域
+- **制約除去:** すべてのプレイヤーを苦しめる共通ボトルネック
+- **ネットワーク効果:** 複数の参加者が集まるほど価値が増える箇所
 
-### Relationship to Alliances
+### アライアンスとの違い
 
-[**Alliances**](/strategies/ecosystem/alliances) are a specific, formalised form of cooperation. Where cooperation might involve shared research or loose collaboration, an alliance typically includes:
+[**アライアンス（Alliances）**](/strategies/ecosystem/alliances) は、協調のうち、より形式化された形です。共同研究やゆるい連携が協調だとすれば、アライアンスは次を伴うことが多いです。
 
-- formal agreements and governance structures
-- pooled resources or infrastructure
-- joint branding or market-facing identity
-- coordinated action toward shaping a market or standard
+- 正式な契約とガバナンス
+- 資源やインフラの共同保有
+- 共同ブランドや市場向けの共通顔
+- 市場や標準を形作るための共同行動
 
-Use alliances when the goal is ecosystem-level impact or when formality helps secure trust and alignment.
+エコシステム単位の影響が欲しいときや、形式性が信頼の担保になるときは、アライアンスの方が向きます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- Value alignment: What specific value does each party bring and extract? Are these balanced and sustainable?
-- Evolution stage: Where on the evolution curve are the components we're collaborating on? (Genesis, Custom, Product, Commodity)
-- Power dynamics: Will this cooperation create dependencies we can't easily escape? Who ultimately controls critical interfaces?
-- Competitive exposure: What knowledge or capabilities are we sharing that could later be used against us?
-- Decision rights: How will we make decisions when interests inevitably diverge?
-- Market impact: Will this cooperation accelerate or inhibit market formation?
-- Exit scenarios: Under what conditions should we
+- 各当事者は何を持ち寄り、何を持ち帰るのか。それは持続可能に釣り合っているか
+- 協力対象のコンポーネントは、進化軸のどこにあるか
+- この協調は、将来自分たちが逃げにくい依存を作らないか。重要インターフェースは誰が握るのか
+- いま共有する知識や能力は、後で自社に不利に働かないか
+- 利害がずれたとき、誰がどう意思決定するのか
+- この協調は市場形成を早めるのか、それとも逆に阻害するのか
+- どの条件になったら関係を縮小、終了、再設計すべきか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
-- [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*
-- [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
-- [Standards Game](/strategies/markets/standards-game) - cooperation often aims to establish common standards and reduce friction.
-
-- [Market Enablement](/strategies/accelerators/market-enablement) - cooperation can help build and scale ecosystems by aligning stakeholders to enable and grow the market.
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - leverages relationships with multiple parties to create competitive tension and strategic advantage through collaborative positioning.
+- [**アライアンス（Alliances）**](/strategies/ecosystem/alliances) - 協調をより正式な形にしたもの
+- [**共創（Co-creation）**](/strategies/ecosystem/co-creation) - ユーザーと共に進める協調
+- [**周回と探り（Circling and Probing）**](/strategies/competitor/circling-and-probing) - 協力ではなく、競合の反応を探る手法
+- [Standards Game](/strategies/markets/standards-game) - 協調はしばしば標準の確立を狙う
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 関係者の足並みを揃えて市場を育てる
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - 複数関係者との立ち位置を利用して競争上の緊張を作る
 
 ## ⛅ **関連する状勢パターン**
 
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: collaboration shapes how capabilities mature together.
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts from peace to war often spur new partnerships.
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 協力によって能力は一緒に成熟しうる
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 平時から戦時への移行が、新しい提携を促すことがある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) on Simon Wardley's Blog. *"Cooperation: Working with others... not easy."* . Underscores that while straightforward in concept, the execution of cooperation is challenging.
-- HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).
+- [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) - Simon Wardley による戦略類型の整理。協調は単純に見えて実行が難しいことを強調している
+- [Simple Rules for Making Alliances Work](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - アライアンスや協調を機能させるための実務上の注意点をまとめた記事
