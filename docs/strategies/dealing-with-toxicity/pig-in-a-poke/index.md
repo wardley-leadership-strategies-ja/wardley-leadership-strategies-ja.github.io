@@ -1,7 +1,6 @@
 ---
-title: Pig in a Poke
-description: Disguising toxic assets as valuable to offload risk before their true
-  nature emerges.
+title: 中身を隠して売る（Pig in a Poke）
+description: 毒性資産を価値あるものに見せかけ、正体が露呈する前にリスクを移す戦略。
 tags:
 - dealing-with-toxicity
 - pig-in-a-poke
@@ -27,173 +26,169 @@ leadership_focus:
 - Narrative control
 - Secrecy and timing
 quick_signals:
-- A business unit looks profitable only because issues are temporarily hidden.
-- Potential buyers are chasing growth stories in your sector without deep diligence.
-- Internal forecasts show the asset will turn toxic before you can fix it.
+- 一見収益的に見えるが、問題が一時的に隠れているだけの事業がある。
+- 買い手候補が十分な精査をせず成長物語を追っている。
+- 内部予測では、直せる前にその資産が毒性化すると分かっている。
 momentum_moves:
-- Curate metrics and case studies that highlight short-term momentum.
-- Structure the deal to transfer future obligations or cleanup costs.
-- Plan the announcement cadence so sceptics have little time to scrutinise.
+- 短期的な勢いを強調する指標と事例だけを見せる。
+- 将来の義務や後始末コストが相手へ移るよう取引を組む。
+- 懐疑派に精査時間を与えない発表タイミングを作る。
 watch_outs:
-- Crossing legal or ethical boundaries that invite lawsuits or regulatory action.
-- Burning trust with partners or markets you still need afterwards.
-- Selling the asset without ring-fencing dependencies that could boomerang back.
+- 訴訟や規制処分を招く法的・倫理的境界を越えること。
+- その後も必要な市場やパートナーの信頼を焼き切ること。
+- 依存関係を分離せず売って、後で自社へ跳ね返ること。
 effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
 ---
 
-
-**Hiding liabilities in plain sight and selling them to unsuspecting buyers before they discover the true risk.**
+**負債を見えにくくし、買い手が本当のリスクに気づく前に移してしまう戦略です。**
 
 > *"Creating a situation where others believe the toxic asset has long term value and disposing of it through sale before the toxicity reveals itself."*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Pig in a Poke?
+### Pig in a Poke とは何か
 
-Pig in a Poke is a strategy where an organization packages a declining, problematic, or toxic asset as if it still holds growth potential. By crafting a positive narrative and timing the sale, you transfer liability to a buyer who believes they are acquiring something valuable.
+衰退しつつある、問題を抱えた、あるいは毒性化しつつある資産を、まだ成長余地があるかのように見せて売る戦略です。前向きな物語を作り、売却時点をうまく選ぶことで、真の負担を買い手へ移します。
 
-### Why use Pig in a Poke?
+### なぜ使うのか
 
-This tactic allows you to extract maximum value from an asset that would otherwise become a drag or loss. It leverages market optimism or buyer ignorance to achieve a favorable exit.
+この戦術は、本来なら足かせや損失になる資産から、最大限の価値を抜くことを狙います。市場の楽観や買い手の無知、あるいは「自分なら再生できる」という過信を利用します。
 
-### How to use Pig in a Poke?
+### どう使うのか
 
-- Identify assets with declining trajectories but temporary positive signals.
-- Develop a narrative highlighting potential and minimizing warning signs.
-- Create urgency or leverage market hype to attract buyers.
-- Package and market the asset, ensuring due diligence remains superficial.
-- Execute the sale swiftly before the asset’s issues become widely known.
+- 下降トレンドにあるが、一時的に良いシグナルを出せる資産を見つける
+- 警告サインを薄め、潜在力を強調する物語を作る
+- 市場 hype や urgency を使って買い手を集める
+- due diligence が浅くなるよう取引環境を整える
+- 問題が広く知られる前に素早く売る
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### AOL–Time Warner Merger (2000)
+### AOL と Time Warner の合併
 
-AOL’s overvalued dial-up subscriber base was used as currency to merge with Time Warner at the peak of dot-com optimism. When the bubble burst, Time Warner realized it had acquired a “pig in a poke.”
+AOL は、過大評価された dial-up 契約者基盤を通貨として使い、dot-com バブル頂点で Time Warner と合併しました。後に、その価値の多くが幻想だったと分かりました。
 
-### Toxic Mortgage-Backed Securities (2007–2008)
+### 毒性を隠した住宅ローン証券
 
-Banks bundled risky home loans into complex CDOs rated as high quality. Investors, misled by AAA ratings, bought these securities before the housing market collapse revealed their toxicity.
+リスクの高い住宅ローンを束ね、高格付けに見せて売った例です。実態が見えにくいまま買い手へリスクが移されました。
 
-### Yahoo’s Broadcast.com Acquisition (1999)
+### Broadcast.com の売却
 
-Mark Cuban sold Broadcast.com to Yahoo at the height of internet hype. The technology quickly became obsolete, but Cuban had already “sold the pig” for a hefty profit.
+インターネット hype の最中に高値で売却され、その後技術の陳腐化が早く進んだ例です。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Pig in a Poke">
   <MapSignals>
-    <li>Our map shows an asset in decline but with residual market excitement.</li>
-    <li>Operational metrics can be temporarily inflated or spun positively.</li>
-    <li>Buyers are eager for growth opportunities and may cut corners on due diligence.</li>
-    <li>Market sentiment is in a bubble or speculative phase.</li>
+    <li>資産は衰退中だが、市場の熱気がまだ残っている。</li>
+    <li>運用指標を一時的に良く見せたり、都合よく語ったりできる。</li>
+    <li>買い手が成長機会を焦っており、精査を省きがちである。</li>
+    <li>市場心理がバブルや投機局面にある。</li>
   </MapSignals>
   <Readiness>
-    <li>We can control the narrative and presentation of asset health.</li>
-    <li>Legal exposure from misrepresentation is manageable or mitigated.</li>
-    <li>We have the speed and agility to complete a sale before scrutiny intensifies.</li>
-    <li>Leadership is willing to accept reputational risk in exchange for exit gain.</li>
+    <li>資産状態の見せ方と物語を強く制御できる。</li>
+    <li>誤認表示に関する法的露出を抑えられる、または引き受ける覚悟がある。</li>
+    <li>精査が厳しくなる前に売り切る速さがある。</li>
+    <li>退出利益のために評判リスクを許容する経営判断がある。</li>
   </Readiness>
 </Assessment>
 
-**Use when:** You need to offload an asset poised to decline, and you have a narrow window where optimism or ignorance can be leveraged for a sale.
+### 向くとき
 
-**Avoid when:** Due diligence processes are thorough, regulatory scrutiny is high, or you cannot absorb the legal and reputational fallout if discovered.
+- まもなく悪化する資産を、楽観の残る狭い時間窓で売りたいとき
+- 買い手が hype や不足情報に引き寄せられているとき
+- 取引後の評判悪化や反発を引き受けるつもりがあるとき
 
-## 🎯 **Leadership**
+### 避けるとき
 
-### Core challenge
+- due diligence が深いとき
+- 規制監視が強いとき
+- 発覚時の法的、評判的な打撃に耐えられないとき
 
-Convincing buyers of future value while suppressing or downplaying evidence of decline, all without exposing the scheme prematurely.
+## 🎯 **リーダーシップ**
 
-### Key leadership skills required
+### 中核課題
 
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Narrative construction and persuasive communication.
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — Strategic timing and market insight.
-- [Ethical judgment](/leadership-skills/ethical-judgment) — Risk tolerance and ethical boundary navigation.
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal and compliance awareness.
+衰退の証拠を抑えつつ、将来価値を買い手に信じ込ませることです。ただし、その線は簡単に詐欺へ滑ります。
 
-### Ethical considerations
+### 必要なスキル
 
-Pig in a Poke borders on fraud if misrepresentation is intentional. Consider long-term brand damage and legal consequences before choosing this approach.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 物語構築と説得
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — 市場心理を見たタイミング設計
+- [Ethical judgment](/leadership-skills/ethical-judgment) — どこまで踏み込むかの判断
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と開示の境界を理解する
 
-## 📋 **How to Execute**
+### 倫理面
 
-1. Map the asset’s lifecycle stage and identify signs of decline.
-2. Audit metrics to highlight positive anomalies.
-3. Craft marketing materials emphasizing potential upside and urgency.
-4. Approach targeted buyers and manage information disclosure.
-5. Negotiate sale terms that limit your ongoing liabilities.
-6. Close the transaction swiftly and hand over all agreed documentation.
+これは意図的な misrepresentation に近づきやすく、詐欺との境界線上にあります。長期ブランド毀損や訴訟リスクを正面から考えるべきです。
 
-## 📈 **Measuring Success**
+## 📋 **進め方**
 
-- Sale price relative to current asset value
-- Speed of transaction completion
-- Legal or regulatory incidents avoided post-sale
-- Retention of buyer relationships for future transactions
+1. 資産のライフサイクル段階と衰退兆候を確認する
+2. 一時的に良く見える指標を洗い出す
+3. 上振れ可能性と urgency を強調する売却資料を作る
+4. 狙う買い手へ情報開示をコントロールしながら打診する
+5. 将来責任をできるだけ限定する条件で交渉する
+6. 問題が公になる前に速やかにクローズする
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## 📈 **成功指標**
 
-### Due Diligence Detection
+- 現在価値に対する売却価格
+- 取引完了までの速度
+- 売却後に回避できた法規制トラブル
+- その後も維持できた取引関係
 
-If buyers uncover inconsistent data or hidden risks, they may renegotiate or cancel the deal.
+## ⚠️ **失敗しやすい点**
 
-### Legal Exposure
+### due diligence で見破られる
 
-Discovering intentional misrepresentation can lead to lawsuits and regulatory penalties.
+データ不整合や隠れた負債が見つかれば、値下げか破談になります。
 
-### Reputation Damage
+### 法的露出
 
-News of a deceptive sale can erode trust and harm future ventures.
+意図的 misrepresentation が認定されれば、訴訟や規制制裁に直結します。
 
-### Contractual Clawbacks
+### 評判崩壊
 
-Performance-based earn-outs can leave you on the hook if the asset fails post-sale.
+欺瞞的売却は、将来の調達、提携、採用にも効きます。
 
-## 🧠 **Strategic Insights**
+### clawback
 
-### The "Known Unknown" Buyer Gambit
+earn-out や補償条項次第では、失敗後の負担が戻ってきます。
 
-While "Pig in a Poke" often implies deceiving a naive buyer, a more nuanced version involves a buyer who is partially aware of potential issues—a "known unknown." Such buyers might possess specific expertise, believe they have unique turnaround capabilities, or see potential synergies that could neutralize the asset's toxicity or unlock value others cannot perceive. The seller's strategy here is not pure misdirection but rather a subtle highlighting of "untapped potential" or framing the asset as a "diamond in the rough" that requires a special kind of vision or capability. This shifts the dynamic from outright deception to a calculated gamble by the buyer, who hopes their unique strengths can overcome the inherent risks they partially perceive. The seller facilitates this by providing just enough positive framing to encourage the buyer's optimistic self-assessment.
+## 🧠 **戦略的示唆**
 
-### Exploiting Narrative Asymmetry and Cognitive Biases
+- **物語の非対称性を使う**: 情報を多く持つ売り手が先に枠組みを決める
+- **買い手の認知バイアスに乗る**: 楽観、焦り、成長プレッシャー、過信が効く
+- **衰退市場の hot potato**: みな問題を知っていても、最後の保有者にはなりたくない局面がある
+- **仲介者で評判を洗う**: 複雑な取引や中間ビークルで、元の売り手から距離を作ることがある
 
-The core of a successful "Pig in a Poke" strategy often lies in the skillful exploitation of narrative asymmetry and the buyer's inherent cognitive biases. The seller, by virtue of possessing more information (or artfully curating it), establishes the dominant narrative framework. This framework acts as an anchor, influencing all subsequent perceptions and discussions around the asset. Buyers, particularly those eager for growth, under pressure to deploy capital, or operating in a hyped market, are susceptible to confirmation bias. They may subconsciously seek out data points that validate the seller's optimistic narrative while downplaying or rationalizing clear warning signs. A savvy seller can feed this bias by selectively presenting information, using compelling and urgent language ("once in a lifetime opportunity"), and creating an environment of competitive tension that discourages deep, skeptical due diligence. The goal is to make the crafted narrative more compelling and easier to accept than the complex, potentially negative reality.
+## ❓ **問うべきこと**
 
-### The "Last Hot Potato" in Declining Markets
+- 何のシグナルを増幅すれば衰退を隠せるか
+- どの買い手が hype に最も弱いか
+- 将来負担をどこまで契約で切れるか
+- 問題が表面化したとき、関係者はどう反応するか
+- 現在の開示戦略に法的な防御線はあるか
 
-In industries or market segments facing secular decline, the "Pig in a Poke" strategy can manifest as a game of "last hot potato." Multiple players might be holding similarly deteriorating assets, all aware that the long-term prospects are bleak. The strategic imperative shifts from merely offloading one's own "pig" to doing so before competitors flood the limited pool of potential (and perhaps less informed) buyers, or before a market-wide realization of the pervasive toxicity triggers a firesale environment. Speed, timing, and a keen sense of market sentiment become paramount. The win lies not just in selling the asset, but in avoiding being one of the last few still holding on when the music stops and the true lack of value becomes undeniable to everyone. This dynamic creates intense pressure to find a buyer quickly, even if it means accepting a slightly lower price than initially hoped.
+## 🔀 **関連戦略**
 
-### Reputation Laundering via Intermediaries
-
-Executing a "Pig in a Poke" directly can inflict significant, long-lasting reputational damage upon the seller. To mitigate this, sophisticated actors may employ intermediaries to obscure the asset's trail and their connection to it. This can involve transferring the toxic asset to a newly created subsidiary with a clean slate, using specialized brokers known for handling distressed or opaque assets, or even embedding the sale within a larger, more complex M&A transaction where the "pig" is a less scrutinized component. The intermediary acts as a buffer, "laundering" the asset by creating distance and complexity. The goal is to break the chain of custody in a way that obscures the seller's intent and the asset's problematic origins. By the time the asset's true nature is revealed, its problematic history and the identity of the original seller aiming to offload a liability are more difficult to trace, thereby protecting the seller's broader market reputation.
-
-## ❓ **Key Questions to Ask**
-
-- What signals can we amplify to mask decline?
-- Which buyers are most susceptible to hype?
-- Can we structure the sale to limit future liability?
-- How will stakeholders react if the asset’s issues surface?
-- Do we have the legal cover for our disclosure strategy?
-
-## 🔀 **Related Strategies**
-
-- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) – A direct exit by divestment or shutdown.
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) – Outsource asset operation to third parties before exiting.
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring) – Internally transform or repurpose assets as an alternative.
+- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) - より直接的な切り離し
+- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - 一度第三者へ運用を任せてから離脱する
+- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - 外へ押し付けず、内部で価値を救う代替策
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: A component that was once valuable can become less so, tempting a seller to offload it deceptively.
-- [Characteristics change](/climatic-patterns/characteristics-change) – rel: The declining characteristics of an asset might motivate its misrepresentation.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Buyers might be blinded by the past reputation of an asset, failing to see its current toxicity.
-- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: The seller exploits the buyer's lack of awareness or due diligence.
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – rel: The seller creates a false sense of certainty about future value.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 価値を持っていたものが売り抜け対象へ変わる
+- [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 劣化した特性が misrepresentation の誘惑を生む
+- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 買い手が過去の栄光に引きずられる
+- [多くの競合は状況認識が低い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 相手の認識不足を利用する
+- [将来価値は、それに対する確実性と反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 関係: 将来価値の確実性を偽装しやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) – Overview of the practice in financial markets.
-- Case Study: Cuban’s [Broadcast.com Sale](https://en.wikipedia.org/wiki/Broadcast.com) – Timing an exit at peak hype for maximum gain.
+- [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) - 金融市場での類似行為の概観
+- Broadcast.com 売却の事例は、hype 極大での退出を考える上で典型的である

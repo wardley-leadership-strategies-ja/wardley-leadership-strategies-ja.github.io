@@ -1,7 +1,6 @@
 ---
-title: Sweat & Dump
-description: Outsource operation of a legacy asset to a third party, extract remaining
-  value, and exit before the cost curve turns against you.
+title: 使い切って手放す（Sweat & Dump）
+description: レガシー資産の運用を第三者へ移し、残存価値を取り切ってから手放す戦略。
 tags:
 - dealing-with-toxicity
 - sweat-and-dump
@@ -30,193 +29,176 @@ leadership_focus:
 - Partner choreography
 - Disciplined portfolio management
 quick_signals:
-- Legacy systems consume capacity you need for modernization.
-- Specialist staff are hard to retain for ageing platforms.
-- Third parties express interest in operating the asset for a fee.
+- レガシー運用が近代化に必要な余力を食っている。
+- 古い基盤を扱える専門人材の維持が難しい。
+- 第三者が対価付きでその資産運用を引き受けたがっている。
 momentum_moves:
-- Document operational run-books before transitioning to an external partner.
-- Negotiate contracts that define service levels, exit clauses, and liability transfer.
-- Redirect internal investment toward the replacement capability while monitoring
-  the outsourced service.
+- 外部移管前に運用 run-book を文書化する。
+- サービス水準、出口条項、責任移転を契約で明確にする。
+- 外部運用を監視しつつ、社内投資を後継能力へ振り向ける。
 watch_outs:
-- Losing critical knowledge before your replacement is ready.
-- Being locked into a vendor that underinvests and harms your users.
-- Allowing the temporary arrangement to become a permanent crutch.
+- 後継が整う前に重要知識を失うこと。
+- 投資不足のベンダーに縛られ、ユーザーを傷つけること。
+- 一時措置が恒久的な依存になること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-
-**Outsource operation of a legacy asset to a third party, extract remaining value, and exit before the cost curve turns against you.**
+**レガシー資産の運用を第三者に任せ、残る価値を搾り取り、コスト曲線が悪化する前に離脱する戦略です。**
 
 > *"Exploiting a 3rd party to take over operating the toxic asset whilst you prepare to remove yourself."*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Sweat & Dump?
+### Sweat & Dump とは何か
 
-Sweat & Dump is a two-phase strategy for dealing with technology toxicity. First, you sweat the asset: outsource the operation of a legacy system to a third party, ideally one willing to shoulder ongoing investment. Then, once you’ve extracted residual value and built your replacement, you dump — exiting, decommissioning, or walking away.
+これは二段階の毒性対処です。まず asset を sweat する。つまり、レガシーシステムの運用を第三者へ移し、必要投資もできるだけその相手に持たせます。その間にこちらは残存価値を取り切り、代替システムを育てる。そして準備が整ったら dump する。停止、売却、撤退、どの形でもよいですが、とにかく離脱します。
 
-This tactic transfers capex risk to someone else while you buy time to modernise.
+要するに、レガシーの capex と慣性を外へ押し出し、自分たちは未来側へ時間を買う戦略です。
 
-### Why use it?
+### なぜ使うのか
 
-- Avoid massive “Death Star” transformation projects.
-- Externalise architectural inertia and capex liability.
-- Free internal resources for building the future.
-- Buy time without being trapped by past systems.
+- **巨大な一括変革を避けられる**
+- **慣性と capex 負担を外部化できる**
+- **内部資源を将来システムへ回せる**
+- **過去に縛られず移行の時間を買える**
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Telecom Legacy Infrastructure Outsourcing
+### 通信のレガシーインフラ委託
 
-Telecom operators sold their aging copper networks to infrastructure firms that “sweat” the assets with minimal investment, while enabling the operators to focus on fiber and 5G. The infrastructure firms took on the capex of maintaining the copper network.
+通信事業者が老朽化した銅線網をインフラ会社へ移し、その会社が最低限の投資で運用し続ける一方で、元の事業者は光や 5G に集中する例です。
 
-### Private Equity Shakeout in Manufacturing
+### 製造業での PE への切り出し
 
-Conglomerates spin off declining production plants to private equity firms that aggressively cut costs, manage necessary capex for continued operation, and extract cash until the asset reaches end-of-life.
+複合企業が衰退工場を private equity 側へ出し、そちらが強いコスト削減と必要投資で寿命まで回し切る例です。
 
-### Enterprise Software Support Spin-off
+### 旧式ソフトウェア保守の分離
 
-A legacy on-premises software division is transferred to a specialized support partner that charges premium maintenance fees and handles ongoing operational investments, enabling the original firm to prioritize its cloud offerings.
+オンプレミス製品の古い保守部門を専門パートナーへ移し、元の会社はクラウド提供へ集中するケースです。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Sweat & Dump">
   <MapSignals>
-    <li>Key components are mature or in decline but still producing revenue.</li>
-    <li>Legacy operations distract from high-priority initiatives and modern system development.</li>
-    <li>Specialist operators exist who will take on capex and run down assets cost-effectively.</li>
-    <li>Immediate shutdown would destroy residual value or harm relationships.</li>
-    <li>The cost of maintaining and investing in the legacy system outweighs its strategic value.</li>
+    <li>主要部品が成熟または衰退しているが、まだ収益は生んでいる。</li>
+    <li>レガシー運用が高優先施策と新システム開発の邪魔になっている。</li>
+    <li>capex を引き受けつつ効率運用できる専門事業者が存在する。</li>
+    <li>即時停止では残存価値や関係性を壊しすぎる。</li>
+    <li>レガシー維持投資の方が戦略価値より重くなっている。</li>
   </MapSignals>
   <Readiness>
-    <li>We can identify and contract reliable third parties willing to invest.</li>
-    <li>We have clear transfer protocols for staff, data, contracts, and asset ownership/operation.</li>
-    <li>We can define exit criteria and performance milestones related to value extraction and our own modernization efforts.</li>
-    <li>We are prepared to handle brand and quality risks externally while focusing on new systems.</li>
+    <li>投資意思のある信頼できる第三者を見つけ契約できる。</li>
+    <li>人、データ、契約、資産運用の移管手順が明確である。</li>
+    <li>価値回収と自社近代化の節目に対応する exit criteria を定義できる。</li>
+    <li>外部化に伴うブランドと品質リスクを扱える。</li>
   </Readiness>
 </Assessment>
 
-**Use when:** You need to offload legacy burdens, including capex, and extract residual value, buying time to focus on modernization.
+### 向くとき
 
-**Avoid when:** Partner performance could damage your brand irreparably, contractual/regulatory constraints prevent a clean transfer, or the asset is too intertwined with strategic future systems to fully decouple.
+- レガシー負担と capex を外へ移し、近代化へ集中したいとき
+- 即時停止では顧客や収益への傷が大きすぎるとき
+- 限定期間の延命に意味があるとき
 
-## 🎯 **Leadership**
+### 避けるとき
 
-### Core challenge
+- パートナー品質が自社ブランドに致命傷を与えうるとき
+- 契約や規制で綺麗な移管が難しいとき
+- その資産が将来システムと深く絡み、完全に切り離せないとき
 
-Transitioning control and capex liability without eroding customer trust or brand integrity, while balancing short-term gains against long-term strategic goals and the development of replacement systems.
+## 🎯 **リーダーシップ**
 
-### Key leadership skills required
+### 中核課題
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Partner selection and negotiation (emphasizing capex responsibility).
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Contract and risk management (clear delineation of investment obligations).
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Change management and stakeholder communication (internal and external).
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Quality and performance oversight.
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Strategic foresight to plan the "dump" and new system integration.
+運用統制と capex 負担を渡しながら、顧客信頼とブランドを損なわないことです。短期の価値回収と、長期の置換準備を同時に進める必要があります。
 
-### Ethical considerations
+### 必要なスキル
 
-Ensure transparent communication with customers about the change and safeguard service levels to avoid harming end users. Be mindful of the impact on employees of the legacy system and manage the transition humanely. Consider the long-term viability of the partner to avoid sudden service collapse.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — パートナー選定と交渉
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 契約責任とリスク分界を明確にする
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 社内外の移行説明を行う
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 品質と運用監督を設計する
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — dump のタイミングと新旧接続を読む
 
-## 📋 **How to Execute**
+### 倫理面
 
-1. Identify legacy systems with high inertia, ongoing capex demands, and low strategic value.
-2. Shift operations (and ideally capex responsibility) to a partner who will run them as-is (MSP, “enterprise cloud”, specialist operator).
-3. Avoid long-term commitments or refactoring traps that reinvest you in the legacy asset.
-4. Invest liberated resources and focus in the new architecture and co-evolved practices elsewhere.
-5. Exit cleanly (decommission, sell, walk away) once your transition to modern systems is viable. No apologies.
+顧客へ変化を透明に伝え、サービス水準を守ることが前提です。レガシー担当の従業員への影響も丁寧に扱い、パートナーの継続可能性も見ておかなければなりません。
 
-## 📈 **Measuring Success**
+## 📋 **進め方**
 
-- Cost savings compared to in-house management, including avoided capex.
-- Revenue extracted during the sweating phase.
-- Customer satisfaction and service continuity post-transfer.
-- Reduction in distractions for core teams and leadership.
-- Speed and success of modern system development due to freed resources.
+1. 高い慣性、継続 capex、低い戦略価値を持つレガシー資産を特定する
+2. 運用と可能なら capex 負担を第三者へ移す
+3. 長期拘束や再投資罠を避ける契約を組む
+4. 解放された資源を新アーキテクチャと新しい実践へ投じる
+5. 後継の準備が整ったら、停止、売却、撤退をきれいに実行する
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## 📈 **成功指標**
 
-### Partner Insolvency or Underinvestment
+- 社内運用比でのコスト削減と capex 回避額
+- sweat 期間中に回収した収益
+- 移管後の顧客満足とサービス継続性
+- 中核チームと経営の distraction 減少
+- 解放された資源により加速した新システム開発
 
-If the third party goes bankrupt or fails to make necessary operational investments, you may need to reintegrate operations unexpectedly or face service collapse.
+## ⚠️ **失敗しやすい点**
 
-### Brand Contamination
+### パートナーの資金難や投資不足
 
-Poor partner performance, especially if driven by underinvestment, can reflect on your organization, damaging customer trust.
+第三者が必要投資を怠ると、予期せぬ再統合やサービス崩壊が起きます。
 
-### Contractual Gaps
+### ブランド汚染
 
-Incomplete agreements, particularly around capex, service levels, and exit, may leave you liable for unforeseen costs or obligations.
+相手の質が低いと、自社ブランドが傷みます。
 
-### Employee Morale Impact
+### 契約の穴
 
-Transfers and layoffs can undermine morale among remaining staff if not handled well.
+capex、サービス水準、出口責任の定義が甘いと、想定外コストが戻ります。
 
-### Becoming Trapped
+### 社員士気への悪影響
 
-The partner arrangement becomes so entrenched or complex that "dumping" becomes as hard as the original problem.
+移管や整理を雑にやると、残る社員の不信も強まります。
 
-## 🧠 **Strategic Insights**
+### 抜けられなくなる
 
-### Externalising Capex and Inertia for Strategic Agility
+外部委託が固定化し、dump の方が難しくなることがあります。
 
-A core tenet of Sweat & Dump is the deliberate transfer of not just operational burden, but also financial liability for ongoing investment—particularly capital expenditure (Capex)—to the third-party operator. Legacy systems often become black holes for investment, demanding upgrades and maintenance that offer diminishing returns. By shifting these to a partner, the organisation frees up significant capital and, crucially, cognitive load. This externalises the system's inherent inertia, allowing internal teams to sidestep the drag of legacy technology and redirect their focus and resources towards developing modern, strategically aligned systems. This buys invaluable time and agility, enabling a smoother transition to the future state without being anchored by past commitments.
+## 🧠 **戦略的示唆**
 
-### The "Good Parent" vs. "Pragmatic Executor" Dilemma
+- **capex と慣性の外部化**: 運用負担だけでなく投資負担も外へ出せると、戦略的俊敏性が大きく上がる
+- **good parent 問題**: 過去に愛着を持つ人たちから、実務的な退出判断へ移る心理転換が必要
+- **相手選びは価格だけではない**: 老朽資産運用の知見、投資意思、財務安定性、終了時の腕前まで見る必要がある
+- **dump の時機は戦略判断**: 収益が尽きたから出るのではなく、後継の成熟や市場変化を見て出る
+- **再生の触媒**: うまくやれば、資本と注意を未来へ戻し、組織の再生につながる
 
-Successfully initiating a Sweat & Dump often requires a significant psychological shift. Assets, even declining ones, frequently have "good parents"—teams or leaders emotionally invested in their history and perceived potential. This attachment can hinder objective assessment of capex drains and strategic misalignment. The Sweat & Dump strategy demands a transition to a "pragmatic executor" mindset, focusing on data-driven value extraction, capex offloading, and timely exit, rather than indefinite life support. Leadership must actively manage this shift, acknowledging the emotional labor, clearly communicating the strategic necessity, and framing the decision as evolution, not failure.
+## ❓ **問うべきこと**
 
-### The Art of Selecting the "Sweat" Partner: Beyond Cost
+- 誰ならこの資産を自社よりうまく運用できるか
+- 相手の利益と資産の適切管理をどう整合させるか
+- 顧客はこの引き継ぎをどう受け止めるか
+- 新システム準備に照らした exit trigger は何か
+- パートナーの投資義務と運用品質をどう監視するか
+- これは本当に近代化の時間を買っているのか、それとも先送りか
 
-Choosing the right third-party operator for the "sweat" phase is critical and extends beyond finding the lowest-cost provider. While efficiency is key, the ideal partner possesses specialized expertise in managing mature assets, a willingness to take on necessary operational capex, maintaining essential service levels with appropriate investment, and navigating end-of-life scenarios with finesse, thereby protecting your brand during the transition. Key selection criteria include a proven track record, robust processes for managing declining assets, financial stability (to avoid their premature collapse), and alignment on the "dump" timeline and investment expectations. A misaligned partner can accelerate brand damage or create operational crises.
+## 🔀 **関連戦略**
 
-### Strategic Timing of the "Dump": Reading Market Currents and Internal Readiness
-
-The "dump" phase—the final exit—isn't merely a reaction to dwindling cash flow; it's a proactive, strategic decision informed by both external market sensing and internal readiness. Optimal timing involves monitoring declining returns from the sweat partner, the maturity of your replacement systems, the emergence of disruptive technologies, shifts in the regulatory landscape, or even aligning the exit with your own next-generation product launches. Waiting too long risks the asset becoming truly unsalvageable or causing reputational harm. Dumping prematurely forgoes extractable value or leaves you without a viable alternative. This strategic calendar management is vital.
-
-### Catalyst for Renewal: The Phoenix from the Ashes
-
-A well-executed Sweat & Dump strategy can be a powerful catalyst for organizational renewal. Beyond shedding a burdensome asset and its associated capex, the process liberates significant resources—financial capital, leadership attention, and skilled personnel—that can be explicitly redeployed towards innovation and future growth. This decisive act can break down internal inertia and foster a more agile, forward-looking culture. Leadership can frame Sweat & Dump not as an admission of failure, but as a strategic pruning essential for overall vitality.
-
-### Unlocking Hidden Value in "Sweat" Data: Intelligence from the End-Game
-
-While extracting residual financial value and offloading capex are primary goals, the operational and customer data generated during the "sweat" phase is a frequently overlooked asset. This "exhaust data" can offer insights into late-stage customer behavior and minimum viable service levels. Such intelligence can inform the development of next-generation products. Data-sharing clauses should be structured into the agreement with the "sweat" operator.
-
-### Managing Transferred Risks
-
-While operational burdens and capex are offloaded, significant reputational risk remains. Poor performance, service failures, or unethical behavior by the partner can directly tarnish the original brand. Vigilant oversight, clear contractual service levels (including investment commitments), and robust partner governance are essential.
-
-## ❓ **Key Questions to Ask**
-
-- Who can operate this asset (and its capex) more effectively than us?
-- What incentives align partner profitability with asset care and necessary investment?
-- How will customers perceive the operational handover and potential service changes?
-- What are our exit triggers, especially concerning our new system's readiness?
-- How will we monitor partner performance and their fulfillment of capex obligations?
-- Are we truly buying time for modernization, or just delaying an inevitable problem?
-
-## 🔀 **Related Strategies**
-
-- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) – Direct divestment or shutdown of toxic assets, often without a "sweat" phase.
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) – Sell liabilities under false pretenses (ethically dubious and risky).
-- [Refactoring](/strategies/dealing-with-toxicity/refactoring) – Internally transform or repurpose assets, retaining control and capex.
-- [Innovate-Leverage-Commoditize](/strategies/ecosystem/innovate-leverage-commoditize) - Could be the end-goal that Sweat & Dump enables resources for.
-
-- [designed-to-fail](/strategies/poison/designed-to-fail) - intentionally structuring spin-offs or transformations to fail, enabling clean separation and transfer of liabilities.
-- [Last Man Standing](/strategies/markets/last-man-standing) - offloading assets to specialist providers in a competitive market, letting survivors absorb residual risks and costs.
+- [Disposal of Liability](/strategies/dealing-with-toxicity/disposal-of-liability) - sweat 段階なしに直接手放す
+- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - 欺瞞的に押し付ける危うい変種
+- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - 外に出さず内部で組み替える選択肢
+- [Innovate-Leverage-Commoditize](/strategies/ecosystem/innovate-leverage-commoditize) - 汗をかかせている間に未来側の革新へ資源を回せる
+- [designed-to-fail](/strategies/poison/designed-to-fail) - 失敗前提の切り離しと組み合わさることがある
+- [最後の一社（Last Man Standing）](/strategies/markets/last-man-standing) - 市場再編の中で specialist が残余リスクを吸収する場合がある
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems become candidates for Sweat & Dump as they reach the end of their lifecycle.
-- [Characteristics change](/climatic-patterns/characteristics-change) – rel: Declining characteristics of an asset make it suitable for outsourcing to a specialist.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Inertia can prevent organizations from divesting toxic assets, making Sweat & Dump a necessary strategy.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Offloading a legacy system allows the organization to focus resources on innovation.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Sweat & Dump frees up capital from legacy systems to be invested in new, higher-value areas.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: ライフサイクル終盤の資産が候補になる
+- [特性は変化する](/climatic-patterns/characteristics-change) – 関係: 劣化した特性が specialist への移管を合理化する
+- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 慣性が退出判断を遅らせる
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: レガシー外部化で革新余地が生まれる
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 関係: 旧資産から未来側へ資本を戻せる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.
+- Nortel などの legacy support spin-off 事例は、この戦略の現実的な形を示している
