@@ -1,7 +1,6 @@
 ---
-title: Directed Investment
-description: Making a targeted, venture-capital-style investment in a future change
-  or emerging area to outpace rivals and seize first-mover advantage.
+title: 集中投資（Directed Investment）
+description: 将来起きる変化や新興領域に狙いを定めて投資し、競合より先に優位を取る戦略。
 tags:
 - directed-investment
 - attacking
@@ -28,205 +27,204 @@ leadership_focus:
 - Launch choreography
 - Learning culture
 quick_signals:
-- Your mapping reveals an impending shift where incumbents lack a credible response.
-- Capital is available but incremental projects keep diluting strategic focus.
-- You can assemble the specialist talent or assets required before rivals can react.
+- 地図上で、既存勢力に有力な対抗策がない変化が近づいていることが見えている。
+- 資本はあるのに、小粒な案件へ分散して焦点がぼやけている。
+- 競合が反応する前に、必要な専門人材や資産を揃えられそうだ。
 momentum_moves:
-- Ring-fence a skunkworks team with clear executive sponsorship.
-- Define staged funding milestones tied to evidence of traction and learning.
-- Co-design early pilots with lead customers to validate the new direction.
+- 明確な経営支援のもとで、隔離したスカンクワークスを立ち上げる。
+- 学習と牽引の証拠に連動した段階的な資金投入条件を定める。
+- 先行顧客と早期パイロットを共同設計し、新しい方向の妥当性を確かめる。
 watch_outs:
-- Spreading investment thin across pet projects instead of doubling down.
-- Failing to transition validated ideas into mainstream delivery.
-- Betting on hype cycles without evidence of user demand.
+- 重点化せず、社内の思いつき案件へ薄く広く資金を撒くこと。
+- 有望と分かった案を本流の実行へ移せないこと。
+- ユーザーニーズの裏付けなしに流行だけへ賭けること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
-**Making a bold, focused investment in a specific future change or emerging area to seize advantage before others move.**
+**特定の未来変化や新興領域に対して、大胆かつ集中的に資源を投じ、他者より先に優位を取りにいく戦略です。**
 
-> *"VC approach to a specific or identified future change."*
+> *「特定または識別された未来変化に対する VC 的アプローチ。」*
 > – Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Directed Investment?
+### 集中投資とは何か
 
-Directed Investment is the deliberate allocation of significant resources—capital, talent, R&D, or organisational focus—towards a specific innovation, technology, or market shift identified as strategically inevitable or highly promising. Rather than spreading bets thinly or waiting for certainty, you place a high-stakes, venture-capital-style bet on a future you believe will reshape the landscape. The aim: to outpace rivals, secure first-mover or intellectual lead, and shape the direction of the market as it matures.
+集中投資とは、資本、人材、研究開発、組織的な注意力を、戦略的に不可避、または極めて有望だと見た特定の変化へ意図的に寄せることです。確実になるまで薄く様子を見るのではなく、将来の状況を作り変えると判断した対象へ、VC のような高リスク高リターンの賭けを置きます。狙いは、競合より先に進化を産業化し、知財、人材、標準、市場認知で先手を取ることです。
 
-- Focuses on a clearly identified opportunity or threat, often revealed through mapping, horizon scanning, or weak signals.
-- Involves high risk and high reward: success can yield outsized returns, but failure can be costly.
-- Often takes the form of internal ventures, corporate VC arms, or major R&D initiatives.
+- 地図、弱いシグナル、ホライズンスキャンから見えた明確な機会や脅威へ焦点を当てる
+- 成功すれば大きいが、失敗コストも高い
+- 社内ベンチャー、コーポレート VC、大規模 R&D の形をとることが多い
 
-### Why use Directed Investment?
+### なぜ使うのか
 
-- To leapfrog competitors by being first to scale or industrialise a new capability.
-- To shape standards, ecosystems, or user expectations before others react.
-- To build a defensible lead in talent, IP, or market share.
-- To accelerate organisational learning and adaptation in fast-moving environments.
+- 新しい能力の産業化や規模化で競合を飛び越えるため
+- 標準、エコシステム、ユーザー期待を他者より先に形作るため
+- 人材、知財、市場シェアで防御しやすい先行地位を作るため
+- 変化の速い環境で、組織学習と適応を加速するため
 
-### How to use Directed Investment
+### どう使うのか
 
-- Use mapping and horizon scanning to identify strategic inevitabilities or emerging shifts.
-- Commit substantial resources early, before the opportunity is widely recognised.
-- Structure investments to allow for autonomy, learning, and rapid iteration.
-- Balance integration: too much separation risks isolation, too little risks stifling innovation.
+- 地図とホライズンスキャンで、戦略的に避けがたい変化や新しい移行を特定する
+- その機会が広く認識される前に、大きな資源を投じる
+- 自律、学習、高速反復ができるよう投資の器を設計する
+- 本流との統合度合いを調整する。分離しすぎると孤立し、近づけすぎると潰れる
 
 ```mermaid
 flowchart TD
-    A[Identify Opportunity] --> B{High-Stakes Bet};
-    B --> C[Allocate Resources];
-    C --> D[Execute & Iterate];
-    D --> E{Market Leader?};
-    E -- Yes --> F[Shape Market];
-    E -- No --> G[Pivot or Exit];
+    A[機会を特定] --> B{大きな賭けか}
+    B --> C[資源を投入]
+    C --> D[実行と反復]
+    D --> E{市場の主導権を取れたか}
+    E -- Yes --> F[市場を形作る]
+    E -- No --> G[方向転換または撤退]
 ```
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Google's Acquisition of DeepMind (2014)
+### Google による DeepMind 買収（2014）
 
-Google recognised the rising importance of AI and made a bold, early investment by acquiring DeepMind and funding advanced AI research. This gave Google a decisive lead in AI talent and technology, underpinning future products and shaping the AI landscape.
+Google は AI の重要性が高まる前に DeepMind を買収し、高度な研究へ継続投資しました。これにより AI 人材と技術で大きな先行を得て、後続製品群の土台を作りました。
 
-### AT&T's Bell Labs (Mid 20th Century)
+### AT&T の Bell Labs
 
-AT&T directed monopoly profits into Bell Labs, targeting fundamental innovations (transistors, satellites, information theory). This strategic investment kept AT&T ahead in telecom for decades and produced inventions that shaped entire industries.
+AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星、情報理論といった根本技術へ集中投資しました。これは数十年にわたり通信分野での優位を支え、周辺産業まで形作りました。
 
-### Hypothetical: Pharma Company Bets on mRNA
+### 仮想例: 製薬企業の mRNA 先行投資
 
-A pharmaceutical company, seeing weak signals of mRNA's potential, directs major R&D and capital into mRNA vaccine platforms before COVID-19. When the pandemic hits, it is first to market, outpacing rivals and setting new standards.
+ある製薬企業が mRNA の弱いシグナルを早く読み取り、パンデミック前から大型投資を続けていたなら、需要が現れた瞬間に先行者優位を得ていたはずです。
 
-### Failed Example: Early VR Bets in the 1990s
+### 失敗例: 1990 年代の早すぎる VR 投資
 
-Several tech firms made large, early investments in virtual reality in the 1990s, but the technology and market were not ready. These directed investments failed to yield returns, highlighting the risk of betting too early or on the wrong trend.
+複数の企業が VR へ大型投資しましたが、技術も市場も整っておらず、回収できませんでした。早すぎる賭けの危険を示す例です。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Directed Investment">
   <MapSignals>
-    <li>Our map reveals a major shift or inevitability in the value chain.</li>
-    <li>We have identified a specific emerging area with high potential impact.</li>
-    <li>Competitors are slow or unaware of the coming change.</li>
-    <li>We have the resources to sustain a long-term, high-risk investment.</li>
-    <li>There is a clear path to integration or scaling if successful.</li>
-    <li>We understand the risks of isolation or premature integration.</li>
-    <li>We have mechanisms to monitor and adapt as the landscape evolves.</li>
+    <li>地図上で、バリューチェーンに大きな変化や不可避性が見えている。</li>
+    <li>高い影響を持つ特定の新興領域を見定めている。</li>
+    <li>競合はその変化に遅いか、まだ気づいていない。</li>
+    <li>長期で高リスクな投資を支えられる資源がある。</li>
+    <li>成功時に統合または規模化へつなぐ道筋が見えている。</li>
+    <li>孤立や統合の早すぎる失敗のリスクを理解している。</li>
+    <li>状況の変化を監視し、調整できる仕組みがある。</li>
   </MapSignals>
   <Readiness>
-    <li>We are comfortable with uncertainty and long time horizons.</li>
-    <li>We have a culture that supports exploration and learning from failure.</li>
-    <li>Leadership is willing to commit significant resources early.</li>
-    <li>We can protect the investment from short-term pressures.</li>
-    <li>We have experience with internal ventures or corporate VC.</li>
-    <li>We can balance autonomy and integration for the new initiative.</li>
-    <li>We have a process for exiting or pivoting if the bet fails.</li>
+    <li>不確実性と長い時間軸に耐えられる。</li>
+    <li>探索と失敗からの学習を支える文化がある。</li>
+    <li>経営が早い段階で大きな資源配分を決断できる。</li>
+    <li>短期圧力から投資対象を守れる。</li>
+    <li>社内ベンチャーやコーポレート VC に近い運営経験がある。</li>
+    <li>新規事業の自律性と本流との統合を両立できる。</li>
+    <li>賭けが外れたときの撤退や転換手順がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You have identified a strategic inevitability or high-potential shift through mapping or horizon scanning.
-- You possess the resources and risk appetite for long-term, high-stakes bets.
-- The window of opportunity is narrow and first-mover advantage is critical.
+- 地図やホライズンスキャンから、戦略的に避けがたい変化を見つけたとき
+- 長期の大きな賭けに耐える資源とリスク許容度があるとき
+- 機会の窓が狭く、先行優位が重要なとき
 
-### Avoid when
+### 避けるとき
 
-- The future area is highly uncertain, and the risk of total loss is unacceptable.
-- Your core business is under immediate threat and cannot spare resources.
-- Organisational culture or structure cannot support exploratory, high-risk efforts.
+- 変化の見立てが曖昧すぎて、全損リスクを許容できないとき
+- 中核事業が直近で危機にあり、資源を割けないとき
+- 組織文化や構造が探索的な取り組みを支えられないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Committing to a bold, focused bet in the face of uncertainty, and sustaining support through inevitable setbacks and ambiguity.
+不確実性の中で大胆な賭けにコミットし、途中の曖昧さや挫折があっても支援を切らさないことです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic vision and situational awareness.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management and scenario planning.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Stakeholder alignment and communication.
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Resource allocation and protection.
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — Fostering a culture of learning and resilience.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 未来変化を読む
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — リスクとシナリオを扱う
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 関係者を整合させる
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — 資本を守って配る
+- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — 学習文化を育てる
 
-### Ethical considerations
+### 倫理面
 
-Leaders must weigh the societal and organisational impact of large, risky bets. Consider the potential for wasted resources, opportunity costs, and the effect on employees and partners if the investment fails. Transparency and responsible stewardship are essential.
+大きな賭けは、資源浪費、機会費用、失敗時の従業員やパートナーへの影響を伴います。透明性と責任ある資源管理が必要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Use mapping and horizon scanning to identify a high-potential future shift.
-2. Build a business case and secure leadership commitment for a substantial, focused investment.
-3. Structure the initiative for autonomy, learning, and rapid iteration (e.g., internal venture, skunkworks, or corporate VC).
-4. Monitor progress and adapt as the landscape evolves; be prepared to pivot or exit if needed.
-5. Plan for integration or scaling if the bet succeeds, balancing autonomy and core business alignment.
+1. 地図とホライズンスキャンで高潜在の未来変化を見つける
+2. 事業仮説を立て、集中的な投資への経営コミットを取る
+3. 自律、学習、高速反復が回る形で実行母体を設計する
+4. 状況の変化に合わせて進捗を見直し、必要なら転換・撤退する
+5. 成功時には本流への統合または規模化の計画を動かす
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Early lead in talent, IP, or market share in the targeted area
-- Ability to shape standards, ecosystems, or user expectations
-- Organisational learning and capability development
-- Return on investment over the long term
-- Successful integration or scaling of the new capability
+- 対象領域での人材、知財、市場シェアの先行
+- 標準、エコシステム、ユーザー期待を形作る力
+- 組織学習と新能力の蓄積
+- 長期的な投資対効果
+- 新能力の統合や規模化の成功
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Betting on the wrong trend
+### 間違った潮流に賭ける
 
-Investing heavily in a future that fails to materialise or is overtaken by a different technology or market shift.
+重く張った未来が来なければ、大きな損失になります。
 
-### Isolation or failed integration
+### 孤立または統合失敗
 
-Keeping the initiative too separate (skunkworks) can hinder adoption; integrating too soon can stifle innovation. Balance is critical.
+スカンクワークスが孤立しすぎても、早く本流へ戻しすぎても失敗します。
 
-### Financial overreach
+### 財務の張りすぎ
 
-Committing more resources than the organisation can sustain, especially if the timeline is longer than expected.
+想定より時間がかかると、組織が耐えられなくなることがあります。
 
-### Cultural mismatch
+### 文化の不整合
 
-The parent organisation may stifle the new initiative or expect quick ROI, undermining the investment.
+親組織が短期成果を求めすぎると、新しい取り組みを自ら潰します。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Evolution and timing
+### 進化とタイミング
 
-Directed investment is most effective when the timing is right—early enough to seize advantage, but not so early that the market or technology is immature. Mapping helps clarify when to move.
+集中投資は、早すぎても遅すぎても効きません。地図は、いつ賭けるべきかを見極める助けになります。
 
-### Counterplay and response
+### 対抗策を前提にする
 
-Competitors may respond with their own investments, acquisitions, or attempts to set standards. Be prepared for escalation and the need to double down or pivot.
+競合は、自分たちも投資する、買収する、標準を握ろうとするなどの手で応じます。先に張った側も、二手三手先まで備える必要があります。
 
-### Value chain leverage
+### バリューチェーンの重力を動かす
 
-Directed investment can shift the centre of gravity in a value chain, attracting talent, partners, and users. It can also create new bottlenecks or standards that others must follow.
+集中投資は、バリューチェーンの中の重力中心を移し、人材、パートナー、ユーザーを引き寄せます。同時に、新しいボトルネックや標準も作りえます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Map Signals:** What inevitabilities or weak signals have we identified?
-- **Risk:** What is the worst-case scenario if this investment fails?
-- **Integration:** How will we transition success into the core business?
-- **Culture:** Can we protect the initiative from short-term pressures?
-- **Exit:** What is our plan if the bet does not pay off?
-- **Counterplay:** How might competitors respond?
+- どの不可避性や弱いシグナルを見ているか
+- 最悪の失敗は何か
+- 成功したらどう中核事業へ移すか
+- 短期圧力からどう守るか
+- 賭けが外れたときの撤退線はどこか
+- 競合はどう返してくるか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) – Sensing and interpreting early signals often triggers directed investment.
-- [First Mover](/strategies/positional/first-mover) – Directed investment is a key way to achieve first-mover advantage.
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) – Sometimes the goal of directed investment is to create a new hub of talent or activity.
-- [Experimentation](/strategies/attacking/experimentation) – Experimentation can precede or complement directed investment by surfacing opportunities.
-
-- [Press Release Process](/strategies/attacking/press-release-process) - leveraging strategic announcements to publicise investments, shape narratives, and align stakeholders around key initiatives.
+- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - 早いシグナルが集中投資の起点になる
+- [先行者戦略（First Mover）](/strategies/positional/first-mover) - 集中投資は先行優位を取るための主要手段
+- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 人材や活動の新しい中心を作る投資になることがある
+- [実験（Experimentation）](/strategies/attacking/experimentation) - 大きな賭けの前後で、実験が機会を見極める
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 投資対象の物語を整え、社内外を揃える
 
 ## ⛅ **関連する状勢パターン**
 
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: big bets seek uncertain but high-reward opportunities.
-- [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: anticipating a rapid shift can justify a focused investment.
+- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 大きな賭けは不確実だが高い価値を狙う
+- [変化は常に線形ではない](/climatic-patterns/change-is-not-always-linear) – トリガー: 急な移行を見越して資源を集中する理由になる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [The Innovator's Dilemma (Christensen)](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) – Explores why established organisations struggle with disruptive innovation and the need for separate, focused investments.
-- [Corporate Venturing: Managing the Innovation Family](https://www.strategy-business.com/article/03408) – On structuring and managing internal ventures.
-- [Google DeepMind: The Story Behind the World's Leading AI Startup](https://www.techadvisor.com/article/738778/google-deepmind-the-story-behind-the-worlds-leading-ai-startup.html) – Case study of Google's directed investment in AI.
-- [Bell Labs: Life in the Crown Jewel](/books/bell-labs-life-in-the-crown-jewel) by Narain Gehani, Silicon Press, 2002 – The story of AT&T's legendary R&D investment.
+- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [Corporate Venturing: Managing the Innovation Family](https://www.strategy-business.com/article/03408)
+- [Google DeepMind: The Story Behind the World's Leading AI Startup](https://www.techadvisor.com/article/738778/google-deepmind-the-story-behind-the-worlds-leading-ai-startup.html)
+- [Bell Labs: Life in the Crown Jewel](/books/bell-labs-life-in-the-crown-jewel)

@@ -1,6 +1,6 @@
 ---
-title: Talent Raid
-description: Removing or absorbing key talent from a rival organisation.
+title: 人材引き抜き（Talent Raid）
+description: 競合組織の重要人材を引き抜き、相手を弱めながら自社能力を高める戦略。
 tags:
 - talent-raid
 - competitor
@@ -28,203 +28,207 @@ leadership_focus:
 - Trust-building
 - Secrecy and timing
 quick_signals:
-- Critical initiatives stall because you lack senior expertise competitors already
-  have.
-- Retention data shows your best people being targeted by the same rival.
-- "The competitor\u2019s success hinges on a small cohort of visible specialists."
+- 自社に欠けている上級専門性が、競合の中核施策を支えている。
+- 自社の優秀人材も同じ競合から狙われていることが定着データで見えている。
+- 競合の成功が、少数の可視な専門家集団に大きく依存している。
 momentum_moves:
-- Identify mission-critical roles and craft tailored offers or acqui-hire options.
-- Prepare onboarding and cultural integration plans so new hires deliver impact quickly.
-- Sequence communications to respect legal boundaries while signalling strength.
+- 重要役割を見極め、個別化したオファーや acqui-hire 案を用意する。
+- 受け入れ後すぐ成果が出るよう、オンボーディングと文化統合を準備する。
+- 法的境界を守りつつ、市場へ強さを示せるコミュニケーション順序を設計する。
 watch_outs:
-- Triggering talent wars that inflate compensation beyond sustainable levels.
-- Neglecting your existing teams and creating resentment or attrition.
-- Underestimating non-compete obligations or ethical recruiting standards.
+- 報酬競争を激化させ、持続不能な水準まで人件費を押し上げること。
+- 既存チームへの配慮を欠き、不満や離職を招くこと。
+- 競業避止や採用倫理を軽視すること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Removing or absorbing key talent from a rival organization**.
+**競合の重要人材を直接または間接に取り込み、自社を強くしながら相手の実行力を落とす戦略です。**
 
-> *"Removing core talent from a competitor either directly or indirectly."*
+> *「競合から中核人材を直接または間接に取り除くこと。」*
 >
 > - Simon Wardley
 
-A Talent Raid is a competitive strategy focused on removing or absorbing key talent from a rival organisation. By taking away a competitor's critical human resources — their experts, leaders, engineers or creative minds — you simultaneously strengthen your own company and weaken theirs. This can be done directly by hiring employees away or indirectly by enticing them through acquisitions or partnerships. Talent is often the lifeblood of tech and creative industries; a well‑timed raid can disrupt projects, slow innovation or deprive a competitor of strategic direction. In essence, a talent raid treats top employees as a scarce competitive asset and seeks to control that asset.
+人材引き抜きは、競合組織にとって重要な専門家、リーダー、エンジニア、創造職を奪うことで、自社能力を高めつつ相手を弱める競争戦略です。直接雇用でも、買収や提携を通じた間接的取り込みでも成立します。技術や創造産業では、人材こそが血流です。適切なタイミングの引き抜きは、競合のプロジェクトを止め、イノベーションを遅らせ、戦略方向を失わせます。
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Talent Raid
+### 人材引き抜きとは何か
 
-Talent Raid in Wardley's framework is a competitive strategy that involves strategically acquiring key personnel from rival organizations to enhance one's capabilities while diminishing the competitor's capacity to innovate and compete. This strategy views talent as a critical asset and aims to gain a competitive edge by controlling this asset.
+Wardley の文脈における人材引き抜きは、競合の中核人材を戦略的に獲得し、自社能力を上げると同時に競合の競争力を下げる戦略です。人材を重要資産として扱い、その資産の流れを自社側へ引き寄せます。
 
-### Why is Talent Raid a valuable leadership strategy?
+### なぜ有効なのか
 
-A talent raid is valuable because it directly impacts a competitor's ability to execute its strategy. By acquiring key talent, a company can:
+- 自社へ高い専門性や経験を取り込める
+- 競合のプロジェクトを乱し、イノベーションを遅らせられる
+- 知識、勘所、視点を獲得できる
+- チーム単位で取り込めれば、相手の取り組みを崩せる
 
-- Strengthen its own capabilities by gaining valuable expertise and skills.
-- Weaken a competitor by disrupting their projects, slowing innovation, or depriving them of strategic direction.
-- Gain access to valuable knowledge, know-how, and perspectives.
-- Potentially acquire entire teams to collapse a competitor's project.
+### どう進めるのか
 
-### How?
+直接雇用、買収、提携を通じて競合の中核人材やチームを取り込みます。誰が重要かを見極め、その価値と動機を読み、報酬、使命、環境、裁量などで自社へ引き寄せます。
 
-Talent Raid can be executed directly by hiring away a competitor's employees or indirectly through acquisitions or partnerships that bring talent in-house. It involves identifying key talent or teams within a competitor's organization, assessing their value, and then enticing them to join your organization. This often requires offering better compensation, career opportunities, or a more appealing work environment.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Apple と Tesla
 
-- **Apple and Tesla:** Apple and Tesla have notoriously traded talent, each looking to bolster their teams for electric cars and related technologies. In 2015, Tesla's CEO Elon Musk quipped that Apple was the "Tesla Graveyard" -- "If you don't make it at Tesla, you go work at Apple", in response to Apple hiring many ex-Tesla engineers. By 2018, Apple had poached at least 46 employees from Tesla in a single year, including key engineers for its secretive car project. This talent raid by Apple aimed to boost its own automotive initiative while undermining Tesla's. Losing dozens of experienced staff (some of whom had deep knowledge of Tesla's battery, software, and Autopilot systems) could slow Tesla's development and force them into a continuous recruitment and training mode. Conversely, Tesla has also raided Apple for talent in areas like user interface and chip design, hiring over 150 former Apple employees at one point. These raids indicate both companies see each other's talent as prime targets in the competition for electric and autonomous vehicle leadership.
-- **Google's Acqui-hiring:** Google has a history of "acqui-hiring" -- acquiring startups primarily to get their engineers and designers. For example, Google acquired a small team working on a mobile email app (SlideMail) not just for the product, but to bring the talented developers in-house (indirectly removing talent that could have been employed by competitors). Another case: when Google bought DeepMind in 2014, it wasn't just acquiring technology, but also scooping up some of the world's leading AI researchers, thereby denying that talent to competitors like Facebook or Microsoft. This is an indirect talent raid via acquisition, which gave Google a leap in AI capability and left others to either try to poach from Google or find talent elsewhere.
-- **Finance and Big Law Talent Moves:** In sectors like investment banking or law firms, it's common for a firm to lure star performers (a rainmaking banker or a celebrated trial lawyer) from a competitor with huge compensation packages. The reasoning is the same: that individual brings over clients or deals and leaves the former employer weakened (perhaps clients follow the person, or the competitor loses a unique skill set). For instance, when a top trading team or portfolio manager exits a hedge fund to join another, it's effectively a talent raid that can shake the original firm (investors might withdraw funds in that manager's absence).
+Apple と Tesla は EV や関連技術を巡って相互に人材を取り合ってきました。Apple は Tesla 出身の技術者を大量に採用し、自社の自動車関連の取り組みを強化しました。一方で Tesla も Apple 由来の UI や半導体人材を引き抜いています。双方とも、相手の人材が競争上の重要資産だと見ていたことを示します。
 
-## 🚦 **When to Use / When to Avoid**
+### Google の Acqui-hire
+
+Google は小規模スタートアップの買収を、製品だけでなく人材獲得のために行ってきました。DeepMind の買収も、技術だけでなくトップ級の AI 研究者を一気に取り込んだ例です。
+
+### 金融や法律業界のスター移籍
+
+投資銀行や法律事務所で、トップ級の担当者が競合へ移ると、顧客、案件、評判まで一緒に動くことがあります。個人を取ることが、組織全体の力学を変えます。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Talent Raid">
   <MapSignals>
-    <li>The competitor’s capabilities heavily depend on identifiable individuals or elite teams rather than scalable systems.</li>
-    <li>Your mapping reveals bottlenecks or critical initiatives within the competitor’s organisation led by high-impact talent.</li>
-    <li>The competitive landscape shows a scarcity of domain expertise, making individual contributors disproportionately valuable.</li>
-    <li>The pace of innovation is closely tied to talent mobility. I.e., knowledge transfer has immediate strategic impact.</li>
-    <li>The competitor is vulnerable to disruption via internal morale shocks, e.g., key departures trigger cascading exits or project slowdowns.</li>
-    <li>The market or technology area is in early stages of evolution, where individual expertise carries more strategic weight than process maturity.</li>
+    <li>競合の能力が、スケーラブルな仕組みよりも特定個人や精鋭チームへ大きく依存している。</li>
+    <li>地図を見ると、競合のボトルネックや重要施策を高インパクト人材が率いている。</li>
+    <li>専門性が希少で、個人の価値が極端に高い市場である。</li>
+    <li>知識移転がすぐ戦略効果になるほど、人材移動が重要である。</li>
+    <li>中核人材の離脱が、士気低下や連鎖離職を招きうる競合である。</li>
+    <li>市場や技術が初期進化段階で、個人能力の重みが大きい。</li>
   </MapSignals>
   <Readiness>
-    <li>We can identify and assess high-value individuals or teams within competitors, including their likely motivations and risk tolerance.</li>
-    <li>We offer an environment (culture, mission, comp structure) attractive to top-tier talent, especially those leaving high-pressure roles.</li>
-    <li>We have legal, HR, and onboarding capabilities to execute poaching sensitively, including managing non-competes, IP issues, and integration.</li>
-    <li>We understand the optics. Our leadership can manage internal morale and external perception when executing a visible talent raid.</li>
-    <li>We have systems in place to quickly harness and amplify the incoming talent’s strengths (e.g., clear roles, support, follow-on hires).</li>
-    <li>We avoid overdependence on raiding by maintaining strong internal talent development and succession pipelines.</li>
-    <li>We can model and monitor the downstream impact. E.g., knowledge gained, competitor project disruption, market influence of new hires.</li>
+    <li>価値の高い個人やチームを見極め、その動機とリスク許容を読める。</li>
+    <li>文化、使命、報酬などで、一流人材に魅力的な環境を提供できる。</li>
+    <li>法務、人事、オンボーディングで、競業避止、知財、統合を丁寧に扱える。</li>
+    <li>目立つ引き抜きに伴う社内士気と外部認識を管理できる。</li>
+    <li>獲得人材の力を早く増幅する役割設計と支援がある。</li>
+    <li>引き抜きに依存しすぎず、自前の人材育成や後継育成も維持している。</li>
+    <li>得た知識、競合施策への影響、市場での波及を追跡できる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-Talent Raid is most effective when key talent or teams within a competitor's organization can significantly impact your company's strategic objectives and weaken the competitor's position. It's particularly useful in industries where talent is a critical differentiator, such as technology, pharmaceuticals, and finance.
+- 競合内の特定人材やチームが、自社目標に大きな意味を持つとき
+- 技術、製薬、金融のように人材が差別化要因のとき
+- 一人または一隊を取るだけで、競合の勢いを鈍らせられるとき
 
-### Avoid when
+### 避けるとき
 
-- There's a risk of neglecting the development of your own talent.
-- The poached talent may not fit or perform well in the new environment.
-- The cost of acquiring the talent outweighs the potential benefits.
-- A blatant raid can sour relationships when you still need to cooperate with that competitor in other areas.
+- 自前人材の育成をないがしろにする危険があるとき
+- 取った人材が自社環境へ合わない可能性が高いとき
+- 獲得コストが見込める便益を上回るとき
+- 別の場面では協力も必要な競合との関係を決定的に悪化させるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is balancing tactical stealth with strategic workforce planning. Leaders must identify key talent, justify acquisition costs, and manage integration while mitigating risks and ethical concerns.
+戦術的な秘匿性と、長期の人材戦略を両立することです。誰を取るべきか、いくら払うか、どう活かすかを判断しつつ、法務・倫理・文化統合のリスクも管理しなければなりません。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic human resources planning.
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Tactical execution.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management.
-- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical decision-making.
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — Change management.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 人材の戦略価値を読む
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 引き抜きを実行する
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法務、評判、組織リスクを扱う
+- [Ethical judgment](/leadership-skills/ethical-judgment) — 境界線を保つ
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — 新しい人材を組織へ統合する
 
-## 📋 **How to Execute**
+### 倫理面
 
-### Stealth Approach
+産業スパイや談合は論外です。また、取った人材が自社文化へ適合するか、既存チームとの関係を壊さないかも見なければなりません。
 
-- Use recruiters to discreetly approach target individuals.
-- Gauge their interest and reasons for potentially leaving their current employer.
-- Craft an attractive offer that addresses their needs and motivations.
-- Time the raid strategically, such as when a competitor is vulnerable.
+## 📋 **進め方**
 
-### Overt (Acquisition) Approach
+### ステルス型
 
-- Identify a small company or team within a larger company that can be acquired.
-- Ensure contracts are in place to retain key personnel post-acquisition.
-- Publicly announce the acquisition to send a message to the market.
+- リクルーターなどを使って、対象人材へ慎重に接触する
+- 何に不満があり、何に惹かれるのかを探る
+- その人に合うオファーを作る
+- 競合が弱っているタイミングを狙う
 
-### Execution Considerations
+### 買収型
 
-- Coordinate with legal and HR to address any non-compete issues or potential IP infringement claims.
-- If targeting multiple hires, carefully consider the sequence of recruitment.
-- After the hire, quickly integrate the new talent and leverage their knowledge and expertise.
-- Monitor the competitor's reaction and be prepared to respond.
+- 獲得したいチームを含む小規模会社を見つける
+- 買収後のキーパーソン定着条件を固める
+- 市場へ対外メッセージとして出す
 
-### Ethical considerations
+### 実行上の注意
 
-- Avoid industrial espionage or collusion.
-- Consider the cultural fit of new talent within your organization.
-- Manage the integration of new talent to ensure their success and minimize disruption to existing teams.
+- 競業避止や知財問題に備えて法務・人事と連携する
+- 複数人を狙うなら順序を考える
+- 入社後は早く統合し、知識と能力を活かす
+- 競合の反応も監視する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Impact on competitor's performance (e.g., project delays, loss of market share).
-- Performance and contribution of the acquired talent.
-- Retention rate of the acquired talent.
-- Return on investment of the talent raid.
-- Strengthening of your organization's capabilities.
-- Morale and productivity of existing employees.
+- 競合側の遅延や市場シェア低下などへの影響
+- 獲得人材の成果と貢献
+- 獲得人材の定着率
+- 人材引き抜きの投資対効果
+- 自社能力の強化
+- 既存社員の士気と生産性
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-- Over-reliance on talent raids can lead to neglect in developing internal talent.
-- Poached talent may not perform as expected in the new environment.
-- Talent raids can be costly and may not always yield the desired results.
-- A failed talent raid can alert competitors to potential weaknesses and prompt them to take countermeasures.
-- Talent raids can damage relationships with competitors and impact future collaborations.
+- 引き抜き依存が強すぎると、自前育成が弱る
+- 取った人材が新環境で力を出せないことがある
+- コストが高く、期待効果が出ないことがある
+- 失敗した引き抜きは、競合へ警戒信号を送ってしまう
+- 関係悪化が後の協業へ響くことがある
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Strategic Insights
+### 企業は人と知識の束である
 
-Talent raids are rooted in the understanding that **companies are fundamentally collections of people and their knowledge**. By strategically redirecting the flow of talent, a company can significantly alter the balance of power within a competitive landscape.
+人材引き抜きは、企業が本質的に人と知識でできていることを前提にします。人の流れを変えることで、競争地形の力のバランスも変えられます。
 
-**Impact Beyond the Individual:**
+### 個人を超える影響
 
-Talent raids can have an impact that extends beyond the individual employee. The removal of a key leader or visionary, for example, can leave a competitor organization without clear direction, damage morale, and potentially trigger further departures. Projects heavily reliant on that individual may falter. In essence, a well-executed talent raid can be likened to capturing a high-value piece in a game, like a queen in chess, which diminishes the effectiveness of the remaining pieces.
+重要人物の離脱は、その本人以上の影響を持ちます。方向性の喪失、士気低下、連鎖離職、案件停滞などが起きます。チェスでクイーンを失うのに近い打撃になることがあります。
 
-**The Power of Denial:**
+### 取る利益と、相手に与える損害
 
-While the direct benefit of acquiring talent is clear, the *denial aspect* of a talent raid, which involves actively weakening a competitor, can be equally or even more strategically significant. Consider a scenario where a competitor heavily relies on a single expert, such as a leading AI researcher driving their new initiative. If a company successfully poaches that individual, the competitor's entire initiative could suffer a major setback, potentially preserving or enhancing the poacher's competitive advantage in that particular field.
+自社が得る利益だけでなく、競合を弱めるという denial の効果が同じくらい重要なことがあります。特定の専門家一人で競合の新施策が止まるなら、その人材の価値は非常に高いです。
 
-**Risks and Limitations:**
+### リスクと限界
 
-It's important to acknowledge that talent raids are not without risks. An over-reliance on this strategy can lead a company to neglect the development of its own internal talent pipeline. Furthermore, talent acquired from a competitor may not always integrate seamlessly or perform as effectively in a new environment, as situational factors play a significant role in individual and team performance. Therefore, a talent raid is not a guaranteed path to success. In some cases, a high-profile hire might underperform, resulting in a wasted investment and, simultaneously, alerting the competitor to a vulnerability they need to address, potentially with fresh ideas or a different approach. Leaders must prioritize acquiring talent that not only possesses value for the competitor but also aligns with and enhances their own organization's needs and goals.
+万能策ではありません。引き抜きに頼りすぎれば、自社の育成が弱ります。新しい状況では実力が発揮されない場合もあります。競合にとって価値があるだけでなく、自社の必要とも一致する人材かを見なければなりません。
 
-**Talent Network Effects:**
+### 人材のネットワーク効果
 
-The concept of **talent network effects** is crucial. High-performing individuals often attract other talented people. A strategic talent raid targeting a highly respected or sought-after individual can create a ripple effect, encouraging others within their network to consider joining your company or even follow them directly. This can significantly disrupt the competitor's network and create a powerful talent magnet for the acquiring company.
+優秀な人材は、他の優秀な人材を呼びます。尊敬されている個人を取ると、そのネットワーク全体へ波及し、人材磁場を自社側へ引き寄せることがあります。
 
-**Shaping the Future Competitive Landscape:**
+### 将来の競争地形を作る
 
-In industries characterized by scarce expertise, such as AI or chip design, successful talent raiding can play a decisive role in shaping the future competitive landscape. If a single company manages to amass a disproportionate share of top talent, it can establish a self-reinforcing advantage, making it difficult for competitors to catch up in terms of innovation and development due to a lack of necessary human capital.
+AI や半導体のように専門性が希少な分野では、上位人材の偏在がそのまま将来の競争地形を決めることがあります。
 
-**Optics and Relationship Management:**
+### 見え方と関係管理
 
-It's essential to consider the potential optics and impact on relationships with competitors. A blatant or overly aggressive talent raid can strain relationships and damage trust, particularly if there's an expectation of cooperation in other areas. While talent raiding may be considered fair play in intense rivalries, it's important to weigh the potential consequences for broader industry relationships and future collaborations.
+露骨すぎる引き抜きは信頼を壊し、業界関係を悪化させます。競争として成立する場面でも、副作用を計算しておく必要があります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- Which key talent or teams within competitor organizations would significantly benefit our company?
-- What are the potential costs and benefits of acquiring this talent?
-- How will we integrate the new talent and ensure their success?
-- What are the potential risks and ethical considerations associated with this talent raid?
-- How might our competitors respond, and how will we mitigate those risks?
-- What is our plan for developing and retaining our existing talent?
+- どの人材やチームが自社に最も効くか
+- コストと便益は釣り合うか
+- どう統合し、どう成功させるか
+- どんな法務・倫理リスクがあるか
+- 競合はどう反応するか
+- 既存人材の育成と定着をどう守るか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [**Restriction of Movement**](/strategies/competitor/restriction-of-movement) - Aims to prevent talent from leaving or joining competitors, the opposite of Talent Raid.
-- [**Tech Drops**](/strategies/competitor/tech-drops) - Can be used in conjunction with a Talent Raid to exploit a competitor's weakened position after the raid.
-- [**Threat Acquisition**](/strategies/defensive/threat-acquisition) - Acquiring a company to eliminate a potential competitor can also bring in valuable talent.
-- [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - A successful Talent Raid can raise barriers to entry for competitors by depriving them of critical talent.
-- [**Market Enablement**](/strategies/accelerators/market-enablement) - If the talent raid brings in individuals with strong market connections or expertise, it can enable market growth.
-
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) - shifting critical expertise and influence by drawing key individuals to your side to establish a new talent hub.
-- [insertion](/strategies/poison/insertion) - embedding targeted messaging or incentives to destabilize competitor morale and encourage talent defections.
+- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 競合の機動力を下げる点で補完関係にある
+- [Tech Drops](/strategies/competitor/tech-drops) - 引き抜き後に、弱った競合へ畳みかけることがある
+- [脅威の買収](/strategies/defensive/threat-acquisition) - 会社ごと取ることで人材も取り込める
+- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - 重要人材を吸うことで参入障壁を上げられる
+- [Market Enablement](/strategies/accelerators/market-enablement) - 市場知見や接点を持つ人材の獲得が市場拡大を助ける
+- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 重要人材を引き寄せることで新しい中心を作る
+- [Insertion](/strategies/poison/insertion) - 相手の士気や結束を崩す働きかけと組み合わせられる
 
 ## ⛅ **関連する状勢パターン**
 
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: securing key talent helps navigate uncertain markets.
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: poaching exposes a rival's slow response to change.
+- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: 不確実な市場で重要人材の価値は大きい
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – トリガー: 引き抜きは、競合の鈍い対応を露出させる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [Tesla Employees Are Getting Poached by Apple, Which Elon Musk Called a 'Tesla Graveyard' - Business Insider](https://www.google.com/search?q=https://www.businessinsider.com/apple-poaching-tesla-employees-elon-musk-tesla-graveyard-2021-12)
-- [Elon Musk Has Raided 150 People From Apple For Tesla - Forbes](https://www.google.com/search?q=https://www.forbes.com/sites/qai/2022/01/05/elon-musk-has-raided-150-people-from-apple-for-tesla/)
+- [Tesla Employees Are Getting Poached by Apple, Which Elon Musk Called a 'Tesla Graveyard' - Business Insider](https://www.businessinsider.com/apple-poaching-tesla-employees-elon-musk-tesla-graveyard-2021-12)
+- [Elon Musk Has Raided 150 People From Apple For Tesla - Forbes](https://www.forbes.com/sites/qai/2022/01/05/elon-musk-has-raided-150-people-from-apple-for-tesla/)
