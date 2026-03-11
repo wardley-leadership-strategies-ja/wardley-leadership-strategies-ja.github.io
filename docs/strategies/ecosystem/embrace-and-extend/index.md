@@ -1,5 +1,5 @@
 ---
-title: 抱き込みと拡張（Embrace and Extend）
+title: 抱き込みと拡張
 description: 広く使われた標準をまず受け入れ、その上に独自拡張を重ねてロックインを作る戦略。
 tags:
 - ecosystem

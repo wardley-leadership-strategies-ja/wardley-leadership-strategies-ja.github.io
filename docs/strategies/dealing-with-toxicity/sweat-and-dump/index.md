@@ -1,5 +1,5 @@
 ---
-title: 使い切って手放す（Sweat & Dump）
+title: 使い切って手放す
 description: レガシー資産の運用を第三者へ移し、残存価値を取り切ってから手放す戦略。
 tags:
 - dealing-with-toxicity

@@ -1,5 +1,5 @@
 ---
-title: カーボン・ESGアービトラージ（Carbon & ESG Arbitrage）
+title: カーボン・ESGアービトラージ
 description: 炭素価格差、インセンティブ、サプライチェーン透明性を使って競合を出し抜く戦略。
 tags:
 - markets

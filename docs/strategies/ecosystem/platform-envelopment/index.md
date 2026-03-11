@@ -1,5 +1,5 @@
 ---
-title: プラットフォーム包摂（Platform Envelopment）
+title: プラットフォーム包摂
 description: プラットフォーム事業者が、他プラットフォームの機能を統合・束ねたり、自分の利用者と直接競合したりして影響力を広げる戦略。
 tags:
 - platform-envelopment

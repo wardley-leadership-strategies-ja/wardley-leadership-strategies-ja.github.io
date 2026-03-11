@@ -1,5 +1,5 @@
 ---
-title: 戦略的切り離しと負債の処分（Strategic Divestment and Disposal of Liability）
+title: 戦略的切り離しと負債の処分
 description: 事業、資産、部門を切り離すか手放し、価値を解放し、集中を高め、負担要素を除く戦略。
 tags:
 - dealing-with-toxicity

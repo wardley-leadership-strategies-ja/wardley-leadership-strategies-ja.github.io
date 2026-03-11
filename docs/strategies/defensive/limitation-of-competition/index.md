@@ -1,5 +1,5 @@
 ---
-title: 競争制限（Limitation of Competition）
+title: 競争制限
 description: 規制、法、環境条件を使って競争圧力を構造的に減らす戦略。
 tags:
 - defensive

@@ -1,5 +1,5 @@
 ---
-title: ライセンシング（Licensing）
+title: ライセンシング
 description: 法的条件を使って競合の利用を制限し、エコシステムをロックインする戦略。
 tags:
 - poison

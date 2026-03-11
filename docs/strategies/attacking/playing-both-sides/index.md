@@ -1,5 +1,5 @@
 ---
-title: 両面張り（Playing Both Sides）
+title: 両面張り
 description: 市場や標準争いで対立する両陣営と関わり、どちらが勝っても利益を得る戦略。
 tags:
 - attacking

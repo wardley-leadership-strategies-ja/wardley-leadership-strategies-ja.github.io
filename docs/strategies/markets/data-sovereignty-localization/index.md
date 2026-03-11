@@ -1,5 +1,5 @@
 ---
-title: データ主権とローカライゼーション（Data Sovereignty & Localization）
+title: データ主権とローカライゼーション
 description: データ所在地と法域準拠を、信頼と市場参入の優位に変える戦略。
 tags:
 - markets

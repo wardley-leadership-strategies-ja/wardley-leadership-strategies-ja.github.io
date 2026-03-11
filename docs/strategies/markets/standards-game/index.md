@@ -1,5 +1,5 @@
 ---
-title: 標準化ゲーム（Standards Game）
+title: 標準化ゲーム
 description: 自社技術やプロセスが支配的標準になるまで採用を進め、顧客をロックインし競合を縛る戦略。
 tags:
 - standards

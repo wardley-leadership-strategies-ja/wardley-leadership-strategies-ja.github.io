@@ -1,5 +1,5 @@
 ---
-title: 両面市場（Two-Sided Markets）
+title: 両面市場
 description: 買い手と売り手のような二つの利用者集団をつなぎ、ネットワーク効果で価値を生むプラットフォーム戦略。
 tags:
 - ecosystem

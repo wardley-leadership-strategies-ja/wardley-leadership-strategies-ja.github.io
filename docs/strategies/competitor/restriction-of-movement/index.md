@@ -1,5 +1,5 @@
 ---
-title: 機動制限（Restriction of Movement）
+title: 機動制限
 tags:
 - restriction-of-movement
 - competitor

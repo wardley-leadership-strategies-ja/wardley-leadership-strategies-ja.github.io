@@ -1,5 +1,5 @@
 ---
-title: シグナル歪曲（Signal Distortion）
+title: シグナル歪曲
 description: 市場シグナルを操作して競合を誤誘導し、相手の戦略判断に影響する戦略。
 tags:
 - markets

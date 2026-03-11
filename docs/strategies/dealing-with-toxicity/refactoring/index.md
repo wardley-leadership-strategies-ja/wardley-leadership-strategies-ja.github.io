@@ -1,5 +1,5 @@
 ---
-title: リファクタリング（Refactoring）
+title: リファクタリング
 description: レガシー構成要素を社内で組み替え、価値を救いながら毒性を減らす戦略。
 tags:
 - refactoring

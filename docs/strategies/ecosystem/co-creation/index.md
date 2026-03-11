@@ -1,5 +1,5 @@
 ---
-title: 共創（Co-creation）
+title: 共創
 description: 顧客やユーザーを開発プロセスに積極的に巻き込み、より価値ある解を共に作る戦略。
 tags:
 - ecosystem

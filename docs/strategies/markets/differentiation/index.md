@@ -1,5 +1,5 @@
 ---
-title: 差別化（Differentiation）
+title: 差別化
 description: 進化の浅い市場空間で、未充足のユーザーニーズに焦点を当てて独自価値を作る戦略。
 tags:
 - markets

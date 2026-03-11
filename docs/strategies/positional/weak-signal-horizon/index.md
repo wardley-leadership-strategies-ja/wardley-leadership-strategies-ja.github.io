@@ -1,5 +1,5 @@
 ---
-title: 弱いシグナル（Horizon）
+title: 弱いシグナル
 description: 経済、技術、行動の微細な変化を捉え、明白になる前に市場転換を察知する戦略。
 tags:
 - weak-signal-horizon

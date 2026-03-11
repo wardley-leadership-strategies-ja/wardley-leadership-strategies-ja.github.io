@@ -1,5 +1,5 @@
 ---
-title: 取り込み（Co-opting）
+title: 取り込み
 description: 競合の機能、標準、メッセージを取り込み、自社へ有利に再配置することで、相手の優位を中和する戦略。
 tags:
 - ecosystem

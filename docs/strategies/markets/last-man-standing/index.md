@@ -1,5 +1,5 @@
 ---
-title: 最後の一社（Last Man Standing）
+title: 最後の一社
 description: コモディティ化する市場で競合より長く生き残り、残余市場を取り込む戦略。
 tags:
 - markets

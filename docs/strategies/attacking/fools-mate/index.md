@@ -1,5 +1,5 @@
 ---
-title: フールズ・メイト（Fool's Mate）
+title: フールズ・メイト
 description: 相手のバリューチェーンで理解も防御も甘い要素を突き、連鎖的な崩壊やコモディティ化を起こす高速戦略。
 tags:
 - attacking

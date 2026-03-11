@@ -1,5 +1,5 @@
 ---
-title: 協調（Cooperation）
+title: 協調
 description: 競合を含む他者と協力し、単独では達成しにくい目的を実現する戦略。
 tags:
 - cooperation

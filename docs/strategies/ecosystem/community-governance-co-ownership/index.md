@@ -1,5 +1,5 @@
 ---
-title: コミュニティ統治と共同所有（Community Governance and Co-Ownership）
+title: コミュニティ統治と共同所有
 description: エコシステム参加者と意思決定権や資産所有を共有し、長期の関与と粘着性を高める戦略。
 tags:
 - ecosystem

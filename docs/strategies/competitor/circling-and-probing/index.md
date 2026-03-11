@@ -1,5 +1,5 @@
 ---
-title: 包囲と探り（Circling and Probing）
+title: 包囲と探り
 tags:
 - circling-and-probing
 - competitor

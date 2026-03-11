@@ -1,5 +1,5 @@
 ---
-title: 価格政策（Pricing Policy）
+title: 価格政策
 description: 価格を戦略レバーとして使い、需要、市場構造、競争優位を動かす戦略。
 tags:
 - markets

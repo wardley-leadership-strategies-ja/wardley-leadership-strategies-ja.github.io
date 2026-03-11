@@ -5,7 +5,7 @@ tags:
 - influence
 - misdirection
 - competitor-manipulation
-title: 挿入（Insertion）
+title: 挿入
 description: 競合のエコシステム内部へ人や物語を埋め込み、悪い判断へ誘導する戦略。
 stages:
 - Custom-Built

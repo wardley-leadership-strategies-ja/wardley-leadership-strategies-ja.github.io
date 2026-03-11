@@ -1,5 +1,5 @@
 ---
-title: 産業政策（Industrial Policy）
+title: 産業政策
 description: 政府の投資や政策と足並みを揃える、またはそれに影響を与えることで、戦略産業の進化を加速する戦略。
 tags:
 - industrial-policy

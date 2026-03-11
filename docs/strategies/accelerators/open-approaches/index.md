@@ -1,5 +1,5 @@
 ---
-title: オープンアプローチ（Open Approaches）
+title: オープンアプローチ
 description: ソース、標準、データ、API を開くことで採用を加速し、コモディティ化を進め、エコシステムを育てる戦略。
 tags:
 - open approaches

@@ -1,5 +1,5 @@
 ---
-title: バリューチェーンの分解と再統合（Value Chain Disaggregation and Re-aggregation）
+title: バリューチェーンの分解と再統合
 description: バリューチェーンを戦略的に分解し、再結合して新しい事業モデルと市場機会を開く戦略。
 tags:
 - value chain

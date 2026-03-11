@@ -1,5 +1,5 @@
 ---
-title: バンドリング（Bundling）
+title: バンドリング
 description: 望ましくない変更や弱い要素を、魅力的な要素と束ねて受け入れさせる戦略。
 tags:
 - bundling
@@ -43,7 +43,7 @@ time_horizon: Fast impact
 
 **好まれにくい変更や要素を、魅力的な要素と一緒に束ねて採用を進める戦略です。**
 
-> disadvantage な change を他の needs と束ねて隠すこと。
+> 不利な変更を、別の必要要素と束ねて見えにくくすること。
 >
 > - Simon Wardley
 
@@ -58,23 +58,23 @@ time_horizon: Fast impact
 ### なぜ使うのか
 
 - **新しい標準や変更を押し込みやすい**
-- **upgrade や移行の摩擦を減らせる**
+- **更新や移行の摩擦を減らせる**
 - **競合比較を難しくできる**
-- **suite としての価値を強調できる**
+- **一式としての価値を強調できる**
 
 ## 🗺️ **実例**
 
 ### Windows と Internet Explorer
 
-Microsoft が Internet Explorer を Windows に bundled した例は典型です。ユーザーは OS と一緒に browser を受け取り、競合 browser の立場は大きく悪化しました。
+Microsoft が Internet Explorer を Windows に同梱した例は典型です。ユーザーは OS と一緒にブラウザを受け取り、競合ブラウザの立場は大きく悪化しました。
 
 ### ケーブルテレビのチャンネル束ね売り
 
 人気チャンネルと不人気チャンネルをセットで売ることで、単独では生き残れないものまで配信させる形です。
 
-### SaaS の機能廃止を含む upgrade
+### SaaS の機能廃止を含む更新
 
-廃止したい旧機能を remove する代わりに、同価格で新機能や追加容量を付け、upgrade 全体としては得に見せて受け入れさせるような使い方です。
+廃止したい旧機能を取り除く代わりに、同価格で新機能や追加容量を付け、更新全体としては得に見せて受け入れさせるような使い方です。
 
 ## 🚦 **使いどころ**
 
@@ -83,29 +83,29 @@ Microsoft が Internet Explorer を Windows に bundled した例は典型です
     <li>地図上で、ユーザー抵抗や慣性にぶつかるコンポーネントがある。</li>
     <li>強い需要を持つ魅力的な製品やサービスがある。</li>
     <li>望まれにくい要素が、価値連鎖や進化のために重要である。</li>
-    <li>競合が standalone 提供で ecosystem を脅かしている。</li>
-    <li>新しい標準や機能の adoption を加速したい。</li>
+    <li>競合が単独提供で生態系を脅かしている。</li>
+    <li>新しい標準や機能の採用を加速したい。</li>
   </MapSignals>
   <Readiness>
-    <li>顧客 needs と pain points をよく理解している。</li>
-    <li>bundle の価値を明確に説明できる。</li>
+    <li>顧客ニーズと痛点をよく理解している。</li>
+    <li>バンドルの価値を明確に説明できる。</li>
     <li>顧客反応をすばやく見て調整できる。</li>
     <li>法的・規制上の懸念へ備えられる。</li>
-    <li>product、marketing、sales を横断調整できる。</li>
+    <li>製品、マーケティング、営業を横断調整できる。</li>
   </Readiness>
 </Assessment>
 
 ### 向くとき
 
 - 単独では拒まれそうな変更を、強い需要と組み合わせられるとき
-- 顧客に stark choice を与えず、進化を進めたいとき
-- suite 全体の価値で競争したいとき
+- 顧客に極端な二者択一を与えず、進化を進めたいとき
+- 一式全体の価値で競争したいとき
 
 ### 避けるとき
 
 - 束ねる要素同士に論理的なつながりがないとき
-- tying と見なされるリスクが高いとき
-- 顧客が choice と transparency を強く求めるとき
+- 抱き合わせ強制と見なされるリスクが高いとき
+- 顧客が選択の自由と透明性を強く求めるとき
 
 ## 🎯 **リーダーシップ**
 
@@ -116,29 +116,29 @@ Microsoft が Internet Explorer を Windows に bundled した例は典型です
 ### 必要なスキル
 
 - [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — 何を組み合わせれば新しい価値になるかを見る
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 顧客が exploit されたと感じない設計をする
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 顧客が搾取されたと感じない設計をする
 - [Competitive intelligence](/leadership-skills/competitive-intelligence) — 競合と市場反応を読む
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 複数チームを通じて bundle を一貫して届ける
-- [Ethical judgment](/leadership-skills/ethical-judgment) — 説得と coercion の境界を判断する
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 複数チームを通じてバンドルを一貫して届ける
+- [Ethical judgment](/leadership-skills/ethical-judgment) — 説得と強制の境界を判断する
 
 ### 倫理面
 
-顧客が欲しいものを得るために不要物まで取らされると感じれば、bundle は不信を生みます。顧客が何を受け取るかを理解でき、全体として本当の価値があることが前提です。
+顧客が欲しいものを得るために不要物まで取らされると感じれば、バンドルは不信を生みます。顧客が何を受け取るかを理解でき、全体として本当の価値があることが前提です。
 
 ## 📋 **進め方**
 
-1. 引きの強い core 要素と、押し込みたい target 要素を定める
+1. 引きの強い中核要素と、押し込みたい対象要素を定める
 2. 両者に意味のある補完関係があるか確認する
-3. 価格、tier、無料同梱などの bundle 構造を決める
-4. package 全体の価値を明確に伝える messaging を作る
+3. 価格、階層、無料同梱などの構造を決める
+4. 全体パッケージの価値を明確に伝えるメッセージを作る
 5. 採用率、解約率、使用実態を見て調整する
 
 ## 📈 **成功指標**
 
-- bundle adoption rate
-- target 要素の attach rate
-- standalone 売上への影響
-- bundled service の CAC
+- バンドル採用率
+- 対象要素の付帯率
+- 単体売上への影響
+- 同梱サービスの顧客獲得コスト
 - CLV の改善
 - target 要素の実使用率
 
@@ -154,39 +154,39 @@ Microsoft が Internet Explorer を Windows に bundled した例は典型です
 
 ### 法規制リスク
 
-市場支配力のある企業が aggressive に bundle すると antitrust 問題になりえます。
+市場支配力のある企業が攻撃的にバンドルすると、反トラスト問題になりえます。
 
 ### 上位商品の自己侵食
 
-bundle が安すぎると、高粗利の単品が食われます。
+バンドルが安すぎると、高粗利の単品が食われます。
 
 ## 🧠 **戦略的示唆**
 
-- **標準化の加速器になる**: popular component に載せれば新機能が一気に臨界量へ届く
-- **profit pool を動かす**: 単体で取れていた価値が bundle 全体へ再配分される
-- **対抗策を呼ぶ**: 競合は unbundle、counter-bundle、法的反撃を取ってくる
-- **UX が弱いと逆効果**: 統合品質が悪い bundle は competitor に扉を開く
+- **標準化の加速器になる**: 人気要素に載せれば新機能が一気に臨界量へ届く
+- **利益配分を動かす**: 単体で取れていた価値がバンドル全体へ再配分される
+- **対抗策を呼ぶ**: 競合は分解、対抗バンドル、法的反撃を取ってくる
+- **体験が弱いと逆効果**: 統合品質が悪いバンドルは競合に扉を開く
 
 ## ❓ **問うべきこと**
 
-- 顧客にとって本当に優れた value proposition になっているか
-- 顧客は benefit、convenience、coercion のどれとして受け取るか
-- 競合はどう counter-bundle や unbundle してくるか
-- integration と modularity の均衡は適切か
-- innovation を促進する bundle か、単なる押し込みか
+- 顧客にとって本当に優れた価値提案になっているか
+- 顧客は恩恵、利便、強制のどれとして受け取るか
+- 競合はどう対抗バンドルや分解で応じてくるか
+- 統合と分離可能性の均衡は適切か
+- イノベーションを促進するバンドルか、単なる押し込みか
 - 倫理と反競争法の境界を越えていないか
 
 ## 🔀 **関連戦略**
 
-- [選択肢の混乱（Confusion of Choice）](/strategies/user-perception/confusion-of-choice) - 複雑な package で比較をさらに難しくする
-- [参入障壁を上げる（Raising Barriers to Entry）](/strategies/defensive/raising-barriers-to-entry) - 機能期待値を積み上げて新規参入を難しくする
-- [先行確保（Land Grab）](/strategies/positional/land-grab) - 既存基盤に載せて新サービスの利用者を一気に取る
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - platform が新機能を取り込む典型手段
+- [選択肢の混乱](/strategies/user-perception/confusion-of-choice) - 複雑なパッケージで比較をさらに難しくする
+- [参入障壁を上げる](/strategies/defensive/raising-barriers-to-entry) - 機能期待値を積み上げて新規参入を難しくする
+- [先行確保](/strategies/positional/land-grab) - 既存基盤に載せて新サービスの利用者を一気に取る
+- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - プラットフォームが新機能を取り込む典型手段
 
 ## ⛅ **関連する状勢パターン**
 
 - [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – トリガー: コモディティ化した部品の組み合わせが新しい提供になる
-- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: bundle が関連サービスの adoption を変える
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: バンドルが関連サービスの採用を変える
 
 ## 📚 **参考文献**
 

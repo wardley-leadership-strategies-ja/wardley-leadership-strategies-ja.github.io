@@ -1,5 +1,5 @@
 ---
-title: 陽動（Misdirection）
+title: 陽動
 tags:
 - misdirection
 - competitor

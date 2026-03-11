@@ -1,5 +1,5 @@
 ---
-title: 収穫（Harvesting）
+title: 収穫
 description: プラットフォームのエコシステムを観察し、成功した第三者提供物を買収、複製、統合して革新を拡大する戦略。
 tags:
 - markets

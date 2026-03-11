@@ -1,5 +1,5 @@
 ---
-title: 市場育成（Market Enablement）
+title: 市場育成
 description: あるコンポーネントやサービスの周囲に競争的な市場を育て、その進化と採用を加速する戦略。
 tags:
 - accelerators

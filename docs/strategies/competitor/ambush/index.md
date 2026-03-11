@@ -1,5 +1,5 @@
 ---
-title: 奇襲（Ambush）
+title: 奇襲
 description: 競合の進捗や優位を、意表を突く対抗策で無力化する反応型の競争戦略。
 tags:
 - competitor

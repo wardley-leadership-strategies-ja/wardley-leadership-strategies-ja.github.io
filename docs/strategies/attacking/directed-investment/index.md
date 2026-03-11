@@ -1,5 +1,5 @@
 ---
-title: 集中投資（Directed Investment）
+title: 集中投資
 description: 将来起きる変化や新興領域に狙いを定めて投資し、競合より先に優位を取る戦略。
 tags:
 - directed-investment

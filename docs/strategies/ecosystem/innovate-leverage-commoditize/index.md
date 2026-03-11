@@ -1,5 +1,5 @@
 ---
-title: "革新・活用・コモディティ化（Innovate, Leverage, Commoditize: ILC）"
+title: 革新・活用・コモディティ化
 description: エコシステムを sensing engine として使い、革新を導いて市場主導権を維持する循環戦略。
 tags:
 - ecosystem

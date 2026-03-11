@@ -1,5 +1,5 @@
 ---
-title: アライアンス（Alliances）
+title: アライアンス
 description: 共通目的のために組成される、正式な提携やコンソーシアム。
 tags:
 - alliances

@@ -1,5 +1,5 @@
 ---
-title: 参入障壁の切り崩し（Undermining Barriers to Entry）
+title: 参入障壁の切り崩し
 description: 既存勢力を守っている主要な参入障壁を特定し、それを崩すことで市場を開く攻撃戦略。
 tags:
 - attacking

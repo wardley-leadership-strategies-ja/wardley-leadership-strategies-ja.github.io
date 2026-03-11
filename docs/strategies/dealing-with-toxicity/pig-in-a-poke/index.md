@@ -1,5 +1,5 @@
 ---
-title: 中身を隠して売る（Pig in a Poke）
+title: 中身を隠して売る
 description: 毒性資産を価値あるものに見せかけ、正体が露呈する前にリスクを移す戦略。
 tags:
 - dealing-with-toxicity

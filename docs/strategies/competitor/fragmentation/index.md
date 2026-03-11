@@ -1,5 +1,5 @@
 ---
-title: 断片化（Fragmentation）
+title: 断片化
 description: 競合が支配する市場を分断し、その牙城を崩していく戦略。
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 stages:

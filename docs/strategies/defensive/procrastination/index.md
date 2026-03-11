@@ -1,5 +1,5 @@
 ---
-title: 戦略的先送り（Procrastination）
+title: 戦略的先送り
 description: 競合に新市場や新技術のコストとリスクを先に負わせ、成熟後に入る防御戦略。
 tags:
 - defensive

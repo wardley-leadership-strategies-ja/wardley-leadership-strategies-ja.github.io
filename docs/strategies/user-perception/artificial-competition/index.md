@@ -1,5 +1,5 @@
 ---
-title: 見せかけの競争（Artificial Competition）
+title: 見せかけの競争
 description: 自社提供と競う第二の主体を作り、競争があるように見せる戦略。
 tags:
 - artificial-competition
@@ -43,7 +43,7 @@ time_horizon: Medium-term shaping
 
 **自社と競う第二の主体を作り、競争があるように見せながら主導権を維持する戦略です。**
 
-> *"Creating two competing bodies to become the focus of competition and in effect driving oxygen out of a market."*
+> *「二つの競争主体を作り、競争の焦点をそこへ集めることで、市場の酸素を奪うこと。」*
 >
 > - Simon Wardley
 
@@ -51,9 +51,9 @@ time_horizon: Medium-term shaping
 
 ### 見せかけの競争とは何か
 
-組織が、自社提供と競っているように見える第二の主体を作るか支援する戦略です。両者は見かけ上は rivals ですが、最終的には同じ所有者や同じ戦略意図の下にあります。これにより、市場には「競争がある」という印象を与えつつ、実際の競争空間を自社の管理下に置けます。
+組織が、自社提供と競っているように見える第二の主体を作るか支援する戦略です。両者は見かけ上は競合ですが、最終的には同じ所有者や同じ戦略意図の下にあります。これにより、市場には「競争がある」という印象を与えつつ、実際の競争空間を自社の管理下に置けます。
 
-中核は競争の物語を支配することです。競争相手の席を自前の proxy で埋めれば、本物の新規参入者への注意をそらし、顧客の選択肢を管理された範囲に閉じ込められます。
+中核は競争の物語を支配することです。競争相手の席を自前の代理ブランドで埋めれば、本物の新規参入者への注意をそらし、顧客の選択肢を管理された範囲に閉じ込められます。
 
 ### なぜ使うのか
 
@@ -66,7 +66,7 @@ time_horizon: Medium-term shaping
 
 ### MediaMarkt と Saturn
 
-欧州では MediaMarkt と Saturn が激しく競っているように見えますが、実際には同じ holding company に属しています。複数ブランドで競争面を埋めつつ、市場シェアをグループ内にとどめる例です。
+欧州では MediaMarkt と Saturn が激しく競っているように見えますが、実際には同じ持株会社に属しています。複数ブランドで競争面を埋めつつ、市場シェアをグループ内にとどめる例です。
 
 ## 🚦 **使いどころ**
 
@@ -81,10 +81,10 @@ time_horizon: Medium-term shaping
   </MapSignals>
   <Readiness>
     <li>十分に別物に見える第二主体を立てるか買収できる。</li>
-    <li>高位戦略を揃えつつ、独立性を演出できる governance がある。</li>
+    <li>上位戦略を揃えつつ、独立性を演出できる統治の仕組みがある。</li>
     <li>二つのブランドを運営しても内部衝突やムダを抑えられる。</li>
     <li>関係が露見したときの法的、運用的、評判的リスクに備えられる。</li>
-    <li>成功条件と exit / integration plan が明確である。</li>
+    <li>成功条件と出口戦略、統合計画が明確である。</li>
     <li>倫理的含意を理解し、代替策も検討している。</li>
     <li>世論、メディア、規制との向き合い方に経験がある。</li>
   </Readiness>
@@ -137,19 +137,19 @@ time_horizon: Medium-term shaping
 
 ### 露見
 
-関係が明らかになると、astroturfing 的だと非難され、信頼を失います。
+関係が明らかになると、やらせに近いものだと非難され、信頼を失います。
 
 ### 非効率
 
 二重運営が内部競合や重複投資を生みます。
 
-### proxy の弱さ
+### 代理ブランドの弱さ
 
 第二主体が弱すぎると、本物の競合を防げません。
 
 ## 🧠 **戦略的示唆**
 
-- **知覚の設計が本体**: 法的分離だけでなく、顧客に rivalry が本物に見える必要がある
+- **知覚の設計が本体**: 法的分離だけでなく、顧客に競争が本物に見える必要がある
 - **完全分離ではなく統制された自律**: 適度な裁量を持たせた方が露出リスクも下がる
 - **対比が信頼性を作る**: 価格、価値観、体験で違いが明確なほど選択の幻は強まる
 - **出口を決めておく**: 吸収、統合、廃止のどれを狙うのかを先に持つべきである
@@ -163,13 +163,13 @@ time_horizon: Medium-term shaping
 
 ## 🔀 **関連戦略**
 
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - 競争の両側から利益を取る
-- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 自分の制御下で競争を増やす
-- [Misdirection](/strategies/competitor/misdirection) - 本当の競争地形を誤認させる
+- [両面張り](/strategies/attacking/playing-both-sides) - 競争の両側から利益を取る
+- [市場育成](/strategies/accelerators/market-enablement) - 自分の制御下で競争を増やす
+- [陽動](/strategies/competitor/misdirection) - 本当の競争地形を誤認させる
 
 ## ⛅ **関連する状勢パターン**
 
-- [二つの異なる破壊形態がある](/climatic-patterns/two-different-forms-of-disruption) – トリガー: 作られた rivalry が予期しない市場変化を引き起こす
+- [二つの異なる破壊形態がある](/climatic-patterns/two-different-forms-of-disruption) – トリガー: 作られた競争が予期しない市場変化を引き起こす
 - [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 演出された競争が期待と関連市場を形作る
 
 ## 📚 **参考文献**

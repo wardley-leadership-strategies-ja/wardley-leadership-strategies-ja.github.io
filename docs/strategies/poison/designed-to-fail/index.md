@@ -6,7 +6,7 @@ tags:
 - ecosystem-manipulation
 authors:
 - dave-hulbert
-title: 失敗するよう設計する（Designed to Fail）
+title: 失敗するよう設計する
 description: rivals が利益を得る前に、市場自体を汚す欠陥施策を意図的に投入する戦略。
 stages:
 - Genesis

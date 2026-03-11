@@ -1,5 +1,5 @@
 ---
-title: 先行者戦略（First Mover）
+title: 先行者戦略
 description: 他者に先んじてコンポーネントを産業化・標準化し、市場の主導権を握るポジショニング戦略。
 tags:
 - first-mover

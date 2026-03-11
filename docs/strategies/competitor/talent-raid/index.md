@@ -1,5 +1,5 @@
 ---
-title: 人材引き抜き（Talent Raid）
+title: 人材引き抜き
 description: 競合組織の重要人材を引き抜き、相手を弱めながら自社能力を高める戦略。
 tags:
 - talent-raid

@@ -1,5 +1,5 @@
 ---
-title: 特許と知的財産権（Patents & Intellectual Property Rights）
+title: 特許と知的財産権
 description: 特許や知財権を使って競合を法的に囲い、技術進化を遅らせる戦略。
 tags:
 - decelerators

@@ -1,5 +1,5 @@
 ---
-title: 高速追随（Fast Follower）
+title: 高速追随
 description: 先行者の失敗と市場開拓を利用し、より良い実行で最適なタイミングに参入するポジショニング戦略。
 tags:
 - fast-follower

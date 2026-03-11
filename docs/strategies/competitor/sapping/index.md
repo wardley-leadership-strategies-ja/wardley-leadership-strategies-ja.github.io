@@ -1,5 +1,5 @@
 ---
-title: 消耗戦（Sapping）
+title: 消耗戦
 tags:
 - sapping
 - competitor
