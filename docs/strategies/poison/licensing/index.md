@@ -1,6 +1,6 @@
 ---
-title: Licensing
-description: Using legal terms to restrict competitors and lock in an ecosystem.
+title: ライセンシング（Licensing）
+description: 法的条件を使って競合の利用を制限し、エコシステムをロックインする戦略。
 tags:
 - poison
 - intellectual-property
@@ -24,201 +24,200 @@ leadership_focus:
 - Standard stewardship
 - Risk framing
 quick_signals:
-- Competitors monetise your technology via permissive terms that no longer suit you.
-- Partners push for clarity on acceptable use before committing deeper.
-- You need revenue or control levers beyond pure product innovation.
+- 競合が、いまの緩い条件で自社技術を収益化している。
+- パートナーが、より深く関わる前に許容利用範囲の明確化を求めている。
+- 製品革新以外にも、収益や統制のレバーが必要になっている。
 momentum_moves:
-- Audit existing licenses to understand loopholes and strategic exposures.
-- Design tiered or dual licensing models aligned to desired behaviours.
-- Educate partners on the value exchange behind the updated terms.
+- 既存ライセンスを監査し、抜け穴と戦略露出を把握する。
+- 望ましい行動に合わせて、段階型やデュアルライセンスを設計する。
+- 更新後の条件が何と引き換えなのか、パートナーへ説明する。
 watch_outs:
-- Imposing terms so restrictive that the ecosystem abandons you.
-- Failing to enforce the license consistently, undermining credibility.
-- Creating legal complexity your own teams cannot administer.
+- 制約を強くしすぎて、エコシステムごと離反されること。
+- 一貫した執行ができず、権威が崩れること。
+- 自社チームでも運用できない法的複雑性を作ること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
+**法的枠組みを使って競合利用を縛り、エコシステムをロックインする戦略です。**
 
-**Leveraging legal frameworks to restrict competitor use and lock in ecosystems.**
-
-> *"Use of licensing to prevent future competitor moves."*
+> *「将来の競合の動きを防ぐためにライセンスを使うこと。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Licensing?
+### ライセンシングとは何か
 
-Licensing uses legal agreements like patents, copyrights, or trademarks, to control how others can use, modify, or distribute a technology or component. Terms may include field-of-use restrictions, revocable licenses, or dual-licensing models.
+ライセンシングは、特許、著作権、商標などに基づく契約条件を使って、他者が技術やコンポーネントをどう利用、改変、配布できるかを制御することです。利用分野制限、取り消し可能ライセンス、デュアルライセンスなどが典型です。
 
 :::note
 
-**Licensing** uses legal agreements (licenses) to control how others can use, modify, or distribute your technology. The "poison" aspect refers to structuring licenses in a way that restricts competitors—such as limiting use cases, requiring fees, or imposing terms that make it hard for rivals to compete or switch away. The focus is on actively shaping the ecosystem and locking in users or partners through legal terms.
+ここでいう **ライセンシング** は、単に権利を守るだけでなく、利用条件を設計して競合を縛ることに重点があります。たとえば利用用途の限定、商用利用時の課金、派生物の条件付けなどです。
 
-This uses similar tools but is distinct from [Patents & IPR](/strategies/decelerators/ipr), which focuses on creating legal barriers that slow down competitors' innovation. Licensing is about controlling usage through agreements, while IPR is about preventing access or use altogether.
+これは [Patents & IPR](/strategies/decelerators/ipr) と道具は似ていますが、目的が異なります。IPR は技術進化そのものを遅らせる法的囲い込みに寄り、ライセンシングは契約条件によって利用の仕方を制御することに寄ります。
 
 :::
 
-### Why use Licensing?
+### なぜ使うのか
 
-By structuring licenses strategically, you can:
+ライセンス条件を戦略的に設計すれば、次のことができます。
 
-- Deter competitor entry into critical domains.
-- Create revenue streams via commercial licensing.
-- Lock in partners or customers through exclusive rights.
+- 重要領域への競合参入を抑止する
+- 商用ライセンスを通じた収益源を作る
+- 排他権や利用条件でパートナーや顧客をロックインする
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### MySQL Dual Licensing
+### MySQL のデュアルライセンス
 
-Oracle’s MySQL offers GPL-licensed open source and paid proprietary licenses. Projects requiring commercial terms must purchase a license, generating revenue and controlling adoption.
+MySQL は GPL のオープン版と、有償の proprietary ライセンスを併用しました。商用条件が必要な企業は購入が必要となり、収益と採用制御を両立しました。
 
 ### Android Open Source Project
 
-Google releases Android under open-source licenses but retains key services under proprietary licenses, guiding ecosystem development under its terms.
+Google は Android の基盤をオープンにしつつ、重要サービスは proprietary ライセンスで保持しました。これにより採用を広げながら、エコシステム方向性を自社条件で誘導しました。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Licensing">
   <MapSignals>
-    <li>Our map highlights critical components that competitors must use.</li>
-    <li>There is significant network effect or data dependency in the technology.</li>
-    <li>Competitors rely on integrating or extending our IP.</li>
-    <li>The legal environment supports robust IP enforcement.</li>
+    <li>地図上で、競合が使わざるを得ない重要コンポーネントがある。</li>
+    <li>その技術にネットワーク効果やデータ依存がある。</li>
+    <li>競合が自社 IP の統合や拡張に依存している。</li>
+    <li>法的環境が強い IP 執行を支えている。</li>
   </MapSignals>
   <Readiness>
-    <li>We have legal expertise to draft and defend complex licenses.</li>
-    <li>We can manage community and partner relations under restrictive terms.</li>
-    <li>We have resources to enforce agreements if challenged.</li>
-    <li>We understand market tolerance for license complexity.</li>
+    <li>複雑なライセンスを起草し守れる法務能力がある。</li>
+    <li>制約的な条件下でも、コミュニティやパートナー関係を管理できる。</li>
+    <li>争われたときに契約を執行する資源がある。</li>
+    <li>市場がどの程度のライセンス複雑性を許容するか理解している。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You need to protect core innovations from competitor replication.
-- Licensing creates a significant revenue or strategic barrier.
-- Enforcement costs are justified by long-term gains.
+- 中核革新を競合の複製から守りたいとき
+- ライセンシングが大きな収益源や戦略障壁になるとき
+- 執行コストを長期便益が正当化するとき
 
-### Avoid when
+### 避けるとき
 
-- Open ecosystems and rapid innovation outweigh tight control.
-- Community backlash or forks could undermine core assets.
-- Legal risks or enforcement costs exceed benefits.
+- オープンなエコシステムと速い革新の方が重要なとき
+- コミュニティ反発や fork が中核資産を壊しうるとき
+- 法務リスクや執行コストが便益を超えるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Crafting license terms that effectively deter competitors without alienating legitimate users or developers.
+正当な利用者や開発者を遠ざけずに、競合抑止に効く条件をどう設計するかです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal strategy and IP management.
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and contract drafting.
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Ecosystem engagement.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Risk and compliance oversight.
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と知財の設計
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — 契約交渉と起草
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム関係の維持
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — リスクと準拠の統治
 
-### Ethical considerations
+### 倫理面
 
-Overly restrictive licensing can stifle innovation and erode trust. Leaders should assess broader community impact and balance control with collaboration.
+過度に制約的なライセンスは、革新を止め、信頼を削ります。統制と協働の均衡を取る必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Audit core IP assets and dependencies.
-2. Define strategic objectives for licensing (protection, revenue, lock-in).
-3. Select license models: field-of-use, dual-licensing, revocable.
-4. Draft clear, enforceable terms with legal counsel.
-5. Communicate licensing strategy transparently to partners and community.
-6. Monitor compliance and enforce agreements when necessary.
-7. Review and iterate licenses as market and technology evolve.
+1. 中核 IP と依存関係を棚卸しする
+2. ライセンシングの戦略目的を定義する。保護、収益、ロックインなど
+3. 利用分野制限、デュアルライセンス、取り消し可能条項などの型を選ぶ
+4. 法務とともに、明確で執行可能な条件を作る
+5. パートナーやコミュニティへ透明に説明する
+6. 準拠状況を監視し、必要時に執行する
+7. 市場と技術の変化に合わせて見直す
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Reduced competitor use or replication of core assets.
-- Licensing revenue and renewal rates.
-- Partner and customer satisfaction under license terms.
-- Legal enforcement outcomes.
-- Sustained market share and ecosystem stability.
+- 中核資産の競合利用や複製の減少
+- ライセンス収入と更新率
+- 条件下でのパートナー・顧客満足度
+- 法的執行の結果
+- 市場シェアとエコシステム安定性の維持
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Over-Complexity
+### 複雑すぎる
 
-Excessively detailed terms can deter all adopters, including loyal partners.
+細かすぎる条件は、忠実な利用者まで遠ざけます。
 
-### Legal Backfire
+### 法務の逆噴射
 
-Aggressive enforcement invites litigation and negative publicity.
+強引な執行は訴訟と悪評を呼びます。
 
-### Community Alienation
+### コミュニティ離反
 
-Open-source communities may fork or abandon overly restrictive licenses.
+オープンソース・コミュニティは、制約的すぎる条件に対して fork や離脱で応じます。
 
-### Market Fragmentation
+### 市場の分裂
 
-Excessive restrictions may create incompatible ecosystems.
+制約が強すぎると、非互換なエコシステムが乱立します。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Dual-Licensing Models as a "Trojan Horse"
+### デュアルライセンスは Trojan horse になる
 
-Offering both an open-source license (e.g., GPL) and a commercial license for the same product is a powerful "Trojan horse" strategy. The open-source version drives widespread adoption, community engagement, and network effects. The commercial license then captures value from enterprises that are unable or unwilling to comply with the open-source terms (e.g., they want to keep their own code proprietary). This effectively segments the market, allowing a company to benefit from the reach of open source while still generating revenue from commercial users.
+オープン版で採用を広げ、商用版で収益を取るモデルは強力です。オープン版がコミュニティとネットワーク効果を作り、商用版が企業利用から価値を回収します。
 
-### The Double-Edged Sword of Standards Control
+### 標準支配は両刃の剣
 
-Strategic licensing around core technologies can be a powerful way to steer an industry standard. By offering favorable terms to early adopters or key partners, a company can build an ecosystem that inherently favors its technology. However, this control is a double-edged sword. If the licensing is perceived as too restrictive or predatory once the standard gains traction, it can trigger efforts to fork the standard, develop open alternatives, or even invite regulatory scrutiny. The "poison" here is not just in limiting competitors, but potentially in stifling the very ecosystem that gives the standard its power.
+コア技術を戦略ライセンスで囲えば、標準形成を自社有利に導けます。一方で、支配が強すぎると fork、オープン代替、規制監視を招きます。
 
-### Licensing as a Defensive Moat Against Commoditization
+### コモディティ化への防御的 moat
 
-As components in a value chain evolve towards becoming commodities, strategic licensing can act as a defensive moat. By embedding patented technology or copyrighted code within a component and then licensing it under terms that prevent easy replication or modification, a company can slow down the commoditization of its own offerings. For example, a specific performance-enhancing algorithm within a widely used software library could be licensed restrictively. This forces competitors to either license the superior component (creating a revenue stream and dependency) or use inferior alternatives, thus maintaining a differentiation advantage.
+コンポーネントがコモディティへ向かうとき、ライセンスは防御堀になります。特許アルゴリズムや著作権コードを条件付きで使わせることで、単純複製を遅らせられます。
 
-### The "Poison Pill" in Ecosystem Partnerships
+### パートナー関係の poison pill
 
-Licensing terms can be crafted to act as "poison pills" in partnerships or joint ventures, particularly with larger entities that might become competitors. For instance, a license might grant broad usage rights for a joint product but include clauses that severely restrict the use of the underlying core technology if the partnership dissolves or if the partner is acquired by a competitor. This ensures that while the technology can be leveraged for mutual benefit within the alliance, it cannot be easily turned against the original licensor.
+共同事業や提携で、解消時や競合買収時に利用が大きく制限される条項を入れると、同盟の外で技術を使いにくくできます。
 
-### Graduated Licensing for Market Seeding and Capture
+### 段階的ライセンシング
 
-A sophisticated licensing strategy can use graduated models to first seed a market and then capture value. Initial versions of a technology might be offered under very permissive licenses to encourage widespread adoption and build a community. Once critical mass is achieved and dependencies are established, subsequent versions or advanced features can be introduced under more restrictive, commercial licenses. The "poison" is the dependency created during the open phase, making it difficult for users to switch away when the terms become less favorable.
+初期は緩くして市場を育て、依存ができた後に高機能版や次期版をより制約的にする、といった段階設計も可能です。
 
-### Royalty Stacking and Ecosystem Taxation
+### ロイヤルティ積み上がり
 
-In complex ecosystems where multiple patented technologies are required to create a final product (e.g., smartphones), strategic licensing can lead to "royalty stacking." A company holding key patents can license them in a way that, while seemingly reasonable in isolation, contributes to an overall high cost for manufacturers when combined with licenses from other patent holders. If a single entity controls a significant portion of these essential patents, their licensing strategy can effectively "tax" the entire ecosystem, stifling innovation and reinforcing their dominant position.
+複数の特許が必要な複雑市場では、ライセンスがエコシステム全体への税金のように働き、革新を鈍らせることがあります。
 
-### The Cultural Impact of Licensing Choices
+### ライセンス選択は文化選択でもある
 
-The choice of a license is not just a legal or business decision; it's a cultural one. An open-source license can foster a community of collaboration and innovation, while a restrictive proprietary license can create a more closed, controlled ecosystem. The license you choose sends a strong signal to developers, partners, and customers about your company's values and its approach to innovation. This can have a long-term impact on your ability to attract talent and build a thriving ecosystem.
+オープンライセンスは協働文化を育て、閉じた proprietary ライセンスは統制を強めます。どんな会社でありたいかのシグナルにもなります。
 
-### Licensing and the Long-Term View
+### 長期視点が必要
 
-A short-sighted licensing strategy can maximize short-term revenue but kill a technology in the long run. Overly restrictive or expensive licenses can drive away potential adopters, creating an opening for more open or affordable alternatives to emerge. A successful long-term licensing strategy requires a delicate balance between capturing value and fostering a healthy, growing ecosystem. It often involves thinking in decades, not just quarters.
+短期収益最大化だけを見ると、技術そのものの普及を殺してしまうことがあります。価値回収とエコシステム成長の均衡が必要です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Dependency:** Which of our assets are critical bottlenecks in the map?
-- **Leverage:** How can license terms create sustainable competitive advantage?
-- **Risk:** What is the litigation and reputational risk?
-- **Balance:** How do we maintain community goodwill while enforcing control?
-- **Evolution:** How will our licensing model adapt to market changes?
+- どの資産が地図上の重要ボトルネックか
+- ライセンス条件で持続的優位をどう作るか
+- 訴訟と評判のリスクは何か
+- 統制を保ちつつ、コミュニティ goodwill をどう維持するか
+- 市場進化に合わせてモデルをどう変えるか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Patents & IPR](/strategies/decelerators/ipr) — using patents and IPR for control.
-- [Open Approaches](/strategies/accelerators/open-approaches) — the inverse: open standards and licenses.
-- [Designed to Fail](/strategies/poison/designed-to-fail) — seeding flawed initiatives.
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) — using network lock-in.
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition) — structural barriers to entry.
+- [Patents & IPR](/strategies/decelerators/ipr) — 知財を使ったより広い法的囲い込み
+- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) — 逆に、標準やライセンスを開く戦略
+- [Designed to Fail](/strategies/poison/designed-to-fail) — 失敗する仕掛けを埋め込む
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) — ロックインをネットワークで強める
+- [競争制限（Limitation of Competition）](/strategies/defensive/limitation-of-competition) — 参入制限の上位目的
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Licensing terms must adapt as technologies evolve and commoditize.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Restrictive licensing can stifle innovation by preventing efficient use or combination of technologies.
-- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Licensing can control access to components needed to build higher-order systems, thus capturing value.
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Competitors may challenge licenses or create alternatives, forcing changes in licensing strategy.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company successful with a particular licensing model might be slow to adapt it as the market changes.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: 技術進化に合わせてライセンスも変える必要がある
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 関係: 制約的ライセンスは効率的な組み合わせを妨げうる
+- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 関係: 上位システム構築に必要な部品へのアクセスを制御できる
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合はライセンスへ対抗したり代替を作ったりする
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 成功したモデルを変えられず市場変化に遅れることがある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — example of strong copyleft.
-- [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — overview of dual and multi-licensing strategies.
+- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — 強い copyleft の例
+- [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — デュアル/マルチライセンスの概説

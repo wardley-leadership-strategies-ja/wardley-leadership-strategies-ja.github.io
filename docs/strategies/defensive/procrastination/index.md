@@ -1,7 +1,6 @@
 ---
-title: Procrastination
-description: A defensive strategy of deliberately waiting for competitors to bear
-  the costs and risks of developing a new market or technology before entering.
+title: 戦略的先送り（Procrastination）
+description: 競合に新市場や新技術のコストとリスクを先に負わせ、成熟後に入る防御戦略。
 tags:
 - defensive
 - waiting
@@ -28,183 +27,180 @@ leadership_focus:
 - Market segmentation
 - Risk framing
 quick_signals:
-- You lack evidence that early adopters will pay for the emerging offer.
-- Competitors absorb heavy R&D costs while unit economics remain unclear.
-- Your current portfolio still delivers returns but shows signs of future plateau.
+- 新しい提供物に early adopters が本当に払う証拠が足りない。
+- 競合が重い研究開発費を吸収しているが、採算はまだ曖昧だ。
+- 現在のポートフォリオはまだ収益を生むが、将来の頭打ちも見え始めている。
 momentum_moves:
-- Instrument the market so you know when adoption crosses meaningful thresholds.
-- Prepare modular capabilities you can scale quickly once timing is right.
-- Keep exploratory teams small and focused on intelligence rather than full builds.
+- 採用が意味ある閾値を超えたときに分かるよう、市場計測を整える。
+- タイミングが来たらすぐ拡大できるモジュール能力を用意する。
+- 探索チームは小さく保ち、フルビルドではなく情報収集に集中させる。
 watch_outs:
-- Waiting so long that switching costs become insurmountable.
-- Letting complacency erode skills needed for the eventual entry.
-- Underestimating the story you'll need to explain the late move.
+- 待ちすぎて、切替コストが高すぎる市場になること。
+- 待機中に、後で必要になる技能を失うこと。
+- 遅れて入る理由の説明準備を怠ること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+**競合に新市場や新技術の初期コストとリスクを負わせ、自分は成熟後に入る防御戦略です。**
 
-**A defensive strategy of deliberately waiting for competitors to bear the costs and risks of developing a new market or technology before entering.**
-
-> *"Do nothing and allowing competition to drive a system to a more evolved form."*
+> *「何もせず、競争がシステムをより進化した形へ押し進めるのを待つこと。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Strategic Procrastination?
+### 戦略的先送りとは何か
 
-Strategic Procrastination is the conscious and deliberate decision to *not* be the first mover in a new or evolving market. Instead of investing heavily in uncertain, early-stage development, a company using this strategy allows competitors to bear the initial costs, make the early mistakes, and educate the market. The procrastinating company acts as a "fast follower," carefully observing the pioneers and entering the market only when the technology has matured, user needs are clearer, and the path to profitability is more certain.
+戦略的先送りとは、新しい市場や進化中の市場で、先行者にならないことを意図的に選ぶ戦略です。大きく不確実な初期投資はせず、競合に初期コスト、初期失敗、市場教育を任せます。自社は fast follower として、市場が見えてから入ります。
 
-### Why use this strategy?
+### なぜ使うのか
 
-While it may seem counterintuitive, strategic procrastination can be a highly effective defensive move. The key benefits are:
+- **コスト節約:** 初期研究開発の高コストを避けられる
+- **リスク低減:** どの技術、どの事業モデルが勝つかを見てから動ける
+- **市場の明確化:** 顧客ニーズや採算構造が見えてから参入できる
+- **中核への集中:** 推測的な新規事業へ資源を流しすぎずに済む
+- **飛び越え:** 一世代目の失敗を学び、より良い二世代目で入れる
 
-- **Cost Savings:** Avoids the high costs and risks of early-stage R&D, letting competitors fund the expensive process of discovery.
-- **Risk Mitigation:** By waiting, you can see which technologies and business models succeed and which fail, significantly reducing your own investment risk.
-- **Market Clarity:** You enter a market where customer needs have been better defined and the initial uncertainty has been resolved.
-- **Focus on Core Competencies:** It allows you to focus your resources on what you do best, rather than diverting them to speculative new ventures.
-- **Leapfrogging:** You can often enter the market with a superior, second-generation product that learns from the mistakes of the first-generation offerings.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Microsoft のブラウザ市場参入
 
-### Microsoft's Entry into the Browser Market
+Netscape が市場を作った後、Microsoft は最初は様子見でした。しかし市場成立後に Internet Explorer を投入し、Windows バンドルも使って急速に支配しました。遅れて入ったが、大きなプラットフォーム力を活かした例です。
 
-Netscape Navigator was the pioneering web browser that created the market. Microsoft famously procrastinated, initially dismissing the internet's importance. However, once the market was proven, they moved decisively, launching Internet Explorer. They used their existing monopoly power with Windows to bundle IE, and as a fast follower, they were able to learn from Netscape's approach and eventually dominate the market.
+### Apple と MP3 プレーヤー市場
 
-### Apple and the MP3 Player Market
+iPod より前に多数の MP3 プレーヤーがありました。Apple はその成功と失敗を見たうえで、iPod と iTunes を組み合わせた圧倒的に優れた体験で後から入り、市場を支配しました。
 
-Before the iPod, there were many other MP3 players on the market (e.g., from Diamond Rio, Creative Labs). Apple deliberately waited, observing the successes and failures of these early pioneers. They entered the market relatively late but with a vastly superior product and user experience (the iPod combined with the iTunes store). This fast-follower strategy allowed them to completely dominate a market they did not create.
+### 失敗例: Kodak とデジタル写真
 
-### A Failed Example: Kodak and Digital Photography
+Kodak は最初期のデジタルカメラを発明しながら、フィルム事業の共食いを恐れて本格展開を先送りしすぎました。これは戦略的先送りではなく、恐れに基づく不作為でした。結果として市場定義を他社に奪われ、取り返せなくなりました。
 
-Kodak, the pioneer of photography, actually invented the first digital camera in 1975. However, they chose to procrastinate on developing the technology, fearing it would cannibalize their highly profitable film business. This was not strategic procrastination; it was fear-driven inaction. They waited too long, allowing other companies like Sony and Canon to define the digital photography market. By the time Kodak decided to act, it was too late, and a company that had dominated photography for a century was driven into bankruptcy.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Procrastination">
   <MapSignals>
-    <li>Your map shows a component in the Genesis stage that is highly uncertain and requires significant investment to develop.</li>
-    <li>Competitors are rushing to invest in this new, unproven area.</li>
-    <li>The component is not part of your core, differentiated value proposition.</li>
-    <li>There is no significant, lasting first-mover advantage in this market.</li>
+    <li>創世記段階のコンポーネントで、不確実性が高く、育成投資が大きい。</li>
+    <li>競合が新しく未検証の領域へ一斉に投資している。</li>
+    <li>そのコンポーネントは、自社の中核差別化ではない。</li>
+    <li>その市場で、持続的な先行者優位があまりない。</li>
   </MapSignals>
   <Readiness>
-    <li>Our organization has the discipline and patience to wait while competitors make the first move.</li>
-    <li>We have strong market intelligence capabilities to monitor the progress of the pioneers.</li>
-    <li>We have the agility to move quickly and decisively when the time is right to enter the market.</li>
-    <li>Our leadership can effectively communicate and defend a strategy of deliberate inaction.</li>
+    <li>競合が先に動く間、待てる規律と忍耐がある。</li>
+    <li>先行者の進展を追える市場インテリジェンスが強い。</li>
+    <li>入ると決めたら、素早く大きく動ける。</li>
+    <li>意図的に何もしない戦略を、内外へ説明できる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- The market is new, uncertain, and requires high R&D investment.
-- Being a first mover does not confer a sustainable advantage.
-- You have the ability to be a "fast follower" and execute quickly when the market is proven.
-- The component in question is not core to your business.
+- 市場が新しく不確実で、研究開発投資が重いとき
+- 先行者優位が持続しにくいとき
+- 市場確立後に fast follower として素早く動けるとき
+- 対象コンポーネントが中核差別化ではないとき
 
-### Avoid when
+### 避けるとき
 
-- There are strong network effects or high switching costs that give a significant advantage to the first mover.
-- The component is a core part of your unique value proposition.
-- You lack the ability to monitor the market and move quickly when the time is right.
-- Your company culture is obsessed with being first and cannot tolerate a follower strategy.
+- 強いネットワーク効果や高い切替コストがあり、先行者が大きく有利になるとき
+- そのコンポーネントが、自社独自価値の中核にあるとき
+- 市場監視も迅速参入もできないとき
+- 組織文化が「常に一番乗り」を求め、追随を許容しないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is to distinguish between wise, strategic procrastination and foolish, fear-driven inaction. It requires the courage to resist the hype and the pressure to "do something" when competitors are making splashy announcements. Leaders must be able to create a culture that is patient and observant, but also capable of swift and decisive action when the moment is right.
+賢い先送りと、恐れからの不作為を見分けることです。競合が派手に動く中で、焦って何かをやる圧力に抗いつつ、タイミングが来たら迷わず打つ必要があります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — The ability to wait for the right moment and not be swayed by short-term market noise.
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — The capacity to accurately assess the maturity of a market and identify the optimal entry point.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to commit fully and rapidly once the decision to enter has been made.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to justify a seemingly passive strategy to internal and external stakeholders.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 正しいタイミングまで待つ規律
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — 市場成熟度と最適参入点を読む
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 入ると決めたら素早く張る
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 一見受け身に見える戦略を説明する
 
-### Ethical considerations
+### 倫理面
 
-While seemingly passive, this strategy can have ethical implications. Deliberately letting smaller, innovative companies take all the risk and then entering the market to crush them can be seen as predatory. It can discourage innovation in the long run if startups feel they will always be steamrolled by large, fast-following incumbents.
+小さな革新企業にリスクだけ負わせ、後から大企業が踏みつぶす構図は、長期的には挑戦を萎縮させることがあります。受け身に見えても、広い革新環境への影響はあります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify the Target for Procrastination:** Use Wardley Maps to identify non-core components that are in the early, uncertain stages of evolution.
-2. **Actively Monitor:** This is not a passive strategy. You must actively monitor the market, tracking the progress of the pioneers, the evolution of the technology, and the response of customers.
-3. **Define Your Triggers:** Establish clear criteria that will trigger your entry into the market. This could be a certain level of market adoption, a specific technological milestone, or a sign of a competitor's weakness.
-4. **Prepare for Entry:** While you are waiting, prepare your organization for a fast entry. This could involve developing internal expertise, lining up potential partners, or creating a preliminary product design.
-5. **Execute with Speed and Force:** When the triggers are met, enter the market quickly and decisively with a superior offering.
+1. Wardley Map で、非中核かつ初期段階の対象を特定する
+2. 市場、技術、先行者の動きを積極的に監視する
+3. 参入トリガーを明確に決める。採用率、技術成熟、競合の弱さなど
+4. 待機中に、後から素早く入る準備をする
+5. 条件が揃ったら、優れた提供物で一気に入る
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **R&D Cost Savings:** How much did you save by not investing in the early, uncertain stages of development?
-- **Market Share Capture:** How quickly were you able to capture market share after entering?
-- **Product Superiority:** Is your product demonstrably better than the first-generation products of the pioneers?
-- **Profitability:** Are you able to achieve profitability more quickly than the companies that entered the market first?
+- 初期開発へ投じなかったことで節約できたコスト
+- 参入後のシェア獲得速度
+- 先行世代製品に対する自社製品の優位性
+- 先行参入企業より早く収益化できたか
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Waiting Too Long
+### 待ちすぎる
 
-The biggest risk is misjudging the timing and waiting so long that the first movers have built an insurmountable lead (e.g., through network effects or brand loyalty).
+タイミングを誤ると、先行者がネットワーク効果やブランド忠誠を築き、追いつけなくなります。
 
-### Inability to Act
+### 動けなくなる
 
-Some companies are good at waiting, but they have lost the organizational muscle to act quickly. If you can't be a *fast* follower, this strategy will fail.
+待つのは得意でも、素早く動く筋力を失っている企業があります。fast follower になれないと失敗します。
 
-### Poor Monitoring
+### 監視不足
 
-If you are not actively monitoring the market, you will miss the signals that it's time to enter.
+市場を見続けなければ、入るべきシグナルを見逃します。
 
-### Arrogance
+### 傲慢
 
-An incumbent may dismiss a new market as a niche, only to find that it has become the new mainstream. This is what happened to Kodak.
+新市場を単なるニッチだと見下し、主流化したときに手遅れになることがあります。Kodak が典型です。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Second-Mover Advantage
+### セカンドムーバー優位
 
-This strategy is a powerful example of the "second-mover advantage." The first mover bears the "burden of discovery," making the mistakes and educating the market, which the second mover can learn from. The first mover proves a market exists, and the second mover can then enter with a more refined product, a more efficient business model, and a clearer understanding of customer needs, often leading to market dominance.
+先行者は市場発見のコストを負い、失敗し、顧客教育も引き受けます。後続はそれを学び、洗練された製品、効率の良い事業モデル、明確な顧客理解を持って入れます。
 
-### Patience as a Weapon
+### 忍耐は武器になる
 
-In a business culture often obsessed with speed and being first, deliberate patience can be a powerful and contrarian strategic weapon. It requires discipline, a long-term perspective, and the courage to resist the pressure to act prematurely. Strategic procrastination is not about being slow; it's about being deliberate and timing your entry for maximum impact.
+速さと一番乗りが崇拝される文化では、意図的な忍耐は強い逆張り武器になります。遅いのではなく、最大効率で入るために待つのです。
 
-### Active Waiting vs. Passive Inaction
+### 能動的待機と受動的不作為の違い
 
-It is critical to distinguish between "active waiting" and "passive inaction." Strategic procrastination is an active strategy. It requires continuous monitoring of the market, deep analysis of competitors' moves, and preparation for a swift entry. Passive inaction, on the other hand, is simply ignoring a new market or technology out of fear, ignorance, or arrogance. This is what Kodak did with digital photography, and it led to their downfall. Active waiting is a strategy; passive inaction is a path to obsolescence.
+戦略的先送りは能動的な待機です。市場監視、競合分析、参入準備を続けます。何も見ずに放置する受動的不作為は、陳腐化への道です。
 
-### The Role of Market Uncertainty and Evolution
+### 市場不確実性と進化段階
 
-This strategy is most effective in markets characterized by high uncertainty and rapid evolution. In such environments, the first mover faces significant risks, as the technology and customer preferences are still in flux. By waiting for the market to mature and for standards to emerge, the strategic procrastinator can enter with a solution that is better aligned with the stabilized market reality.
+この戦略は、高不確実性で進化速度の速い市場ほど効きます。市場が成熟し、標準が見えた後に入る方が合理的です。
 
-### Exploiting the Incumbent's Dilemma
+### incumbents のジレンマを使う
 
-Strategic procrastination can be a way to exploit the "innovator's dilemma" faced by incumbents. An incumbent may be hesitant to embrace a new, disruptive technology for fear of cannibalizing its existing, profitable business. A fast follower can wait for the technology to mature and then enter the market with a solution that the incumbent is culturally or structurally unable to compete with.
+incumbents は既存収益を守るために、新しい破壊的技術への全面移行をためらいます。fast follower は、その文化的・構造的な鈍さを突けます。
 
-### Procrastination as a Portfolio Strategy
+### ポートフォリオ戦略としての先送り
 
-For large organizations, strategic procrastination can be part of a broader portfolio approach to innovation. While they may be first movers in their core markets, they can act as fast followers in adjacent or more speculative markets. This allows them to balance the risks and rewards of innovation across their portfolio, placing big bets on a few core initiatives while taking a more cautious, observant stance on others.
+大企業では、中核市場では先行者、隣接市場では fast follower という組み合わせもありえます。イノベーション投資全体のリスクを分散できます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **First-Mover Advantage:** Is there a real, sustainable advantage to being the first in this market?
-- **Our Capabilities:** Are we better at innovating from scratch, or are we better at observing, improving, and executing at scale?
-- **The Triggers:** What specific market signals will tell us that it's time to stop procrastinating and start acting?
-- **The Entry Plan:** What is our plan to enter this market with speed and force when the time is right?
+- この市場で本当に持続的な先行者優位はあるか
+- 自社はゼロから発明する方が強いのか、観察して改良し拡大する方が強いのか
+- 何をトリガーに、先送りをやめて動くのか
+- 動くと決めたとき、どう速度と規模を出すのか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Fast Follower](/strategies/positional/fast-follower)**: Strategic procrastination is the prerequisite for being a successful fast follower.
-- **[Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)**: While procrastinating, you must be actively scanning for weak signals that indicate the market is ready for your entry.
+- [**Fast Follower**](/strategies/positional/fast-follower) - 戦略的先送りの先にある実行形
+- [**弱いシグナル（Horizon）**](/strategies/positional/weak-signal-horizon) - いつ入るべきかを判断するために必要
 
 ## ⛅ **関連する状勢パターン**
 
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: overconfidence delays necessary change.
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: hesitating can forfeit uncertain but valuable opportunities.
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 過信が必要な変化を遅らせることがある
+- [将来価値は、その確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – 影響: ためらいは高価値機会を逃すこともある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Provides a deep understanding of why incumbent companies often procrastinate on disruptive innovations.
-- **[Fast Second: How Smart Companies Bypass Radical Innovation to Enter and Dominate New Markets](/books/fast-second)** by Constantinos C. Markides and Paul A. Geroski. A book dedicated to the strategy of being a fast follower.
+- [The Innovator's Dilemma](/books/the-innovators-dilemma) - incumbents が破壊的技術を先送りしやすい理由
+- [Fast Second: How Smart Companies Bypass Radical Innovation to Enter and Dominate New Markets](/books/fast-second) - fast follower 戦略の専門書

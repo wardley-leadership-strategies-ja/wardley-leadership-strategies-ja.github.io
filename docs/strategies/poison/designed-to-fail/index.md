@@ -6,9 +6,8 @@ tags:
 - ecosystem-manipulation
 authors:
 - dave-hulbert
-title: Designed to Fail
-description: Intentionally launching flawed initiatives to poison a potential market
-  before rivals can benefit.
+title: 失敗するよう設計する（Designed to Fail）
+description: rivals が利益を得る前に、市場自体を汚す欠陥施策を意図的に投入する戦略。
 stages:
 - Genesis
 - Custom-Built
@@ -25,195 +24,194 @@ leadership_focus:
 - Narrative control
 - Risk framing
 quick_signals:
-- An emerging market threatens to redefine your core business before you're ready.
-- Analysts and investors chase hype despite weak evidence of viability.
-- You can influence early adopters or standards before they consolidate.
+- 新市場が、自社の中核事業を準備前に塗り替えかねない。
+- アナリストや投資家が、実現性の弱い hype を追っている。
+- early adopters や標準に、まだ影響できる余地がある。
 momentum_moves:
-- Craft a plausible offer that sets unrealistic expectations for the space.
-- Seed the initiative with messaging that emphasises unresolved risks.
-- Monitor uptake closely so you can retire the play once momentum stalls.
+- その空間に非現実的期待を植え付ける、もっともらしい提供物を作る。
+- 未解決リスクを強調する物語を施策に埋め込む。
+- 勢いが止まったら引き上げられるよう、採用動向を密に監視する。
 watch_outs:
-- Damaging your brand if the failure is traced back to you.
-- Inadvertently validating the market if users hack the flawed offer into success.
-- Distracting your teams from real strategic priorities.
-effort_level: Cross-Functional Initiative
+- 失敗が自社由来だと追跡され、ブランドを傷つけること。
+- ユーザーが欠陥を直して成功させてしまうこと。
+- 本当の優先課題からチームの注意を逸らすこと。
+effort_level: Fast impact
 time_horizon: Fast impact
 ---
 
-**Intentionally launching flawed initiatives to occupy, fragment, or poison a market before it can pose a threat.**
+**欠陥を抱えた施策を意図的に投入し、市場を占有、分断、汚染して脅威化を遅らせる戦略です。**
 
-> *"Removing potential future threats by poisoning a market space before anyone attempts to establish it."*
+> *「誰かがその市場空間を確立する前に、市場を汚して将来脅威を消すこと。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Designed to Fail?
+### 失敗するよう設計するとは何か
 
-This is a strategy of tactical sabotage: deliberately introducing a doomed initiative into an emerging space to distort perception, drain competitor resources, and reduce the likelihood of serious market formation.
+これは戦術的 sabotage です。立ち上がりつつある空間へ、最初から失敗するよう仕込んだ施策を投入し、認識を歪め、競合資源を消耗させ、市場形成の本気度を下げます。
 
-The aim isn’t to win the market—it’s to ruin it, or at least delay its maturation until you’re ready.
+狙いは市場で勝つことではありません。市場を壊す、少なくとも成熟を遅らせることです。
 
-You might:
+たとえば次のようなことがあります。
 
-- Launch a community standard with governance deadlocks
-- Publish an open-source library with scalability flaws
-- Fund a startup with unworkable economics that shapes expectations
+- ガバナンスが行き詰まるコミュニティ標準を立ち上げる
+- スケーラビリティ欠陥を持つオープンソースライブラリを公開する
+- 成り立たない経済性のスタートアップへ資金を入れ、市場期待をゆがめる
 
-These efforts occupy mindshare and fragment momentum, discouraging others from investing.
+こうした施策は attention を占有し、勢いを分散し、他者の投資意欲を下げます。
 
-### Why use Designed to Fail?
+### なぜ使うのか
 
-Deploy this strategy when an adjacent or emerging market may threaten your core position. By seeding a flawed initiative, you can:
+隣接市場や新興市場が中核地位を脅かすとき、この戦略によって次が狙えます。
 
-- Prevent competitors from gaining traction.
-- Channel resources away from more impactful ventures.
-- Shape market perceptions to your advantage.
+- 競合が traction を得るのを防ぐ
+- 価値ある事業よりも低効率な取り組みへ資源を流させる
+- 市場認識を自社有利に変える
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### HD DVD Format
+### HD DVD
 
-Toshiba's HD DVD was launched alongside Blu-ray, fragmenting the high-definition disc market. Although technically competent, lack of studio support and deliberate confusion led to its swift decline, deterring new entrants.
+Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しました。技術的には成立していても、支持不足と混乱により早く衰退し、新規参入もためらわせました。
 
-### Hypothetical IoT API
+### 仮想例: IoT API
 
-A vendor-funded IoT API with inadequate security standards is released. Early adopters face breaches, tarnishing the space and discouraging competitors from similar efforts.
+あるベンダー支援の IoT API が、十分なセキュリティを持たないまま出され、初期採用者で事故が起きれば、その領域全体が危険で未熟だという印象を作れます。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Designed to Fail">
   <MapSignals>
-    <li>An adjacent market is forming, but lacks standards or strong leaders.</li>
-    <li>We risk disruption if a serious player takes root there.</li>
-    <li>We have the credibility to seed a plausible initiative.</li>
+    <li>隣接市場が立ち上がりつつあるが、標準も強いリーダーもまだない。</li>
+    <li>そこへ本気のプレイヤーが根付くと、自社は破壊される恐れがある。</li>
+    <li>もっともらしい施策を種まきできるだけの信用がある。</li>
   </MapSignals>
   <Readiness>
-    <li>We can resource a short-term launch without long-term dependency.</li>
-    <li>We have legal clearance and PR buffers in place.</li>
-    <li>We know how to shut it down cleanly.</li>
+    <li>短期の立ち上げを支える資源があり、長期依存は不要である。</li>
+    <li>法務判断と PR バッファがある。</li>
+    <li>終わらせるときに、きれいに閉じる手順がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- A threat is emerging in an ungoverned adjacent market.
-- We can sustain the initiative long enough to signal occupancy.
-- The tactical benefit outweighs the resource cost.
+- 統治されていない隣接市場から脅威が生まれそうなとき
+- 一定期間は成立しているように見せられるとき
+- 戦術便益が資源コストを上回るとき
 
-### Avoid when
+### 避けるとき
 
-- The initiative risks being corrected or improved by the community.
-- Legal or brand risks outweigh strategic gains.
-- Stakeholders demand transparency that undermines the tactic.
+- コミュニティが欠陥を修正して成功させそうなとき
+- 法的・ブランドリスクが高すぎるとき
+- 透明性を求める関係者が多く、戦術が成立しないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Leadership tension: Playing dirty without eroding trust or morale. This tactic rewards dispassionate analysis and ruthless prioritisation. Leaders who hesitate to pull the trigger, or can’t contain the fallout, should avoid it.
+汚い戦い方をしながら、信頼や士気を壊さないことです。冷徹な分析と ruthless な優先順位付けが必要で、引き金を引けない人や fallout を制御できない人は避けるべき戦術です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Cold strategic judgment.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Reputational risk calibration.
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal/PR coordination.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Fast-response governance.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 冷徹な戦略判断
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 評判リスクの調整
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — 法務と PR の連携
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 即応型の統治
 
-### Ethical considerations
+### 倫理面
 
-This strategy walks a line between cunning and deception. Overuse breeds cynicism inside and outside your oranisation. If discovered, you risk brand damage and trust collapse.
+この戦略は、狡知と欺きの境界上にあります。多用すると、内外に cynicism を生みます。発覚時は trust collapse を招きます。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Identify a vulnerable or emerging market segment.
-2. Design an initiative with surface credibility but hidden flaws.
-3. Launch with marketing or partnerships to appear legitimate.
-4. Maintain control over governance and contributions to prevent self-healing.
-5. Monitor engagement and competitor responses.
-6. Allow the initiative to collapse once competitors are deterred.
+1. 脆い新興市場セグメントを特定する
+2. 表面上は credible だが、内部に欠陥を持つ施策を設計する
+3. 広報や提携で正当な取り組みに見せかけて投入する
+4. 自己修復されないよう、統治と貢献経路を握る
+5. 競合反応と市場反応を監視する
+6. 競合が deterrence を受けたら、施策を崩壊させる
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Competitors refrain from entering the target space.
-- Initiative adoption appears sufficient to signal occupancy.
-- Resource expenditure stays within planned bounds.
-- Competitors divert resources from strategic projects.
+- 競合が対象空間へ入らなくなる
+- 「ここは埋まっている」と見せる程度の採用が出る
+- 資源支出が計画範囲内に収まる
+- 競合が重要案件から資源を逸らす
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Unintended Adoption
+### 思わぬ採用拡大
 
-Competitors or communities may fix flaws, turning the initiative into a viable offering.
+競合やコミュニティが欠陥を修正し、 viable な提供物に変えてしまうことがあります。
 
-### Rapid Correction
+### すばやい修正
 
-Open-source or industry groups could standardize gaps, neutralizing the tactic.
+オープンソースや業界団体がギャップを標準化で埋めると、戦術は無効化されます。
 
-### Reputational Damage
+### 評判毀損
 
-Exposure of the tactic can erode trust with customers and partners.
+戦術が露見すると、顧客やパートナーの信頼を失います。
 
-### Resource Drain
+### 資源流出
 
-Maintaining a deceptive initiative may consume more resources than planned.
+欺きの施策維持が、想定以上に重くなることがあります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Governance Vacuum is Key
+### 統治の空白が鍵
 
-This strategy thrives where no one yet has control. A lack of established standards, dominant players, or clear leadership in an emerging market allows a "Designed to Fail" initiative to more easily shape perceptions and create confusion. The ambiguity of a nascent space is the fertile ground for such a ploy.
+標準も支配者もいない新興市場では、この戦略が効きやすくなります。曖昧さそのものが土壌です。
 
-### Narrative Dominance is Crucial
+### 物語支配が決定的
 
-The success of a "Designed to Fail" initiative hinges on controlling the narrative. The flawed project must be marketed with enough credibility and fanfare to appear legitimate, occupy mindshare, and influence competitor or ecosystem behavior. Without a convincing story, the flaws become obvious too quickly, and the strategic intent is lost.
+欠陥施策でも、もっともらしい物語と fanfare がなければ効きません。正当な取り組みに見えなければ、欠陥がすぐ露見します。
 
-### The "Osborne Effect" Multiplier
+### Osborne Effect の増幅
 
-A well-publicized "Designed to Fail" initiative can generate an "Osborne Effect" in the targeted market. By hinting at a superior (but ultimately undelivered) future product, it can deter customers from purchasing existing, viable solutions from competitors, effectively freezing demand and poisoning the market by creating widespread purchasing hesitation.
+将来の superior な何かが来るように匂わせるだけで、競合の現行製品への需要を凍らせられることがあります。
 
-### Ecosystem Contamination and Resource Burn
+### エコシステム汚染
 
-Beyond direct competitors, a sophisticated "Designed to Fail" play can contaminate the adjacent ecosystem. By launching a flawed standard or platform, it can entice third-party developers, integrators, and investors to commit resources. The inevitable collapse wastes their investment and creates disillusionment, making the entire field appear barren and raising barriers for future legitimate efforts.
+欠陥標準や欠陥プラットフォームへ、開発者、統合事業者、投資家を引き込み、その失敗で空間全体を barren に見せることができます。
 
-### Strategic Misdirection: The "Empty Fort" or "False Scapegoat"
+### Empty Fort / False Scapegoat
 
-"Designed to Fail" initiatives can serve as powerful misdirection. Like an "Empty Fort," a visible but hollow show of occupying a space can make competitors overestimate your commitment, causing them to hesitate or misallocate resources. Alternatively, it can be a "False Scapegoat," providing a public reason for retreating from a market due to the initiative's "failure," masking deeper strategic shifts or internal weaknesses.
+「ここはすでに埋まっている」という空虚な占有を見せたり、撤退理由を失敗施策へなすりつけたりする、陽動用途もあります。
 
-### Short Half-Life by Design
+### 短命であるべき
 
-These initiatives are not meant to last. Their purpose is to occupy space, create temporary distortion, or achieve a specific signaling effect. If a "Designed to Fail" project persists too long or, worse, accidentally becomes viable (perhaps through community fixes), it risks failing in its strategic objective of denial or delay. Plan for its eventual, controlled collapse.
+この施策は長生きしてはいけません。役目は一時的な占有と歪み作りです。 accidental に成立してしまう前に、計画的に終える必要があります。
 
-### Best as a Tactical Side-Play
+### あくまで side-play
 
-"Designed to Fail" should generally be a tactical, peripheral move rather than core to a company's primary strategy. Its utility lies in specific, often defensive, contexts. Over-reliance on such "poisoning" tactics can distract from genuine value creation, damage reputation if discovered, and foster a cynical internal culture.
+これは普通、中心戦略ではなく周辺の tactical play です。価値創造より毒の注入に依存しすぎると、組織文化まで腐ります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Threat Identification:** Which adjacent emerging markets pose strategic risks?
-- **Sustainability:** Can we maintain a credible surface while embedding flaws?
-- **Exit Strategy:** How will we decommission the initiative without collateral damage?
-- **Risk-Reward Balance:** Do potential benefits justify reputational and legal risks?
+- どの隣接市場が本当の戦略リスクか
+- 表面 credibility を保ちつつ、欠陥を埋め込めるか
+- どう decommission して collateral damage を抑えるか
+- 便益は評判・法務リスクに見合うか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Misdirection](/strategies/competitor/misdirection) — using narrative to divert attention.
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) — handing off toxic projects.
-- [Insertion](/strategies/poison/insertion) — embedding flawed influence via people.
-- [Licensing](/strategies/poison/licensing) — controlling ecosystems through legal terms.
-
-- [Standards Game](/strategies/markets/standards-game) - introducing deliberately flawed specifications to fragment competitor ecosystems and clear the path for your own standard.
+- [Misdirection](/strategies/competitor/misdirection) — 物語で注意を逸らす
+- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) — 毒性の高い案件を押し付ける
+- [挿入（Insertion）](/strategies/poison/insertion) — 人や物語を介して欠陥を埋め込む
+- [ライセンシング（Licensing）](/strategies/poison/licensing) — 法的条件でエコシステムを縛る
+- [Standards Game](/strategies/markets/standards-game) - 欠陥仕様を混ぜて競合標準を分断することがある
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.
-- [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: The uncertainty of early markets makes them vulnerable to "designed to fail" initiatives.
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This is a direct attempt to influence and derail competitors' actions.
-- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: Exploits competitors' inability to discern a deliberately flawed initiative from a genuine one.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company might use this to protect a successful but aging core business from a disruptive new market.
+- [すべては進化する](/climatic-patterns/everything-evolves) – 関係: この戦略は新興市場の自然進化を乱そうとする
+- [進化していないものほど不確実性が高い](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性がこの戦術を成立させる
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の動きを狂わせることが狙い
+- [ほとんどの競合は状況認識が乏しい](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 欠陥施策を本物だと誤認させる
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: aging core を守るために使われることがある
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
-- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
-- **[Blue Ocean Strategy](/books/blue-ocean-strategy)** by W. Chan Kim and Renée Mauborgne — insights into creating and defending market spaces.
+- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — 市場分断と失敗の例
+- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — proprietary 規格戦争の例
+- [Blue Ocean Strategy](/books/blue-ocean-strategy) - 市場空間の形成と防衛を考える文脈
