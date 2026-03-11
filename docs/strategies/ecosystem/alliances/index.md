@@ -1,206 +1,213 @@
 ---
-title: Alliances
-description: Formal partnerships or consortia formed to pursue shared goals.
-tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, collective action, cooperation]
-authors: [dave-hulbert]
+title: アライアンス（Alliances）
+description: 共通目的のために組成される、正式な提携やコンソーシアム。
+tags:
+- alliances
+- ecosystem
+- partnerships
+- consortia
+- collaboration
+- standards
+- collective action
+- cooperation
+authors:
+- dave-hulbert
 stages:
-  - Custom-Built
-  - Product
+- Custom-Built
+- Product
 goals:
-  - Shape the market
-  - Build ecosystem leverage
-  - Secure long-term investment
+- Shape the market
+- Build ecosystem leverage
+- Secure long-term investment
 pressures:
-  - Facing dominant incumbent
-  - Market is nascent or undefined
-  - Ecosystem fragmentation
+- Facing dominant incumbent
+- Market is nascent or undefined
+- Ecosystem fragmentation
 leadership_focus:
-  - Diplomacy and narrative setting
-  - Joint governance design
-  - Mutual accountability
+- Diplomacy and narrative setting
+- Joint governance design
+- Mutual accountability
 quick_signals:
-  - No single organisation can credibly move the market on its own.
-  - Regulators, partners or customers are asking for collective direction.
-  - Fragmented initiatives are slowing progress and confusing the market.
+- どの組織も単独では市場を動かせない。
+- 規制当局、パートナー、顧客が、共同の方向性を求めている。
+- 断片化した取り組みが進捗を遅らせ、市場を混乱させている。
 momentum_moves:
-  - Define the shared mission and minimum viable structure for the alliance.
-  - Secure anchor members who bring credibility, coverage and resources.
-  - Publish a roadmap or manifesto that frames the desired future state.
+- 共有ミッションと、最小限のアライアンス構造を定義する。
+- 信頼性、カバレッジ、資源を持つ中核メンバーを確保する。
+- 望ましい将来像を示すロードマップや宣言文を出す。
 watch_outs:
-  - Power imbalances causing the alliance to stall or fracture.
-  - Governance that is heavy, slow or detached from delivery.
-  - Failing to articulate the value for participants beyond lofty statements.
+- 力関係の偏りで、アライアンスが停滞または分裂すること。
+- ガバナンスが重く遅く、現場から乖離すること。
+- 参加者への便益を抽象論以上に説明できないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
-**Forming formal partnerships to pursue common objectives.**
+**共通目的のために、複数企業が正式な提携を組む戦略です。**
 
-> *"Working with other companies to drive evolution of a specific activity, practice or data set."*
+> *「特定の活動、実践、データセットの進化を進めるために、他社と協働すること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What are Alliances?
+### アライアンスとは何か
 
-Forming formal partnerships or consortia with other companies to pursue a shared objective or market. An alliance pools resources or market access to achieve something none of the members could easily do alone.
+アライアンスとは、複数の企業や組織が共通の目的や市場機会に向けて、正式な提携やコンソーシアムを組むことです。資源、ブランド、販路、標準化能力を持ち寄り、単独では難しい成果を狙います。
 
 :::note
 
-Alliances are a formal, structured form of [**cooperation**](/strategies/accelerators/cooperation), designed to pool resources and coordinate action for ecosystem-level impact. All alliances are cooperation, but not all cooperation is an alliance.
+アライアンスは、[**協調（Cooperation）**](/strategies/accelerators/cooperation) の中でも、より正式で構造化された形です。すべてのアライアンスは協調ですが、すべての協調がアライアンスではありません。
 
 :::
 
-### Why is Alliances a valuable leadership strategy?
+### なぜ価値があるのか
 
-Alliances allow organisations to collectively drive the evolution of an activity or data set. By combining forces, companies can set standards, enter new markets, or challenge dominant players. Each member may sacrifice some control but gains speed or scale. Alliances often operate under a joint entity or brand, acknowledging that no single company is sufficient for success.
+アライアンスは、組織同士が力を束ねて、ある活動やデータセットの進化を共同で押し進める手段です。標準を作る、新市場に入る、既存の支配的プレイヤーへ対抗する、といった場面で効きます。各参加者は統制の一部を手放しますが、その代わりに速度、規模、正統性を得られます。
 
-### How?
+### どう機能するのか
 
-Key principles for effective alliances:
+有効なアライアンスに必要なのは次の要素です。
 
-- clear mutual benefit
-- defined scope
-- strong governance
-- neutrality when necessary
+- 相互利益が明確であること
+- 目的範囲が定義されていること
+- 共同ガバナンスがあること
+- 必要に応じて中立性が保たれていること
 
-Alliances are particularly effective as ecosystem plays, allowing collective action in environments of high uncertainty or where first-mover advantage matters.
+不確実性が高い環境や、先行優位が重要な場面では、アライアンスは特に有効なエコシステム戦略になります。
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Star Alliance (airlines)
+### Star Alliance（航空）
 
-Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
+多数の航空会社がコードシェアやマイレージ統合を通じて提携し、単一ブランドのような広域ネットワークを実現しました。単独会社では届かない接続性を共同で作り、航空移動の価値を押し上げました。
 
-### AllSeen Alliance (IoT)
+### AllSeen Alliance（IoT）
 
-Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an open standard for device interoperability. Similar efforts include the Zigbee Alliance.
+Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオープン標準として推進するためにアライアンスを組みました。Zigbee Alliance のような類似の取り組みもあります。
 
-### Hypothetical EV Alliance
+### 仮想例: EV 充電アライアンス
 
-Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
+複数の中堅 EV メーカーが、充電インフラ向けの共同事業を立ち上げるケースです。Tesla の Supercharger 網に対抗しやすくなり、市場全体の EV 採用も早まります。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Alliances">
   <MapSignals>
-    <li>The competitive environment includes dominant players or high barriers that are difficult to tackle alone.</li>
-    <li>Your mapping reveals complementary players with shared interests or aligned user needs across the value chain.</li>
-    <li>There is a need to shape emerging standards, platforms, or interoperability in a volatile or nascent market.</li>
-    <li>Value creation is distributed across multiple entities, making collective action more effective than individual moves.</li>
-    <li>Your current capabilities show clear gaps that could be filled through strategic partnerships rather than internal investment.</li>
-    <li>Regulatory, geographic, or technical diversity makes a unified approach more compelling to customers or stakeholders.</li>
+    <li>支配的プレイヤーや高い参入障壁があり、単独では対処しにくい。</li>
+    <li>地図上で、共有利害や揃ったユーザーニーズを持つ補完プレイヤーが見えている。</li>
+    <li>変動的または新興市場で、標準、プラットフォーム、相互運用性を形作る必要がある。</li>
+    <li>価値創出が複数主体に分散しており、単独行動より共同行動の方が効く。</li>
+    <li>現在の能力に明確な欠落があり、内製より提携で埋める方が良い。</li>
+    <li>規制、地理、技術の多様性が高く、統一アプローチの方が顧客や関係者に響く。</li>
   </MapSignals>
   <Readiness>
-    <li>We can articulate mutual benefits and a clear value proposition to prospective alliance members.</li>
-    <li>We have the governance experience to structure and manage cross-organizational collaboration at scale.</li>
-    <li>We are prepared to share decision-making and control where necessary to achieve broader outcomes.</li>
-    <li>We have the cultural maturity and leadership bandwidth to build trust across organizational boundaries.</li>
-    <li>We maintain ecosystem awareness, understanding adjacent players’ capabilities, incentives, and historical relationships.</li>
-    <li>We are ready to compromise on speed or autonomy in exchange for market shaping or shared infrastructure benefits.</li>
-    <li>We have risk mitigation plans if the alliance dissolves or partner incentives shift over time.</li>
+    <li>参加候補に対して、相互利益と明確な価値提案を示せる。</li>
+    <li>組織横断の協業を構造化し、運営するガバナンス経験がある。</li>
+    <li>より大きな成果のために、必要な範囲で意思決定と統制を共有できる。</li>
+    <li>組織境界を越えて信頼を作るだけの文化的成熟と時間がある。</li>
+    <li>隣接プレイヤーの能力、インセンティブ、過去の関係まで理解している。</li>
+    <li>市場形成や共有インフラの便益のために、速度や自律性の一部を犠牲にできる。</li>
+    <li>アライアンス崩壊や利害変化に備えたリスク緩和策がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- you and others share a common interest that outweighs competitive conflicts
-- setting a new standard or platform is important
-- complementary strengths exist across members (e.g. tech vs distribution)
-- facing a dominant incumbent requires a united front
-- shaping a volatile or emerging market
+- 競争上の対立より、共通利益の方が大きいとき
+- 新しい標準やプラットフォーム形成が重要なとき
+- 技術と販路のように、参加者間で補完強みがあるとき
+- 支配的 incumbents に対抗するため、統一戦線が必要なとき
+- 変動的または立ち上がり初期の市場を形作りたいとき
 
-### Avoid when
+### 避けるとき
 
-- partner incentives are likely to diverge
-- potential for anti-trust issues or perceptions of collusion
-- alliance could slow you down unnecessarily
-- you have a dominant position and don't need others
+- パートナーのインセンティブが途中で大きく分岐しそうなとき
+- 競争法や談合と見なされるリスクが高いとき
+- アライアンスが不要に自社の速度を落とすとき
+- すでに十分優位で、他者を必要としていないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core Challenge
+### 中核課題
 
-Balancing coordination and speed across multiple organisations with differing goals and cultures.
+異なる目標や文化を持つ複数組織の間で、協調と速度を両立することです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — cross-boundary collaboration.
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — strategic alignment.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — governance design.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — trust-building.
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — ecosystem thinking.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — 組織境界をまたぐ協働を運営する
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 戦略整合を作る
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — 共同統治を設計する
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 信頼を作り、方向を読む
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — エコシステム全体を視野に入れる
 
-## 📋 **How to Execute**
+### 倫理面
 
-- clearly define scope, contributions and benefits
-- create governance structures that ensure fairness and decision-making agility
-- manage relationships actively and continually evaluate alignment
+透明性を保ち、反競争的行動へ滑らないことが重要です。アライアンスを口実に独占的支配を隠したり、市場参加者を不当に締め出したりしてはなりません。
 
-### Ethical considerations
+## 📋 **進め方**
 
-- ensure transparency and avoid anti-competitive behaviour
-- avoid alliances that mask monopolistic control
+- 範囲、貢献、便益を明確に定義する
+- 公平さと意思決定速度を両立するガバナンス構造を作る
+- 関係を継続的に管理し、利害整合を定期的に見直す
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- progress toward shared goals (e.g. adoption of standard, market share gains)
-- sustainability of the alliance
-- balance of contributions and benefits across members
-- speed of collective impact versus going solo
+- 共通目標の進捗。たとえば標準採用、市場シェア向上など
+- アライアンスの持続性
+- 参加者間の貢献と便益の均衡
+- 単独行動よりも速く出せた共同成果
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-- decision gridlock due to too many players
-- unequal contributions leading to resentment
-- defection by members with changing incentives
-- loss of strategic direction if governance is weak
+- 参加者が多すぎて意思決定が止まること
+- 貢献の偏りが不満を生むこと
+- 利害変化による離脱
+- ガバナンスが弱く、戦略方向を失うこと
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-- alliances are ecosystem strategies for evolution
-- powerful in the standards game where network effects matter
-- can shift the center of gravity in an industry
-- early alliances may lock in advantage, but fragility increases as success grows
+- アライアンスは、進化を共同で押し進めるエコシステム戦略である
+- Standards Game のように、ネットワーク効果が効く場で特に強い
+- 産業の重力中心を動かすことがある
+- 早い段階のアライアンスは優位を固定しやすいが、成功するほど脆さも増す
 
-**Relationship to Cooperation:**
+**協調との関係:**
 
-Alliances are a formalised, structured subset of broader cooperation. Where cooperation can be flexible or exploratory, alliances typically involve:
+アライアンスは、より広い協調の中でも、正式で構造化された下位類型です。協調が柔軟で探索的でありうるのに対して、アライアンスは通常次を伴います。
 
-- formal agreements or shared entities
-- collective branding or governance
-- explicit resource pooling
-- longer-term commitment
+- 正式契約または共同事業体
+- 共同ブランドまたは共同ガバナンス
+- 明示的な資源持ち寄り
+- より長期のコミットメント
 
-If cooperation is about joint exploration, alliances are about jointly steering an ecosystem.
+協調が共同探索だとすれば、アライアンスはエコシステムを共同操舵する行為です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- Do we share a clear and durable interest with potential partners?
-- Can we agree on governance and conflict resolution?
-- Are we better off together than alone?
-- What risks arise if the alliance breaks down?
-- How will we handle success and changing power dynamics?
+- 候補パートナーと明確で持続的な共通利益を持てるか
+- ガバナンスと紛争解決で合意できるか
+- 単独より、組んだ方が本当に有利か
+- アライアンスが壊れたとき、どんなリスクが生じるか
+- 成功した後の力関係の変化をどう扱うか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Cooperation](/strategies/accelerators/cooperation) - alliances are a structured form of cooperation for shared goals.
-- [Standards Game](/strategies/markets/standards-game) - alliances often form to promote or defend a shared standard.
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) - alliances can shift the industry's center of gravity against a rival.
-
-- [Market Enablement](/strategies/accelerators/market-enablement) - coordinating resources and capabilities across partners to collectively grow and shape the market.
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - using alliances to cordon off partner channels and limit competitor access to critical relationships.
-- [circling-and-probing](/strategies/competitor/circling-and-probing) - leveraging alliance discussions to probe partner commitments and uncover competitor strategies.
-- [fragmentation](/strategies/competitor/fragmentation) - drawing participants into coalitions to divide and weaken competitor ecosystems.
+- [協調（Cooperation）](/strategies/accelerators/cooperation) - 共通目的に向けた協調の構造化形態
+- [Standards Game](/strategies/markets/standards-game) - 共有標準の推進や防衛にアライアンスが使われる
+- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重心を動かせる
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 資源や能力を束ねて市場を育てる
+- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
+- [周回と探り（Circling and Probing）](/strategies/competitor/circling-and-probing) - 協議を通じて相手の本気度や競争状況を探る
+- [Fragmentation](/strategies/competitor/fragmentation) - 参加者を自陣営へ引き込み、競合エコシステムを割る
 
 ## ⛅ **関連する状勢パターン**
 
-- [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: alliances can guide how related capabilities evolve together.
+- [戦争は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve) – トリガー: 激しい競争がアライアンス形成を促す
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: アライアンスが関連能力の進化方向を揃える
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Wardley, S. – *"Alliances: working with other companies to drive evolution of a specific activity/data set."*
-- Case Study: **IBM PC (1981)** – IBM, Microsoft and Intel formed a de facto alliance to create a standard PC architecture, setting the stage for an ecosystem.
-- *"Alliances & Joint Ventures"* (Harvard Business Review) – discusses reasons alliances fail, such as cultural mismatches and lack of leadership.
+- Simon Wardley, *Alliances: working with other companies to drive evolution of a specific activity/data set.*
+- IBM PC（1981）の事例 - IBM、Microsoft、Intel による事実上のアライアンスが、PC アーキテクチャの標準化を加速した
+- *Alliances & Joint Ventures*（Harvard Business Review） - 文化的不一致やリーダーシップ欠如による失敗要因を扱う

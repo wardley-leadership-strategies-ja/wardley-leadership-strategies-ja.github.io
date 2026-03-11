@@ -1,7 +1,6 @@
 ---
-title: Co-opting
-description: A strategy of adopting or mimicking a competitor's features, standards,
-  or messaging to neutralize their advantage and attract their users.
+title: 取り込み（Co-opting）
+description: 競合の機能、標準、メッセージを取り込み、自社へ有利に再配置することで、相手の優位を中和する戦略。
 tags:
 - ecosystem
 - influence
@@ -29,164 +28,164 @@ leadership_focus:
 - Narrative control
 - Experience design
 quick_signals:
-- Users churn because a rival feature or standard feels indispensable.
-- "Partners demand integration with the competitor\u2019s ecosystem to stay relevant."
-- You can deliver the copied capability faster or at greater scale than the originator.
+- 競合の機能や標準が不可欠と見なされ、利用者離脱が起きている。
+- パートナーが、競合エコシステムとの統合を求めている。
+- 元の発案者よりも速く、または大規模に同等機能を提供できる。
 momentum_moves:
-- Prioritise replication of the rival feature while improving onboarding to your platform.
-- Announce interoperability or compatibility that removes switching friction.
-- Use marketing to reposition the feature as table stakes available everywhere.
+- 競合機能の再現を優先しつつ、自社プラットフォームへの導入体験も改善する。
+- スイッチング摩擦を減らす互換性や相互運用性を打ち出す。
+- その機能を「どこでもある前提」に変えるよう、マーケティングで物語を組み替える。
 watch_outs:
-- Copying without understanding the underlying user job-to-be-done.
-- Neglecting to differentiate once parity is achieved.
-- Triggering IP disputes if you ignore legal boundaries.
+- その機能が解いているユーザーの仕事を理解しないまま真似ること。
+- 同等化後に差別化を作らないこと。
+- 法的境界を無視して知財紛争を招くこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+**競合の機能、標準、メッセージを自社の提供物へ取り込み、相手の差別化を中和する戦略です。**
 
-**A strategy of adopting or mimicking a competitor's features, standards, or messaging to neutralize their advantage and attract their users.**
-
-> *"Copying competitors move and undermining any ecosystem advantage by interrupting data flows."*
+> *「競合の一手を模倣し、データフローを遮ることでエコシステム上の優位を弱めること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Co-opting?
+### 取り込みとは何か
 
-Co-opting is a competitive strategy where a company incorporates elements of a rival's product, technology, or marketing into its own offerings. The goal is to neutralize the competitor's unique advantage, reduce their differentiation, and make your own product more appealing to their user base. It's a form of strategic imitation, aimed at leveling the playing field and shifting the basis of competition to areas where you are stronger, such as scale, distribution, or price.
+取り込みとは、競合のプロダクト、技術、標準、あるいはマーケティング上の強みを、自社の提供物に吸収する競争戦略です。目的は、相手の独自優位を弱め、自社の方が規模、流通、価格、統合体験などで有利な土俵へ競争軸を移すことにあります。
 
-### Why use Co-opting?
+単なる模倣ではなく、競合の差別化の焦点を取り外す行為です。相手の強みが「この機能があること」や「この標準に乗っていること」にあるなら、それを自社の中へ取り込み、相手だけの魅力ではなくしてしまいます。
 
-Companies use this strategy to:
+### なぜ使うのか
 
-- **Neutralize a Threat:** Quickly counter a competitor's popular feature that is attracting users away from your product.
-- **Reduce Differentiation:** Make the competitor's offering seem less unique, forcing them to compete on factors other than their key innovation.
-- **Attract New Users:** Appeal to users of the competing product by offering the features they are used to, but within your own ecosystem.
-- **Accelerate Development:** Imitating a proven feature is often faster and less risky than innovating a new one from scratch.
+企業がこの戦略を使う理由は明確です。
 
-## 🗺️ **Real-World Examples**
+- **脅威を素早く中和する:** 利用者を奪っている人気機能へ対抗できる
+- **差別化を弱める:** 競合を別の競争軸へ追い込める
+- **利用者を引き戻す:** 競合で慣れた機能を、自社エコシステムでも提供できる
+- **開発を速める:** 実証済みの機能を模倣する方が、一から発明するより速くて安全なことが多い
 
-### Instagram vs. Snapchat (The "Stories" Feature)
+## 🗺️ **実例**
 
-In 2016, Instagram launched "Stories," a feature that was a direct and unabashed copy of Snapchat's core functionality. At the time, Snapchat was growing rapidly and seen as a major threat to Instagram's dominance in social photo sharing. By co-opting the Stories format, Instagram completely neutralized Snapchat's key differentiator. Users no longer needed to leave the Instagram app for that functionality, which dramatically slowed Snapchat's growth and cemented Instagram's market leadership.
+### Instagram vs. Snapchat（Stories）
 
-### Microsoft's Embrace of Linux
+2016 年、Instagram は Snapchat の中核機能をほぼそのまま模した Stories を投入しました。当時 Snapchat は急成長しており、Instagram にとって重大な脅威でした。Instagram は Stories を取り込むことで Snapchat の主要差別化を無力化し、その機能のために別アプリへ移る理由を大幅に減らしました。
 
-For years, Microsoft viewed the open-source Linux operating system as a major competitor, with former CEO Steve Ballmer famously calling it "a cancer." However, in the 2010s, Microsoft began to co-opt the open-source movement. They built the Windows Subsystem for Linux (WSL), allowing developers to run Linux tools directly on Windows, became a top contributor to open-source projects, and acquired GitHub. This move co-opted the energy of the open-source community, neutralized a long-standing threat, and made Windows a much more attractive platform for developers.
+### Microsoft と Linux / オープンソース
 
-## 🚦 **When to Use / When to Avoid**
+Microsoft は長く Linux を強い競合と見ていましたが、2010 年代に入ると方向を変えました。Windows Subsystem for Linux を作り、オープンソースへの貢献を増やし、GitHub を買収することで、オープンソースの勢いそのものを自社の提供価値へ取り込みました。これにより、かつての脅威を中和し、Windows を開発者にとって魅力的な場所へ再配置しました。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Co-opting">
   <MapSignals>
-    <li>A competitor has a single, highly popular feature that is driving their growth.</li>
-    <li>Your map shows that a rival's point of differentiation is a feature, not a fundamental platform advantage.</li>
-    <li>Customers are switching to a competitor for a specific piece of functionality that you lack.</li>
-    <li>A new trend or technology is emerging, and a competitor is the current leader.</li>
+    <li>競合の単一機能が、成長の主要因になっている。</li>
+    <li>地図上で、競合の差別化が根本的なプラットフォーム優位ではなく、模倣可能な特徴に依存している。</li>
+    <li>顧客が、特定機能のために競合へ乗り換えている。</li>
+    <li>新しいトレンドや技術が立ち上がり、競合がその初期リーダーになっている。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the engineering agility to quickly replicate a competitor's feature.</li>
-    <li>Our product has a large enough user base to make our version of the feature instantly viable.</li>
-    <li>We can integrate the co-opted feature into our existing product in a way that provides unique value.</li>
-    <li>Our brand is strong enough to withstand potential accusations of being a "copycat."</li>
+    <li>競合機能を素早く再現できるエンジニアリング機動力がある。</li>
+    <li>自社側の利用者基盤が大きく、機能投入と同時に成立しやすい。</li>
+    <li>単なるコピーではなく、自社製品との統合で独自価値を出せる。</li>
+    <li>「模倣企業」と言われるリスクにブランドが耐えられる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- A competitor's advantage is based on a replicable feature.
-- You have a larger user base or superior distribution channels.
-- The goal is to slow a fast-moving competitor and force them to compete on your terms.
+- 競合優位が模倣可能な機能に基づいているとき
+- 自社の方が大きな利用者基盤や強い流通を持っているとき
+- 速い競合の勢いを削ぎ、自社に有利な土俵へ競争を戻したいとき
 
-### Avoid when
+### 避けるとき
 
-- The competitor's advantage is protected by strong patents or other intellectual property.
-- Your brand is built on originality and innovation, and being seen as a copycat would cause significant damage.
-- You cannot create a high-quality, well-integrated version of the feature, resulting in a poor user experience.
+- 競合優位が強い特許や知財に守られているとき
+- 自社ブランドが独創性に強く依存しており、模倣イメージが致命的なとき
+- 高品質で自然に統合された実装を作れず、利用体験を悪化させるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is deciding when to innovate and when to imitate. Building a culture that is good at co-opting (i.e., being a "fast follower") can sometimes come at the expense of developing breakthrough innovations. Leaders must strike a balance, using co-opting as a targeted, defensive tool without letting it become the default strategy and stifle the organization's creative spirit.
+いつ自前で革新し、いつ模倣するかを見極めることです。取り込みに強い組織は fast follower になれますが、それが常態化すると突破的イノベーションが育ちにくくなります。防御的な一手として使いつつ、組織の創造性を潰さない均衡が必要です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Competitive intelligence](/leadership-skills/competitive-intelligence) — A keen sense of the competitive landscape and the ability to quickly identify emerging threats and opportunities.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The ability to make a quick decision to copy a feature and to mobilize the organization to execute it rapidly.
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — The skill to manage the narrative around the co-opted feature to minimize reputational damage.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — どの脅威を取り込むべきか素早く見抜く
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — コピー判断を早く下し、即座に実行へ移す
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — 模倣に見える行為の物語を管理する
 
-### Ethical considerations
+### 倫理面
 
-Co-opting is ethically grey. While not illegal (unless it infringes on patents), it can be seen as parasitic and unfair to the original innovator. It can discourage startups from innovating, for fear that a large incumbent will simply copy their idea if it's successful. Leaders must consider the impact of their actions on the health of the broader innovation ecosystem.
+取り込みは倫理的に灰色です。特許侵害でない限り違法とは限りませんが、元の革新者にとっては寄生的にも見えます。大きな incumbents が成功したアイデアだけを吸い上げる構図は、スタートアップの挑戦意欲を削ぐこともあります。より広いイノベーション環境への影響を考える必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify the Target:** Pinpoint the specific competitor feature or strategy that is giving them a competitive advantage.
-2. **Analyze and Deconstruct:** Understand why the feature is successful. What user need does it solve? How does it work?
-3. **Replicate and Integrate:** Build your own version of the feature. Crucially, don't just create a standalone copy; integrate it deeply into your existing product to provide unique value (e.g., Instagram Stories was integrated with the main Instagram feed and user graph).
-4. **Launch and Promote:** Use your existing market power, user base, and marketing channels to launch your version of the feature and drive rapid adoption.
-5. **Observe and Iterate:** Monitor the competitor's response and the market's reaction, and be prepared to iterate on your feature to maintain parity or superiority.
+1. **対象を定める:** 競争優位を生んでいる特定の機能や標準を特定する
+2. **分解して理解する:** なぜ成功しているのか、どのユーザーニーズを満たしているのかを把握する
+3. **再現し、統合する:** 単独コピーで終わらせず、自社の強みと結びつけて組み込む
+4. **投入して広める:** 既存の顧客基盤と販路を使い、一気に採用を進める
+5. **反応を見て反復する:** 競合の返しと市場反応を見ながら、同等以上を維持する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Competitor Growth Rate:** Has the growth of the targeted competitor slowed since you launched your feature?
-- **Feature Adoption:** What is the adoption and engagement rate of your version of the feature?
-- **User Churn:** Has your user churn rate decreased, particularly among segments that were at risk of switching to the competitor?
+- 狙った競合の成長率が落ちたか
+- 取り込んだ機能の採用率と利用度
+- とくに離脱リスクの高かった顧客層で、解約率が下がったか
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Clumsy Imitation
+### 雑な模倣
 
-A poorly executed, buggy, or incomplete copy of a feature can backfire, making your product look inferior and damaging your brand.
+不完全でバグの多いコピーは、かえって自社製品を安く見せます。
 
-### Lack of Integration
+### 統合不足
 
-Simply bolting on a copied feature without integrating it into the core user experience will likely result in low adoption.
+ただ後付けしただけでは、利用は広がりません。中核体験と結びつける必要があります。
 
-### Brand Dilution
+### ブランド希薄化
 
-If your company gains a reputation for being a copycat, it can become difficult to attract innovative talent or be seen as a market leader.
+「いつも誰かの真似をする会社」と見なされると、人材採用や市場認知で不利になります。
 
-### Ignoring the "Why"
+### なぜ効くのかを理解しない
 
-Copying the "what" (the feature) without understanding the "why" (the user need it solves) can lead to a soulless imitation that fails to resonate with users.
+何を真似るかだけ見て、なぜユーザーに刺さっているのかを理解しないと、魂のない模倣になります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Imitation as a Valid Strategy
+### 模倣も有効な戦略である
 
-Co-opting is a powerful reminder that successful business strategy is not always about being first or being the most innovative. Sometimes, being a fast and effective imitator is the winning move.
+勝つ戦略は、必ずしも最初に発明することではありません。速く、うまく模倣し、自社の規模で広げることが勝ち筋になる場面は多くあります。
 
-### Neutralizing the Point of Attack
+### 攻撃点を無力化する
 
-This strategy is often used to neutralize a competitor's main weapon. By removing their key point of differentiation, you force the competition to shift to a different battleground, one where you have the advantage.
+この戦略は、競合の主要武器を外すために使われます。差別化点を消してしまえば、相手を別の戦場へ移動させられます。その戦場が自社有利なら、取り込みは強い防御になります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Core Advantage:** Is our competitor's advantage based on a single feature we can copy, or something more fundamental?
-- **The Better Version:** How can we make our version of this feature better by integrating it with our existing strengths?
-- **The Brand Risk:** What is the potential damage to our brand, and how can we mitigate it?
-- **The Long Game:** Is this a one-time defensive move, or are we becoming a company that primarily imitates rather than innovates?
+- 相手の優位は、コピー可能な単一機能なのか、それとももっと根深いものか
+- 自社の強みと組み合わせて、どうすればより良い版にできるか
+- ブランド毀損のリスクをどう抑えるか
+- これは一度きりの防御策か、それとも模倣依存企業へ向かっていないか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)**: A more formal and aggressive version of co-opting that is focused on taking control of an entire standard.
-- **[Fast Follower](/strategies/positional/fast-follower)**: A company that has a deliberate strategy of being a fast follower will be skilled at co-opting.
-- **[Harvesting](/strategies/markets/harvesting)**: Similar in that it involves adopting an idea from the outside, but harvesting is typically aimed at the innovations of partners within your own ecosystem, whereas co-opting is aimed at external competitors.
-
-- [Threat Acquisition](/strategies/defensive/threat-acquisition) - acquiring or partnering with rivals to absorb their capabilities and neutralise external threats.
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) - targeting key nodes or influencers in competitor ecosystems to realign the industry’s power centre.
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - drawing critical partners into your ecosystem to constrain competitors’ strategic mobility.
-- [fragmentation](/strategies/competitor/fragmentation) - fracturing competitor networks by pulling participants into competing coalitions.
+- [**抱き込みと拡張（Embrace and Extend）**](/strategies/ecosystem/embrace-and-extend) - 既存標準全体を取り込んで支配を狙う、より攻撃的な形
+- [**高速追随（Fast Follower）**](/strategies/positional/fast-follower) - 取り込みを継続的に使える組織は fast follower になりやすい
+- [**Harvesting**](/strategies/markets/harvesting) - 外部のアイデアを採る点は似ているが、収穫対象が競合か自陣営かで異なる
+- [Threat Acquisition](/strategies/defensive/threat-acquisition) - 買収や提携で競合能力そのものを吸収する
+- [重力中心（Center of Gravity）](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重心をずらす
+- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
+- [Fragmentation](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
 
 ## ⛅ **関連する状勢パターン**
 
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: a rival's successful move often prompts co-opting as a counter.
-- [Creative destruction](/climatic-patterns/creative-destruction) – influence: co-opting can accelerate the replacement of old approaches with new ones.
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 競合の成功が取り込みを誘発する
+- [創造的破壊](/climatic-patterns/creative-destruction) – 影響: 取り込みが古い差別化を陳腐化させる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone)** by Casey Newton, The Verge. A contemporary analysis of the most famous modern example of co-opting.
-- **[Seeing Like a State](/books/seeing-like-a-state)** by James C. Scott. While not a business book, it provides deep insights into how large, centralized systems (like big companies) co-opt and absorb local, organic practices.
+- [How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone) - 代表的な現代の取り込み事例
+- [Seeing Like a State](/books/seeing-like-a-state) - 大きなシステムが有機的な実践をどう吸収するかを考える手がかりになる

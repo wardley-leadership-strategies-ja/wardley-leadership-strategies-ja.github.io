@@ -1,7 +1,6 @@
 ---
-title: Embrace and Extend
-description: A strategy to gain market dominance by first adopting a widely used standard,
-  then adding proprietary extensions to create a lock-in effect.
+title: 抱き込みと拡張（Embrace and Extend）
+description: 広く使われた標準をまず受け入れ、その上に独自拡張を重ねてロックインを作る戦略。
 tags:
 - ecosystem
 - standards
@@ -28,179 +27,179 @@ leadership_focus:
 - Standard stewardship
 - Narrative control
 quick_signals:
-- An open standard dominates but lacks advanced capabilities users crave.
-- You can ship compatible extensions faster than rivals can standardise them.
-- Developers or partners already rely on your tooling despite official standards.
+- オープン標準が広く普及しているが、利用者が求める高度機能は不足している。
+- 競合が標準化するより速く、互換拡張を出せる。
+- 公式標準より、自社ツール群への依存が開発者やパートナーにすでにある。
 momentum_moves:
-- Launch a fully compatible baseline that removes friction for adopters.
-- Introduce proprietary enhancements that solve high-value pain points.
-- Invest in developer support so the ecosystem defaults to your extensions.
+- 採用摩擦を消す完全互換の土台を先に出す。
+- 高価値の痛点を解く独自拡張を追加する。
+- 開発者支援へ投資し、自社拡張が事実上の既定値になるようにする。
 watch_outs:
-- Breaking compatibility so early that trust evaporates.
-- Triggering regulatory scrutiny for anti-competitive tying.
-- Failing to sustain the extended platform and stranding adopters.
+- 互換性を早く壊しすぎて信頼を失うこと。
+- 反競争的な抱き合わせとして規制当局の監視を招くこと。
+- 拡張後のプラットフォーム維持に失敗し、採用者を取り残すこと。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
+**既存標準へ乗り込み、その上に独自拡張を重ねることで市場支配を狙う戦略です。**
 
-**A strategy to gain market dominance by first adopting a widely used standard, then adding proprietary extensions to create a lock-in effect.**
-
-> *"Capturing an existing ecosystem."*
+> *「既存のエコシステムを捕捉すること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Embrace and Extend?
+### 抱き込みと拡張とは何か
 
-"Embrace and Extend" is an aggressive strategy for achieving market dominance by co-opting an existing, widely-adopted standard. It works in three phases:
+「抱き込みと拡張」は、すでに広く採用されている標準を取り込み、その後に独自拡張を加えることで、市場支配を狙う攻撃的な戦略です。流れは大きく 3 段階あります。
 
-1. **Embrace:** A company starts by creating a product that is fully compatible with an open or de facto standard (e.g., a document format, a network protocol, or a software platform). This allows them to enter the market easily and gain a foothold with the existing user base.
-2. **Extend:** The company then adds its own proprietary features and extensions to the standard. These extensions provide additional value and are not available to competitors who stick to the original, open standard.
-3. **Extinguish (Implicit Goal):** As users come to depend on the proprietary extensions, the company's version of the standard becomes the new de facto standard. The original open standard is marginalized, and competitors who don't or can't adopt the proprietary extensions are extinguished from the market. This creates a powerful lock-in effect.
+1. **抱き込む（Embrace）:** まず、オープン標準や事実上の標準に完全互換な製品を出し、既存利用者基盤へ自然に入り込む
+2. **拡張する（Extend）:** 次に、その標準にはない独自機能を加え、競合が追随できない追加価値を作る
+3. **競合を排除する（暗黙の終局）:** 利用者が独自拡張に依存し始めると、自社版が新たな事実上の標準となり、元の標準だけに従う競合は市場から押し出される
 
-### Why use Embrace and Extend?
+最終的に強いロックインが生まれ、標準の将来方向を自社が握れるようになります。
 
-This is a high-risk strategy for companies with significant market power. The primary motivations are:
+### なぜ使うのか
 
-- **Hijack an Ecosystem:** It allows a company to take control of an existing ecosystem without having to build it from scratch.
-- **Create a Monopoly:** The end goal is to create a proprietary, defensible monopoly around what was once an open standard.
-- **Marginalize Competitors:** It is a direct assault on competitors, aiming to make their standards-compliant products obsolete.
-- **Increase Switching Costs:** The proprietary extensions create a strong lock-in effect, making it difficult for customers to switch to a competitor.
+これは大きな市場力を持つ企業に向いた高リスク戦略です。主な動機は次の通りです。
 
-## 🗺️ **Real-World Examples**
+- **既存エコシステムを乗っ取る:** 一から作らずに、すでにある市場を支配できる
+- **独占を作る:** かつてオープンだった標準の周囲に、防御可能な proprietary な支配を作れる
+- **競合を陳腐化する:** 標準準拠だけの競合製品を時代遅れにする
+- **乗り換えコストを上げる:** 独自拡張により、顧客を他社へ移しにくくする
 
-### Success: Microsoft's Browser Wars
+## 🗺️ **実例**
 
-The most famous (and infamous) example is Microsoft's strategy with Internet Explorer in the late 1990s. Microsoft **embraced** the open web standards of the time (HTML, CSS). They then **extended** these standards with proprietary features and tags (like `<marquee>`) that only worked in Internet Explorer. As IE's market share grew, web developers were forced to build sites that used these proprietary extensions, making them look broken in competing browsers like Netscape Navigator. This helped Microsoft **extinguish** Netscape and achieve a near-monopoly in the browser market.
+### 成功例: Microsoft のブラウザ戦争
 
-### Cautionary Example: The Aftermath of the Browser Wars
+もっとも有名なのは、1990 年代後半の Internet Explorer です。Microsoft は当時の Web 標準である HTML や CSS を**抱き込み**、その後 `<marquee>` のような独自タグや独自機能を**拡張**しました。IE のシェアが上がると、Web 開発者はそれら独自拡張を前提にサイトを作るようになり、Netscape Navigator などの競合ブラウザでは表示が崩れるようになりました。これにより Microsoft は Netscape を実質的に市場から押し出し、ブラウザ市場でほぼ独占的地位を得ました。
 
-While Microsoft's "embrace and extend" strategy was successful in winning the browser wars, it came at a high cost. The strategy led to a stagnant web, where innovation slowed for years. Developers were forced to build for a single, non-standard browser, and users were locked into a single ecosystem. This ultimately led to a massive antitrust lawsuit against Microsoft, which damaged the company's reputation and led to years of legal battles. This example shows that even a successful "embrace and extend" strategy can have significant negative consequences.
+### 注意例: ブラウザ戦争の後遺症
 
-### Google's Use of Android
+この戦略は Microsoft にとって勝利でしたが、代償も大きくありました。Web は長く停滞し、開発者は非標準ブラウザ向けの実装を強いられ、利用者は単一エコシステムへ閉じ込められました。結果として、大規模な反トラスト訴訟と評判悪化を招きました。成功しても、市場全体への害と法的反作用が大きい例です。
 
-While less aggressive, Google's strategy with Android has elements of Embrace and Extend. Google **embraced** open-source by making the core Android Open Source Project (AOSP) available to everyone. However, to get access to the Google Play Store and other essential Google services (the **extensions**), manufacturers must agree to Google's terms and pre-install a suite of Google apps. This makes it very difficult for a forked version of Android (like Amazon's Fire OS) to compete, as it lacks the crucial Google ecosystem.
+### Google と Android
 
-## 🚦 **When to Use / When to Avoid**
+より穏やかですが、Google の Android 戦略にもこの要素があります。Google は AOSP を通じてオープンソースを**抱き込み**ましたが、Google Play Store や主要サービスといった**拡張**を使うには、メーカー側が Google の条件を受け入れる必要があります。そのため、Amazon Fire OS のようなフォーク版は重要な Google エコシステムなしでは戦いにくくなっています。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Embrace and Extend">
   <MapSignals>
-    <li>Your map shows a widely adopted, open standard that is central to a valuable ecosystem.</li>
-    <li>The existing standard has clear limitations or unmet user needs that you can address with proprietary extensions.</li>
-    <li>Competitors are committed to the open standard and are unlikely to be able to replicate your extensions quickly.</li>
-    <li>The ecosystem is fragmented, with no single player having dominant control.</li>
+    <li>価値あるエコシステムの中心に、広く採用されたオープン標準がある。</li>
+    <li>既存標準に明確な制約や未充足ニーズがあり、独自拡張で埋められる。</li>
+    <li>競合はオープン標準への忠誠が強く、こちらの拡張を素早く真似しにくい。</li>
+    <li>エコシステムが断片化しており、支配的な単一プレイヤーがいない。</li>
   </MapSignals>
   <Readiness>
-    <li>We have significant market power and resources to promote our extended version of the standard.</li>
-    <li>Our organization has the R&D capability to create genuinely valuable extensions.</li>
-    <li>We have a high tolerance for legal and reputational risk, as this strategy is highly controversial.</li>
-    <li>Our leadership is willing to play a long, aggressive game to achieve market dominance.</li>
+    <li>拡張版標準を普及させるだけの市場力と資源がある。</li>
+    <li>本当に価値ある独自拡張を作る研究開発力がある。</li>
+    <li>この戦略が強い法的・評判リスクを伴うことを受け入れられる。</li>
+    <li>市場支配まで見据えて、長く攻撃的なゲームを続ける覚悟がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You are a large player seeking to dominate a market with an established open standard.
-- You have the resources to create compelling extensions and drive their adoption.
-- You are willing to accept the significant legal and ethical risks.
+- 確立したオープン標準がある市場を、大企業として支配したいとき
+- 利用者にとって魅力的な拡張を作り、その採用を押し切る資源があるとき
+- 大きな法的・倫理的リスクを受け入れる意思があるとき
 
-### Avoid when
+### 避けるとき
 
-- You do not have significant market power. This strategy is not for startups.
-- The standard is controlled by a strong, well-organized body that can resist your extensions.
-- The user and developer community is strongly committed to open standards and is likely to reject your proprietary extensions.
-- The legal and reputational risks are too high for your company.
+- 十分な市場力がないとき。これはスタートアップ向けの戦略ではない
+- 標準を管理する強い団体があり、拡張へ抵抗できるとき
+- 利用者や開発者コミュニティがオープン標準への忠誠心を強く持っているとき
+- 法的・評判リスクが高すぎて、自社が耐えられないとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is managing the immense ethical and legal risks of this strategy. It is an explicitly anti-competitive maneuver that is likely to attract regulatory scrutiny and public criticism. Leaders must be prepared to defend their actions and navigate a complex and hostile environment. They must also have the strategic patience to see the multi-year process through, from embrace to extinguish.
+この戦略は露骨に反競争的な性格を持つため、巨大な倫理的・法的リスクを扱うことが中核課題です。規制当局の監視、世論の反発、長期の訴訟リスクを織り込んだうえで、それでもやるのかを問われます。また、抱き込みから排除まで、複数年をかけて進める忍耐も必要です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The ability to assess and mitigate the significant legal, reputational, and competitive risks.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — A willingness to play hardball and engage in direct, often confrontational, competition.
-- [Market and customer insight](/leadership-skills/market-and-customer-insight) — A clear understanding of how to leverage the extensions to achieve market dominance.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to manage the narrative and influence regulators and the public.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 法的、評判、競争上のリスクを評価し抑える
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 正面から激しく競争する覚悟を持つ
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — どの拡張が支配につながるかを見抜く
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 規制当局や世論との語りを管理する
 
-### Ethical considerations
+### 倫理面
 
-This strategy is widely regarded as ethically dubious. It involves deliberately undermining open standards for private gain, stifling competition, and limiting consumer choice. The "extinguish" phase is explicitly about putting competitors out of business. Any leader considering this strategy must grapple with the fact that they are attempting to create a monopoly, which is often harmful to the health of the market and to consumers.
+この戦略は一般に倫理的に疑わしいと見なされます。オープン標準を私的利益のために壊し、競争を抑え、消費者の選択肢を狭めるからです。終局はしばしば独占形成であり、市場と利用者の健全性にとって有害です。この戦略を取るなら、「それでもこの会社はそれをやるのか」という問いから逃げられません。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Embrace the Standard:** Launch a product that is 100% compliant with the existing open standard. Gain credibility and market share by being a good citizen of the existing ecosystem.
-2. **Identify Weaknesses:** Analyze the open standard to find its weaknesses, limitations, and the unmet needs of its users.
-3. **Develop Proprietary Extensions:** Create valuable, proprietary features that address these weaknesses and solve the unmet needs. Integrate them seamlessly into your product.
-4. **Promote the Extensions:** Use your market power to promote your extended version of the standard. This could involve marketing, bundling, or making the extensions the default in your product.
-5. **Create Lock-In:** As users and developers start to rely on your extensions, the switching costs to a competitor's product become very high.
-6. **Extinguish the Competition:** Once your extended version has become the de facto standard, competitors who have stuck to the open standard will be unable to compete effectively.
+1. **標準を抱き込む:** 既存のオープン標準へ 100% 準拠した製品を出し、良き市民として市場へ入る
+2. **弱点を見つける:** その標準の制約、限界、未充足ニーズを分析する
+3. **独自拡張を作る:** それらの弱点を埋める proprietary な機能を作り、製品へ深く統合する
+4. **拡張を普及させる:** マーケティング、バンドル、デフォルト設定などを使って、拡張版の採用を進める
+5. **ロックインを作る:** 利用者と開発者が独自拡張へ依存し、乗り換えコストが高くなる状態へ持ち込む
+6. **競争を排除する:** 自社版が事実上の標準になったら、元の標準だけに依存する競合は戦いにくくなる
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Adoption of Extensions:** What percentage of the market is using your proprietary extensions?
-- **Decline of Competitors:** Are competitors who rely on the open standard losing market share?
-- **Market Share:** Has your overall market share increased to a dominant or monopoly position?
-- **Control over the Standard:** Are you now the one dictating the future direction of the technology?
+- proprietary な拡張を使う市場割合
+- オープン標準のみへ依存する競合のシェア低下
+- 自社市場シェアが支配的地位へ近づいたか
+- 標準の将来方向を、実質的に自社が決められているか
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Antitrust Lawsuits
+### 反トラスト訴訟
 
-This strategy is a red flag for regulators. The most famous example led to the *United States v. Microsoft Corp.* antitrust case.
+この戦略は規制当局にとって明確な警戒対象です。代表例が *United States v. Microsoft Corp.* です。
 
-### Community Backlash
+### コミュニティ反発
 
-The developer and user community can revolt against attempts to undermine open standards, leading to significant reputational damage.
+開発者や利用者が、オープン標準の破壊に強く反発し、評判が大きく傷つくことがあります。
 
-### Failure to Extend
+### 拡張の失敗
 
-If your extensions are not compelling enough, users will not adopt them, and the strategy will fail at the second step.
+独自拡張が十分魅力的でなければ、第二段階で止まります。
 
-### Competitor Response
+### 競合の対抗
 
-A strong competitor may be able to counter your extensions with their own, or by rallying the community around the open standard.
+強い競合が独自拡張へ対抗したり、オープン標準コミュニティを結集して反撃したりすることがあります。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Dark Side of Platform Power
+### プラットフォーム力の暗い面
 
-Embrace and Extend is a powerful illustration of the dark side of platform power. It shows how a dominant player can use its position to manipulate standards and crush competition. It is a strategy of control, not innovation.
+抱き込みと拡張は、プラットフォーム力の暗い側面をよく示します。支配的プレイヤーが自らの位置を使って標準を歪め、競争を押しつぶす戦略であり、イノベーションというより統制の戦略です。
 
-### Open Source as a Defense
+### オープンソースは防御線になる
 
-A strong, vibrant open-source community around a standard is one of the best defenses against an Embrace and Extend attack. The community can act as a guardian of the open standard and resist proprietary extensions.
+標準の周囲に強く活発なオープンソース・コミュニティがあることは、この戦略への有力な防御になります。コミュニティが標準の守護者として機能し、独自拡張への対抗力になります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Target:** Which open standard are we targeting, and is it vulnerable?
-- **The Extension:** What unique, compelling value can we add that will create a lock-in effect?
-- **The Risk:** Are we prepared for the inevitable legal and reputational backlash?
-- **The Endgame:** What is our plan for when we have successfully extinguished the competition and control the standard?
-- **Our Character:** Is this the kind of company we want to be?
+- どのオープン標準を狙うのか。それは本当に脆弱か
+- どんな独自価値が、ロックインを生むほど強いのか
+- 法的・評判上の反発に耐える覚悟と備えはあるか
+- 競合排除後、自社はその標準をどう支配し続けるのか
+- そもそも、自社はそういう会社でありたいのか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: A related strategy for achieving dominance, but typically focused on building a new Tower in a future market, rather than co-opting an existing standard.
-- **[Standards Game](/strategies/markets/standards-game)**: Embrace and Extend is a particularly aggressive way to play the standards game.
-- **[Lock-In](/terms/lock-in)**: The ultimate goal of this strategy is to create customer lock-in.
-- **[Fear, Uncertainty, and Doubt (FUD)](/terms/fear-uncertainty-and-doubt)**: FUD is often used as a tactic to support an Embrace and Extend strategy by creating anxiety about the future of the open standard.
-
-- [Open Approaches](/strategies/accelerators/open-approaches) - championing open standards and collaboration, in opposition to proprietary extensions that undermine compatibility.
-- [Co-opting](/strategies/ecosystem/co-opting) - absorbing compatible implementations into your ecosystem before introducing proprietary extensions.
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - enforcing extensions to constrain competitors’ ability to adopt or move between standards.
-- [fragmentation](/strategies/competitor/fragmentation) - splintering the ecosystem by introducing incompatible variants that divide community implementations.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - "Embrace and Extend" can be a method to achieve platform envelopment, by first adopting a standard to integrate a service, then extending it with proprietary features to lock users into the platform's ecosystem.
+- [**Tower and Moat**](/strategies/ecosystem/tower-and-moat) - 新しい未来市場に塔を築く戦略で、既存標準を乗っ取る本戦略とは異なる
+- [**Standards Game**](/strategies/markets/standards-game) - 標準争いをもっとも攻撃的に戦う形の一つ
+- [**Lock-In**](/terms/lock-in) - この戦略の終局目標
+- [**Fear, Uncertainty, and Doubt (FUD)**](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
+- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) - 互換性を守りながら開く戦略で、本戦略とは対極にある
+- [取り込み（Co-opting）](/strategies/ecosystem/co-opting) - 互換実装を吸収した後に独自拡張へ進むことがある
+- [Restriction of Movement](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
+- [Fragmentation](/strategies/competitor/fragmentation) - 非互換の亜種を導入し、エコシステムを割る
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - 標準を取り込んでから独自拡張で閉じることで、包摂戦略の手段になる
 
 ## ⛅ **関連する状勢パターン**
 
-- [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: ecosystem partners adapt as you change the core.
+- [創造的破壊](/climatic-patterns/creative-destruction) – トリガー: 標準の拡張が既存アプローチを壊すことがある
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 中核標準の変更に合わせ、周辺も適応を迫られる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[The Halloween Documents](https://en.wikipedia.org/wiki/Halloween_documents)**: A series of confidential Microsoft memos that were leaked in the late 1990s, which provide a detailed, internal view of this strategy.
-- **[United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)**: The court filings from this landmark antitrust case offer a deep dive into the mechanics and consequences of the Embrace and Extend strategy.
+- [The Halloween Documents](https://en.wikipedia.org/wiki/Halloween_documents) - この戦略の内部的な考え方を示す Microsoft 文書群
+- [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.) - 抱き込みと拡張の仕組みと帰結を追える代表的反トラスト事件

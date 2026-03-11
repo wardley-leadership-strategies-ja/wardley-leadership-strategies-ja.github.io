@@ -1,223 +1,247 @@
 ---
-title: Industrial Policy
-description: Aligning with or influencing government investment and policy to accelerate strategic industry evolution.
-tags: [industrial-policy, accelerators, policy, government, subsidies, regulation, strategic sectors]
+title: 産業政策（Industrial Policy）
+description: 政府の投資や政策と足並みを揃える、またはそれに影響を与えることで、戦略産業の進化を加速する戦略。
+tags:
+- industrial-policy
+- accelerators
+- policy
+- government
+- subsidies
+- regulation
+- strategic sectors
 ethical_alignment: Medium
-leadership_skills_needed: [Political Acumen, Advocacy, Strategic Networking]
+leadership_skills_needed:
+- Political Acumen
+- Advocacy
+- Strategic Networking
 related_strategies:
-  - lobbying
-  - market-enablement
-  - standards-game
+- lobbying
+- market-enablement
+- standards-game
 evolution_stage: Custom/Productization
 strategic_insight_area: Climatic Patterns
-when_to_use: High-capital, strategic industries targeted by government; when public support can dramatically accelerate progress.
-when_to_avoid: When policy cycles are too slow or burdensome; when public funding creates dependencies that stifle agility.
-core_challenge: Balancing public objectives with private strategic goals.
-authors: [dave-hulbert]
+when_to_use: 巨額投資が必要な戦略産業で、政府支援が進化速度を大きく変えうるとき。
+when_to_avoid: 政策サイクルが遅すぎる、または負担が重すぎるとき。公的資金への依存が機動力を損なうとき。
+core_challenge: 公的目的と私的な戦略目的をどう両立するか。
+authors:
+- dave-hulbert
 stages:
-  - Custom-Built
-  - Product
+- Custom-Built
+- Product
 goals:
-  - Secure long-term investment
-  - Shape the market
-  - Defend your position
+- Secure long-term investment
+- Shape the market
+- Defend your position
 pressures:
-  - Regulatory or policy leverage available
-  - Limited resources or capacity
+- Regulatory or policy leverage available
+- Limited resources or capacity
 leadership_focus:
-  - Policy advocacy
-  - Coalition building
-  - Long-horizon roadmapping
+- Policy advocacy
+- Coalition building
+- Long-horizon roadmapping
 quick_signals:
-  - National or regional initiatives name your domain as a priority.
-  - Your map shows infrastructure or R&D too expensive to fund alone.
-  - Competitors lobby for incentives that could disadvantage you.
+- 国や地域の施策で、自社領域が優先分野として明示されている。
+- 地図上で、インフラや研究開発が単独では賄えないほど高額だと見えている。
+- 競合が、自社に不利な補助や制度を求めてロビー活動している。
 momentum_moves:
-  - Map the policy landscape, timelines and key influencers.
-  - Frame your proposal in terms of public outcomes and resilience.
-  - Secure pilot projects that demonstrate credible momentum to funders.
+- 政策地図、制度変更のタイムライン、主要な影響者を整理する。
+- 提案を、公共的成果とレジリエンスの文脈で語る。
+- 資金提供者に勢いを示せるよう、実証プロジェクトを先に作る。
 watch_outs:
-  - Political cycles that change priorities mid-stream.
-  - Reporting obligations that slow execution if left unmanaged.
-  - Dependence on subsidies without a path to stand-alone economics.
+- 政治サイクルで優先順位が途中で変わること。
+- 報告義務が重く、管理しないと実行速度が落ちること。
+- 自立採算への道筋がないまま補助金に依存すること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
-**Aligning with or influencing government investment and policy to accelerate strategic industry growth.**
+**政府の投資や政策と足並みを揃える、またはそれに影響を与えることで、戦略産業の成長を加速する戦略です。**
 
-> *"Government investment in a field."*
-> -- Simon Wardley
+> *「ある分野への政府投資。」*
+>
+> - Simon Wardley
 
 <AssessmentToolAdvert strategyName="Industrial Policy" />
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Industrial Policy?
+### 産業政策とは何か
 
-**Industrial Policy** refers to deliberate actions by governments to support strategic industries through instruments such as subsidies, tax incentives, public procurement, regulation, or infrastructure investment. For organizations, it involves aligning with or influencing these policies to de-risk investments, secure funding, and shape market conditions in their favor.
+産業政策とは、補助金、税優遇、公的調達、規制、インフラ投資といった手段を通じて、政府が戦略産業を意図的に支援することです。企業側から見ると、それは政策に合わせるだけでなく、制度設計へ働きかけ、自社に有利な市場条件を作ることも含みます。
 
-### Why use Industrial Policy?
+目的は、高額で不確実な投資のリスクを下げ、資金を確保し、市場条件そのものを自社にとって有利な方向へ動かすことです。特に半導体、グリーンエネルギー、防衛、通信インフラのような、国家的な重要性と巨額投資が結びつく領域で効きます。
 
-- De-risks high-capital projects with public funding or guarantees  
-- Accelerates R&D and innovation through targeted grants or contracts  
-- Creates market demand via government procurement or mandated standards  
-- Shapes regulatory environments to lower barriers or secure competitive advantages  
-- Builds strategic autonomy in critical sectors (e.g., semiconductors, green energy)
+### なぜ使うのか
 
-### How it works
+- **高額投資のリスクを下げる:** 補助金、保証、税優遇で資本負担を軽くできる
+- **研究開発を加速する:** 助成金や契約によって探索速度を上げられる
+- **政府需要を作れる:** 公的調達や義務化標準が初期市場になる
+- **規制環境を変えられる:** 参入障壁を下げたり、自社に有利な枠組みを作れたりする
+- **戦略自律性を高められる:** 国家や地域の重要分野で供給能力を確保できる
 
-Organizations can engage in industrial policy by:
+### どう機能するのか
 
-1. Mapping policy priorities and timelines  
-2. Building relationships with policymakers and influencers  
-3. Framing proposals to align corporate goals with public objectives  
-4. Piloting projects or proofs of concept to demonstrate value
-5. Securing grants, subsidies, or favorable contracts  
-6. Ensuring compliance and maintaining stakeholder trust  
+組織が産業政策を活用するときは、通常次のような流れになります。
 
-### Forms of Industrial Policy
+1. 政策優先順位と制度変更タイミングを地図にする
+2. 政策立案者、関係省庁、業界団体、影響者との関係を築く
+3. 自社の提案を公共目的と結びつけて説明する
+4. 実証実験や試作品で価値を示す
+5. 補助金、税制、契約、公的投資を確保する
+6. コンプライアンスと説明責任を守り続ける
 
-> ```mermaid
-> mindmap
->   root((Industrial Policy))
->     Instruments
->       Subsidies
->       Tax Incentives
->       Public Procurement
->       Regulation
->       Infrastructure Investment
->       Trade Protection
->     Goals
->       Accelerate Innovation
->       Market Creation
->       Strategic Autonomy
->       Job Creation
->     Risks
->       Policy Shift
->       Dependency
->       Market Distortion
->     Success Factors
->       Policy Alignment
->       Strategic Framing
->       Stakeholder Engagement
->       Compliance
-> ```
+### 産業政策の主な形
 
-## 🗺️ **Real-World Examples**
+```mermaid
+mindmap
+  root((産業政策))
+    手段
+      補助金
+      税優遇
+      公的調達
+      規制
+      インフラ投資
+      貿易保護
+    目的
+      イノベーション加速
+      市場形成
+      戦略自律性
+      雇用創出
+    リスク
+      政策転換
+      依存
+      市場歪曲
+    成功要因
+      政策整合
+      戦略的な語り方
+      関係者巻き込み
+      コンプライアンス
+```
 
-**Historical:** Aerospace industry funding – Boeing and Airbus grew rapidly on the back of government defense contracts, direct subsidies, and co-ownership arrangements, accelerating innovation and scale beyond pure private investment.
+## 🗺️ **実例**
 
-**Contemporary:** China’s EV sector – extensive subsidies, infrastructure development, and manufacturing incentives propelled companies like BYD and NIO to global competitiveness years ahead of market-driven timelines.
+### 航空宇宙産業への政府支援
 
-**Hypothetical:** A renewable energy startup partners with a national green infrastructure program, securing R&D grants and guaranteed off-take contracts for pilot wave energy projects, dramatically reducing risk and time-to-market.
+Boeing や Airbus は、防衛契約、直接補助、共同保有に近い枠組みを背景に大きく成長しました。純粋な民間資本だけでは到達しにくい研究開発規模と量産能力を、公的支援が加速しました。
 
-## 🚦 **When to Use / When to Avoid**
+### 中国の EV 産業
+
+中国では補助金、インフラ整備、製造支援が大規模に行われ、BYD や NIO のような企業が市場原理だけでは難しかった速度で国際競争力を持つに至りました。
+
+### 仮想例: 波力発電スタートアップ
+
+再生可能エネルギーの新興企業が、国家のグリーンインフラ政策と連携し、研究助成と固定買い取り契約を得たとします。これにより、実証設備への投資リスクと市場投入までの時間を大幅に減らせます。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Industrial Policy">
   <MapSignals>
-    <li>Government announces initiatives or budgets for your sector (e.g., green technology, defense, semiconductors).</li>
-    <li>High capital or regulatory barriers exist and public support can materially reduce risk or cost.</li>
-    <li>Policy objectives (jobs, security, innovation) align with your strategic goals.</li>
-    <li>Political environment is stable enough for multi-year programs.</li>
+    <li>政府が自社分野向けの予算や施策を打ち出している。たとえばグリーン技術、防衛、半導体など。</li>
+    <li>高額資本や規制障壁があり、公的支援がリスクやコストを大きく下げる。</li>
+    <li>雇用、安全保障、技術革新などの政策目的が、自社戦略と一致している。</li>
+    <li>政治環境が、複数年にわたる施策を支えられる程度には安定している。</li>
   </MapSignals>
   <Readiness>
-    <li>You have resources and expertise for policy engagement or advocacy.</li>
-    <li>You can comply with public-sector reporting, audits, and transparency requirements.</li>
-    <li>You understand policy development processes and timelines.</li>
-    <li>You can deliver pilot projects or prototypes that demonstrate impact.</li>
+    <li>政策対応やアドボカシーに必要な資源と専門性がある。</li>
+    <li>公共部門の報告、監査、透明性要件に対応できる。</li>
+    <li>制度形成の流れと時間軸を理解している。</li>
+    <li>効果を示す実証や試作を出せる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-The long-term benefits of public funding, market guarantees, or regulatory support outweigh the potential costs of oversight and dependency.
+- 公的資金、市場保証、規制支援の長期便益が、監督や依存のコストを上回るとき
+- 単独で抱えるには大きすぎる投資やインフラがあり、国家的優先分野と重なるとき
+- 政策支援を足場に、自立競争力まで持っていける見込みがあるとき
 
-### Avoid when
+### 避けるとき
 
-Policy cycles are highly uncertain or slow, funding strings create strategic constraints, or overreliance on state support risks future agility.
+- 政策サイクルが不安定または遅すぎるとき
+- 補助金や制度条件が、戦略上の自由度を過度に奪うとき
+- 国家支援なしでは成立しない依存構造になりそうなとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Balancing public objectives with private strategic goals, maintaining agility while managing government oversight and stakeholder expectations.
+公的目的と私的な戦略目的をどう両立させるかです。政府監督と説明責任を受け入れながら、機動力も失わないようにしなければなりません。
 
-### Key leadership skills
+### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Navigate policy environments and government stakeholders.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Frame industrial policy efforts in a shared national or societal narrative.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Build compliance, reporting, and oversight structures that sustain trust.
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Coordinate public, private, and civic partners around a common agenda.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — 政策環境と政府関係者を読み解く
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 国家や社会の物語と自社計画を結びつける
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — コンプライアンスと説明責任の構造を作る
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — 官民の関係者を同じ方向へ揃える
 
-### Ethical considerations
+### 倫理面
 
-Engaging in industrial policy requires a commitment to transparency and public accountability. Leaders must ensure that the pursuit of strategic advantage does not compromise ethical standards or create unfair market distortions. The process should be guided by a clear understanding of the public good and a commitment to delivering value beyond the organization itself.
+産業政策への関与では、透明性と公的説明責任が不可欠です。戦略的優位を狙うとしても、それが不公正な市場歪曲や不透明な便益供与になってはなりません。自社以外にも価値が返ること、公的資金の使途が妥当であることを示す必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Scan and map relevant policy landscapes and funding programs.  
-2. Form cross-functional teams (policy, legal, technical, finance) for engagement.  
-3. Develop aligned proposals highlighting mutual benefits.  
-4. Engage in pilot or demonstrator projects with clear success metrics.  
-5. Negotiate terms for subsidies, tax breaks, or public procurement.  
-6. Implement governance structures for compliance and reporting.  
-7. Monitor policy changes and adapt strategy accordingly.  
-8. Plan exit or diversification to avoid overdependence.
+1. 関係する政策領域と資金制度を調査し、地図にする
+2. 政策、法務、技術、財務の横断チームを作る
+3. 公共利益と自社利益が両立する提案を作る
+4. 成功指標つきの実証やデモ案件を出す
+5. 補助金、税優遇、公的調達の条件を交渉する
+6. コンプライアンスと報告の運用を整える
+7. 政策変化を継続監視し、戦略を調整する
+8. 過度な依存を避けるため、出口や多角化も設計する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Public funding secured (amount and terms)  
-- Accelerated project timelines versus baseline  
-- Regulatory approvals or standards adoption  
-- Market share or volume growth enabled by policy support  
-- Cost-of-capital reduction  
-- Successful audits and stakeholder satisfaction
+- 獲得した公的資金の規模と条件
+- 基準計画に対するプロジェクト進捗の加速
+- 規制承認や標準採用の進展
+- 政策支援によって増えた市場シェアや取扱量
+- 資本コストの低下
+- 監査結果と主要関係者の満足度
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-- Overdependence on a single policy program or government sponsor.  
-- Neglecting market viability in favor of subsidy-driven activities.  
-- Bureaucratic delays undermining agility.  
-- Public backlash over perceived unfair advantages.  
-- Policy reversals exposing strategic gaps.
+- 単一の制度や省庁に依存しすぎること
+- 補助金がある案件ばかり追い、市場性を見失うこと
+- 官僚的遅延で機動力が落ちること
+- 不公平な優遇と見なされ、反発を招くこと
+- 政策転換で戦略の穴が露呈すること
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Aligning with National Champions vs. Fostering Ecosystems
+### ナショナルチャンピオン型か、エコシステム型か
 
-Industrial policy can take the form of backing national champions (betting on a few large players) or fostering a broader ecosystem of innovation. Leadership must understand the nuances of the specific policy they are engaging with. Aligning with a "national champion" approach might offer significant scale but also carries risks if that champion falters. Ecosystem approaches might offer more resilience but require navigating a more complex set of relationships.
+産業政策には、少数の大企業へ集中投資する型と、広いエコシステムを育てる型があります。前者は大きな規模を得やすい反面、単一プレイヤーに賭けるリスクが高い。後者はしなやかですが、関係調整が複雑になります。どちらの政策に乗っているのかを読み違えると、戦略は外れます。
 
-### The Double-Edged Sword of Subsidies
+### 補助金は両刃の剣
 
-While subsidies can accelerate development and market entry, they can also distort market signals and create dependencies. Strategic leaders must use subsidies to achieve specific milestones and build underlying capabilities, rather than becoming reliant on them for ongoing operations. The goal should be to use policy support to reach a point of self-sustaining competitiveness.
+補助金は開発と市場投入を早めますが、市場シグナルをゆがめ、依存も作ります。優れた指揮は、補助金を恒常収入にせず、特定マイルストーン到達と能力蓄積のために使います。目標は、政策支援がなくても戦える地点へ到達することです。
 
-### Navigating Policy Cycles and Political Risk
+### 政策サイクルと政治リスク
 
-Industrial policies are subject to political winds and can change with new administrations or shifting national priorities. Companies leveraging industrial policy must build in resilience to these shifts, perhaps by diversifying their reliance across different programs or geographies, or by ensuring their core value proposition remains strong even without specific policy support.
+産業政策は政権交代や国家優先順位の変化で簡単に変わります。したがって、制度横断で依存を分散する、地域を分ける、自社の中核価値提案を政策抜きでも成立させる、といった耐性が必要です。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **Alignment:** How does this specific industrial policy align with our long-term strategic goals, beyond the immediate financial incentives?
-- **Capabilities:** Do we have the internal capabilities (e.g., for grant application, compliance, lobbying) to effectively engage with this policy?
-- **Risk Mitigation:** What are the primary risks associated with this policy (e.g., political change, dependency, reputational risk), and how can we mitigate them?
-- **Exit Strategy:** What is our strategy for thriving if this policy support is reduced or removed?
-- **Ecosystem Impact:** How does our participation in this policy affect the broader ecosystem, and are there opportunities for collaboration?
-- **Ethical Considerations:** Are there any ethical concerns or potential negative externalities associated with this policy or our involvement in it?
+- この産業政策は、短期的な資金以外の意味で自社長期戦略とどう整合するか
+- 助成申請、コンプライアンス、ロビー活動などに必要な内部能力はあるか
+- 政治変動、依存、評判毀損など主要リスクをどう抑えるか
+- この支援が縮小・終了した後も、自社は競争できるか
+- この政策参加は、周辺エコシステムへどう影響するか。協力余地はあるか
+- 政策自体や自社関与に、倫理上の懸念や負の外部性はないか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [Lobbying](/strategies/user-perception/lobbying) - influencing policy is a core tactic within industrial policy.  
-- [Market Enablement](/strategies/accelerators/market-enablement) - government backing can create or expand markets.  
-- [Standards Game](/strategies/markets/standards-game) - industrial policy often promotes standards to secure advantage.
+- [Lobbying](/strategies/user-perception/lobbying) - 政策形成へ働きかける主要手段
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 政府支援が市場そのものを立ち上げることがある
+- [Standards Game](/strategies/markets/standards-game) - 標準化政策が優位形成に直結する
 
 ## ⛅ **関連する状勢パターン**
 
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: government investment channels funds toward targeted sectors.
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: policy support often intensifies during war or wonder phases.
+- [新しい価値領域へ資本が流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 政府資金が狙った分野へ資本を集める
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 戦時や大きな社会転換期に政策支援が強まりやすい
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.  
-- Case Study: *The Rise of Airbus* – European government consortiums and subsidies.  
-- InfoQ Interview: *Wardley on Industrial Policy in China’s Tech Landscape*.  
+- Simon Wardley, *On Industrial Policy and Strategic Climatic Patterns*
+- *The Rise of Airbus* - 欧州の政府連携と補助による航空産業形成の事例
+- *Wardley on Industrial Policy in China's Tech Landscape* - 中国テック分野における産業政策の解説
