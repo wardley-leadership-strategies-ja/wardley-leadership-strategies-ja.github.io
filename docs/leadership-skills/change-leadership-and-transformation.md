@@ -16,11 +16,6 @@ It keeps momentum while reducing fatigue and resistance.
 - Equip leaders to model the new behaviours early.
 - Plan for capability gaps and transition support.
 
-## 📰 **Related blog posts**
-
-- [Age of Diffused Agency](/blog/ai-and-leadership/age-of-diffused-agency) — Explores why leadership must adapt to distributed execution.
-- [Autonomy Gradient Maps](/blog/ai-and-leadership/autonomy-gradient-maps) — Maps how to redesign decision rights during transformation.
-
 ## 📚 **Related books**
 
 - [Leading Change](/books/leading-change)

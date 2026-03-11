@@ -1,58 +1,58 @@
-# Wardley Strategy Self-Assessment Tool
+# Wardley 戦略セルフ評価ツール
 
-## What is this?
+## これは何か
 
-The *Strategy Self-Assessment* is an interactive tool designed to help leaders evaluate the applicability and execution readiness of a specific strategy within their own context.
+*戦略セルフ評価* は、特定の戦略が自分たちの文脈に適しているか、実行準備が整っているかをリーダーが評価するためのインタラクティブなツールです。
 
 :::info
 
-The tool is specific to each strategy. To use the tool, find a strategy first and scroll down to the *Self-Assessment* section. The tool will be pre-filled with relevant statements for that strategy.
+このツールは戦略ごとに内容が異なります。使うには、まず戦略ページを開き、*セルフ評価* セクションまでスクロールしてください。その戦略に対応した評価項目が自動で入ります。
 
 :::
 
-It presents a guided checklist of conditions grouped into two categories:
+チェック項目は次の 2 つのカテゴリに分かれています。
 
-- **Map Signals**: Signs within your value chain and competitive environment that suggest the strategy is a good fit.
-- **Readiness**: Capability and doctrinal readiness to act effectively, based on the foundational principles of good practice but tailored to the specific strategy.
+- **マップシグナル**: その戦略が適していそうな、バリューチェーンや競争環境上の兆候
+- **準備度**: その戦略を実行するための能力面・指針面での準備状況
 
 <AssessmentToolAdvert strategyName="Demo" />
 
-## What is it for?
+## 何に使うか
 
-This tool supports decision-making by making implicit assumptions explicit. Rather than offering abstract criteria, it invites quick structured reflection using signals from both the external landscape and internal maturity.
+このツールは、暗黙の前提を可視化することで意思決定を支援します。抽象的な評価基準を示すのではなく、外部環境のシグナルと内部の成熟度をもとに、短時間で構造的に振り返ることを促します。
 
-It helps with:
+主に次の用途があります。
 
-- Gaining strategic clarity before taking action
-- Encouraging dialogue and alignment among stakeholders
-- Supporting better judgment under uncertainty
+- 行動前に戦略の見通しを明確にする
+- ステークホルダー間の対話と認識合わせを促す
+- 不確実性の中での判断を支える
 
-## How to Use It
+## 使い方
 
-1. Review each statement under **Map Signals** and **Readiness**.
-2. Click on each item to indicate its relevance to your situation:
-   - **Green**: This is true in your context.
-   - **Amber**: This is partially true or uncertain.
-   - **Red**: This does not apply or is false.
-3. The tool will score each group and give an overall summary, working out a potential way forward.
+1. **マップシグナル** と **準備度** の各項目を確認します。
+2. それぞれについて、自分たちの状況にどれだけ当てはまるかをクリックして示します。
+   - **緑**: 当てはまる
+   - **黄**: 部分的に当てはまる、または不確実
+   - **赤**: 当てはまらない
+3. ツールが各グループを採点し、全体サマリーと次に取りうる方向性を示します。
 
-Each assessment is private and non-persistent—designed for reflection, not reporting.
+各評価は個人利用を想定しており、報告用ではなく、内省のための軽量ツールです。
 
-## Why this format?
+## なぜこの形式か
 
-Wardley Mapping emphasises situational awareness and contextual strategy. This component reflects that by offering a fast, frictionless way to assess fit and feasibility—without prescribing answers or requiring exhaustive analysis.
+Wardley Mapping は状況認識と文脈依存の戦略を重視します。このコンポーネントは、その考え方に沿って、答えを押しつけず、大がかりな分析も要求しない形で、適合度と実行可能性をすばやく確認できるようにしています。
 
-It’s not a substitute for deep expertise, mapping, or leadership judgment. But it offers a useful first-pass lens to guide further discussion or validate an intuitive sense of direction.
+もちろん、深い専門知識、マッピング、リーダーとしての判断そのものを置き換えるものではありません。ただし、次の議論を始めたり、直感的な方向感覚を検証したりする最初のレンズとしては有効です。
 
-## Demo
+## デモ
 
 <Assessment strategyName="Demo">
   <MapSignals>
-    <li>Our map shows a critical components in an early stage of evolution.</li>
-    <li>We control a critical bottleneck or dependency in the value chain.</li>
+    <li>私たちのマップでは、重要なコンポーネントが進化の初期段階にある。</li>
+    <li>バリューチェーン上の重要なボトルネックまたは依存関係を押さえている。</li>
   </MapSignals>
   <Readiness>
-    <li>We're good at managing inertia.</li>
-    <li>We have a bias towards new.</li>
+    <li>慣性を扱うのが得意である。</li>
+    <li>新しいものへ向かうバイアスを持っている。</li>
   </Readiness>
 </Assessment>

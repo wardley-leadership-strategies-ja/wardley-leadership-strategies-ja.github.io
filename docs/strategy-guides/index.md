@@ -1,6 +1,6 @@
-# Strategy Guides
+# 戦略ガイド
 
-Practical, narrative walkthroughs that teach how to combine Wardley Mapping strategies in context. Each guide is a structured learning path you can apply directly to your own landscape.
+Wardley Mapping の戦略を文脈に応じてどう組み合わせるかを学ぶための実践ガイドです。各ガイドは、自分たちの状況にそのまま当てはめやすい構造化された学習ルートになっています。
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

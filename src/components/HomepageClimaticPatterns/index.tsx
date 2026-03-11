@@ -10,20 +10,20 @@ export default function HomepageClimaticPatterns(): ReactNode {
         <div className={clsx(styles.miniHero, 'margin-vert--lg')}>
           <div className="container">
             <h2 className={styles.miniHero__title}>
-              <Link to="/climatic-patterns">Climatic Patterns</Link>
+              <Link to="/climatic-patterns">気候パターン</Link>
             </h2>
             <p className={styles.miniHero__subtitle}>
-              Understand the forces shaping markets over time and anticipate change.
+              時間をかけて市場を形づくる力学を理解し、変化を先読みします。
             </p>
             <div>
-              <h3>Browse categories</h3>
+              <h3>カテゴリから探す</h3>
               <p className={styles.categoryLinks}>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#components">Components</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#competitors">Competitors</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#financial">Financial</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#inertia">Inertia</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#prediction">Prediction</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#speed">Speed</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#components">コンポーネント</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#competitors">競合</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#financial">金融</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#inertia">慣性</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#prediction">予測</a>
+                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#speed">速度</a>
               </p>
             </div>
           </div>

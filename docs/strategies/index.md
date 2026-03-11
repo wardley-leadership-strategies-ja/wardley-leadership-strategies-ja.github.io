@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Strategies & Gameplays
+# 戦略とゲームプレイ
 
 :::tip
 
-Browse the stragies by category using the site menu, or use the site search or browse by [tags](/tags).
+サイトメニューのカテゴリ、サイト内検索、または [タグ](/tags) から戦略を探せます。
 
 :::
 
-## All Strategies & Gameplays A-Z
+## 戦略一覧 A-Z
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

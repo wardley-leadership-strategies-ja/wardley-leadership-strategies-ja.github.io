@@ -3,6 +3,7 @@
   "extends": "@docusaurus/tsconfig",
   "compilerOptions": {
     "baseUrl": ".",
+    "noEmit": true,
     "types": ["node", "jest", "@testing-library/jest-dom"],
     "typeRoots": ["./node_modules/@types"]
   },

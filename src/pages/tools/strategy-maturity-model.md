@@ -1,98 +1,98 @@
 ---
-title: Strategy Maturity Model
-description: Understand how organisations progress from ad hoc Wardley Mapping plays to doctrine-led mastery.
+title: 戦略成熟度モデル
+description: 組織が場当たり的な Wardley Mapping 実践から、指針に支えられた熟達へどう進むかを整理します。
 ---
 
-# Strategy Maturity Model
+# 戦略成熟度モデル
 
-Wardley Mapping surfaces where to play; the maturity of your organisation determines **how** you can execute. This model outlines the journey from opportunistic tactics to disciplined, doctrine-backed strategy execution. Use it alongside the [Strategy Self-Assessment Tool](/about/assessment-tool) and [Doctrine principles](/doctrines) to understand when a gameplay is viable, what capabilities are missing, and how to deliberately grow them.
+Wardley Mapping は「どこで戦うべきか」を示しますが、組織の成熟度は「どう実行できるか」を決めます。このモデルは、日和見的な戦術から、指針に支えられた規律ある戦略実行へ向かう道筋を整理したものです。[戦略セルフ評価ツール](/about/assessment-tool) や [指針](/doctrines) とあわせて使うことで、どのゲームプレイが実行可能か、何が欠けているか、どこを意図的に育てるべきかを見極めやすくなります。
 
-## Progression at a Glance
+## 段階の全体像
 
-| Level | Strategic posture | Implementation focus | Mapping & measurement | Coordination |
+| レベル | 戦略姿勢 | 実装の焦点 | マッピングと計測 | 協調 |
 | --- | --- | --- | --- | --- |
-| **Level 1 — Initial / Ad Hoc** | Firefighting and opportunistic wins; decisions made by instinct. | Tactical heroics; little linkage to a wider strategy. | Maps, if they exist, are static pictures; success is anecdotal. | Individual teams act independently with minimal shared language. |
-| **Level 2 — Repeatable** | Recognises recurring patterns and tries to capture them. | Establishes playbooks for similar contexts. | Starts to reuse simple mapping heuristics; tracks a few input metrics. | Communities of practice form; early attempts to share Doctrine vocabulary. |
-| **Level 3 — Defined** | Proactive planning aligned to a clear portfolio of plays. | Strategies are documented and socialised with explicit guardrails. | Mapping and measurement rituals are embedded in cadences. | Cross-functional groups coordinate around shared objectives and doctrine. |
-| **Level 4 — Managed** | Anticipatory; intentionally shapes the landscape. | Orchestrates multiple plays as programmes with feedback loops. | Measures value and flow; dashboards combine map evolution with outcomes. | Enterprise-wide alignment with lightweight governance and shared tooling. |
-| **Level 5 — Optimising** | Continuously experiments to improve strategic advantage. | Doctrine-driven and adaptive; treats strategies as an evolving portfolio. | Real-time mapping integrated with data; learns systematically from experiments. | Seamless collaboration across ecosystems; partners share language and metrics. |
+| **レベル 1 — 初期 / アドホック** | 火消し中心で、勘に頼って意思決定する。 | 戦術的な頑張りに依存し、全体戦略とのつながりが弱い。 | マップがあっても静止画に近く、成功評価は逸話的。 | 各チームが独立して動き、共通言語はほぼない。 |
+| **レベル 2 — 反復可能** | 繰り返し現れるパターンを認識し、再利用しようとする。 | 似た文脈向けのプレイブックを整え始める。 | 単純なマッピングの型を再利用し、入力指標を少し追い始める。 | 実践コミュニティが生まれ、指針語彙の共有が始まる。 |
+| **レベル 3 — 定義済み** | 明確な戦略ポートフォリオに沿って先回りで計画する。 | 戦略が文書化され、明示的なガードレールとともに共有される。 | マッピングと計測が定常リズムに組み込まれる。 | 職能横断のグループが共通目標と指針のもとで連携する。 |
+| **レベル 4 — 管理済み** | 先読みしながら環境そのものを意図的に形づくる。 | 複数のプレイを、フィードバックループ付きのプログラムとして運営する。 | 価値とフローを測り、マップ変化と成果をダッシュボードで結びつける。 | 軽量なガバナンスと共有ツールのもとで全社連携する。 |
+| **レベル 5 — 最適化** | 継続的な実験で戦略優位を磨き続ける。 | 指針主導で適応的に動き、戦略を進化するポートフォリオとして扱う。 | リアルタイムのマッピングとデータを統合し、実験から体系的に学ぶ。 | エコシステム全体で滑らかに連携し、パートナーとも言語と指標を共有する。 |
 
-## Five Levels of Maturity
+## 5 段階の成熟度
 
-### Level 1 — Initial / Ad Hoc
+### レベル 1 — 初期 / アドホック
 
-This is survival mode. Strategies arise as reactions to crises or executive directives, not from explicit landscape understanding.
+これは生存モードです。戦略は環境理解からではなく、危機対応やトップの指示から生まれます。
 
-- **Posture:** Highly reactive; leaders rely on intuition and past experience.
-- **Implementation focus:** Tactical firefighting with short-lived initiatives.
-- **Mapping & measurement:** Maps are rare, quickly outdated, or treated as artefacts; measurement focuses on activity completion.
-- **Coordination:** Teams optimise locally, leading to duplicated effort and conflicting priorities.
-- **Doctrine emphasis:** Introduce foundational practices such as a shared vocabulary and clarity of purpose before deeper doctrine sticks.
+- **姿勢:** 非常に反応的で、リーダーは直感や過去経験に頼る。
+- **実装の焦点:** 短命な施策による火消しが中心。
+- **マッピングと計測:** マップは稀で、すぐ古くなり、成果物扱いされがち。計測は作業完了中心。
+- **協調:** チームは局所最適に走り、重複や優先順位の衝突が起きる。
+- **指針の焦点:** 深い実践に入る前に、共通語彙や目的の明確化といった基礎を入れる。
 
-### Level 2 — Repeatable
+### レベル 2 — 反復可能
 
-Patterns emerge and teams begin capturing what works. There is still variability, but some plays become the default response.
+パターンが見え始め、チームはうまくいった方法を再利用し始めます。ばらつきは残るものの、定番のプレイが生まれます。
 
-- **Posture:** Moves from purely reactive to situational awareness when familiar triggers appear.
-- **Implementation focus:** Tactical playbooks emerge around known contexts; experimentation is still limited.
-- **Mapping & measurement:** Simple templates help teams refresh maps; leading indicators (e.g. cycle time, adoption) appear.
-- **Coordination:** Informal communities exchange lessons, seeding cross-team alignment.
-- **Doctrine emphasis:** Embrace basic [Use a common language](/doctrines/use-a-common-language) patterns and promote challenging of assumptions.
+- **姿勢:** 既知のトリガーが現れたときに、純粋な受け身から状況認識へ一歩進む。
+- **実装の焦点:** 既知の文脈向けプレイブックが現れるが、実験はまだ限定的。
+- **マッピングと計測:** 簡単なテンプレートでマップを更新し、リード指標（サイクルタイム、採用率など）を追い始める。
+- **協調:** 非公式コミュニティが学びを交換し、横断的な足並みが生まれ始める。
+- **指針の焦点:** [共通言語を使う](/doctrines/use-a-common-language) など基礎を取り入れ、前提を疑う習慣を促す。
 
-### Level 3 — Defined
+### レベル 3 — 定義済み
 
-Strategy formulation is now intentional. Leadership frames plays around explicit user needs and competitive positioning.
+戦略立案が意図的になります。リーダーは、明示的なユーザー価値と競争ポジションに基づいてプレイを組み立てます。
 
-- **Posture:** Proactive; plans consider multiple scenarios instead of a single heroic bet.
-- **Implementation focus:** Initiatives align to a documented strategy map, with guardrails on scope and expected outcomes.
-- **Mapping & measurement:** Mapping cadences are regular; teams connect map evolution to measurable value and flow metrics.
-- **Coordination:** Cross-functional squads and governance forums coordinate dependencies and sequencing.
-- **Doctrine emphasis:** Doctrine guidance on communication, situational awareness, and challenge becomes institutionalised.
+- **姿勢:** 先手型。ひとつの大勝負ではなく複数シナリオを前提に計画する。
+- **実装の焦点:** 施策は文書化された戦略マップに沿い、範囲と期待成果のガードレールを持つ。
+- **マッピングと計測:** 定期的にマッピングし、進化を価値やフローの指標と結びつける。
+- **協調:** 職能横断チームやガバナンスの場が依存関係と順序を調整する。
+- **指針の焦点:** コミュニケーション、状況認識、異議申し立てに関する指針が制度化される。
 
-### Level 4 — Managed
+### レベル 4 — 管理済み
 
-The organisation orchestrates multiple strategies simultaneously and deliberately reshapes parts of the ecosystem.
+組織は複数の戦略を同時に運営し、エコシステムの一部を意図的に作り変えます。
 
-- **Posture:** Anticipatory; leaders look for leverage to influence market evolution, not just respond.
-- **Implementation focus:** Strategies operate as managed programmes with explicit feedback loops and kill criteria.
-- **Mapping & measurement:** Quantitative dashboards combine map maturity, risk signals, and outcome metrics to guide investment.
-- **Coordination:** Company-wide rhythm integrates product, operations, and enabling teams; doctrine informs decision rights.
-- **Doctrine emphasis:** Advanced doctrine such as bias towards action, optimise flow, and design for constant evolution is actively coached.
+- **姿勢:** 先読み型。市場の進化に影響を与えるレバレッジを探す。
+- **実装の焦点:** 戦略は明確なフィードバックループと撤退基準を持つプログラムとして運営される。
+- **マッピングと計測:** マップ成熟度、リスクシグナル、成果指標を組み合わせた定量ダッシュボードで投資判断する。
+- **協調:** プロダクト、オペレーション、支援組織が全社リズムで統合され、意思決定権にも指針が反映される。
+- **指針の焦点:** 行動バイアス、フロー最適化、継続進化の設計といった高度な指針を能動的に育てる。
 
-### Level 5 — Optimising
+### レベル 5 — 最適化
 
-Strategy execution is a learning system. Doctrine and data create a virtuous cycle of insight, experimentation, and advantage.
+戦略実行そのものが学習システムになります。指針とデータが、洞察、実験、優位性の好循環を生みます。
 
-- **Posture:** Fully proactive; the organisation constantly probes, learns, and refines its portfolio of plays.
-- **Implementation focus:** Strategies are modular and recombined rapidly based on signals from maps and experiments.
-- **Mapping & measurement:** Live mapping integrates telemetry, market sensing, and financials; experiments feed back automatically.
-- **Coordination:** Coordination extends across partners, suppliers, and ecosystems with shared strategy cadences.
-- **Doctrine emphasis:** Continuous improvement doctrine is pervasive; leaders cultivate autonomy with alignment and remove inertia deliberately.
+- **姿勢:** 完全に先手型。組織は常に探索し、学び、プレイのポートフォリオを磨き続ける。
+- **実装の焦点:** 戦略はモジュール化され、マップや実験のシグナルに応じて素早く組み替えられる。
+- **マッピングと計測:** ライブマッピングがテレメトリ、市場観測、財務データと統合され、実験結果が自動で戻る。
+- **協調:** 連携はパートナー、サプライヤー、エコシステム全体に広がり、戦略のリズムを共有する。
+- **指針の焦点:** 継続改善の指針が浸透し、リーダーは整合性を保ちながら自律性を育て、慣性を意図的に取り除く。
 
 ```mermaid
 timeline
-    title Strategy Maturity Progression
-    Initial / Ad Hoc : Reactive firefighting, isolated tactics, mapless decisions
-    Repeatable : Emerging playbooks, selective mapping, forming communities of practice
-    Defined : Proactive planning, documented plays, regular mapping cadences
-    Managed : Orchestrated programmes, integrated metrics, enterprise alignment
-    Optimising : Doctrine-led experimentation, live maps, ecosystem coordination
+    title 戦略成熟度の進行
+    Initial / Ad Hoc : 反応的な火消し、孤立した戦術、地図なき判断
+    Repeatable : プレイブックが生まれ、限定的なマッピングと実践コミュニティが形成される
+    Defined : 先回りの計画、文書化されたプレイ、定期的なマッピング
+    Managed : オーケストレーションされた施策群、統合指標、全社整合
+    Optimising : 指針主導の実験、ライブマップ、エコシステム連携
 ```
 
-## Applying the Model
+## このモデルの使い方
 
-1. **Diagnose your current level.** Use recent strategic initiatives to identify which row of the table resonates. Look for evidence in how decisions were made, not how you wish they were made.
-2. **Spot the next constraint.** For each dimension—posture, implementation, mapping, coordination—note the smallest practice that would unlock the next level.
-3. **Pair with assessments.** When exploring a specific gameplay, use the [Strategy Self-Assessment Tool](/about/assessment-tool) to test whether the required map signals and readiness practices are in place. The maturity level highlights *why* certain statements are difficult to satisfy.
-4. **Anchor in doctrine.** Revisit relevant [Doctrine principles](/doctrines) to reinforce behaviours that sustain the new maturity level.
-5. **Review quarterly.** Treat maturity as a dynamic capability; adjust as teams, leadership, and the competitive landscape evolve.
+1. **現在地を診断する。** 最近の戦略施策を振り返り、どの行が実態に近いかを見る。理想ではなく、実際の意思決定のされ方に注目する。
+2. **次の制約を見つける。** 姿勢、実装、マッピング、協調の各観点で、次の段階を開く最小の実践を特定する。
+3. **評価ツールと組み合わせる。** 特定のゲームプレイを検討するときは、[戦略セルフ評価ツール](/about/assessment-tool) を使って、必要なマップシグナルと準備度が揃っているかを確認する。
+4. **指針に結びつける。** 関連する [指針](/doctrines) を見直し、新しい成熟段階を支える行動を強化する。
+5. **四半期ごとに見直す。** 成熟度は固定値ではなく動的な能力として扱い、チーム、リーダーシップ、市場環境の変化に合わせて更新する。
 
-## Simplified Three-Stage View
+## 簡略版の 3 段階モデル
 
-When communicating with stakeholders who prefer fewer categories, collapse the model into:
+より少ない分類を好むステークホルダー向けには、次の 3 段階にまとめられます。
 
-- **Awareness:** Combines Levels 1–2. The organisation recognises Wardley Mapping concepts and begins to reuse practices, but discipline is inconsistent.
-- **Application:** Corresponds to Levels 3–4. Strategy plays are deliberate, measured, and coordinated across teams.
-- **Mastery:** Mirrors Level 5. Doctrine, mapping, and measurement form an adaptive system that continually improves strategic advantage.
+- **Awareness:** レベル 1〜2。Wardley Mapping の概念を理解し始め、実践を再利用するが、まだ一貫性は弱い。
+- **Application:** レベル 3〜4。戦略プレイが意図的に運用され、計測され、チーム横断で調整される。
+- **Mastery:** レベル 5。指針、マッピング、計測が適応システムとして統合され、戦略優位を継続改善する。
 
-Use the simplified view for executive storytelling, then return to the five-level model to plan concrete improvements.
+経営層向けにはこの簡略版を使い、具体的な改善計画を立てる段階で 5 段階モデルへ戻るのが有効です。

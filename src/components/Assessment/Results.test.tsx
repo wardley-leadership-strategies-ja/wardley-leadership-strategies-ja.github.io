@@ -21,6 +21,8 @@ describe('Results Component', () => {
     testCases.forEach(({ mapScore, readinessScore, expectedTextKey }) => {
       const mapLevel = getLevelFromScore(mapScore);
       const readinessLevel = getLevelFromScore(readinessScore);
+      const mapLevelLabel = mapLevel === 'Strong' ? '強い' : '弱い';
+      const readinessLevelLabel = readinessLevel === 'Strong' ? '強い' : '弱い';
       const expectedSummary = summaryText(mapLevel, readinessLevel);
       const testTitle = `renders correct summary for mapScore ${mapScore} (${mapLevel}) and readinessScore ${readinessScore} (${readinessLevel})`;
 
@@ -28,8 +30,8 @@ describe('Results Component', () => {
         render(<Results mapScore={mapScore} readinessScore={readinessScore} />);
 
         // Check for level display
-        expect(screen.getByText(`Strategic Fit:`, { exact: false })).toHaveTextContent(`Strategic Fit: ${mapLevel}`);
-        expect(screen.getByText(`Ability to Execute:`, { exact: false })).toHaveTextContent(`Ability to Execute: ${readinessLevel}`);
+        expect(screen.getByText(`戦略適合度:`, { exact: false })).toHaveTextContent(`戦略適合度: ${mapLevelLabel}`);
+        expect(screen.getByText(`実行力:`, { exact: false })).toHaveTextContent(`実行力: ${readinessLevelLabel}`);
 
         // Check for summary text within the admonition block
         const admonitionElement = screen.getByTestId('results-summary-alert');

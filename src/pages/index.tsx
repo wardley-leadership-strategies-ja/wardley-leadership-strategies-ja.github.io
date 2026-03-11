@@ -7,7 +7,6 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import FeaturedStrategies from '@site/src/components/FeaturedStrategies';
 import HomepageClimaticPatterns from '@site/src/components/HomepageClimaticPatterns';
 import HomepageLeadershipSkills from '@site/src/components/HomepageLeadershipSkills';
-import HomepageLatestBlogPosts from '@site/src/components/HomepageLatestBlogPosts';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -25,17 +24,17 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="/strategies">
-            Explore Strategies
+            戦略を探す
           </Link>
           <Link
             className={clsx('button button--secondary button--lg', styles.navigatorButton)}
             to="/strategy-navigator">
-            Strategy Navigator
+            戦略ナビゲーター
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/about">
-            Learn More
+            このサイトについて
           </Link>
         </div>
       </div>
@@ -48,14 +47,13 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The Compendium of Wardley Mapping Leadership Gameplays and Strategies">
+      description="Wardley Mapping の戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
         <FeaturedStrategies />
         <HomepageClimaticPatterns />
         <HomepageLeadershipSkills />
-        <HomepageLatestBlogPosts />
       </main>
     </Layout>
   );

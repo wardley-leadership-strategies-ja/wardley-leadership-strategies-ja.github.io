@@ -1,10 +1,9 @@
 ---
-title: "Use a common language"
-stage: "Stop Self-Destructive Behavior"
-category: "Communication"
+title: "共通言語を使う"
+stage: "自滅的な行動を止める"
+category: "コミュニケーション"
 ---
 
+ウォードリーマッピングの文脈で `共通言語を使う` とは、主に地図を通じて、戦略を記述し議論するための共有され、曖昧さのない方法を確立することです。組織の全員が Wardley Map を作成し、読み取り、解釈できるようになると、曖昧さが減り、戦略上の状況、提案された変化、潜在的な課題について効果的に対話できるようになります。
 
-Using a "common language" in the context of Wardley Mapping means establishing a shared, unambiguous way of describing and discussing strategy, primarily through the use of maps. When everyone in an organization is trained to create, read, and interpret Wardley Maps, it removes ambiguity and enables effective communication about the strategic landscape, proposed changes, and potential challenges.
-
-This shared understanding is crucial because it allows for more effective collaboration and faster, more informed decision-making. Without a common language like Wardley Mapping, discussions about strategy can become muddled by differing assumptions, terminology, and mental models. Maps provide a visual and structured format that ensures everyone is looking at the same picture, facilitating clearer dialogue and a more cohesive strategic execution.
+この共有理解は極めて重要です。なぜなら、より効果的な協働と、より速く情報に基づいた意思決定を可能にするからです。ウォードリーマッピングのような共通言語がなければ、戦略の議論は異なる前提、用語、メンタルモデルによって混乱しがちです。地図は、全員が同じ景色を見ていることを保証する視覚的で構造化された形式を提供し、対話を明確にし、より一貫した戦略実行を支えます。

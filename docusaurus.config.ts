@@ -8,7 +8,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Wardley Leadership Strategies',
-  tagline: 'The Compendium of Wardley Mapping Leadership Gameplays and Strategies',
+  tagline: 'Wardley Mapping の戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド',
   favicon: 'img/knight-cropped.jpg',
 
   future: {
@@ -24,7 +24,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://www.wardleyleadershipstrategies.com',
+  url: process.env.SITE_URL || 'https://example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -40,8 +40,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'ja',
+    locales: ['ja'],
   },
 
   headTags: [
@@ -89,20 +89,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/dave1010/wardley-leadership-strategies/tree/main/',
         },
-        blog: {
-          routeBasePath: 'blog',
-          blogTitle: 'AI & Leadership',
-          blogDescription:
-            'Analysis of how AI reshapes leadership practice, doctrine, and Wardley Mapping strategy.',
-          showReadingTime: true,
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'AI & Leadership',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -121,71 +109,67 @@ const config: Config = {
       },
       items: [
         {
-          label: 'Strategies',
+          label: '戦略一覧',
           to: '/strategies',
         },
         {
           type: 'dropdown',
-          label: 'Knowledge Base',
+          label: 'ナレッジベース',
           items: [
             {
-              label: 'Doctrines',
+              label: '指針',
               to: '/doctrines',
             },
             {
-              label: 'Strategy Guides',
+              label: '戦略ガイド',
               to: '/strategy-guides',
             },
             {
-              label: 'Leadership Skills',
+              label: 'リーダーシップスキル',
               to: '/leadership-skills',
             },
             {
-              label: 'Climatic Patterns',
+              label: '気候パターン',
               to: '/climatic-patterns',
             },
             {
-              label: 'Terms',
+              label: '用語集',
               to: '/terms',
             },
             {
-              label: 'AI & Leadership',
-              to: '/blog',
-            },
-            {
-              label: 'Books',
+              label: '参考書籍',
               to: '/books',
             },
           ],
         },
         {
           type: 'dropdown',
-          label: 'Tools',
+          label: 'ツール',
           items: [
             {
-              label: 'Strategy Navigator',
+              label: '戦略ナビゲーター',
               to: '/strategy-navigator',
             },
             {
-              label: 'Strategy Pulse Check',
+              label: '戦略パルスチェック',
               to: '/tools/strategy-pulse-check',
             },
             {
-              label: 'Assessment Tool',
+              label: '評価ツール',
               to: '/about/assessment-tool',
             },
             {
-              label: 'My Assessments',
+              label: '保存した評価',
               to: '/my-progress',
             },
             {
-              label: 'Strategy Maturity Model',
+              label: '戦略成熟度モデル',
               to: '/tools/strategy-maturity-model',
             },
           ],
         },
         {
-          label: 'About',
+          label: 'このサイトについて',
           to: '/about',
         },
       ],
@@ -197,78 +181,74 @@ const config: Config = {
           title: 'Wardley Leadership Strategies',
           items: [
             {
-              label: 'About',
+              label: 'このサイトについて',
               to: '/about',
             },
             {
-              label: 'Strategies',
+              label: '戦略一覧',
               to: '/strategies',
             },
             {
-              label: 'Doctrines',
+              label: '指針',
               to: '/doctrines',
             },
             {
-              label: 'Climatic Patterns',
+              label: '気候パターン',
               to: '/climatic-patterns',
             },
           ],
         },
         {
-          title: 'Knowledge Base',
+          title: 'ナレッジベース',
           items: [
             {
-              label: 'Strategy Guides',
+              label: '戦略ガイド',
               to: '/strategy-guides',
             },
             {
-              label: 'Leadership Skills',
+              label: 'リーダーシップスキル',
               to: '/leadership-skills',
             },
             {
-              label: 'Terms',
+              label: '用語集',
               to: '/terms',
             },
             {
-              label: 'AI & Leadership',
-              to: '/blog',
-            },
-            {
-              label: 'Books',
+              label: '参考書籍',
               to: '/books',
             },
             {
-              label: 'Tags',
+              label: 'タグ',
               to: '/tags',
             },
           ],
         },
         {
-          title: 'Tools & Community',
+          title: 'ツールとコミュニティ',
           items: [
             {
-              label: 'Strategy Navigator',
+              label: '戦略ナビゲーター',
               to: '/strategy-navigator',
             },
             {
-              label: 'Strategy Pulse Check',
+              label: '戦略パルスチェック',
               to: '/tools/strategy-pulse-check',
             },
             {
-              label: 'My Assessments',
+              label: '保存した評価',
               to: '/my-progress',
             },
             {
-              label: 'GitHub',
+              label: 'GitHub（原典ソース）',
               href: 'https://github.com/dave1010/wardley-leadership-strategies',
             },
           ],
         },
         {
-          title: 'Wardley Mapping Resources',
+          title: 'Wardley Mapping 参考リンク',
           items: [
             {
-              label: 'Simon Wardley\'s Blog',
+              label: 'Simon Wardley のブログ',
               href: 'https://blog.gardeviance.org/',
             },
             {
@@ -282,14 +262,14 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'その他',
           items: [
             {
-              label: 'Privacy Policy',
+              label: 'プライバシーポリシー',
               to: '/privacy-policy',
             },
             {
-              label: 'Home',
+              label: 'ホーム',
               to: '/',
             },
           ],
@@ -297,11 +277,12 @@ const config: Config = {
       ],
       copyright: `
         <p>
-          Wardley Leadership Strategies is Copyright © ${new Date().getFullYear()} <a href="https://dave.engineer">Dave Hulbert</a>
-          and licenced <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+          このサイトは <a href="https://www.wardleyleadershipstrategies.com">Wardley Leadership Strategies</a> をもとにした日本語翻訳・改変版です。
+          原作の著作権は © ${new Date().getFullYear()} <a href="https://dave.engineer">Dave Hulbert</a> に帰属し、
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> で公開されています。
           <br />
-          Wardley Mapping is provided courtesy of Simon Wardley and is also licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-          Simon Wardley is not associated with this website.
+          この日本語版も <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> で提供します。
+          Wardley Mapping は Simon Wardley によるものであり、Simon Wardley はこの日本語版サイトに関与していません。
         </p>
         `,
     },

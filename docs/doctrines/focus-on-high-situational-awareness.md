@@ -1,35 +1,35 @@
 ---
-title: "Focus on high situational awareness"
-stage: "Stop Self-Destructive Behavior"
-category: "Strategy"
+title: "状況認識を重視する"
+stage: "自滅的な行動を止める"
+category: "戦略"
 ---
 
-Wardley stresses that without situational awareness, every other doctrine degrades into theatre. "Focus on high situational awareness" means grounding strategy in live maps that show user needs, the value chain, and how components are evolving. Only by understanding what is really being considered can leaders choose appropriate methods, challenge assumptions, and respond before the landscape shifts.
+Wardley は、状況認識がなければ他のあらゆる指針が単なる見せかけに堕すると強調します。`状況認識を重視する` とは、ユーザーニーズ、バリューチェーン、各コンポーネントの進化を示す生きた地図に戦略を根ざすことです。何が実際に検討されているのかを理解してはじめて、リーダーは適切な手法を選び、前提を疑い、状況が変わる前に対応できます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Awareness anchors every decision.** Maps provide the shared context that stops teams from optimising the wrong part of the system.
-- **Transparency exposes duplication.** Seeing the whole chain makes redundant projects, custom builds, and vendor lock-in impossible to ignore.
-- **Movement becomes predictable.** Tracking evolution helps leaders anticipate commoditisation, manage inertia, and time investments.
+- **認識があらゆる意思決定の土台になる。** 地図は共有された文脈を与え、チームがシステムの誤った部分を最適化するのを防ぎます。
+- **透明性が重複をあぶり出す。** チェーン全体が見えることで、冗長なプロジェクト、カスタムビルド、ベンダーロックインを見過ごせなくなります。
+- **動きが予測しやすくなる。** 進化を追うことで、リーダーはコモディティ化を見越し、慣性を管理し、投資のタイミングを図れます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Start meetings with the map.** Make the current landscape the first artefact reviewed so discussions stay attached to reality.
-2. **Document evidence for positions.** Annotate components with user research, spend data, and technical maturity so the map reflects more than opinion.
-3. **Refresh maps continuously.** Update them when signals change—new regulation, supply shocks, or user feedback—so they remain a living guide.
-4. **Compare multiple perspectives.** Invite teams and partners to map the same space and look for mismatches that indicate blind spots.
+1. **会議は地図から始める。** 現在の状況を最初に確認する成果物を地図にし、議論を現実に結びつけます。
+2. **配置の根拠となる証拠を記録する。** ユーザー調査、支出データ、技術成熟度をコンポーネントに注記し、地図が意見だけを反映するものにならないようにします。
+3. **地図を継続的に更新する。** 新たな規制、供給ショック、ユーザーフィードバックなどシグナルが変わったら更新し、生きた指針として保ちます。
+4. **複数の視点を比較する。** チームやパートナーに同じ領域を地図化してもらい、盲点を示す食い違いを探します。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating the map as a static deliverable produced once per project.
-- Allowing components to sit on the board without clear user needs or evidence backing their placement.
-- Discussing strategy solely through slideware or financial forecasts with no connection to the actual landscape.
+- 地図をプロジェクトごとに一度だけ作る静的な成果物として扱うこと。
+- 明確なユーザーニーズや配置根拠の証拠がないまま、コンポーネントを地図上に置くこと。
+- 実際の状況とつながらないスライドや財務予測だけで戦略を議論すること。
 
-## Questions to ask
+## 問うべきこと
 
-- **What user need anchors this map, and who validated it recently?**
-- **Which parts of the value chain are least understood, and how will we investigate them?**
-- **What evidence shows a component is moving along the evolution curve?**
-- **Where does our map contradict what frontline teams or ecosystems are experiencing?**
+- **この地図を支えるユーザーニーズは何で、直近で誰が検証したか。**
+- **バリューチェーンのどの部分が最も理解できておらず、どう調べるか。**
+- **あるコンポーネントが進化曲線上を動いていることを、どの証拠が示しているか。**
+- **現場のチームやエコシステムが体験していることと、私たちの地図はどこで食い違っているか。**
 
-Situational awareness is the precondition for every other doctrine. When organisations build the habit of mapping before deciding, they stop self-inflicted harm and create the foundation for deliberate, adaptive strategy.
+状況認識は、他のあらゆる指針の前提条件です。意思決定の前に地図を描く習慣を組織が身につけると、自滅的な判断を避け、意図的で適応的な戦略の土台を築けます。

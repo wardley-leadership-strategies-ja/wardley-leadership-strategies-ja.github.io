@@ -1,35 +1,35 @@
 ---
-title: "Move fast"
-stage: "Becoming More Context Aware"
-category: "Delivery"
+title: "高速に動く"
+stage: "文脈認識を高める"
+category: "実行"
 ---
 
-Wardley treats "Move fast" as an antidote to organisational inertia. Once a compelling direction is set, the first 100 days determine whether entrenched habits or vested interests derail change. It echoes the maxim that "an imperfect plan executed today is better than a perfect plan executed tomorrow," so leaders must shorten feedback loops, push decisions to empowered teams, and demonstrate value before resistance can regroup.
+Wardley は `高速に動く` を、組織的慣性への解毒剤として捉えます。説得力のある方向性が定まったあと、最初の 100 日が、根深い習慣や既得権益に変化を潰されるかどうかを決めます。これは「今日実行される不完全な計画は、明日実行される完璧な計画より良い」という格言にも通じます。だからリーダーは、フィードバックループを短くし、権限あるチームへ判断を委ね、抵抗勢力が立て直す前に価値を示さなければなりません。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Speed keeps momentum ahead of inertia.** Visible progress gives reformers credibility and makes it harder for opponents to stall.
-- **Rapid feedback exposes risk early.** Quick experiments reveal flawed assumptions while the cost of course correction is low.
-- **Cadence builds confidence.** Regular delivery of improvements shows stakeholders that the map-driven plan is working.
+- **速度は慣性より先に勢いを作る。** 目に見える前進は改革派の信頼を高め、反対派が停滞させることを難しくします。
+- **速いフィードバックはリスクを早く露出させる。** すばやい実験は、軌道修正コストが低いうちに誤った前提を見つけ出します。
+- **継続的なリズムが信頼を築く。** 定期的な改善提供は、地図に基づく計画が機能していることを利害関係者に示します。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Set time-boxed missions.** Define 6–12 week objectives tied to specific map movements so teams focus on removing the next constraint.
-2. **Form empowered strike teams.** Assemble cross-functional groups with budget authority and clear escalation paths to bypass bureaucracy.
-3. **Instrument decision latency.** Track how long approvals, deployments, and procurements take, then remove bottlenecks aggressively.
-4. **Narrate progress weekly.** Share tangible user-facing wins and map updates so everyone sees the pace and knows where help is needed.
+1. **時間を区切ったミッションを置く。** 次の制約除去に集中できるよう、特定の地図変化に結びついた 6〜12 週間の目標を定義します。
+2. **権限ある打撃チームを組む。** 予算権限と明確なエスカレーション経路を持つクロスファンクショナルなチームを組み、官僚制を迂回します。
+3. **意思決定の遅延を計測する。** 承認、デプロイ、調達にどれだけ時間がかかるか追跡し、ボトルネックを積極的に除去します。
+4. **毎週進捗を語る。** ユーザーに見える勝ちと地図更新を共有し、全員が速度を理解し、どこに支援が要るか分かるようにします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Equating speed with recklessness—ignoring governance, safety, or users in the rush to ship.
-- Launching monolithic programmes that take years to show value, inviting inertia back in.
-- Allowing dependencies or approvals outside the strike team to dictate pace.
+- 出荷を急ぐあまり、ガバナンス、安全性、ユーザーを無視して速度を無謀さと取り違えること。
+- 価値が見えるまで数年かかる巨大プログラムを立ち上げ、慣性を呼び戻すこと。
+- 打撃チームの外にある依存関係や承認に速度を支配させること。
 
-## Questions to ask
+## 問うべきこと
 
-- **What user-visible improvement will we deliver this quarter, and how does it move the map?**
-- **Which decisions are waiting on slow hand-offs, and who can remove that friction?**
-- **Where do we need guardrails so speed does not degrade safety or trust?**
-- **How quickly do we convert new information into course corrections?**
+- **今四半期にどのユーザー可視の改善を届け、それは地図をどう動かすか。**
+- **どの判断が遅い受け渡しを待っており、その摩擦を誰が除去できるか。**
+- **速度が安全性や信頼を損なわないよう、どこにガードレールが必要か。**
+- **新しい情報をどれほど速く軌道修正へ変換できるか。**
 
-Moving fast is not a slogan; it is a management discipline. When leaders combine clear maps with empowered teams and short feedback cycles, speed becomes sustainable rather than chaotic.
+高速に動くことはスローガンではなく、マネジメントの規律です。明確な地図、権限あるチーム、短いフィードバックサイクルを組み合わせると、速度は混乱ではなく持続可能な力になります。

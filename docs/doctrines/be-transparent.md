@@ -1,33 +1,33 @@
 ---
-title: "Be transparent"
-stage: "Becoming More Context Aware"
-category: "Governance"
+title: "透明性を保つ"
+stage: "文脈認識を高める"
+category: "ガバナンス"
 ---
 
-Being transparent in Wardley Mapping means making decisions, maps, spend, and rationale visible to everyone who depends on them. Wardley highlights transparency as a bias toward open practices: publish the pipeline of change, expose trade-offs, and let peers challenge proposals before inertia sets in. Transparency accelerates learning and keeps strategy rooted in reality.
+ウォードリーマッピングにおける透明性とは、意思決定、地図、支出、判断根拠を、それに依存する全員が見える状態にすることです。Wardley は透明性を、オープンに対するバイアスの一部として捉えます。変化のパイプラインを公開し、トレードオフを表に出し、慣性が入り込む前に仲間が提案へ異議を唱えられるようにするのです。透明性は学習を加速し、戦略を現実に根ざしたものに保ちます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Open information invites scrutiny.** When maps, costs, and intent are easy to inspect, duplication and weak arguments surface faster.
-- **Shared context builds trust.** Teams can align on priorities when they see the same data and understand the reasoning behind choices.
-- **Visibility unlocks ecosystem help.** Partners, suppliers, and users can contribute insights or capabilities when they know what is planned.
+- **開かれた情報は精査を招く。** 地図、コスト、意図を点検しやすいと、重複や弱い論拠が早く露わになります。
+- **共有された文脈が信頼をつくる。** 同じデータと判断理由が見えれば、チームは優先順位で足並みを揃えやすくなります。
+- **可視性がエコシステムの助けを引き出す。** 何が計画されているか分かれば、パートナー、サプライヤー、ユーザーが知見や能力を持ち寄れます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Maintain a public pipeline of work.** Keep proposals, maps, spending, and status in a shared place that updates automatically.
-2. **Default to open artefacts.** Publish documentation, standards, and source code by default, restricting access only when legally required.
-3. **Narrate decision rationale.** When approving or rejecting initiatives, record the user need, mapped context, and constraints so future teams can revisit the logic.
-4. **Encourage external challenge.** Invite scrutiny from peer departments, communities, or suppliers and respond visibly to feedback.
+1. **作業パイプラインを公開で維持する。** 提案、地図、支出、進捗を、共有の場所で自動更新されるように保ちます。
+2. **成果物は原則オープンにする。** 文書、標準、ソースコードは既定で公開し、法的に必要な場合だけ制限します。
+3. **判断理由を語れるようにする。** 施策を承認または却下する際は、ユーザーニーズ、地図化された文脈、制約を記録し、後のチームが判断を見直せるようにします。
+4. **外部からの異議を歓迎する。** 他部門、コミュニティ、サプライヤーからの精査を受け入れ、フィードバックへの対応も見える形にします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Sanitising maps before sharing, hiding the uncomfortable parts of the landscape.
-- Treating transparency as a compliance checkbox rather than a tool for learning and accountability.
-- Over-sharing raw data without context, leaving people confused about what matters.
+- 地図を共有前に無難に整え、不都合な状況を隠すこと。
+- 透明性を、学習と説明責任の道具ではなくコンプライアンスのチェック項目として扱うこと。
+- 文脈なしで生データだけを過剰共有し、何が重要か分からなくすること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Who can see our current map, and how quickly do updates reach them?**
-- **What decisions are still made in private that should be visible to the wider system?**
-- **How do we close the loop when someone challenges our plan?**
-- **Where does secrecy protect advantage, and where is it just habit?**
+- **現在の地図を誰が見られ、更新はどれほど早く届くか。**
+- **いまも密室で行われていて、本来は広いシステムから見えるべき意思決定は何か。**
+- **誰かが計画に異議を唱えたとき、どうやってループを閉じているか。**
+- **秘密が優位を守っている場所と、ただの習慣になっている場所はどこか。**

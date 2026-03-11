@@ -1,33 +1,33 @@
 ---
-title: "A bias towards the new"
-stage: "Better for Less"
-category: "Innovation"
+title: "新規性に対するバイアス"
+stage: "より少なく、より良く"
+category: "イノベーション"
 ---
 
-Wardley describes a healthy organisation as one that constantly seeds new options at the edge. "A bias towards the new" is the practice of encouraging experimentation, encouraging challengers, and investing in emergent practices before incumbents stagnate. It balances the efficiency of existing operations with a deliberate pipeline of novelty.
+Wardley は、健全な組織とは周縁で常に新しい選択肢を育て続ける組織だと述べます。`新規性に対するバイアス` とは、実験を奨励し、挑戦者を後押しし、既存勢力が停滞する前に新たな実践へ投資することです。これは、既存オペレーションの効率と、意図的に新しさを生み出すパイプラインの両立を意味します。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Novel options prevent lock-in.** Continual experimentation stops the organisation from clinging to decaying advantages.
-- **Exploration feeds evolution.** Early prototypes reveal which components are ready to move along the evolution curve.
-- **Fresh ideas attract talent.** People want to work where curiosity is rewarded and the next play can surface from anywhere.
+- **新しい選択肢はロックインを防ぐ。** 継続的な実験が、組織が劣化しつつある優位にしがみつくのを防ぎます。
+- **探索は進化を促す。** 初期のプロトタイプは、どのコンポーネントが進化曲線を進める準備ができているかを明らかにします。
+- **新鮮な発想は人材を引きつける。** 好奇心が報われ、次の一手がどこからでも出てきうる場所で、人は働きたいと思います。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Ring-fence exploration budget.** Protect funds for discovery work, even when optimisation initiatives compete for attention.
-2. **Sponsor edge experiments.** Give teams permission to run small bets on emerging technologies or practices tied to mapped opportunities.
-3. **Harvest successful patterns.** When an experiment shows promise, provide settlers and town planners to industrialise it deliberately.
-4. **Celebrate intelligent failure.** Share stories of experiments that taught valuable lessons even if they did not scale.
+1. **探索予算を囲い込む。** 最適化施策が注目を奪うときでも、探索活動の資金を守ります。
+2. **周縁の実験を支援する。** 地図上の機会と結びついた新技術や新実践に、小さく賭ける権限をチームへ渡します。
+3. **成功パターンを収穫する。** 実験に可能性が見えたら、定住者や都市計画者を割り当てて意図的に産業化します。
+4. **賢い失敗を称える。** 拡大には至らなくても価値ある学びを残した実験の話を共有します。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating innovation labs as theatre while the core business ignores their findings.
-- Measuring exploratory work with the same KPIs as industrialised services.
-- Allowing middle management to veto experiments because they threaten current revenue streams.
+- イノベーションラボを見せかけにし、本体がその知見を無視すること。
+- 探索活動を、産業化済みサービスと同じ KPI で測ること。
+- 現在の収益を脅かすとして、中間管理職に実験を握りつぶさせること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Where on our maps do we lack a pipeline of emerging options?**
-- **How quickly can a promising experiment graduate into mainstream delivery?**
-- **Which incentives encourage teams to surface novel ideas instead of hiding them?**
-- **What lessons from failed experiments have we shared with the wider organisation?**
+- **私たちの地図のどこに、新しい選択肢のパイプラインが欠けているか。**
+- **有望な実験を本流の実行へ移すのに、どれほど時間がかかるか。**
+- **新しいアイデアを隠さず出すようチームを促しているインセンティブは何か。**
+- **失敗した実験からの学びを、組織全体へどう共有したか。**

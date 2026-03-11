@@ -101,17 +101,18 @@ const Assessment = ({ children, strategyName }) => {
     <div className="container margin-vert--lg" id="assessment-tool">
       <div className="card shadow--md">
         <div className="card__header">
-          <h2>🚦 <strong>{strategyName} Strategy Self-Assessment Tool</strong></h2>
+          <h2>🚦 <strong>{strategyName} 戦略セルフ評価ツール</strong></h2>
           <p>
-            Find out the strategic fit and organisational readiness by marking each statement as Yes/Maybe/No based on your context.{' '}
-            <a href="/about/assessment-tool">Strategy Assessment Guide</a>.
+            各項目について「はい / どちらともいえない / いいえ」を選び、
+            戦略適合度と組織の準備度を確認します。{' '}
+            <a href="/about/assessment-tool">戦略評価ガイド</a>。
           </p>
         </div>
 
         <div className="card__body">
           <SignalList
-            title="Landscape and Climate"
-            description="How well does the strategy fit your context?"
+            title="ランドスケープと気候"
+            description="この戦略は今の文脈にどれだけ適していますか。"
             items={mapSignals}
             storageId={storageId}
             section="map"
@@ -119,15 +120,15 @@ const Assessment = ({ children, strategyName }) => {
           />
 
           <SignalList
-            title="Organisational Readiness (Doctrine)"
-            description="How capable is your organisation to execute the strategy?"
+            title="組織の準備度（指針）"
+            description="この戦略を実行するための組織能力はどれだけ整っていますか。"
             items={readiness}
             storageId={storageId}
             section="readiness"
             onChange={handleReadinessChange}
           />
 
-          <h3>Assessment and Recommendation</h3>
+          <h3>評価結果と推奨</h3>
           <Results
             mapScore={mapScore}
             readinessScore={readinessScore}

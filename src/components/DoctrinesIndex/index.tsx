@@ -92,10 +92,10 @@ export default function DoctrinesIndex(): ReactElement | null {
 
   return (
     <Tabs defaultValue="stage">
-      <TabItem value="stage" label="By stage">
+      <TabItem value="stage" label="進化段階別">
         <DoctrineGroupList groups={stageGroups} />
       </TabItem>
-      <TabItem value="category" label="By category">
+      <TabItem value="category" label="カテゴリ別">
         <DoctrineGroupList groups={categoryGroups} />
       </TabItem>
     </Tabs>

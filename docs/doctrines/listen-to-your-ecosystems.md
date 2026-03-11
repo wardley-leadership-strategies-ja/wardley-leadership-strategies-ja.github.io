@@ -1,33 +1,33 @@
 ---
-title: "Listen to your ecosystems"
-stage: "Continuously Evolving"
-category: "Ecosystem"
+title: "エコシステムに耳を傾ける"
+stage: "継続的に進化する"
+category: "エコシステム"
 ---
 
-Wardley reminds leaders that advantage often emerges outside organisational boundaries. "Listen to your ecosystems" urges teams to treat partners, suppliers, communities, and users as sensing networks. By engaging with the wider landscape, organisations spot weak signals early and co-create plays that no single actor could deliver alone.
+Wardley は、優位がしばしば組織境界の外から現れることを思い出させます。`エコシステムに耳を傾ける` は、パートナー、サプライヤー、コミュニティ、ユーザーを感知ネットワークとして扱うようチームに求めます。より広い状況と関わることで、組織は弱いシグナルを早く見つけ出し、単独では実現できない一手を共創できます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **External actors sense change first.** Ecosystem participants encounter novel user needs, regulatory shifts, and technological breakthroughs before headquarters does.
-- **Shared insight reduces risk.** Coordinating with partners spreads experimentation costs and highlights dependencies that require joint action.
-- **Healthy ecosystems attract support.** When organisations demonstrate openness and reciprocity, communities bring ideas, talent, and goodwill.
+- **外部の担い手は変化を先に感知する。** エコシステム参加者は、本社より先に新しいユーザーニーズ、規制変化、技術的突破に直面します。
+- **共有知はリスクを減らす。** パートナーとの協調は実験コストを分散し、共同対応が必要な依存関係を浮かび上がらせます。
+- **健全なエコシステムは支援を引き寄せる。** 組織が開放性と相互性を示せば、コミュニティはアイデア、人材、善意を持ち込みます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Map the ecosystem explicitly.** Identify critical partners, communities, and platforms on your maps and track the flows that connect you.
-2. **Create feedback channels.** Host open forums, office hours, or shared repositories where ecosystem members can raise ideas and concerns.
-3. **Co-develop experiments.** Invite partners to test new services or standards together, sharing data and learning as the work evolves.
-4. **Signal intent and reciprocity.** Make clear what the organisation offers in return—support, access, or revenue—when the ecosystem contributes.
+1. **エコシステムを明示的に地図化する。** 重要なパートナー、コミュニティ、プラットフォームを地図に置き、それらをつなぐ流れを追跡します。
+2. **フィードバック経路をつくる。** オープンフォーラム、オフィスアワー、共有リポジトリを設け、メンバーが懸念や提案を出せるようにします。
+3. **実験を共同開発する。** パートナーを招いて新サービスや標準を一緒に試し、進化に応じてデータと学びを共有します。
+4. **意図と相互性を示す。** エコシステムが貢献したとき、組織が何を返すのか、支援、アクセス、収益などを明確にします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating the ecosystem as a procurement pipeline rather than a source of shared learning.
-- Ignoring negative feedback from partners because it conflicts with internal narratives.
-- Extracting value from communities without reinvesting, eroding trust over time.
+- エコシステムを、共同学習の源泉ではなく調達パイプラインとして扱うこと。
+- 内部の物語に合わないからといって、パートナーからの否定的フィードバックを無視すること。
+- コミュニティから価値だけを吸い上げ、再投資せず信頼を損なうこと。
 
-## Questions to ask
+## 問うべきこと
 
-- **Which ecosystem voices influence our roadmap, and how often do we engage them?**
-- **What signals from partners suggest the landscape is shifting?**
-- **How do we reciprocate when the ecosystem shares insight or assets?**
-- **Where are we competing with the very communities we rely on?**
+- **どのエコシステムの声が私たちのロードマップに影響しており、どれくらいの頻度で関わっているか。**
+- **パートナーからのどのシグナルが、状況の変化を示しているか。**
+- **エコシステムが知見や資産を共有したとき、私たちはどう返しているか。**
+- **依存しているコミュニティと、どこで競合してしまっているか。**

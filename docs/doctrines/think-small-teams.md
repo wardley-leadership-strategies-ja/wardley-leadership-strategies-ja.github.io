@@ -1,33 +1,33 @@
 ---
-title: "Think small teams"
-stage: "Better for Less"
-category: "Structure"
+title: "小さなチームで考える"
+stage: "より少なく、より良く"
+category: "構造"
 ---
 
-"Think small teams" captures Wardley’s guidance to break large programmes into autonomous cells aligned to user needs. Rather than monolithic projects, create mission-focused groups that own slices of the map, work with minimal coordination friction, and evolve components at the right pace. Small teams make it easier to sense change, swap methods, and scale successful patterns across the landscape.
+`小さなチームで考える` は、大きなプログラムをユーザーニーズに沿った自律的なセルへ分割せよという Wardley の指針を表しています。巨大で一枚岩のプロジェクトにするのではなく、地図の一部を担い、調整摩擦を最小限に抑え、コンポーネントを適切な速度で進化させられる、使命志向のグループを作るべきだという考え方です。小さなチームは、変化を感じ取り、手法を切り替え、成功したパターンを状況全体へ広げることを容易にします。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Autonomy shrinks inertia.** Teams with clear intent and limited dependencies can respond to signals without waiting for bureaucracy to catch up.
-- **Cell structures reveal duplication.** When each team owns a defined portion of the map, overlapping work becomes obvious and easier to consolidate.
-- **Smaller units encourage stewardship.** Ownership of outcomes—not just deliverables—drives better interfaces, documentation, and knowledge sharing.
+- **自律は慣性を縮小する。** 意図が明確で依存関係が限定されたチームは、官僚制が追いつくのを待たずにシグナルへ対応できます。
+- **セル構造は重複を可視化する。** 各チームが地図上の定義された範囲を担うと、重なった作業が明らかになり統合しやすくなります。
+- **小さな単位は当事者意識を促す。** 成果物だけでなく成果への責任が、より良いインターフェース、文書化、知識共有を生みます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Map ownership to user needs.** Assign teams to coherent value streams so they see how their work impacts the user outcome end to end.
-2. **Limit team span.** Keep group missions narrow enough that the team can understand its whole slice of the map and evolve components deliberately.
-3. **Provide lightweight coordination forums.** Use communities of practice, weekly map reviews, or shared pipelines to align without reinstating hierarchy.
-4. **Rotate learning between cells.** Encourage teams to borrow proven practices from neighbours and retire what no longer fits.
+1. **担当範囲をユーザーニーズに結びつける。** チームを一貫した価値の流れに割り当て、自分たちの仕事がユーザー成果に端から端までどう影響するか見えるようにします。
+2. **チームの守備範囲を絞る。** 使命を十分に狭く保ち、地図上の自分たちの持ち場全体を理解し、意図的に進化させられるようにします。
+3. **軽量な調整の場を用意する。** 実践コミュニティ、週次の地図レビュー、共有パイプラインなどを使い、階層制を戻さずに足並みを揃えます。
+4. **セル間で学びを循環させる。** 隣接チームの実証済み手法を借り、もう合わなくなったものは引退させるよう促します。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Creating “small” teams that still depend on central approval for every change.
-- Splitting teams along organisational silos rather than along user journeys.
-- Letting shared platforms become bottlenecks because no single team owns their evolution.
+- 「小さい」チームと言いながら、あらゆる変更で中央承認に依存していること。
+- チームをユーザージャーニーではなく組織サイロに沿って分割すること。
+- 共有プラットフォームの進化を誰も担わず、ボトルネック化させること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Which user needs lack a clearly accountable team?**
-- **Where do dependencies repeatedly stall delivery, and how could we restructure ownership?**
-- **How do teams request help or hand off work without recreating central command?**
-- **What signals show when a team’s scope has grown too large?**
+- **明確に責任を持つチームがいないユーザーニーズはどれか。**
+- **依存関係によって繰り返し止まる作業はどこで、どう担当構造を組み替えられるか。**
+- **中央集権を作り直さずに、チームはどう助けを求め、どう引き継ぐか。**
+- **チームの守備範囲が大きくなりすぎたことを、どのシグナルが示すか。**

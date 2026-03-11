@@ -1,66 +1,66 @@
-# Leadership Skills
+# リーダーシップスキル
 
-These skills describe the capabilities individual leaders need to execute Wardley strategies effectively.
-They are deliberately focused on personal leadership disciplines rather than organisational doctrine or capability.
+ここで扱うスキルは、Wardley 戦略を効果的に実行するために個々のリーダーが備えるべき能力です。
+組織全体のケイパビリティや指針というより、個人のリーダーシップ実践に焦点を当てています。
 
-## 🧭 **Leadership skills taxonomy**
+## リーダーシップスキルの体系
 
-### Sensemaking and analysis
+### 状況把握と分析
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking)
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)
-- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics)
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking)
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking)
+- [データ戦略と分析](/leadership-skills/data-strategy-and-analytics)
 
-### Market and commercial strategy
+### 市場と商業戦略
 
-- [Market and customer insight](/leadership-skills/market-and-customer-insight)
-- [Pricing strategy](/leadership-skills/pricing-strategy)
-- [Brand and reputation management](/leadership-skills/brand-and-reputation-management)
-- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation)
+- [市場と顧客インサイト](/leadership-skills/market-and-customer-insight)
+- [価格戦略](/leadership-skills/pricing-strategy)
+- [ブランドと評判のマネジメント](/leadership-skills/brand-and-reputation-management)
+- [財務感覚と資本配分](/leadership-skills/financial-acumen-and-capital-allocation)
 
-### Competitive positioning and game dynamics
+### 競争ポジショニングとゲームダイナミクス
 
-- [Competitive intelligence](/leadership-skills/competitive-intelligence)
-- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience)
-- [Incentive design and game theory](/leadership-skills/incentive-design-and-game-theory)
+- [競争インテリジェンス](/leadership-skills/competitive-intelligence)
+- [タイミングと戦略的忍耐](/leadership-skills/timing-and-strategic-patience)
+- [インセンティブ設計とゲーム理論](/leadership-skills/incentive-design-and-game-theory)
 
-### Ecosystems, platforms, and standards
+### エコシステム、プラットフォーム、標準
 
-- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management)
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship)
-- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)
-- [Standardization and open strategy](/leadership-skills/standardization-and-open-strategy)
+- [提携とアライアンスの運営](/leadership-skills/partnership-and-alliance-management)
+- [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship)
+- [プラットフォーム戦略とネットワーク効果](/leadership-skills/platform-strategy-and-network-effects)
+- [標準化とオープン戦略](/leadership-skills/standardization-and-open-strategy)
 
-### Governance, risk, and ethics
+### ガバナンス、リスク、倫理
 
-- [Governance and policy design](/leadership-skills/governance-and-policy-design)
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience)
-- [Ethical judgment](/leadership-skills/ethical-judgment)
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design)
+- [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience)
+- [倫理的判断](/leadership-skills/ethical-judgment)
 
-### Execution and transformation
+### 実行と変革
 
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence)
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty)
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation)
+- [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence)
 
-### Innovation and learning
+### イノベーションと学習
 
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership)
-- [Experimentation and learning](/leadership-skills/experimentation-and-learning)
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership)
+- [実験と学習](/leadership-skills/experimentation-and-learning)
 
-### Influence, negotiation, and conflict
+### 影響力、交渉、対立
 
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling)
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence)
-- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making)
-- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy)
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling)
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence)
+- [交渉とディールメイキング](/leadership-skills/negotiation-and-deal-making)
+- [対立管理と外交](/leadership-skills/conflict-management-and-diplomacy)
 
-### People and culture
+### 人と文化
 
-- [Talent development and team building](/leadership-skills/talent-development-and-team-building)
+- [人材育成とチームづくり](/leadership-skills/talent-development-and-team-building)
 
-### Legal, regulatory, and security
+### 法務、規制、セキュリティ
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen)
-- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy)
-- [Information control and operational security](/leadership-skills/information-control-and-operational-security)
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen)
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy)
+- [情報統制とオペレーショナルセキュリティ](/leadership-skills/information-control-and-operational-security)

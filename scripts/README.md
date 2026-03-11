@@ -34,3 +34,18 @@ python3 scripts/add_related_links.py > added.csv
 
 **Note:** This script modifies the markdown files. Review changes with `git diff`
 before committing.
+
+## `translation_status.py`
+Shows how the Japanese translation work differs from upstream `upstream/main`.
+It reports local translation edits, upstream-only changes since your branch
+diverged, and the overlap that needs re-review.
+
+```bash
+python3 scripts/translation_status.py
+```
+
+To inspect a single translated file against the current upstream English text:
+
+```bash
+python3 scripts/translation_status.py --word-diff docs/strategies/index.md
+```

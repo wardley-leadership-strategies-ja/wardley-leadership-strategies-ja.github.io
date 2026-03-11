@@ -56,9 +56,9 @@ jest.mock('./SignalList', () => {
       storageId: string;
       onChange: (score: number, values: TrafficLight[], interacted: boolean) => void;
     }) => {
-      if (title === "Landscape and Climate") {
+      if (title === "ランドスケープと気候") {
         mockSignalListOnChangeCallbacks.map = onChange;
-      } else if (title === "Organisational Readiness (Doctrine)") {
+      } else if (title === "組織の準備度（指針）") {
         mockSignalListOnChangeCallbacks.readiness = onChange;
       }
       return (
@@ -129,15 +129,15 @@ describe('Assessment Component', () => {
 
     // Verify strategy name
     expect(screen.getByText(new RegExp(strategyName, "i"))).toBeInTheDocument();
-    expect(screen.getByText(/Strategy Self-Assessment Tool/i)).toBeInTheDocument();
+    expect(screen.getByText(/戦略セルフ評価ツール/i)).toBeInTheDocument();
 
     // Verify SignalList components are rendered (via their mock test IDs)
-    expect(screen.getByTestId('mock-signallist-landscape-and-climate')).toBeInTheDocument();
-    expect(screen.getByTestId('mock-signallist-organisational-readiness-(doctrine)')).toBeInTheDocument();
+    expect(screen.getByText('ランドスケープと気候')).toBeInTheDocument();
+    expect(screen.getByText('組織の準備度（指針）')).toBeInTheDocument();
 
     // Verify Results component is rendered (via its mock test ID)
     expect(screen.getByTestId('mock-results')).toBeInTheDocument();
-    expect(screen.getByText('Assessment and Recommendation')).toBeInTheDocument();
+    expect(screen.getByText('評価結果と推奨')).toBeInTheDocument();
   });
 
   // Test 2: Props Passing to SignalList
@@ -154,8 +154,8 @@ describe('Assessment Component', () => {
 
     // Check props passed to the first SignalList (Landscape)
     const firstSignalListCallArgs = signalListMock.mock.calls[0][0] as SignalListProps;
-    expect(firstSignalListCallArgs.title).toBe("Landscape and Climate");
-    expect(firstSignalListCallArgs.description).toBe("How well does the strategy fit your context?");
+    expect(firstSignalListCallArgs.title).toBe("ランドスケープと気候");
+    expect(firstSignalListCallArgs.description).toBe("この戦略は今の文脈にどれだけ適していますか。");
     expect(firstSignalListCallArgs.items).toEqual(mockMapItems);
     expect(firstSignalListCallArgs.onChange).toEqual(expect.any(Function));
     expect(firstSignalListCallArgs.section).toBe('map');
@@ -172,8 +172,8 @@ describe('Assessment Component', () => {
 
     // Check props passed to the second SignalList (Readiness)
     const secondSignalListCallArgs = signalListMock.mock.calls[1][0] as SignalListProps;
-    expect(secondSignalListCallArgs.title).toBe("Organisational Readiness (Doctrine)");
-    expect(secondSignalListCallArgs.description).toBe("How capable is your organisation to execute the strategy?");
+    expect(secondSignalListCallArgs.title).toBe("組織の準備度（指針）");
+    expect(secondSignalListCallArgs.description).toBe("この戦略を実行するための組織能力はどれだけ整っていますか。");
     expect(secondSignalListCallArgs.items).toEqual(mockReadinessItems);
     expect(secondSignalListCallArgs.onChange).toEqual(expect.any(Function));
     expect(secondSignalListCallArgs.section).toBe('readiness');

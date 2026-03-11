@@ -2,11 +2,11 @@
 authors: [dave-hulbert]
 ---
 
-# Doctrines
+# 指針
 
-This section outlines various doctrines related to Wardley Mapping. These are guiding principles or beliefs that can help in the application and understanding of strategic play.
+このセクションでは、Wardley Mapping に関連するさまざまな指針を扱います。指針は、戦略的プレイを理解し実践するための指針や原則です。
 
-*(Content adapted from Simon Wardley's blog post ["Better for Less"](https://medium.com/wardleymaps/better-for-less-58fe8c0a3aaa) (CC BY-SA 4.0).)*
+*（内容は Simon Wardley のブログ記事 ["Better for Less"](https://medium.com/wardleymaps/better-for-less-58fe8c0a3aaa) をもとに翻案しています。CC BY-SA 4.0）*
 
 ```mdx-code-block
 import DoctrinesIndex from '@site/src/components/DoctrinesIndex';

@@ -5,19 +5,22 @@ interface ResultsProps {
   readinessScore: number; // Ability to execute
 }
 
+const formatLevel = (level: 'Strong' | 'Weak'): string =>
+  level === 'Strong' ? '強い' : '弱い';
+
 // Export for testing - This is the one to keep
 export const getLevelFromScore = (score: number): 'Strong' | 'Weak' =>
   score >= 66 ? 'Strong' : 'Weak';
 
 export const summaryText = (mapLevel: string, readinessLevel: string): string => {
   if (mapLevel === 'Strong' && readinessLevel === 'Strong') {
-    return 'Proceed with confidence. The strategy aligns well with your context and you\'re well-prepared to execute.';
+    return '自信を持って進めて構いません。この戦略は文脈によく適合しており、実行準備も整っています。';
   } else if (mapLevel === 'Strong') {
-    return 'Focus on improving execution readiness before proceeding. The strategy fits your context well.';
+    return '戦略適合度は高いので、実行準備を整えてから進めるのが妥当です。';
   } else if (readinessLevel === 'Strong') {
-    return 'Reassess if this is the optimal strategy for your context, though your execution readiness is high.';
+    return '実行力はありますが、この文脈で本当に最適な戦略かは再確認した方がよいです。';
   } else {
-    return 'Consider alternative strategies or address significant gaps before proceeding.';
+    return '別の戦略を検討するか、大きな不足を埋めてから進めることを勧めます。';
   }
 };
 
@@ -37,11 +40,11 @@ const Results: React.FC<ResultsProps> = ({ mapScore, readinessScore }) => {
   return (
     <div>
       <p>
-        Strategic Fit: <strong>{mapLevel}</strong>.
-        Ability to Execute: <strong>{readinessLevel}</strong>.
+        戦略適合度: <strong>{formatLevel(mapLevel)}</strong>。
+        実行力: <strong>{formatLevel(readinessLevel)}</strong>。
       </p>
       <p className='theme-admonition theme-admonition-info alert alert--info' data-testid="results-summary-alert">
-        <strong>RECOMMENDATION</strong><br />
+        <strong>推奨</strong><br />
         {summaryText(mapLevel, readinessLevel)}
       </p>
       <svg viewBox="-20 -20 140 140" width="100%" style={{ background: 'var(--ifm-background-color)', maxWidth: '500px' }}>
@@ -54,13 +57,13 @@ const Results: React.FC<ResultsProps> = ({ mapScore, readinessScore }) => {
         <circle cx={x} cy={y} r="2.5" fill="var(--ifm-color-primary)" data-testid="results-svg-plot-dot" />
 
         {/* Axis Labels */}
-        <text x="0" y="108" fontSize="6" textAnchor="start" fill="var(--ifm-color-content)">Low</text>
-        <text x="100" y="108" fontSize="6" textAnchor="end" fill="var(--ifm-color-content)">High</text>
-        <text x="50" y="114" fontSize="6" textAnchor="middle" fill="var(--ifm-color-content)">Strategic Fit</text>
+        <text x="0" y="108" fontSize="6" textAnchor="start" fill="var(--ifm-color-content)">低</text>
+        <text x="100" y="108" fontSize="6" textAnchor="end" fill="var(--ifm-color-content)">高</text>
+        <text x="50" y="114" fontSize="6" textAnchor="middle" fill="var(--ifm-color-content)">戦略適合度</text>
 
-        <text x="-6" y="17" transform="rotate(-90 -6 17)" fontSize="6" textAnchor="start" fill="var(--ifm-color-content)">High</text>
-        <text x="-6" y="85" transform="rotate(-90 -6 85)" fontSize="6" textAnchor="end" fill="var(--ifm-color-content)">Low</text>
-        <text x="-14" y="50" transform="rotate(-90 -14 50)" fontSize="6" textAnchor="middle" fill="var(--ifm-color-content)">Ability to Execute</text>
+        <text x="-6" y="17" transform="rotate(-90 -6 17)" fontSize="6" textAnchor="start" fill="var(--ifm-color-content)">高</text>
+        <text x="-6" y="85" transform="rotate(-90 -6 85)" fontSize="6" textAnchor="end" fill="var(--ifm-color-content)">低</text>
+        <text x="-14" y="50" transform="rotate(-90 -14 50)" fontSize="6" textAnchor="middle" fill="var(--ifm-color-content)">実行力</text>
       </svg>
     </div>
   );

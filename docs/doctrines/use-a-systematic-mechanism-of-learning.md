@@ -1,33 +1,33 @@
 ---
-title: "Use a systematic mechanism of learning"
-stage: "Stop Self-Destructive Behavior"
-category: "Learning"
+title: "体系的な学習の仕組みを使う"
+stage: "自滅的な行動を止める"
+category: "学習"
 ---
 
-Wardley stresses that doctrine is meaningless without feedback loops. "Use a systematic mechanism of learning" asks leaders to instrument their environment so that maps improve with every decision. Spending controls, service standards, and outcome telemetry provide the data needed to refine the value chain and spot when assumptions no longer hold.
+Wardley は、フィードバックループがなければ指針は無意味だと強調します。`体系的な学習の仕組みを使う` とは、あらゆる意思決定を通じて地図が改善されるよう、環境を計測可能にすることをリーダーへ求めるものです。支出管理、サービス標準、成果のテレメトリは、バリューチェーンを洗練し、前提がもはや成り立たなくなった瞬間を捉えるためのデータを与えます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Learning keeps maps alive.** Without structured feedback, value chains become static diagrams and teams miss shifts in user demand or component evolution.
-- **Evidence trims waste.** Shared metrics reveal duplication, failing experiments, and services that should be retired or outsourced.
-- **Measurement disciplines decisions.** When decisions are tied to observable outcomes, debates move from opinion to context-aware trade-offs.
+- **学習が地図を生かし続ける。** 構造化されたフィードバックがなければ、バリューチェーンは静的な図に変わり、チームはユーザー需要やコンポーネント進化の変化を見逃します。
+- **証拠は無駄を削る。** 共有指標は、重複、失敗した実験、引退または外部委託すべきサービスを明らかにします。
+- **計測が意思決定を規律づける。** 判断が観測可能な成果に結びつくと、議論は意見から文脈を踏まえたトレードオフへ移ります。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Define outcome metrics per user need.** Agree on a small set of measures that reveal whether the map is improving the desired experience.
-2. **Instrument decision points.** Capture why a choice was made, what signals supported it, and when the team will review the result.
-3. **Run regular learning reviews.** Schedule retrospectives where teams revisit metrics, update maps, and decide whether to amplify or retire experiments.
-4. **Feed insights into shared repositories.** Publish post-implementation notes, telemetry dashboards, and revised maps so neighbouring teams can reuse learning.
+1. **ユーザーニーズごとに成果指標を定める。** 地図が望ましい体験を改善しているかを示す、小さな指標集合で合意します。
+2. **意思決定ポイントを計測する。** なぜその選択をしたのか、どのシグナルが支えたのか、いつ結果を見直すのかを記録します。
+3. **定期的な学習レビューを回す。** 指標を見直し、地図を更新し、実験を強化するか終わらせるか決めるレトロスペクティブを予定化します。
+4. **知見を共有リポジトリへ流し込む。** 実施後メモ、テレメトリダッシュボード、更新済み地図を公開し、隣接チームが学びを再利用できるようにします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Reporting vanity metrics that make leadership feel good but hide user pain.
-- Treating audits as compliance exercises instead of opportunities to challenge assumptions.
-- Hoarding data in silos, forcing teams to rebuild the same measurements.
+- リーダーの気分は良くするが、ユーザーの痛みを隠す虚栄指標を報告すること。
+- 監査を前提を疑う機会ではなく、コンプライアンス作業として扱うこと。
+- データをサイロ化し、同じ計測を各チームに作り直させること。
 
-## Questions to ask
+## 問うべきこと
 
-- **What data tells us whether this user need is being met better than last quarter?**
-- **When will we revisit this decision, and what signals could overturn it?**
-- **Who is responsible for updating the map when evidence changes?**
-- **Which insights should be broadcast to other teams so they do not repeat our mistakes?**
+- **このユーザーニーズが前四半期より良く満たされているかを、どのデータが示すか。**
+- **この判断はいつ見直し、どのシグナルが覆しうるか。**
+- **証拠が変わったとき地図を更新する責任者は誰か。**
+- **他チームが同じ失敗を繰り返さないために、どの知見を広く共有すべきか。**

@@ -1,33 +1,33 @@
 ---
-title: "Use appropriate methods"
-stage: "Becoming More Context Aware"
-category: "Delivery"
+title: "適切な手法を使う"
+stage: "文脈認識を高める"
+category: "実行"
 ---
 
-Wardley stresses that no single delivery methodology fits every part of a map. Components in genesis demand exploration and rapid learning, while industrialised utilities need tight controls and efficiency. "Use appropriate methods" is the discipline of matching practices—agile, lean, six sigma, outsourcing, or automation—to the evolutionary stage of each component rather than forcing a uniform process.
+Wardley は、地図上のあらゆる部分に単一のデリバリー方法論が合うわけではないと強調します。創世記にあるコンポーネントには探索と高速な学習が必要ですが、産業化されたユーティリティには厳密な制御と効率が求められます。`適切な手法を使う` とは、画一的なプロセスを押しつけるのではなく、各コンポーネントの進化段階に応じてアジャイル、リーン、シックスシグマ、外部委託、自動化などを使い分ける規律です。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Context drives effectiveness.** Applying agile rituals to commodity services or six sigma to experiments wastes effort and hides real signals.
-- **Mixed methods expose constraints.** When teams adapt their approach per component, bottlenecks become easier to spot and address.
-- **Appropriate methods reduce inertia.** Tailored practices help people move work along the curve instead of defending a one-size-fits-all process.
+- **文脈が効果を左右する。** コモディティなサービスにアジャイル儀式を当てたり、実験にシックスシグマを当てたりすると、労力を浪費し本当のシグナルを隠します。
+- **手法の混在は制約を露出させる。** コンポーネントごとに進め方を変えると、ボトルネックを見つけて対処しやすくなります。
+- **適切な手法は慣性を減らす。** 個別化された実践は、全員に同じプロセスを守らせるより、仕事を曲線に沿って前へ進めやすくします。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Annotate the map with intended methods.** For each component, note whether it needs discovery, product development, or industrialised operations.
-2. **Design guardrails, not rigid playbooks.** Give teams principles for choosing methods and let them adjust as the component evolves.
-3. **Review method fit regularly.** As evidence shows a component maturing, transition it to more disciplined approaches and update governance expectations.
-4. **Pair mixed teams deliberately.** Bring pioneers, settlers, and town planners together so hand-offs between methods are anticipated rather than reactive.
+1. **地図に予定手法を注記する。** 各コンポーネントに、探索、プロダクト開発、産業化オペレーションのどれが必要かを記します。
+2. **硬直した手引きではなくガードレールを設計する。** 手法選択の原則を示し、コンポーネントの進化に応じて調整できるようにします。
+3. **手法適合を定期的に見直す。** コンポーネントの成熟を示す証拠が出たら、より規律ある進め方へ移し、ガバナンス期待も更新します。
+4. **異なる役割のチームを意図的に組ませる。** 先駆者、定住者、都市計画者を組み合わせ、手法間の引き継ぎを事後対応ではなく事前設計にします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Mandating a single framework (e.g., “everything must be agile”) regardless of context.
-- Ignoring the cost of switching methods until a project is already failing.
-- Treating outsourcing as a default instead of considering whether the capability is differentiating.
+- 文脈を無視して「全部アジャイル」のように単一フレームワークを強制すること。
+- プロジェクトが失敗しかけるまで、手法切り替えのコストを無視すること。
+- その能力が差別化要因かを考えず、外部委託を既定値にすること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Where on the map are we forcing a method that contradicts the component’s evolution stage?**
-- **How will we know it’s time to shift from experimentation to optimisation?**
-- **Which decisions require input from town planners, and which from pioneers?**
-- **What governance signals show that method selection is working?**
+- **地図のどこで、コンポーネントの進化段階に反する手法を強いているか。**
+- **実験から最適化へ移る時期を、どう見極めるか。**
+- **どの意思決定に都市計画者の入力が必要で、どれに先駆者の入力が必要か。**
+- **手法選択が機能していることを、どのガバナンス指標が示すか。**

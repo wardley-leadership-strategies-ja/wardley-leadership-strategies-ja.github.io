@@ -1,6 +1,6 @@
-# Terms
+# 用語集
 
-This section contains a list of terms referenced throughout the site.
+このセクションでは、サイト全体で参照される用語を一覧できます。
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

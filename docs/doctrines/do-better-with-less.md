@@ -1,35 +1,35 @@
 ---
-title: "Do better with less"
-stage: "Better for Less"
-category: "Operations"
+title: "より少なく、より良く"
+stage: "より少なく、より良く"
+category: "オペレーション"
 ---
 
-"Do better with less" is Wardley's reminder that efficiency is not about crude cost-cutting. It is the discipline of measuring value delivered, exposing waste, and reinvesting savings into higher-impact work. By pairing spend control with maps, organisations can simplify duplicated components, embrace open standards, and deliver better outcomes without ballooning budgets.
+`より少なく、より良く` は、効率とは乱暴なコスト削減ではないという Wardley の注意喚起です。これは、提供価値を測定し、無駄を露出させ、浮いた資源をより高いインパクトの仕事へ再投資する規律です。支出管理を地図と組み合わせることで、組織は重複したコンポーネントを簡素化し、オープン標準を受け入れ、予算を膨らませずにより良い成果を届けられます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Measurement keeps promises honest.** Tracking cost per transaction, user satisfaction, and delivery lead times reveals whether improvement claims are real.
-- **Waste hides opportunity cost.** When teams surface duplicated systems and over-specified contracts, they release talent and capital for innovation.
-- **Transparent frugality builds trust.** Publishing performance data shows stakeholders that savings are achieved through better design, not service erosion.
+- **計測が約束を誠実にする。** 取引あたりコスト、ユーザー満足、デリバリーのリードタイムを追うことで、改善主張が本物か分かります。
+- **無駄は機会費用を隠す。** 重複システムや過剰仕様の契約を露出させると、人材と資本をイノベーションへ振り向けられます。
+- **透明な節度は信頼を生む。** 性能データを公開すると、節約がサービス劣化ではなく設計改善によるものだと示せます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Map cost to user outcomes.** Annotate the value chain with spend, contract terms, and utilisation so teams can see where money fails to translate into value.
-2. **Run spend challenge reviews.** Use cross-functional panels to interrogate big-ticket proposals and force alternatives such as reuse or commodity services.
-3. **Adopt open standards and sourcing.** Prefer interoperable components that avoid proprietary lock-in and make substitution cheaper.
-4. **Ring-fence savings for reinvestment.** Redirect released budget into discovery work, ecosystem experiments, or modernisation that further reduces total cost of ownership.
+1. **コストをユーザー成果へ結びつける。** バリューチェーンに支出、契約条件、利用率を注記し、お金がどこで価値に変わっていないか見えるようにします。
+2. **支出挑戦レビューを回す。** 大型提案をクロスファンクショナルな場で問い直し、再利用やコモディティサービスといった代替案を必ず検討します。
+3. **オープン標準と調達方針を採る。** 独自ロックインを避け、差し替えコストを下げる相互運用可能なコンポーネントを優先します。
+4. **削減分を再投資用に囲い込む。** 浮いた予算を探索、エコシステム実験、モダナイゼーションへ回し、総保有コストをさらに下げます。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Slashing budgets indiscriminately, undermining critical capabilities instead of redesigning the work.
-- Reporting headline savings without publishing the underlying metrics or user impact.
-- Treating re-use as optional, leading to the same service being rebuilt in every department.
+- 仕事を再設計せずに予算を一律削減し、重要能力を損なうこと。
+- 元の指標やユーザー影響を示さず、見出しだけの節約額を報告すること。
+- 再利用を任意に扱い、同じサービスを全部門で作り直させること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Where does our cost-to-serve exceed the value users receive, and why?**
-- **Which components on the map could we share, rent, or commoditise instead of custom-building again?**
-- **How will we demonstrate that savings improved the user experience as well as the balance sheet?**
-- **What reinvestment plan keeps the organisation improving once the obvious waste is removed?**
+- **私たちの提供コストがユーザー価値を上回っているのはどこで、なぜか。**
+- **地図上のどのコンポーネントを、再利用、レンタル、コモディティ化できるのに再度カスタムビルドしているか。**
+- **節約がユーザー体験と収支の両方を改善したことを、どう示すか。**
+- **明らかな無駄を除いた後も改善を続けるために、どの再投資計画が必要か。**
 
-Doing better with less is a flywheel. Each transparent improvement frees up resources that can be directed toward new user needs, making the organisation simultaneously leaner and more effective.
+より少なく、より良くはフライホイールです。透明な改善のたびに新たなユーザーニーズへ振り向けられる資源が生まれ、組織はより引き締まり、同時により効果的になります。

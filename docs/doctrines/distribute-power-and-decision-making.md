@@ -1,33 +1,33 @@
 ---
-title: "Distribute power and decision making"
-stage: "Becoming More Context Aware"
-category: "Structure"
+title: "権限と意思決定を分散する"
+stage: "文脈認識を高める"
+category: "構造"
 ---
 
-Wardley argues that once teams share the same map, they must also share the authority to act on it. "Distribute power and decision making" means pushing autonomy to the edge so that the people closest to the user need can respond to situational changes without waiting for central approval. Maps become a coordination mechanism instead of a command chain.
+Wardley は、チームが同じ地図を共有するなら、それに基づいて行動する権限も共有すべきだと論じます。`権限と意思決定を分散する` とは、自律を末端へ押し出し、ユーザーニーズに最も近い人たちが中央の承認を待たずに状況変化へ対応できるようにすることです。地図は指揮命令系統ではなく、調整の仕組みになります。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Local autonomy beats central inertia.** Teams that own their slice of the value chain can respond as soon as signals shift.
-- **Distributed decisions expose better options.** When multiple teams experiment simultaneously, organisations discover new patterns faster.
-- **Shared power builds resilience.** If one unit stalls, others can continue evolving the landscape instead of being blocked by a bottleneck.
+- **局所的な自律は中央の慣性に勝る。** バリューチェーンの自分の持ち場を担うチームは、シグナルが変わるとすぐに反応できます。
+- **分散した意思決定はより良い選択肢を露出させる。** 複数チームが同時に実験すると、組織は新しいパターンをより早く発見できます。
+- **権限共有はレジリエンスを高める。** ひとつのユニットが停滞しても、他がボトルネックに塞がれず状況を進化させ続けられます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Delegate authority with boundaries.** Use maps to define the scope where a team can act independently and when escalation is required.
-2. **Publish intent, not tasks.** Leaders set direction by clarifying user needs, desired outcomes, and guardrails, leaving execution choices to teams.
-3. **Create challenge forums, not approvals.** Replace gatekeeping committees with peer reviews that test logic while preserving the team’s right to decide.
-4. **Invest in enabling platforms.** Provide shared services—identity, data, compliance—that make it safer for teams to operate autonomously.
+1. **境界つきで権限委譲する。** 地図を使って、チームが独立して動ける範囲と、エスカレーションが必要な条件を定義します。
+2. **タスクではなく意図を公開する。** リーダーはユーザーニーズ、望む成果、ガードレールを明確にし、実行方法の選択はチームに委ねます。
+3. **承認会議ではなく挑戦の場をつくる。** 門番のような委員会を、論理を検証しつつチームの決定権を残すピアレビューに置き換えます。
+4. **実行を支えるプラットフォームに投資する。** アイデンティティ、データ、コンプライアンスのような共有サービスを用意し、自律的に動く安全性を高めます。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Re-centralising control whenever something goes wrong, signalling a lack of trust.
-- Granting accountability without providing the information or resources needed to act.
-- Allowing shared platforms to become political levers that override local decisions.
+- 問題が起きるたびに再中央集権化し、不信を示すこと。
+- 行動に必要な情報や資源を与えずに責任だけを渡すこと。
+- 共有プラットフォームが、現場の意思決定を上書きする政治的なてこになること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Which decisions are still escalated by default, and why?**
-- **Do teams understand the outcomes they own and the constraints they must honour?**
-- **How quickly can a team ship a change that improves its portion of the map?**
-- **What systemic barriers make autonomy risky or expensive?**
+- **いまも既定で上位にエスカレーションされる意思決定は何で、なぜそうなっているか。**
+- **チームは自分たちが担う成果と、守るべき制約を理解しているか。**
+- **チームは地図上の自分の部分を改善する変更を、どれほど速く出荷できるか。**
+- **自律を危険または高コストにしている構造的な障壁は何か。**

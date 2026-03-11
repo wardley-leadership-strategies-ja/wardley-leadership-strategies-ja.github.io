@@ -1,33 +1,33 @@
 ---
-title: "Challenge assumptions"
-stage: "Stop Self-Destructive Behavior"
-category: "Learning"
+title: "前提を疑う"
+stage: "自滅的な行動を止める"
+category: "学習"
 ---
 
-Challenging assumptions keeps strategic conversations honest. Wardley Mapping exposes how much of a plan rests on untested beliefs about users, the value chain, or how components will evolve. Making those bets explicit allows teams to confront cognitive bias, surface missing data, and refine the map before inertia hardens around a flawed narrative.
+前提を疑うことは、戦略の会話を健全に保ちます。ウォードリーマッピングは、計画のどれだけがユーザーニーズ、バリューチェーン、コンポーネントの進化に関する未検証の思い込みに依存しているかを露わにします。その賭けを明示することで、チームは認知バイアスに向き合い、欠けているデータを見つけ出し、誤った物語のまわりに慣性が固まる前に地図を磨けます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Assumptions hide duplication and waste.** Untested beliefs about user needs or component maturity encourage teams to rebuild capabilities that already exist elsewhere.
-- **Maps lose power without dissent.** A static, uncontested map quickly becomes theatre; constant challenge keeps it relevant to the real landscape.
-- **Bias thrives in silence.** Naming uncertainties invites multiple perspectives, reducing the risk of cascade bias or outcome bias steering decisions.
+- **前提は重複と無駄を隠す。** ユーザーニーズやコンポーネント成熟度に関する未検証の思い込みは、他所ですでに存在する能力の再構築を促します。
+- **異論がなければ地図の力は失われる。** 静的で争われない地図はすぐに見せかけになります。絶えず問い直すことで、地図は実際の状況に結びつき続けます。
+- **沈黙の中でバイアスは育つ。** 不確実性に名前をつけることで複数の視点が入り、連鎖バイアスや結果バイアスが判断を支配する危険を減らせます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Tag every component with its evidence.** Distinguish data from hypothesis on the map so the team can see where assumptions dominate.
-2. **Run regular challenge sessions.** Invite adjacent teams, partners, or users to critique the map and hunt for blind spots.
-3. **Instrument learning loops.** Pair each major assumption with a cheap experiment, telemetry review, or discovery interview to validate it quickly.
-4. **Capture counterarguments.** Record alternative explanations and what would make them true so they can be revisited as signals change.
+1. **各コンポーネントに根拠を紐づける。** 地図上でデータと仮説を区別し、どこで前提が支配的かを見えるようにします。
+2. **定期的に挑戦セッションを行う。** 隣接チーム、パートナー、ユーザーを招き、地図を批判的に見てもらって盲点を探します。
+3. **学習ループを計測可能にする。** 大きな前提ごとに、安価な実験、テレメトリ確認、探索インタビューを組み合わせて素早く検証します。
+4. **反対仮説を記録する。** 別の説明と、それが真になる条件を残し、シグナルが変わったとき見直せるようにします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating senior opinion as a proxy for evidence instead of testing the claim.
-- Freezing the map after a single review cycle and assuming the landscape is settled.
-- Conflating speed of agreement with quality of decision-making.
+- 主張を検証せず、上位者の意見を証拠の代わりにすること。
+- 一度のレビューで地図を凍結し、状況が固まったと思い込むこと。
+- 合意形成の速さと意思決定の質を取り違えること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Which parts of the map rely on opinion rather than observed data?**
-- **What signals would prove this assumption wrong, and how will we detect them?**
-- **Who is incentivised to disagree with our current view, and have we heard from them?**
-- **What happens if this assumption fails after we commit?**
+- **地図のどの部分が観測データではなく意見に依存しているか。**
+- **この前提が間違いだと示すシグナルは何で、どう検知するか。**
+- **現在の見方に異議を唱える動機を持つのは誰で、その声を聞いたか。**
+- **この前提が、コミット後に崩れたら何が起きるか。**

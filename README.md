@@ -45,6 +45,27 @@ This command generates static content into the `build` directory and can be serv
 DISABLE_FASTER_BUILD=true npm run build
 ```
 
+## Translation Workflow
+
+To keep Japanese translations reviewable against the upstream English source, keep this repository tracking `upstream/main` and check drift regularly.
+
+```bash
+git fetch upstream
+npm run translation:status
+```
+
+This reports:
+
+- files changed locally as part of the translation work
+- files changed upstream since your branch diverged
+- files that changed on both sides and should be reviewed again
+
+For a word-level diff of a specific file against upstream, run:
+
+```bash
+python3 scripts/translation_status.py --word-diff docs/strategies/index.md
+```
+
 ### Deployment
 
 The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.

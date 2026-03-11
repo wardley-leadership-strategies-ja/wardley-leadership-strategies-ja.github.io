@@ -2,69 +2,69 @@
 authors: [dave-hulbert]
 ---
 
-# Climatic Patterns
+# 気候パターン
 
-Climatic patterns are broad forces that shape markets over time. They tend to play out regardless of any single organisation's actions.
+気候パターンとは、時間をかけて市場を形づくる大きな力学です。個々の組織の行動とは関係なく進行することが多い特徴があります。
 
-Recognising these trends helps leaders anticipate how landscapes will evolve and adjust strategy before conditions shift.
+こうした傾向を認識することで、リーダーは環境の進化を先読みし、条件が変わる前に戦略を調整できます。
 
-## Components
+## コンポーネント
 
-Patterns in this category describe how different parts of a system mature and interact as they evolve.
+このカテゴリでは、システムの各要素が進化しながら成熟し、相互作用していく様子を扱います。
 
-- [Characteristics change](/climatic-patterns/characteristics-change)
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve)
-- [Everything evolves](/climatic-patterns/everything-evolves)
-- [Evolution consists of multiple waves of diffusion](/climatic-patterns/evolution-consists-of-multiple-waves-of-diffusion-with-many-chasms)
-- [No choice on evolution](/climatic-patterns/no-choice-on-evolution)
-- [No one size fits all](/climatic-patterns/no-one-size-fits-all)
-- [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)
-- [Synthetic labour becomes a commodity](/climatic-patterns/synthetic-labour-becomes-a-commodity)
+- [特性は変化する](/climatic-patterns/characteristics-change)
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve)
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves)
+- [進化は複数の普及波から成る](/climatic-patterns/evolution-consists-of-multiple-waves-of-diffusion-with-many-chasms)
+- [進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution)
+- [万能な解は存在しない](/climatic-patterns/no-one-size-fits-all)
+- [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)
+- [合成労働はコモディティ化する](/climatic-patterns/synthetic-labour-becomes-a-commodity)
 
-## Competitors
+## 競合
 
-These patterns explore how moves by rivals can reshape your landscape.
+このカテゴリでは、競合の動きが自分たちの競争環境をどう変えるかを扱います。
 
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game)
-- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness)
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)
+- [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)
 
-## Financial
+## 金融
 
-Financial patterns highlight how value flows and investment cycles influence evolution.
+金融系のパターンは、価値の流れや投資サイクルが進化へどう影響するかを示します。
 
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value)
-- [Creative Destruction](/climatic-patterns/creative-destruction)
-- [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend)
-- [Evolution to higher order systems increases local order](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)
-- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it)
-- [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)
+- [創造的破壊](/climatic-patterns/creative-destruction)
+- [効率化は支出削減を意味しない](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend)
+- [高次システムへの進化は局所的秩序を高める](/climatic-patterns/evolution-to-higher-order-systems-results-in-increasing-local-order-and-energy-consumption)
+- [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it)
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)
 
-## Inertia
+## 慣性
 
-These patterns show how internal resistance can block necessary change.
+このカテゴリでは、内部抵抗が必要な変化をどう妨げるかを扱います。
 
-- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation)
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia)
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)
 
-## Prediction
+## 予測
 
-Prediction patterns point to market cycles or signals that help you forecast future shifts.
+予測のパターンは、市場サイクルやシグナルを通じて将来の変化を見通す助けになります。
 
-- [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve)
-- [Economy has cycles](/climatic-patterns/economy-has-cycles)
-- [Evolution consists of multiple diffusion curves](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves)
-- [Not everything is random](/climatic-patterns/not-everything-is-random)
-- [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes)
-- [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption)
-- [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty)
+- [「戦争」は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve)
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles)
+- [進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves)
+- [すべてがランダムではない](/climatic-patterns/not-everything-is-random)
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes)
+- [破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption)
+- [時間や採用率だけで進化は測れない](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty)
 
-## Speed
+## 速度
 
-Speed patterns examine the pace of change and how stability affects agility.
+速度のパターンは、変化の速さと安定性が俊敏性にどう影響するかを扱います。
 
-- [Change is not always linear](/climatic-patterns/change-is-not-always-linear)
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation)
-- [Evolution of communication mechanisms increases overall speed](/climatic-patterns/evolution-of-communication-mechanisms-can-increase-the-speed-of-evolution-overall-and-the-diffusion-of-a-single-example-of-change)
-- [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination)
-- [Autonomy length expands](/climatic-patterns/autonomy-length-expands)
-- [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium)
+- [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)
+- [効率性はイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)
+- [通信手段の進化は全体速度を高める](/climatic-patterns/evolution-of-communication-mechanisms-can-increase-the-speed-of-evolution-overall-and-the-diffusion-of-a-single-example-of-change)
+- [下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination)
+- [自律の長さは広がる](/climatic-patterns/autonomy-length-expands)
+- [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium)

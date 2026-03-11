@@ -165,18 +165,6 @@ The `## 🧠 **Strategic Insights**` section of a strategy is where the big idea
 - Use `###` subsections and favour paragraphs over bullets for this section.
 - Each insight can be multiple paragraphs if it needs to dive deep or cover broad ideas.
 
-## Blog
-
-The blog currently focuses on the **AI and Leadership** series. All posts live in `./blog`.
-
-- Blog posts are single Markdown files in the root of `./blog`.
-- Name files using the publish date followed by a short slug, e.g. `2025-10-05-age-of-diffused-agency.md`.
-- Keep the slug in the filename aligned with the `slug` field in the front matter (see below).
-- Author metadata lives in `./blog/authors.yml`. Reuse existing author IDs; add new authors there first if needed.
-- Each post starts with YAML front matter. Follow the structure already used.
-- Add `<!-- truncate -->` after the intro paragraph(s) so the listing page shows an excerpt.
-- Link to other content when helpful for context.
-
 ## Terms
 
 - Terms are for words or phrases that are specific to strategies, business, Wardley Mapping, etc.

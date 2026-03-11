@@ -1,56 +1,55 @@
 ---
-title: Privacy Policy
+title: プライバシーポリシー
 ---
 
-# Privacy Policy
+# プライバシーポリシー
 
-_Last updated: 15 September 2025_
+_最終更新日: 2025年9月15日_
 
-Wardley Leadership Strategies is an informational site maintained by Dave Hulbert. It explains how to apply Wardley Mapping gameplays and related doctrine. The site does not offer user accounts, newsletters, or interactive services; visitors simply browse published guidance.
+Wardley Leadership Strategies は Dave Hulbert によって運営されている情報サイトです。Wardley Mapping のゲームプレイと関連指針の実践方法を解説しています。サイトはユーザーアカウント、ニュースレター、会員向けサービスを提供しておらず、訪問者は公開されたガイドを閲覧するのみです。
 
-## Information we collect
+## 収集する情報
 
-### Site analytics
+### サイト分析
 
-We use privacy-focused [Vercel Analytics](https://vercel.com/docs/analytics) through our Docusaurus configuration to understand how people use the site. The service records page views, referrers, approximate geolocation, device and browser details, and truncated IP addresses so that we can count unique visits and detect unusual traffic. The data is aggregated inside Vercel's infrastructure, and no cookies or cross-site tracking identifiers are set.
+Docusaurus の設定を通じて、プライバシー配慮型の [Vercel Analytics](https://vercel.com/docs/analytics) を使用し、サイト利用状況を把握しています。このサービスは、ページビュー、参照元、おおよその位置情報、端末・ブラウザ情報、短縮化された IP アドレスを記録し、ユニーク訪問数の把握や異常トラフィックの検知に用います。データは Vercel の基盤内で集計され、Cookie やサイト横断トラッキング識別子は設定されません。
 
-### Hosting logs
+### ホスティングログ
 
-The site is hosted on Vercel. Like most hosting providers, Vercel automatically keeps short-lived request logs that include your IP address, browser user agent, the pages you requested, and basic diagnostic details. These logs help keep the service reliable and secure (for example by diagnosing outages or abuse).
+このサイトは Vercel 上でホスティングされています。多くのホスティング事業者と同様に、Vercel は IP アドレス、ブラウザのユーザーエージェント、閲覧ページ、基本的な診断情報を含む短期保存のリクエストログを自動的に保持します。これらは、障害対応や不正利用対策など、サービスの信頼性と安全性の維持に役立てられます。
 
-### Third-party assets
+### 外部アセット
 
-Pages load typefaces from Google Fonts. When your browser requests these files, Google receives your IP address and user agent to deliver the font files. Google may also log standard request metadata for operational purposes. No other third-party embeds or trackers run on the site.
+ページでは Google Fonts のフォントを読み込みます。ブラウザがこれらのファイルを取得する際、Google にはフォント配信のために IP アドレスとユーザーエージェントが送信されます。Google は運用目的で標準的なリクエストメタデータを記録する場合があります。これ以外の第三者埋め込みやトラッカーは動作していません。
 
-We do not collect contact information, payment details, or any other personal information directly.
+連絡先情報、決済情報、その他の個人情報を直接収集することはありません。
 
-## How we use the information
+## 情報の利用目的
 
-The information described above is used to:
+上記の情報は、次の目的で使用されます。
 
-- monitor how many people are using the site and which pages are most helpful;
-- ensure the site stays fast, reliable, and secure; and
-- diagnose, investigate, or prevent abuse of the service.
+- サイト利用者数や、役に立っているページを把握するため
+- サイトの速度、信頼性、安全性を維持するため
+- サービスへの不正利用を調査・防止するため
 
-We process this data on the basis of our legitimate interest in operating and improving the site.
+これらのデータ処理は、サイトを運営し改善するという正当な利益に基づいて行われます。
 
-## Sharing and storage
+## 共有と保管
 
-Analytics data and server logs are stored within Vercel's systems. Aggregated reporting may be shared internally to guide content improvements, but raw data is not sold or shared with advertisers. Font files are delivered directly by Google, which receives standard web request metadata when fonts are loaded.
+分析データとサーバーログは Vercel のシステム内に保存されます。集計レポートはコンテンツ改善のために内部で参照されることがありますが、生データが広告主へ販売・共有されることはありません。フォントファイルは Google から直接配信され、読み込み時には標準的な Web リクエストメタデータが Google に送信されます。
 
-## Retention
+## 保存期間
 
-Vercel Analytics keeps aggregated metrics so that we can view historical traffic trends. Vercel's infrastructure also retains request logs for a limited period aligned with their standard platform practices. We do not keep independent copies of these logs.
+Vercel Analytics は、過去のトラフィック傾向を確認できるように集計指標を保持します。Vercel の基盤も、通常のプラットフォーム運用に沿って一定期間リクエストログを保持します。これらのログを独自に複製して保持することはありません。
 
-## Cookies and tracking technologies
+## Cookie とトラッキング技術
 
-The site does not set cookies or use device fingerprinting for tracking. Vercel Analytics operates without cookies, and Google Fonts only serves static assets.
+このサイトは Cookie を設定せず、端末フィンガープリントによる追跡も行いません。Vercel Analytics は Cookie なしで動作し、Google Fonts は静的アセット配信のみを行います。
 
-## Your choices
+## 利用者の選択肢
 
-Because we do not collect information directly, there is no account to delete or profile to update. You can control the data shared with us by using privacy tools such as VPNs or tracker-blocking browser extensions. If you disable external font loading in your browser, system fonts will be used instead.
+直接情報を収集していないため、削除すべきアカウントや更新すべきプロフィールはありません。VPN やトラッカー遮断拡張機能などのプライバシーツールを使えば、共有されるデータを制御できます。ブラウザ側で外部フォント読み込みを無効にした場合は、代わりにシステムフォントが使用されます。
 
-## Contact
+## お問い合わせ
 
-If you have questions about this policy or want to exercise privacy rights, contact Dave Hulbert using the details published at [dave.engineer](https://dave.engineer) or open an issue in the [GitHub repository](https://github.com/dave1010/wardley-leadership-strategies).
-
+このポリシーについて質問がある場合や、プライバシー権の行使を希望する場合は、[dave.engineer](https://dave.engineer) に掲載されている連絡先から Dave Hulbert に連絡するか、[GitHub リポジトリ](https://github.com/dave1010/wardley-leadership-strategies) に issue を作成してください。

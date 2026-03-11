@@ -1,35 +1,35 @@
 ---
-title: "Focus on user needs"
-stage: "Development"
-category: "Development"
+title: "ユーザーニーズを重視する"
+stage: "発展"
+category: "発展"
 ---
 
-Focusing on user needs means grounding every strategic choice in a clear understanding of who the real users are, what outcomes they need, and how they experience the current value chain. Wardley Mapping reinforces this discipline by forcing leaders to articulate user needs as the anchor for every component on the map. For a structured approach to capturing and layering those needs, see Rich Allen’s [User Needs Mapping](/books/user-needs-mapping) (<BookRef isbn="9798290256436" />).
+`ユーザーニーズを重視する` とは、実際のユーザーが誰で、どのような成果を必要とし、現在のバリューチェーンをどう体験しているかを明確に理解したうえで、すべての戦略的選択を行うことです。ウォードリーマッピングは、地図上のあらゆるコンポーネントの起点としてユーザーニーズを明示するようリーダーに迫ることで、この規律を支えます。ニーズを捉えて層として整理する方法については、Rich Allen の [User Needs Mapping](/books/user-needs-mapping) (<BookRef isbn="9798290256436" />) が参考になります。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **User needs anchor the map.** Without explicit needs, maps drift toward internal projects and politics rather than real demand.
-- **Signals surface earlier.** Continual contact with users reveals when needs evolve or when competitors create better experiences.
-- **Execution stays aligned.** When teams revisit user needs before committing to action, they prevent automation or optimisation that adds friction.
+- **ユーザーニーズが地図の錨になる。** 明示されたニーズがなければ、地図は現実の需要ではなく内部プロジェクトや政治へ流れていきます。
+- **シグナルが早く表れる。** ユーザーとの継続的な接点は、ニーズの変化や競合によるより良い体験の出現を早く気づかせます。
+- **実行の整合が保たれる。** 行動にコミットする前にチームがユーザーニーズを確認すれば、摩擦を増やす自動化や最適化を避けられます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Name the primary users on every map.** Capture the people or systems consuming value and the outcome they care about.
-2. **Trace needs through the value chain.** Ensure each component exists because it satisfies a user outcome, not an internal preference.
-3. **Test assumptions with real users.** Regular interviews, telemetry review, and shadowing validate that stated needs remain accurate.
-4. **Prioritise by user impact.** When deciding between investment options, choose the work that removes the greatest constraint on user outcomes.
+1. **すべての地図で主要ユーザーを明記する。** 価値を受け取る人やシステムと、彼らが重視する成果を記録します。
+2. **ニーズをバリューチェーン全体で追跡する。** 各コンポーネントが内部都合ではなく、ユーザー成果を満たすために存在しているかを確かめます。
+3. **実際のユーザーで前提を検証する。** 定期的なインタビュー、テレメトリ確認、シャドーイングにより、想定したニーズがなお正しいかを確かめます。
+4. **ユーザー影響で優先順位を決める。** 投資案の比較では、ユーザー成果への最大の制約を外す仕事を選びます。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating stakeholders or governance bodies as the "user" when the real end user is different.
-- Describing needs as solution features ("mobile app") instead of desired outcomes ("manage accounts while travelling").
-- Freezing user research after launch rather than revisiting it as the landscape evolves.
+- 本当の最終ユーザーが別にいるのに、利害関係者やガバナンス主体を「ユーザー」と見なすこと。
+- ニーズを「モバイルアプリ」のような解決策の機能で語り、「移動中でも口座を管理する」のような望ましい成果で語らないこと。
+- ローンチ後にユーザー調査を止め、状況が進化しても見直さないこと。
 
-## Questions to ask
+## 問うべきこと
 
-- **Who exactly is the user and what job are they trying to complete?**
-- **Which parts of the map exist solely because they improve that outcome?**
-- **What signals tell us the user's needs have changed?**
-- **Where are we forcing users to compensate for our organisational structure?**
+- **ユーザーは正確には誰で、どんな仕事を達成しようとしているのか。**
+- **地図のどの部分が、その成果を良くするためだけに存在しているのか。**
+- **ユーザーのニーズが変わったことを、どのシグナルが教えてくれるか。**
+- **組織構造の都合を、どこでユーザーに肩代わりさせているか。**
 
-Keeping the doctrine visible ensures strategy conversations stay anchored in the people experiencing the service. That discipline protects teams from automating the wrong thing and keeps delivery connected to real-world outcomes.
+この指針を見える場所に置き続けることで、戦略の会話はサービスを実際に体験している人たちに結びついたままになります。その規律は、チームが間違ったものを自動化するのを防ぎ、実行を現実の成果へつなぎとめます。

@@ -1,62 +1,61 @@
 ---
-title: About
+title: このサイトについて
 ---
 
-# About Wardley Leadership Strategies
+# Wardley Leadership Strategies 日本語版について
 
-This guide is a comprehensive resource for applying strategic plays (gameplays) within the framework of Wardley Mapping.  It builds upon the work of [Simon Wardley](https://www.linkedin.com/in/simonwardley/), providing practical guidance on [over 60 business and organizational leadership strategies](/strategies).
+このガイドは、Wardley Mapping の枠組みの中で戦略的プレイを実践するための総合リソースです。[Simon Wardley](https://www.linkedin.com/in/simonwardley/) の仕事を土台にしつつ、[60 を超えるビジネス・組織運営のリーダーシップ戦略](/strategies) を実践的に解説します。
 
-Simon Wardley has listed these in his blog post [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) and there are many other sites like [Learn Wardley Mapping](https://learnwardleymapping.com/leadership/) that have lists of these strategies.
+Simon Wardley はブログ記事 [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) でこれらを列挙しており、[Learn Wardley Mapping](https://learnwardleymapping.com/leadership/) のように関連戦略をまとめたサイトも存在します。
 
-## Understanding and Applying Strategic Gameplays
+## 戦略ゲームプレイを理解し、適用する
 
-Wardley Mapping provides a visual method for understanding your competitive landscape and anticipating future changes.  This situational awareness, derived from your map, is the first step for effective strategic decision-making. This guide focuses on the **application** of those strategic decisions: the "gameplays" that allow you to achieve your objectives.
+Wardley Mapping は、競争環境を理解し将来の変化を見通すための視覚的手法です。マップから得られる状況認識は、よい戦略判断の第一歩になります。このガイドは、その戦略判断を **どう実行に移すか** に焦点を当てています。つまり、目的を達成するための「ゲームプレイ」です。
 
-This resource offers detailed explanations, real-world examples, and practical advice on selecting and implementing over 60 strategies, including examples such as:
+このリソースでは、60 を超える戦略の選び方と実装方法について、詳細な解説、現実の事例、実務的な助言を提供します。たとえば次のようなものです。
 
-- **[Cooperation](/strategies/accelerators/cooperation):**  Leveraging partnerships to accelerate growth.
-- **[Creating Constraints](/strategies/decelerators/creating-constraints):**  Using limitations to drive innovation and focus.
-- **[Experimentation](/strategies/attacking/experimentation):**  Rapidly testing new approaches to gain a competitive edge.
+- **[Cooperation](/strategies/accelerators/cooperation):** 提携を活かして成長を加速する。
+- **[Creating Constraints](/strategies/decelerators/creating-constraints):** 制約を使ってイノベーションと集中を促す。
+- **[Experimentation](/strategies/attacking/experimentation):** 新しい手をすばやく試し、競争優位を探る。
 
-The site also includes an interactive [**🚦 Strategy Assessment Tool**](/about/assessment-tool) for some strategies, allowing you to evaluate the applicability and readiness of a specific strategy within your context.
+一部の戦略には、インタラクティブな [**🚦 戦略評価ツール**](/about/assessment-tool) も用意しており、自分たちの文脈にその戦略がどれだけ適しているか、実行準備が整っているかを確認できます。
 
-Use the interactive [**Strategy Navigator**](/strategy-navigator) to combine goals, evolution stages, and organisational pressures into a tailored shortlist of plays. Compare recommended strategies side by side to understand signals, first moves, and watch-outs before committing.
+[**戦略ナビゲーター**](/strategy-navigator) では、目標、進化段階、組織的圧力を組み合わせて、自分たち向けの候補戦略を絞り込めます。推奨戦略を並べて比較し、シグナル、最初の一手、注意点を確認したうえで判断できます。
 
-To understand the broader organisational capabilities that enable those plays, explore the [**Strategy Maturity Model**](/tools/strategy-maturity-model), which charts how teams progress from ad hoc experimentation to doctrine-led mastery.
+それらのプレイを支える組織能力を広く理解したい場合は、[**戦略成熟度モデル**](/tools/strategy-maturity-model) を参照してください。場当たり的な実験から、指針に支えられた熟達へチームがどう進むかを整理しています。
 
-## Explore Additional Resources
+## ほかのリソース
 
-- **[My Assessments](/my-progress):** Track the strategies you've evaluated with the assessment tool, revisit past answers, and spot patterns in where your organisation is ready to move next.
-- **[AI & Leadership](/blog):** Dive into essays that translate Wardley Mapping principles for an age of automation—covering practical leadership responses to AI hype, adoption risks, and capability building.
-- **[Books](/books):** Browse curated reading lists that underpin the practices on this site, from mapping fundamentals to organisational change playbooks.
-- **[Strategy Guides](/strategy-guides):** Get step-by-step playbooks for common scenarios, starting with the [Introduction to Strategic Play](/strategy-guides/introduction-to-strategic-play) to orient new teams.
+- **[保存した評価](/my-progress):** 評価ツールで見た戦略を追跡し、過去の回答を見返し、次にどこへ進めそうかの傾向をつかめます。
+- **[参考書籍](/books):** マッピングの基礎から組織変革のプレイブックまで、このサイトの背景にある書籍をまとめています。
+- **[戦略ガイド](/strategy-guides):** よくある状況に対するステップ別プレイブックです。新しいチームは [戦略的プレイ入門](/strategy-guides/introduction-to-strategic-play) から始めると入りやすくなります。
 
-Over time it has expanded with dedicated sections on [Climatic Patterns](/climatic-patterns) and [Doctrine](/doctrines). These provide additional context for why a strategy works, but the primary emphasis remains on the gameplays themselves.
+さらに、[気候パターン](/climatic-patterns) と [指針](/doctrines) の専用セクションもあります。これらは戦略がなぜ機能するのかを理解する助けになりますが、主眼はあくまでゲームプレイそのものにあります。
 
 
-## Who is this Guide For?
+## このガイドの対象
 
-This guide is designed for leaders, strategists, and anyone involved in making strategic decisions within an organization. A basic understanding of Wardley Mapping principles (value chains, evolution stages) and general business strategy concepts is assumed. This resource is most effective *after* you have:
+このガイドは、リーダー、ストラテジスト、そして組織の中で戦略判断に関わる人に向けて作られています。Wardley Mapping の基本原則（バリューチェーン、進化段階）と一般的な事業戦略の概念をある程度理解していることを前提にしています。特に次の準備ができていると効果的です。
 
-1. **Mapped your Landscape:**  Created a visual representation of your business environment.
-2. **Identified your Context:**  Understood your current position and the forces acting upon you.
-3. **Analyzed Evolution:**  Determined the evolutionary stage of the components in your value chain.
+1. **ランドスケープを描いた:** 自分たちの事業環境を視覚化している。
+2. **文脈を把握した:** 現在位置と働いている力学を理解している。
+3. **進化を読んだ:** バリューチェーン上の各要素がどの段階にあるかを見極めている。
 
 :::warning
 
-Strategic gameplays are the **culmination** of the Wardley Mapping process. They represent the actions you take based on your map-derived insights.
-As Wardly put it: [without a map you have no strategy](https://blog.gardeviance.org/2013/11/without-map-you-have-no-strategy.html).
+戦略ゲームプレイは Wardley Mapping プロセスの **集大成** です。マップから得た洞察を、具体的な行動へ変える部分です。
+Wardley が言うように、[地図なしに戦略はない](https://blog.gardeviance.org/2013/11/without-map-you-have-no-strategy.html) のです。
 
 :::
 
-As described in [Learn Wardley Mapping](https://learnwardleymapping.com/), effective leadership involves:
+[Learn Wardley Mapping](https://learnwardleymapping.com/) が述べるように、有効なリーダーシップには次が含まれます。
 
-> Making strategic decisions based on your **purpose** ("the game"), a description of the competitive **landscape** (the map), the external forces acting on the landscape (**climate**), and the training of your people (**doctrine**).
+> **目的**（ゲーム）、競争 **環境**（マップ）、その環境に作用する外部の力 (**climate**)、そして人材の鍛え方 (**doctrine**) に基づいて戦略判断を行うこと。
 
-This guide helps you translate the insights gained from mapping, [climatic patterns](/climatic-patterns) analysis, and [doctrine](/doctrines) into concrete, actionable strategies.
+このガイドは、マッピング、[気候パターン](/climatic-patterns) の分析、[指針](/doctrines) から得た洞察を、具体的で実行可能な戦略へ変換する助けになります。
 
-## Contribution and Licensing
+## 翻訳とライセンス
 
-This guide is an open-source project, released under a [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. This encourages collaboration and continuous improvement. We welcome contributions from the community to expand and refine this resource.
+このガイドの原作はオープンソースプロジェクトであり、[Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) で公開されています。この日本語版も同じライセンスに従って公開します。コミュニティからの改善提案や翻訳の洗練は歓迎します。
 
-The site was built by [Dave Hulbert](https://dave.engineer/) using [Docusaurus](https://docusaurus.io/). The source code is available on [GitHub](https://github.com/dave1010/wardley-leadership-strategies).
+原作サイトは [Dave Hulbert](https://dave.engineer/) が [Docusaurus](https://docusaurus.io/) を使って構築しています。元ソースコードは [GitHub](https://github.com/dave1010/wardley-leadership-strategies) で公開されています。

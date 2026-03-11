@@ -15,63 +15,62 @@ type StrategyItem = {
 
 const StrategyList: StrategyItem[] = [
   {
-    title: 'Cooperation',
+    title: '協調',
     imageUrl: require('@site/static/img/rowers.jpg').default,
     description: (
       <>
-        Working with others, in partnerships, joint ventures, or industry collaborations, to achieve a common goal and create mutual value.
+        提携、合弁、業界連携などを通じて、共通の目的と相互価値を実現する戦略です。
       </>
     ),
     link: '/strategies/accelerators/cooperation',
   },
   {
-    title: 'Exploiting Network Effects',
+    title: 'ネットワーク効果の活用',
     imageUrl: require('@site/static/img/network.jpg').default,
     description: (
       <>
-        Leveraging tactics that increase the value of your product as more users join, creating sustainable growth.
+        参加者が増えるほど価値が上がる構造を活かし、持続的な成長を生み出します。
       </>
     ),
     link: '/strategies/accelerators/exploiting-network-effects',
   },
   {
-    title: 'Tech Drops',
+    title: 'テックドロップ',
     imageUrl: require('@site/static/img/parachute.jpg').default,
     description: (
       <>
-        Surprising competitors by introducing significant technological changes to the market
-        forcing competitors into a reactive position.
+        大きな技術変化を市場に投下し、競合を後手に回らせる戦略です。
 
       </>
     ),
     link: '/strategies/competitor/tech-drops',
   },
   {
-    title: 'Refactoring',
+    title: 'リファクタリング',
     imageUrl: require('@site/static/img/refactoring.jpg').default,
     description: (
       <>
-        Internally breaking apart, reorganizing and repurposing components of a legacy system to salvage value or reduce toxicity.
+        既存システムの構成要素を分解・再編し、価値を救い出しながら毒性を減らします。
       </>
     ),
     link: '/strategies/dealing-with-toxicity/refactoring/'
   },
   {
-    title: 'Artificial Competition',
+    title: '人工的競争',
     imageUrl: require('@site/static/img/artificial-competition.jpg').default,
     description: (
       <>
-        Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
+        自社と競合する別組織を立てることで、競争が存在するように見せる戦略です。
       </>
     ),
     link: '/strategies/user-perception/artificial-competition'
   },
   {
-    title: 'Fragmentation',
+    title: '断片化',
     imageUrl: require('@site/static/img/fragmentation.jpg').default,
     description: (
       <>
-        Undermine a competitor by changing the market dynamics around them, fragmenting their stronghold into smaller pieces.
+        市場構造を変え、競合の牙城を小さく分断して優位を崩します。
       </>
     ),
     link: '/strategies/competitor/fragmentation'
@@ -91,7 +90,7 @@ function Strategy({title, imageUrl, description, link}: StrategyItem) {
             <p>{description}</p>
           </div>
           <div className="card__footer">
-            <button className="button button--secondary button--block">Learn more</button>
+            <button className="button button--secondary button--block">詳しく見る</button>
           </div>
         </div>
       </Link>
@@ -103,7 +102,7 @@ export default function FeaturedStrategies(): React.ReactNode {
     return (
         <section className={styles.features}>
             <div className="container">
-                <h2 className="text--center">Featured Strategies</h2>
+                <h2 className="text--center">注目の戦略</h2>
                 <div className="row">
                     {StrategyList.map((props, idx) => (
                         <Strategy key={idx} {...props} />

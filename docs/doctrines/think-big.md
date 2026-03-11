@@ -1,35 +1,35 @@
 ---
-title: "Think big"
-stage: "Better for Less"
-category: "Leadership"
+title: "大きく考える"
+stage: "より少なく、より良く"
+category: "リーダーシップ"
 ---
 
-Wardley frames "Think big" as the deliberate act of tackling the whole service, not just the nearest project. The doctrine asks leaders to articulate an ambitious, user-centred direction and to use maps to connect individual initiatives to that bigger shift. When the strategic horizon is expansive, delivery teams can coordinate around a shared transformation rather than chasing disconnected optimisations.
+Wardley は `大きく考える` を、目の前のプロジェクトではなくサービス全体に取り組む意図的な行為として捉えます。この指針は、リーダーに対して、ユーザー中心の大きな方向性を言語化し、地図を使って個々の施策をそのより大きな変化へつなげるよう求めます。戦略上の地平が広ければ、デリバリーチームは切り離された局所最適を追うのではなく、共有された変革のまわりで連携できます。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Ambition aligns investment.** An explicit north star helps teams evaluate proposals by the magnitude of user outcomes they unlock rather than local efficiency wins.
-- **Systemic change needs a wide lens.** Mapping the entire value chain exposes duplication, policy constraints, and ecosystem partners that single-project thinking misses.
-- **Bold intent attracts support.** A clear, inspiring direction mobilises political, financial, and community capital needed to overcome inertia.
+- **大きな志が投資を整列させる。** 明確な北極星があれば、局所的な効率改善ではなく、どれだけ大きなユーザー成果を開くかで提案を評価できます。
+- **システム変化には広い視野が必要。** バリューチェーン全体を地図化すると、単一プロジェクト思考では見落とす重複、政策制約、エコシステムの協力者が見えてきます。
+- **大胆な意図は支援を引き寄せる。** 明快で人を動かす方向性は、慣性を超えるために必要な政治的、財務的、コミュニティ的な資本を集めます。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Map the whole service journey.** Start with the citizen or customer outcome and trace every component, policy, and supplier involved so the full scope is visible.
-2. **Set direction statements, not solution mandates.** Describe the transformed experience and measurable benefits, leaving teams room to experiment with how to achieve them.
-3. **Create a doctrine-backed portfolio.** Group initiatives by how they move components along the evolution curve and check that, together, they deliver the promised step change.
-4. **Broadcast progress in narrative form.** Tie updates to the original map and vision so stakeholders understand how incremental wins accumulate toward the bigger ambition.
+1. **サービス全体の流れを地図化する。** 市民や顧客の成果から始め、関わるコンポーネント、政策、供給者をすべてたどって全体像を見えるようにします。
+2. **解決策の命令ではなく方向性の文を置く。** 変化後の体験と測定可能な便益を記述し、どう実現するかの実験余地はチームに残します。
+3. **指針に支えられたポートフォリオをつくる。** 各施策がどのようにコンポーネントを進化曲線上で動かすかを整理し、全体として約束した段差変化を実現しているかを確認します。
+4. **進捗を物語として発信する。** 更新を元の地図とビジョンに結びつけ、小さな前進がどう大きな志へ積み上がるかを利害関係者が理解できるようにします。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Declaring a grand vision without grounding it in maps or user evidence, creating aspiration theatre.
-- Treating "think big" as justification for mega-programmes that collapse under their own complexity.
-- Ignoring the supporting ecosystems and policy levers that must shift for the ambition to stick.
+- 地図やユーザー根拠なしに壮大なビジョンだけを掲げ、見せかけの志向へ陥ること。
+- `大きく考える` を、複雑さで自壊する巨大プログラムの正当化に使うこと。
+- 志を定着させるために動かす必要のある周辺エコシステムや政策レバーを無視すること。
 
-## Questions to ask
+## 問うべきこと
 
-- **Which user outcomes improve dramatically if we succeed, and how will we measure that improvement?**
-- **What components or policies are missing from our current map that block the ambition?**
-- **Where do we need new partnerships or standards to scale the change beyond one team?**
-- **How will we keep the story of the direction alive when delivery pressure mounts?**
+- **成功したとき劇的に良くなるユーザー成果は何で、その改善をどう測るか。**
+- **その志を妨げているのに、現在の地図に載っていないコンポーネントや政策は何か。**
+- **変化を一つのチームを超えて広げるために、新たに必要なパートナーシップや標準はどこか。**
+- **実行圧力が高まったときも、この方向性の物語をどう生かし続けるか。**
 
-Thinking big is not about writing bigger cheques; it is about holding a compelling, map-informed vision that gives every small experiment purpose. By pairing ambition with situational awareness, organisations avoid incrementalism and make bold moves that matter.
+大きく考えるとは、より大きな小切手を書くことではありません。すべての小さな実験に意味を与える、地図に裏打ちされた魅力的なビジョンを持つことです。志と状況認識を組み合わせることで、組織は漸進主義を避け、本当に意味のある大胆な一手を打てます。

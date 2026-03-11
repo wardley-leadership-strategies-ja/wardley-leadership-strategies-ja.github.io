@@ -125,10 +125,11 @@ const SignalList: React.FC<SignalListProps> = ({
     setHasInteracted(false);
   };
 
-  const renderIcons = (current: TrafficLight) => (
+  const renderIcons = (current: TrafficLight, index: number) => (
     <div className={styles.iconGroup}>
       <div
         className={`${styles.iconSlider} ${styles[current]}`}
+        data-testid={`signal-slider-${index}`}
         style={{
           transform: `translateX(${stateTranslate[current]})`,
         }}
@@ -152,7 +153,7 @@ const SignalList: React.FC<SignalListProps> = ({
           onClick={reset}
           disabled={!hasInteracted}
         >
-          Reset
+          リセット
         </button>
       </div>
       <ul className="padding--none">
@@ -163,7 +164,7 @@ const SignalList: React.FC<SignalListProps> = ({
             onClick={() => update(idx)}
           >
             <div className="margin-right--sm">
-              {renderIcons(selected[idx])}
+              {renderIcons(selected[idx], idx)}
             </div>
             <span>{text}</span>
           </li>

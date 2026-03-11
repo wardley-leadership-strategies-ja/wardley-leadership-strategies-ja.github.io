@@ -1,35 +1,35 @@
 ---
-title: "Be pragmatic"
-stage: "Becoming More Context Aware"
-category: "Governance"
+title: "実践的であれ"
+stage: "文脈認識を高める"
+category: "ガバナンス"
 ---
 
-When Wardley urges leaders to "Be pragmatic", he is warning against fetishising purity over outcomes. There will always be an edge case worth polishing or a bespoke component that looks tempting to build, yet users rarely benefit from the reinvention. Pragmatism means sweating existing assets, using what already works, and reserving precious capacity for the change that truly shifts the map.
+Wardley がリーダーに `実践的であれ` と促すとき、それは成果より純粋さを崇拝するなという警告です。磨き込む価値がありそうな端のケースや、独自に作りたくなる特注コンポーネントは常にあります。しかし、そうした再発明からユーザーが利益を得ることは稀です。実践性とは、既存資産を使い倒し、すでに機能しているものを活かし、本当に地図を動かす変化のために貴重な余力を残すことです。
 
-## Why this doctrine matters
+## なぜこの指針が重要か
 
-- **Outcomes over elegance.** Delivering what users need matters more than polishing an internal ideal. If an off-the-shelf component meets the need, take it and move on.
-- **Challenge bespoke cravings.** Every departure from proven components should be justified. Building the perfect tyre rarely helps a taxi service reach more riders.
-- **Balance today and tomorrow.** Pragmatism makes room to maintain legacy estates while plotting how they evolve, acknowledging that a single rigid approach invites inertia.
+- **優雅さより成果。** ユーザーが必要とするものを届けることが、内部的な理想を磨き上げることより重要です。既製のコンポーネントで満たせるなら、それを使って先へ進むべきです。
+- **特注への欲求を疑う。** 実績あるコンポーネントから外れるなら、常に正当化が必要です。完璧なタイヤを作っても、タクシーサービスがより多くの乗客を運べるとは限りません。
+- **今日と明日を両立する。** 実践性は、レガシー資産を維持しながらどう進化させるかを計画する余地をつくります。ひとつの硬直したやり方は、慣性を招くだけです。
 
-## Practices to embed
+## 埋め込むべき実践
 
-1. **Map the “good enough” path.** Highlight where existing services, COTS products, or shared platforms already meet needs so teams can reuse instead of rebuild.
-2. **Record exception triggers.** When a team proposes a custom build, capture the evidence and expiry date for that decision so it must be reconfirmed later.
-3. **Plan how to sweat assets.** Make explicit how long legacy systems will be supported, the safeguards around them, and the signals that allow retirement.
-4. **Protect pragmatism culturally.** Celebrate teams that choose simplicity over reinvention; make it acceptable to say “the colour of the cat doesn’t matter as long as it catches mice.”
+1. **「十分に良い」経路を地図化する。** 既存サービス、COTS 製品、共有プラットフォームですでにニーズを満たせる場所を明示し、再構築ではなく再利用を促します。
+2. **例外条件を記録する。** チームがカスタムビルドを提案するなら、その根拠と期限を残し、後で再確認を必須にします。
+3. **資産を使い倒す計画を立てる。** レガシーシステムをどこまで支え、どの保護策を置き、どのシグナルで引退させるかを明示します。
+4. **文化として実践性を守る。** 再発明より単純さを選んだチームを称え、「ネズミを捕れるなら猫の色は問わない」と言える空気をつくります。
 
-## Watch for anti-patterns
+## 注意すべきアンチパターン
 
-- Treating every component as a special snowflake and recreating what the market already provides.
-- Allowing temporary exceptions to drift into permanent entropy because no one revisits the decision.
-- Using “pragmatic” as cover for avoiding the hard work of evolving the estate in manageable slices.
+- あらゆるコンポーネントを特別扱いし、市場がすでに提供しているものを作り直すこと。
+- 一時的な例外を見直さず、恒久的なエントロピーへ流してしまうこと。
+- 「実践的」を、資産を管理可能な単位で進化させる難しい仕事から逃げる言い訳にすること。
 
-## Questions to ask
+## 問うべきこと
 
-- **What user outcome are we protecting by bending this rule, and is there a simpler route?**
-- **Where can we reuse existing capabilities instead of crafting new ones?**
-- **How will we maintain the current estate while funding the next evolution?**
-- **Which temporary workarounds need an owner and a review date?**
+- **このルールを曲げてまで守ろうとしているユーザー成果は何で、もっと単純な道はないか。**
+- **新しく作る代わりに、どこで既存能力を再利用できるか。**
+- **現在の資産を維持しながら、次の進化へどう資金を回すか。**
+- **一時しのぎの回避策のうち、担当者と見直し日が必要なものはどれか。**
 
-Pragmatism is disciplined realism: keep the mission in sight, question departures from proven components, and move the map with the tools you already have before chasing shiny alternatives.
+実践性とは、規律ある現実主義です。使命を見失わず、実績あるコンポーネントからの逸脱を疑い、光る新奇性を追う前に、すでに手元にある道具で地図を前へ進めることです。
