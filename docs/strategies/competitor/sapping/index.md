@@ -1,5 +1,5 @@
 ---
-title: Sapping
+title: 消耗戦（Sapping）
 tags:
 - sapping
 - competitor
@@ -10,7 +10,7 @@ tags:
 - distraction
 authors:
 - dave-hulbert
-description: Overwhelming a rival by opening multiple simultaneous competitive fronts.
+description: 複数の競争正面を同時に開き、競合の対応能力をすり減らす戦略。
 stages:
 - Product
 - Commodity/Utility
@@ -27,171 +27,180 @@ leadership_focus:
 - Integrated roadmapping
 - Narrative control
 quick_signals:
-- You can afford to open several initiatives while the rival is resource constrained.
-- Competitors respond predictably when pressured on more than one dimension.
-- Your portfolio has adjacent products or channels you can weaponise quickly.
+- 競合が資源制約下にあり、自社は複数の施策を同時に開ける。
+- 競合は複数軸で圧力を受けると、予測可能な反応を返す。
+- 自社には、すぐ武器化できる隣接製品やチャネルの束がある。
 momentum_moves:
-- Sequence overlapping releases across price, product, and partnership fronts.
-- Coordinate messaging so each thrust amplifies the pressure on the same rival.
-- Instrument response data to double down where the competitor weakens.
+- 価格、製品、提携の各正面で、重なるようにリリースを並べる。
+- すべての一手が同じ競合への圧力を強めるよう、メッセージを揃える。
+- 反応データを計測し、競合が弱る正面へさらに寄せる。
 watch_outs:
-- Diluting your own focus and delivering mediocre moves on every front.
-- Triggering regulatory scrutiny for anti-competitive behaviour.
-- Ignoring customer impact while pursuing the attrition campaign.
+- 自社の焦点まで薄め、全正面で中途半端になること。
+- 反競争的と見なされて規制注視を招くこと。
+- 消耗戦に夢中になり、顧客影響を軽視すること。
 effort_level: Enterprise Transformation
 time_horizon: Medium-term shaping
 ---
 
-**Attacking a competitor on multiple fronts simultaneously to weaken their capacity to respond**.
+**複数の正面で同時に競合へ圧力をかけ、その対応能力を削っていく戦略です。**
 
-> *"Opening up multiple fronts on a competitor to weaken their ability to react."*
+> *「複数の正面を競合に対して開き、反応能力を弱めること。」*
 >
 > - Simon Wardley
 
-Sapping, inspired by military tactics, involves launching simultaneous attacks across various fronts (product, price, marketing, geography) to stretch a competitor's resources and attention. The core idea is that a competitor capable of defending against a single attack will struggle against a barrage of concurrent challenges. By forcing a rival to divide their focus and resources, their overall effectiveness is degraded. Sapping is a strategy of attrition and distraction, aiming to drain the competitor's energy and induce mistakes or neglect.
+消耗戦は軍事由来の発想で、製品、価格、マーケティング、地域、提携など複数面から同時に圧力をかけ、競合の注意力と資源を引き裂きます。単発攻撃には耐えられる相手でも、並行する攻撃には弱くなる、という前提です。
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Sapping?
+### 消耗戦とは何か
 
-Sapping is a strategic approach that involves attacking a competitor on multiple fronts at the same time to reduce their ability to respond effectively. The strategy aims to overwhelm the competitor by forcing them to spread their resources and attention across many areas.
+消耗戦は、競合へ同時に複数正面から攻撃をかけ、その対応力を低下させる戦略です。相手に多方面で資源と注意を分散させ、全体の有効性を下げます。
 
-### How does sapping work?
+### どう機能するのか
 
-Sapping works by exploiting the limitations of a competitor's resources and attention. While a competitor might be able to defend against a single attack, a series of simultaneous attacks across different areas can strain their capacity to respond. This multi-front approach aims to create a war of attrition and distraction, ultimately weakening the competitor.
+競合は一つの攻撃には対処できても、価格、製品、提携、販売チャネルなど複数軸で同時に圧力を受けると、防御が薄くなります。消耗戦は attrition と distraction の戦略であり、相手のエネルギーを奪い、ミスや放置を誘います。
 
-### When is sapping most effective?
+### どんなときに効くのか
 
-Sapping is most effective when the attacker has superior resources or agility compared to the competitor. It is often used by larger or more diversified companies against narrower ones. The goal is to create a situation where the competitor cannot cope with the volume of challenges.
+自社が競合より資源か機動力で優位にあるときに効きます。大きい、または多角化した企業が、より細い企業を相手にするときに典型的です。
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-- **Microsoft in the 1990s (Multi-Front Attack):** Microsoft competed on many fronts in the mid-1990s, including browsers (vs. Netscape), programming platforms (Java vs. Windows APIs), personal devices (vs. Sony/Palm), and enterprise software (vs. IBM/Novell). Microsoft's resources allowed it to link its attacks, such as Windows + Office integration against Netscape and Lotus/WordPerfect. An antitrust finding noted Microsoft's campaign against "middleware threats" like Netscape and Java, which "raised its rivals' costs, and ultimately, effectively eliminated Netscape as a platform threat" while weakening Sun's Java momentum. By opening simultaneous battles (browser, middleware, applications), Microsoft sapped competitors' abilities to mount a unified response.
+### 1990 年代の Microsoft
 
-- **Facebook vs. Emerging Social Apps:** Facebook's attack on Snapchat involved multiple fronts, including copying Stories (feature front), leveraging its global reach (geographic front), and using its ad targeting power (business front). This sapping strategy strained Snap, a smaller company, leading to impacts on Snapchat's growth and market cap. Facebook's multi-faceted approach targeted Snap from various angles.
+Microsoft はブラウザ、ミドルウェア、アプリケーション、企業向けソフトなど多方面で戦いを仕掛けました。Windows と Office の統合も含め、競合は一つの明確な正面に戦力集中できず、分散対応を強いられました。
 
-- **Amazon vs. Retail Competitors:** Amazon often uses multi-front competition. Against traditional retailers like Target and Walmart in the mid-2000s, Amazon attacked through online sales in various product categories (general merchandise front), Amazon Prime with fast shipping (logistics/membership front), undercutting prices (pricing front), expanding into digital goods (new technology front), and entering cloud computing. Retailers faced challenges needing to invest in e-commerce tech, lower prices, improve supply chains, and consider new business lines simultaneously. This sapping strategy impacted many retailers, with survivors like Walmart also becoming multifaceted.
+### Facebook と新興 SNS
 
-## 🚦 **When to Use / When to Avoid**
+Facebook の Snapchat への対応は、Stories の模倣、世界的配信網、広告基盤など複数正面からの圧力でした。小さい Snap は広い戦場に引きずり出され、反応コストが急上昇しました。
+
+### Amazon と小売競合
+
+Amazon は EC、Prime、価格、デジタル商材、新規事業など複数正面で伝統的 retailers へ圧力をかけました。相手はサプライチェーン、価格、技術投資、新規領域を同時に考えなければならず、持久戦を強いられました。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Sapping">
   <MapSignals>
-    <li>The competitor holds a focused position or limited scope, making them vulnerable to attacks from multiple directions.</li>
-    <li>The landscape includes multiple battlegrounds (product lines, geographies, pricing tiers, partnerships) where competitive pressure can be applied concurrently.</li>
-    <li>There is no dominant centre of gravity in the competitor's position—weaknesses are distributed across areas rather than concentrated in one.</li>
-    <li>The market is fluid enough that pressure on one front can create ripple effects across others (e.g. customer trust, talent drain, partner defection).</li>
-    <li>The competitor's past responses suggest limited coordination capacity or resource depth to handle simultaneous disruption.</li>
-    <li>Your mapping suggests strategic congestion: the competitor is over-reliant on a few defensive levers across many fronts.</li>
+    <li>競合は焦点の狭いポジションか限られた範囲しか持たず、多方面攻撃に弱い。</li>
+    <li>景観には、製品、地域、価格帯、提携など複数の戦場が同時に存在する。</li>
+    <li>競合の重力中心が単一ではなく、弱さが複数領域に分散している。</li>
+    <li>一正面の圧力が、信頼、人材、提携など別正面にも波及する。</li>
+    <li>過去の反応を見ると、競合は同時多発の混乱へ弱い。</li>
+    <li>競合は、多数の正面を少数の防御レバーで支えている。</li>
   </MapSignals>
   <Readiness>
-    <li>We have sufficient resources (capital, people, infrastructure) to sustain pressure across multiple fronts without overextending.</li>
-    <li>We maintain organisational agility and can pivot or shift intensity as outcomes unfold across different domains.</li>
-    <li>We have robust internal coordination mechanisms—cross-functional teams, shared intelligence, strategic alignment—to synchronise effort across fronts.</li>
-    <li>We have clear success criteria and escalation plans for each front to avoid resource drain on non-performing initiatives.</li>
-    <li>We can quickly learn from competitor responses and redistribute focus where it’s most effective.</li>
-    <li>We’ve prepared countermeasures in case the competitor consolidates and retaliates strongly on one or more fronts.</li>
-    <li>We have leadership bandwidth and morale resilience to guide a prolonged, multi-front engagement without strategic drift.</li>
+    <li>自社は過伸長せずに複数正面を維持できる資源を持つ。</li>
+    <li>各正面の結果に応じて強弱を付け替える機動性がある。</li>
+    <li>部門横断の同期、共有情報、戦略整合の仕組みがある。</li>
+    <li>各正面ごとに成功基準と escalation 計画がある。</li>
+    <li>競合反応からすぐ学び、圧力の重みを再配分できる。</li>
+    <li>競合がどこかで集中的に反撃した場合の備えがある。</li>
+    <li>長引く多正面戦を支える指揮の帯域と士気がある。</li>
   </Readiness>
 </Assessment>
 
-### Use When
+### 向くとき
 
-Use sapping when you have superior resources or agility and can fight on many fronts while the competitor cannot. It is also useful when a larger or more diversified company is competing against a narrower one.
+- 自社の資源か機動力が競合より強く、多正面戦に持ち込めるとき
+- 大きい企業が、狭い範囲に依存する競合と戦うとき
+- 一つの決定打より、相手の帯域を削ることが重要なとき
 
-### Avoid When
+### 避けるとき
 
-Avoid sapping if you lack the resources or agility to sustain a multi-front attack. It is also risky if the competitor has the capacity to counter-attack effectively or if the costs of the strategy outweigh the potential gains.
+- 自社に多正面を維持する余力がないとき
+- 競合が強く反撃できるとき
+- コストが見込み利益を上回るとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core Challenge
+### 中核課題
 
-The core challenge in leading a sapping strategy is to maintain coordination and avoid overextension. Leaders must ensure that each front opened against the competitor is sustainable and that the organization has the resources and agility to support the multi-front campaign.
+全正面を同期しつつ、やりすぎで自滅しないことです。どの正面も持続可能であり、全体として同じ競合へ効いている必要があります。
 
-### Leadership Skills Required
+### 必要なスキル
 
-- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Coordinate multi-front campaigns with clear priorities and operational rigor.
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Decide when to intensify, pause, or abandon fronts as conditions shift.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Keep teams aligned on intent while sustaining momentum through setbacks.
-- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — Maintain morale, delegate effectively, and avoid burnout during prolonged campaigns.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Anticipate counter-attacks and ensure the organization can absorb retaliation.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — 多正面の優先順位と実行を揃える
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — どこを強め、どこを止めるかを判断する
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 意図と momentum を共有する
+- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — 疲弊を防ぎ、委任する
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 反撃に耐える
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Plan the Fronts:** Identify areas to attack the competitor, such as product offerings, service support, marketing campaigns, or geographic expansion.
-2. **Initiate Action:** Launch initiatives on multiple fronts nearly simultaneously, such as releasing a competing product, cutting prices, starting a comparative advertising campaign, and forming partnerships that harm the competitor.
-3. **Synchronize Timing:** Coordinate the timing of attacks to maximize pressure on the competitor, creating a series of impactful hits that weaken their ability to respond.
-4. **Monitor Progress:** Track metrics on each front and adjust the strategy as needed, scaling back efforts that are ineffective and focusing on areas where the competitor is struggling.
-5. **Exploit Wins:** Amplify successes on any front, such as increasing marketing efforts in areas where the competitor is losing customers.
-6. **Maintain Communication:** Ensure constant communication and adaptation across teams, using feedback loops to adjust the strategy in response to the competitor's reactions.
-7. **Organize Resources:** Consider forming cross-functional teams to coordinate multi-pronged efforts and break down silos within the organization.
+1. **正面を設計する:** 製品、価格、サポート、マーケティング、地域、提携など、どこから圧力をかけるか定める
+2. **ほぼ同時に着手する:** 新製品投入、値下げ、比較訴求、競合不利な提携などを並行して動かす
+3. **タイミングを同期する:** 一発ずつではなく、重なる圧力にする
+4. **進捗を監視する:** 効かない正面は引き、弱る正面へ集中する
+5. **勝ち筋を増幅する:** 効いたところはさらに押し込む
+6. **通信を保つ:** チーム横断のフィードバックループを切らさない
+7. **組織を整える:** 必要なら部門横断チームで silos を崩す
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Impact on competitor: Reduction in competitor's market share, revenue, or profitability.
-- Progress on each front: Achievement of objectives on individual fronts, such as product adoption, sales growth, or market penetration.
-- Overall effectiveness: The degree to which the competitor's capacity to respond has been weakened and the extent to which they have been forced into a defensive position.
+- 競合の市場シェア、売上、利益への影響
+- 各正面での目標達成度
+- 競合が防御姿勢へ追い込まれた度合い
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Overextension
+### 過伸長
 
-Launching too many fronts without sufficient resources can lead to overextension and weaken the attacker's position.
+正面を開きすぎると、自社の攻撃力まで薄くなります。
 
-### Lack of Coordination
+### 同期不足
 
-Failure to coordinate actions across different fronts can reduce the effectiveness of the strategy and allow the competitor to recover.
+正面ごとの動きがバラバラだと、競合は回復しやすくなります。
 
-### Underestimating the Competitor
+### 相手の見誤り
 
-Assuming the competitor will not be able to respond effectively can lead to complacency and a failure to anticipate counter-attacks.
+相手が想定より強い、または別の形で反撃してくると、消耗戦は逆流します。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Bandwidth vs. Singular Brilliance
+### 帯域こそ戦力
 
-Sapping highlights that competition is about bandwidth as much as individual strength. By forcing a competitor to defend multiple areas, their bandwidth is exhausted, regardless of their strengths in any single area.
+競争は単発の強さだけではなく、帯域の戦いでもあります。複数領域を守らせると、相手の強みも活きにくくなります。
 
-### Revealing Hidden Weaknesses
+### 隠れていた弱点が露出する
 
-Sapping can expose hidden weaknesses in a competitor, such as faltering customer service or financial instability, which can be further exploited.
+多正面の圧力は、顧客対応の乱れや財務脆弱性など、相手の隠れた弱点を表に出します。
 
-### Not All Fronts Are Equal
+### すべての正面が同価値ではない
 
-Some attacks will be more effective than others. The strategy involves finding the most effective combination of attacks and focusing on the areas where the rival is weakest.
+どの攻撃も同じ強さで効くわけではありません。最もよく効く組み合わせを早く見つける必要があります。
 
-### Cost Considerations
+### コストに耐える必要がある
 
-A multi-front war can be costly. The value of weakening the competitor should outweigh the costs incurred. Sapping is most effective when the attacker has a resource advantage and can endure more than the opponent.
+多正面戦は高コストです。自社が相手より長く持てる、または相手が先に崩れる前提が必要です。
 
-### Endgame
+### 終盤設計が要る
 
-Sapping should lead to the competitor's collapse in one area or their retreat from some fronts. The attacker should be prepared to capitalize on these outcomes by shifting from attacking to securing wins and preventing the competitor from recovering.
+消耗戦は、相手の崩れた一点を取りにいく終盤設計がないと、ただの消耗に終わります。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- What are the competitor's key weaknesses?
-- What resources do we have to support a multi-front attack?
-- How can we coordinate our actions across different fronts?
-- What is our plan for exploiting any wins?
-- How will we measure the success of our sapping strategy?
+- 競合の主要な弱点は何か
+- 多正面を支える資源は十分か
+- 正面同士をどう同期するか
+- どの勝ちをどう増幅するか
+- 成功を何で測るか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- [**Tech Drops**](/strategies/competitor/tech-drops): Sapping can involve elements of Tech Drops by launching surprise attacks on multiple fronts.
-- [**Restriction of Movement**](/strategies/competitor/restriction-of-movement): Sapping can be used to restrict a competitor's movement and limit their ability to respond to attacks.
-- [**Circling and Probing**](/strategies/competitor/circling-and-probing): Circling and probing can be used to identify weaknesses in a competitor before launching a sapping attack.
-
-- [Ambush](/strategies/competitor/ambush) - coordinating stealth erosion tactics with surprise strikes to overwhelm competitors on multiple fronts.
+- [Tech Drops](/strategies/competitor/tech-drops) - surprise を多正面戦の一部として使える
+- [機動制限（Restriction of Movement）](/strategies/competitor/restriction-of-movement) - 相手の反応余地を狭める
+- [Circling and Probing](/strategies/competitor/circling-and-probing) - 弱点を探ってから多正面戦へ入る
+- [奇襲（Ambush）](/strategies/competitor/ambush) - 消耗の途中で決定打として使える
 
 ## ⛅ **関連する状勢パターン**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: The competitor's strengths and weaknesses will change over time, creating new sapping opportunities.
-- [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components of a competitor's offering evolve, their dependencies might become vulnerabilities.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A competitor's past success can make them slow to react to sapping efforts.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Identifying and exploiting a competitor's inefficiencies is a key aspect of sapping.
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Sapping is a direct action to change the game by weakening a competitor.
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 影響: 競合の強みと弱みは時間とともに動く
+- [特性は変化する](/climatic-patterns/characteristics-change) – 影響: 依存関係はやがて脆さにもなる
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 過去の成功が多正面への鈍さを生む
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 相手の非効率は圧力点になる
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 消耗戦自体が競争ルールを変える
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- Clayton Christensen - "The Innovator's Dilemma" (for examples of multi-front competition and disruption).
+- [The Innovator's Dilemma](/books/the-innovators-dilemma)

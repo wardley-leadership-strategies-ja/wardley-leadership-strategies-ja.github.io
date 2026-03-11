@@ -1,5 +1,5 @@
 ---
-title: Circling and Probing
+title: 包囲と探り（Circling and Probing）
 tags:
 - circling-and-probing
 - competitor
@@ -9,8 +9,7 @@ tags:
 - experimentation
 - market testing
 - intelligence
-description: Testing competitor territory with small experiments to gather intelligence
-  before committing heavy investment.
+description: 小さな実験で競合領域を探り、大きな投資の前に情報を集める戦略。
 stages:
 - Genesis
 - Custom-Built
@@ -27,199 +26,202 @@ leadership_focus:
 - Deep user insight
 - Disciplined portfolio management
 quick_signals:
-- You lack real data on how competitors respond to new offerings.
-- Senior leaders debate offensive moves without evidence from the field.
-- Maps highlight attractive spaces but confidence is low about demand.
+- 新しい提供への競合反応に関する実データがない。
+- 経営層が、現場証拠なしに攻勢判断を議論している。
+- 地図では魅力的な空間が見えるが、需要への確信が低い。
 momentum_moves:
-- Launch low-risk experiments in adjacent segments to observe reactions.
-- Instrument probes to capture competitor response time and customer feedback.
-- Use findings to refine larger plays or decide where not to invest.
+- 隣接セグメントで低リスク実験を打ち、競合反応を見る。
+- 反応速度と顧客フィードバックを取れるよう probe を計測する。
+- 学びをもとに大きな一手を磨くか、投資しない場所を決める。
 watch_outs:
-- Treating probes as vanity experiments with no learning loop.
-- Provoking competitors without the capacity to follow through.
-- Misinterpreting noisy signals and drawing the wrong conclusions.
+- 学習ループのない vanity experiment にすること。
+- フォローできる力がないのに競合を刺激すること。
+- ノイズの多い信号を誤読すること。
 effort_level: Lean Experiment
 time_horizon: Fast impact
 ---
 
-
 :::note
-**Circling and Probing** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**包囲と探り（Circling and Probing）** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には触れられていません。
 :::
 
-**Testing the waters in a competitor’s territory through small-scale incursions.**
+**競合の領域へ小さく入り込み、水深を測るように反応と機会を探る戦略です。**
 
-This strategy involves making small, tentative moves into a competitor's space to test their reactions and identify opportunities.
+この戦略では、いきなり正面攻撃せず、周辺から小さな提供や実験を出して、競合や市場の応答を観察します。
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Circling and Probing
+### 包囲と探りとは何か
 
-Circling and probing is a strategy of making small-scale incursions into a competitor's market to explore opportunities and assess the competitive landscape. Instead of a direct attack, a company observes from the periphery, launching experimental offerings to uncover unmet needs or competitor weaknesses.
+包囲と探りは、競合市場へ小規模に入り込み、機会と競争地形を探索する戦略です。企業は周縁から観察し、実験的な提供を通じて unmet needs や競合の弱点を掘り出します。
 
-### Why is Circling and Probing a valuable leadership strategy?
+### なぜ有効なのか
 
-Circling and probing is valuable because it allows a company to:
+- 競争地形を学び、地図を更新できる
+- 競合の反応速度を測れる
+- 攻めるべき機会を見つけられる
+- 市場受容性を小さなコストで試せる
 
-* Learn and map the competitive landscape
-* Gauge a competitor's reaction speed
-* Identify opportunities to exploit
-* Test the market's receptivity
+このアプローチは、低コスト・低コミットの実験で情報を集めるため、大きな投資の前に不確実性を減らせます。
 
-This approach reduces risk by using low-cost, low-commitment experiments to gather intelligence before making larger investments.
+### どう進めるのか
 
-### How?
+核心は competitive exploration です。パイロット、限定提供、ベータ版などで相手の守りと顧客反応を試します。市場と競合がどう動くかを見ながら、次の一手を調整します。
 
-The core idea is competitive exploration. A company tests the opponent's defenses and customer response through small experiments (pilot programs, beta products, limited releases). By observing how the market and competitors respond, the company gains insights to inform future actions. This strategy is about learning and adaptation, allowing for adjustments based on the intelligence gathered.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Netflix のゲーム進出
 
-* **Netflix’s Entry into Gaming:** Netflix began its move into the gaming market with small steps. It added mobile games for subscribers and experimented with streaming games on TVs and PCs in limited beta tests. This probed a market dominated by console and PC game providers. By assessing user interest and technological feasibility on a small scale, Netflix circled the gaming industry without a large upfront investment.
-* **Google’s Trial Products:** Google frequently launches beta products or services in areas where a competitor is strong. For example, Google+ in social networking (Facebook’s territory) and Google Wave for collaboration (rivaling emerging enterprise tools). These efforts served as exploratory probes. Google+ allowed Google to learn about social media user behavior and integrate features into other products.
-* **Amazon’s Beta Offerings:** Amazon has a history of testing new business ideas in limited regions or with trials, such as grocery delivery and fashion (e.g., Amazon Pantry, Prime Wardrobe beta). These probes gauge demand in markets dominated by others (like supermarkets or apparel retailers). Promising results lead to scaling up, while limited risk and cost are incurred if results are poor.
+Netflix は最初からフルスケールでゲーム市場へ行かず、モバイルゲーム追加や TV・PC 向けの限定テストを通じて反応を見ました。これは console/PC dominant の市場を周縁から探った例です。
 
-## 🚦 **When to Use / When to Avoid**
+### Google の試験投入製品
+
+Google は、競合が強い領域へベータ版製品をよく投じます。Google+ や Google Wave のような試みは、成功可否とは別に、ユーザー行動や市場反応を学ぶ probe でもありました。
+
+### Amazon の限定展開
+
+Amazon は食料配送やファッションで、地域限定や beta 形式の試し打ちを重ねてきました。promising なら広げ、だめなら限定損失で止めます。
+
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Circling and Probing">
   <MapSignals>
-    <li>We see a valuable market or user segment currently served by a competitor, but with unclear user satisfaction or unmet needs.</li>
-    <li>The competitor is strong but not invulnerable—there are signs of pricing, experience, or agility constraints.</li>
-    <li>Our map shows this area as adjacent to our current value chain but not yet fully mapped or explored.</li>
-    <li>The opportunity is uncertain or unvalidated, making a full-scale commitment premature.</li>
-    <li>We anticipate market change or inflection but need more insight before committing.</li>
-    <li>We would benefit from learning how the competitor reacts to unexpected moves or new offerings.</li>
+    <li>価値ある市場や利用者層が競合に押さえられているが、満足度や unmet needs は不明である。</li>
+    <li>競合は強いが無敵ではなく、価格、体験、俊敏性に制約が見える。</li>
+    <li>地図上では自社バリューチェーンに隣接するが、まだ十分探索できていない領域である。</li>
+    <li>機会は不確実で、全面投資には早い。</li>
+    <li>市場変化や転換点がありそうだが、まだ確証が足りない。</li>
+    <li>競合が unexpected moves にどう反応するかを学びたい。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the ability to rapidly create small-scale offerings (e.g., MVPs, limited pilots, betas).</li>
-    <li>We are culturally comfortable with controlled experimentation and learning through doing.</li>
-    <li>We can instrument and evaluate low-commitment probes to gain actionable intelligence.</li>
-    <li>We have the discipline to avoid premature scaling or overinterpreting small signals.</li>
-    <li>Our teams understand the distinction between core execution and experimental probes.</li>
-    <li>We can adapt quickly based on new intelligence gathered through market testing.</li>
-    <li>We have clear strategic intent guiding what we want to learn or provoke from the competitor.</li>
+    <li>MVP、限定 pilot、beta など小規模提供を素早く作れる。</li>
+    <li>制御された実験を回し、やりながら学ぶ文化がある。</li>
+    <li>低コミットの probe を計測し、使える情報へ変えられる。</li>
+    <li>早すぎる拡張や小さな信号の過大解釈を避ける規律がある。</li>
+    <li>本流実行と実験的 probe の違いをチームが理解している。</li>
+    <li>市場テストから得た新情報へすぐ適応できる。</li>
+    <li>競合から何を引き出したいか、明確な意図がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-Circling and probing is useful for:
+- 競合の領域を小さく試したいとき
+- unmet needs や弱点を見つけたいとき
+- 大きなコミット前に不確実性を減らしたいとき
+- 変化の速い市場で手触りのある情報が欲しいとき
 
-* Testing the waters in a competitor's territory
-* Identifying unmet needs or weaknesses in a competitor's offerings
-* Reducing uncertainty before a major commitment
-* Operating in fast-evolving markets
+### 避けるとき
 
-### Avoid when
+- 即断即決の強い行動が必要なとき
+- 競合が明確に脆く、簡単に打ち崩せるとき
+- 刺激することのリスクが、学習価値を上回るとき
 
-* There is a need for immediate, decisive action
-* The competitor is highly vulnerable and can be easily defeated
-* The risks associated with provoking a competitor outweigh the potential benefits of probing
+## 🎯 **リーダーシップ**
 
-## 🎯 **Leadership**
+### 中核課題
 
-### Core challenge
+**好奇心とデータ志向** を保ちながら、曖昧さに耐えることです。小さな実験を許しつつ、学びをもとに本当に次の判断へつなげなければなりません。
 
-Leaders must balance a **curious, data-driven mindset** with a tolerance for ambiguity. They should foster an environment where small experiments are encouraged and failures are acceptable.
+### 必要なスキル
 
-### Key leadership skills required
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 景観を読む
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — 不確実性下で動く
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 小さく安全に試す
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 学びを共有する
 
-* [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic thinking.
-* [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Adaptability.
-* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management.
-* [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clear communication.
+### 倫理面
 
-### Ethical considerations
+知財侵害や deceptive practices は避けるべきです。正当な探索であることが前提です。
 
-Circling and probing should be conducted ethically, respecting competitors' intellectual property and avoiding deceptive practices.
+## 📋 **進め方**
 
-## 📋 **How to Execute**
+1. **仮説を定義する:** この probe で何を学びたいのか明示する
+2. **最小提供を作る:** 速く、小さく、限定投資で出せるものにする
+3. **対象を絞る:** 地域や属性で露出を制限する
+4. **学習のために計測する:** 定量指標と定性フィードバックを取る
+5. **低姿勢を保つ:** 競合を無駄に刺激せず、顧客期待も上げすぎない
+6. **結果を評価する:** 需要や弱点を本当に見つけたかを判定する
+7. **学びを統合する:** 次の戦略判断へ組み込む
 
-1. **Define the hypothesis:** Clearly state what you aim to learn from the probe.
-2. **Develop a minimal viable offering:** Create something that can be launched quickly and with limited investment, yet is sufficient to attract users and generate feedback.
-3. **Target strategically:** Use geographic or demographic targeting to limit exposure.
-4. **Instrument for learning:** Set metrics and collect qualitative feedback to maximize learning.
-5. **Maintain a low profile:** Avoid alerting competitors or setting high customer expectations.
-6. **Evaluate results:** Assess whether the probe uncovered demand or vulnerabilities.
-7. **Integrate learnings:** Use the insights gained to inform future strategies.
+## 📈 **成功指標**
 
-## 📈 **Measuring Success**
+- 学習目的を満たせたか
+- 低コストで probe を実施できたか
+- 競合反応から有用な情報が取れたか
+- 市場機会の有無を検証できたか
+- 反復速度は十分か
+- 大きな失敗を未然に防げたか
+- 全体戦略にどう効いたか
+- 新しい市場知識や競合知識を何が得られたか
 
-* Learning objectives met: Did the probe provide the intended insights?
-* Cost-effectiveness: Were the probes conducted with minimal investment?
-* Competitor reaction: Did the competitor's response provide valuable intelligence?
-* Market validation: Did the probe identify potential opportunities?
-* Speed of iteration: How quickly can the organization adapt based on probe results?
-* Risk mitigation: Did the probe prevent a larger, more costly mistake?
-* Strategic alignment: How well do the probe's findings inform overall strategy?
-* Knowledge acquisition: What new knowledge was gained about the market and competitors?
+## ⚠️ **失敗しやすい点**
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+### 過信
 
-### Overconfidence
+競合を甘く見たり、probe の影響を過大評価したりすると危険です。
 
-Underestimating a competitor's strengths or overestimating the probe's potential impact.
+### 分析麻痺
 
-### Analysis paralysis
+探るだけ探って、学びに基づく決断を先送りすると意味がありません。
 
-Getting stuck in continuous probing without taking decisive action based on the insights gained.
+### 早すぎる拡張
 
-### Premature scaling
+市場反応の意味を十分理解しないまま広げると危険です。
 
-Scaling up a probe before fully understanding its implications or the market's response.
+## 🧠 **戦略的示唆**
 
-## 🧠 **Strategic Insights**
+### 不確実性を減らすための手
 
-### Reducing Uncertainty
+大きな賭けの前に魅力度と競合の強さを見極めるための戦略です。
 
-Circling and probing reduces uncertainty before making major commitments. It helps avoid costly missteps by revealing market attractiveness and competitor strengths.
+### 心理的な揺さぶりも起こせる
 
-### Psychological Impact
+小さな probe は競合を不安定にし、過剰反応や焦点分散を誘うことがあります。
 
-Small probes can unsettle competitors, causing them to overreact or spread their focus.
+### 他戦略の前段になりやすい
 
-### Complementary Strategies
+Misdirection や Tech Drop の前に、景観確認として使うと強いです。
 
-Probing can be combined with other strategies, such as misdirection or a follow-up Tech Drop, to increase effectiveness.
+### 組織内の位置づけを明確にする
 
-### Organizational Alignment
+本業と probe を混同すると、両方が弱くなります。
 
-Ensure employees understand the difference between core business efforts and probes to avoid neglect.
+### 目的は行動につなぐこと
 
-### Action Orientation
+探ること自体が目的ではありません。どこへ投資し、どこを捨てるかを決めるための探索です。
 
-Avoid getting stuck in analysis; the goal is to use insights to decide where to invest.
+## ❓ **問うべきこと**
 
-## ❓ **Key Questions to Ask**
+- どの仮説を試しているのか
+- 最小投資はいくらか
+- 競合はどう反応しそうか
+- 何を学べたら成功とみなすか
+- reputational risk をどう抑えるか
+- 学びを全体戦略へどうつなぐか
 
-* **Market Understanding:** What specific hypothesis about the competitor's market or offering are we testing with this probe?
-* **Resource Allocation:** What is the minimal investment required for this probe to yield meaningful data, and how does this align with our overall experimental budget?
-* **Competitor Response:** What is the range of potential competitor reactions, and how prepared are we to adapt our strategy based on these responses?
-* **Learning Objectives:** What are the key learning objectives for this probe, and how will we measure success in achieving them?
-* **Risk Assessment:** What are the potential downsides of this probe, including reputational risk or unwanted competitive attention, and how can we mitigate them?
-* **Strategic Alignment:** How will the insights from this probe inform our broader strategic decisions, regardless of the outcome?
+## 🔀 **関連戦略**
 
-## 🔀 **Related Strategies**
-
-* [**Misdirection**](/strategies/competitor/misdirection) - Using tactics to mislead a competitor about your intentions.
-* [**Tech Drops**](/strategies/competitor/tech-drops) - Launching a sudden, unexpected attack on a competitor.
-* [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
-* [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
-* [Cooperation](/strategies/accelerators/cooperation) - collaborating superficially to gather insights and test competitor responses under the guise of partnership.
-* [sapping](/strategies/competitor/sapping) - gradually undermining a competitor’s resources or alliances to soften defences before probing actions.
-* [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
-* [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
+- [Misdirection](/strategies/competitor/misdirection) - 意図を誤認させる
+- [Tech Drops](/strategies/competitor/tech-drops) - 大きな一手の前に景観確認として使える
+- [実験（Experimentation）](/strategies/attacking/experimentation) - 新しいやり方を探る
+- [Alliances](/strategies/ecosystem/alliances) - 競合を試す代わりに協力する対照戦略
+- [Cooperation](/strategies/accelerators/cooperation) - 協業の顔をしながら市場理解を深める場面もある
+- [消耗戦（Sapping）](/strategies/competitor/sapping) - 防御を柔らかくしてから探る
+- [断片化（Fragmentation）](/strategies/competitor/fragmentation) - 競合ネットワークを割って孤立点を作る
+- [奇襲（Ambush）](/strategies/competitor/ambush) - 探りで見えた弱点へ決定打を当てる
 
 ## ⛅ **関連する状勢パターン**
 
-* [Everything evolves](/climatic-patterns/everything-evolves) – rel: The landscape is constantly changing, requiring ongoing circling and probing.
-* [Characteristics change](/climatic-patterns/characteristics-change) – rel: Competitor capabilities and market dynamics shift, necessitating adaptation.
-* [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors might become complacent, creating opportunities.
-* [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Probing can uncover inefficiencies that can be exploited or areas ripe for innovation.
-* [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This strategy is a direct response to and anticipation of competitor actions.
+- [あらゆるものは進化する](/climatic-patterns/everything-evolves) – 影響: 景観は動き続けるので継続的な探りが要る
+- [特性は変化する](/climatic-patterns/characteristics-change) – 影響: 競合能力や市場条件は変わり続ける
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 競合の慢心が機会になる
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 非効率や未熟点を探り当てられる
+- [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 影響: 相手の返しそのものが学習対象になる
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-* "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
-* "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.
-* [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
-* [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
+- [Competitive Strategy](/books/competitive-strategy)
+- [The Art of War](/books/the-art-of-war)
+- [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
+- [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
