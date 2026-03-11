@@ -18,16 +18,16 @@ export default function HomepageLeadershipSkills(): ReactNode {
             <div>
               <h3>スキル分類</h3>
               <p className={styles.categoryLinks}>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#sensemaking-and-analysis">状況把握と分析</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#market-and-commercial-strategy">市場と商業戦略</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#competitive-positioning-and-game-dynamics">競争力学</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#ecosystems-platforms-and-standards">エコシステムと標準</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#governance-risk-and-ethics">ガバナンスとリスク</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#execution-and-transformation">実行と変革</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#innovation-and-learning">イノベーションと学習</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#influence-negotiation-and-conflict">影響力と交渉</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#people-and-culture">人と文化</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/leadership-skills#legal-regulatory-and-security">法務とセキュリティ</a>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#sensemaking-and-analysis">状況把握と分析</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#market-and-commercial-strategy">市場と商業戦略</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#competitive-positioning-and-game-dynamics">競争力学</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#ecosystems-platforms-and-standards">エコシステムと標準</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#governance-risk-and-ethics">ガバナンスとリスク</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#execution-and-transformation">実行と変革</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#innovation-and-learning">イノベーションと学習</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#influence-negotiation-and-conflict">影響力と交渉</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#people-and-culture">人と文化</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/leadership-skills#legal-regulatory-and-security">法務とセキュリティ</Link>
               </p>
             </div>
           </div>

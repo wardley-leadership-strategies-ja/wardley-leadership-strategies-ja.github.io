@@ -1,9 +1,13 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import BrowserFrame from '../BrowserFrame';
 
 export default function HomepageFeatures(): ReactNode {
+  const assessmentToolScreenshot = useBaseUrl('/img/assessment-tool-screenshot.png');
+
   return (
     <section className={styles.features}>
     <div className="container">
@@ -12,7 +16,7 @@ export default function HomepageFeatures(): ReactNode {
         <div className={clsx('col col--8')}>
           <div className="hero shadow--md margin-vert--lg">
             <div className="container">
-              <h2 className="hero__title"><a href="/strategies">60 以上のリーダーシップ戦略</a></h2>
+              <h2 className="hero__title"><Link to="/strategies">60 以上のリーダーシップ戦略</Link></h2>
               <p className="hero__subtitle">
                 Wardley Map から具体的な行動へ落とし込むための実践ガイドです。
                 詳細な解説と現実の事例を通じて、多様な状況と競争環境で使える戦略ゲームプレイを探せます。
@@ -20,17 +24,17 @@ export default function HomepageFeatures(): ReactNode {
               <div>
                 <h3>カテゴリから探す</h3>
                 <p>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/accelerators">加速戦略</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/attacking">攻撃戦略</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/competitor">競合対応</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/dealing-with-toxicity">毒性への対処</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/decelerators">減速戦略</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/defensive">防衛戦略</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/ecosystem">エコシステム</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/markets">市場</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/poison">ポイズン</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/positional">ポジショニング</a>
-                  <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/strategies/user-perception">ユーザー認識</a>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/accelerators">加速戦略</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/attacking">攻撃戦略</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/competitor">競合対応</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/dealing-with-toxicity">毒性への対処</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/decelerators">減速戦略</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/defensive">防衛戦略</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/ecosystem">エコシステム</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/markets">市場</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/poison">ポイズン</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/positional">ポジショニング</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/user-perception">ユーザー認識</Link>
                 </p>
               </div>
             </div>
@@ -41,13 +45,13 @@ export default function HomepageFeatures(): ReactNode {
           <div className={`${styles.miniHero} margin-vert--lg`}>
             <div className="container">
               <h2 className={styles.miniHero__title}>このサイトは何か</h2>
-              <p className={styles.miniHero__subtitle}>
+              <div className={styles.miniHero__subtitle}>
                 <p>Wardley Map は競争環境を理解し、より良い戦略判断を行うための視覚的な道具です。</p>
                 <p><strong>Wardley Leadership Strategies</strong> は、実行可能なリーダーシップ戦略に焦点を当てた実践的なガイドです。</p>
                 <p>この日本語版では、原典をもとに内容を翻訳し、継続的に改善していきます。</p>
-              </p>
+              </div>
               <div>
-                  <a className="margin-right--sm margin-bottom--sm button button--primary" href="/about">詳しく見る</a>
+                  <Link className="margin-right--sm margin-bottom--sm button button--primary" to="/about">詳しく見る</Link>
               </div>
             </div>
           </div>      
@@ -61,22 +65,22 @@ export default function HomepageFeatures(): ReactNode {
             <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
               <h2 className="margin-bottom--sm">戦略評価ツール</h2>
               <p className="margin-bottom--sm" style={{ fontSize: '1.25rem' }}>
-                <a href="/about/assessment-tool">戦略評価ツール</a> を使うと、
+                <Link to="/about/assessment-tool">戦略評価ツール</Link> を使うと、
                 各戦略が自分たちの状況にどれだけ適しているか、実行準備が整っているかを手早く確認できます。
                 マップ上のシグナルと組織の準備状況を見ながら判断できます。
               </p>
               <div className={styles.buttonGroup}>
-                <a className="button button--primary" href="/about/assessment-tool">
+                <Link className="button button--primary" to="/about/assessment-tool">
                   ツールを使う
-                </a>
-                <a className="button button--secondary" href="/my-progress">
+                </Link>
+                <Link className="button button--secondary" to="/my-progress">
                   保存した評価を見る
-                </a>
+                </Link>
               </div>
             </div>
             <div className={clsx('col col--4')}>
               <BrowserFrame>
-                <img src="/img/assessment-tool-screenshot.png" alt="戦略評価ツール" style={{ width: '100%', borderRadius: '8px' }} />
+                <img src={assessmentToolScreenshot} alt="戦略評価ツール" style={{ width: '100%', borderRadius: '8px' }} />
               </BrowserFrame>
             </div>
           </div>
@@ -95,9 +99,9 @@ export default function HomepageFeatures(): ReactNode {
                 <li>気候シグナル、最初の一手、注意点を一覧できます。</li>
                 <li>最大 3 つまで比較して次の一手を選べます。</li>
               </ul>
-              <a className="button button--secondary" href="/strategy-navigator">
+              <Link className="button button--secondary" to="/strategy-navigator">
                 ナビゲーターを開く
-              </a>
+              </Link>
             </div>
             <div className={clsx('col col--4')}>
               <BrowserFrame>
@@ -137,9 +141,9 @@ export default function HomepageFeatures(): ReactNode {
                 <li>戦略の時系列ログとしてスナップショットを残せます。</li>
                 <li>次の一手のテンポに関する提案をすぐ得られます。</li>
               </ul>
-              <a className="button button--secondary" href="/tools/strategy-pulse-check">
+              <Link className="button button--secondary" to="/tools/strategy-pulse-check">
                 パルスチェックを始める
-              </a>
+              </Link>
             </div>
             <div className={clsx('col col--4')}>
               <BrowserFrame>
@@ -167,7 +171,7 @@ export default function HomepageFeatures(): ReactNode {
               <h2 className="margin-bottom--sm">戦略ガイド</h2>
               <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
                 チームがマップから行動へ移るためのステップ型プレイブックです。まずは{' '}
-                <a href="/strategy-guides/introduction-to-strategic-play">戦略的プレイ入門</a> から始め、
+                <Link to="/strategy-guides/introduction-to-strategic-play">戦略的プレイ入門</Link> から始め、
                 具体的なシナリオ別ガイドへ進めます。
               </p>
               <ul className="margin-bottom--sm">
@@ -176,12 +180,12 @@ export default function HomepageFeatures(): ReactNode {
                 <li>戦略判断の共通言語を持てます。</li>
               </ul>
               <div className={styles.buttonGroup}>
-                <a className="button button--primary" href="/strategy-guides">
+                <Link className="button button--primary" to="/strategy-guides">
                   戦略ガイドを見る
-                </a>
-                <a className="button button--secondary" href="/strategy-guides/introduction-to-strategic-play">
+                </Link>
+                <Link className="button button--secondary" to="/strategy-guides/introduction-to-strategic-play">
                   入門ガイドを読む
-                </a>
+                </Link>
               </div>
             </div>
             <div className={clsx('col col--4')}>

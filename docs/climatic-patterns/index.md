@@ -8,7 +8,7 @@ authors: [dave-hulbert]
 
 こうした傾向を認識することで、リーダーは環境の進化を先読みし、条件が変わる前に戦略を調整できます。
 
-## コンポーネント
+## コンポーネント {#components}
 
 このカテゴリでは、システムの各要素が進化しながら成熟し、相互作用していく様子を扱います。
 
@@ -21,14 +21,14 @@ authors: [dave-hulbert]
 - [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)
 - [合成労働はコモディティ化する](/climatic-patterns/synthetic-labour-becomes-a-commodity)
 
-## 競合
+## 競合 {#competitors}
 
 このカテゴリでは、競合の動きが自分たちの競争環境をどう変えるかを扱います。
 
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)
 - [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)
 
-## 金融
+## 金融 {#financial}
 
 金融系のパターンは、価値の流れや投資サイクルが進化へどう影響するかを示します。
 
@@ -39,14 +39,14 @@ authors: [dave-hulbert]
 - [将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it)
 - [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)
 
-## 慣性
+## 慣性 {#inertia}
 
 このカテゴリでは、内部抵抗が必要な変化をどう妨げるかを扱います。
 
 - [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation)
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia)
 
-## 予測
+## 予測 {#prediction}
 
 予測のパターンは、市場サイクルやシグナルを通じて将来の変化を見通す助けになります。
 
@@ -58,7 +58,7 @@ authors: [dave-hulbert]
 - [破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption)
 - [時間や採用率だけで進化は測れない](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty)
 
-## 速度
+## 速度 {#speed}
 
 速度のパターンは、変化の速さと安定性が俊敏性にどう影響するかを扱います。
 

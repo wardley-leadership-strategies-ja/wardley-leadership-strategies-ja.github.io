@@ -4,6 +4,7 @@ import Results, { getLevelFromScore, summaryText } from './Results';
 import SignalList from './SignalList';
 import { extractStatements } from './parseChildren';
 import AssessmentToolAdvert from './AssessmentToolAdvert';
+import Link from '@docusaurus/Link';
 import { useDoc } from '@docusaurus/plugin-content-docs/client';
 import {
   clearStrategy,
@@ -105,7 +106,7 @@ const Assessment = ({ children, strategyName }) => {
           <p>
             各項目について「はい / どちらともいえない / いいえ」を選び、
             戦略適合度と組織の準備度を確認します。{' '}
-            <a href="/about/assessment-tool">戦略評価ガイド</a>。
+            <Link to="/about/assessment-tool">戦略評価ガイド</Link>。
           </p>
         </div>
 

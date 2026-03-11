@@ -18,12 +18,12 @@ export default function HomepageClimaticPatterns(): ReactNode {
             <div>
               <h3>カテゴリから探す</h3>
               <p className={styles.categoryLinks}>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#components">コンポーネント</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#competitors">競合</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#financial">金融</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#inertia">慣性</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#prediction">予測</a>
-                <a className="margin-right--sm margin-bottom--sm button button--outline button--primary" href="/climatic-patterns#speed">速度</a>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#components">コンポーネント</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#competitors">競合</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#financial">金融</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#inertia">慣性</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#prediction">予測</Link>
+                <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/climatic-patterns#speed">速度</Link>
               </p>
             </div>
           </div>
