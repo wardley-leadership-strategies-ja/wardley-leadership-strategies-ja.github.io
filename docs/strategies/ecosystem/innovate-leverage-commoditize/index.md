@@ -1,7 +1,6 @@
 ---
-title: Innovate, Leverage, Commoditize (ILC)
-description: A cyclical strategy of using an ecosystem as a sensing engine to guide
-  innovation and maintain market leadership.
+title: "革新・活用・コモディティ化（Innovate, Leverage, Commoditize: ILC）"
+description: エコシステムを sensing engine として使い、革新を導いて市場主導権を維持する循環戦略。
 tags:
 - ecosystem
 - innovate-leverage-commoditize
@@ -31,39 +30,38 @@ leadership_focus:
 - Data instrumentation
 - Standard stewardship
 quick_signals:
-- Your platform attracts experimentation but you struggle to decide what to productise.
-- Ecosystem partners succeed faster than your internal teams can copy.
-- You lack telemetry that shows which extensions are gaining momentum.
+- プラットフォームには実験が集まるが、何を productize すべきか判断が遅い。
+- ecosystem partner の成功速度に、社内チームが追いつけない。
+- どの拡張が勢いを得ているか示す telemetry が不足している。
 momentum_moves:
-- Instrument usage across the ecosystem to surface breakout patterns.
-- Create clear pathways for promoting partner innovations into the core platform.
-- Continuously communicate roadmap decisions so contributors see the flywheel working.
+- ecosystem 全体の利用計測を整え、breakout pattern を表面化する。
+- partner innovation を core platform へ昇格させる clear path を作る。
+- roadmap 判断を継続的に説明し、flywheel が回っていることを contributor に見せる。
 watch_outs:
-- Commoditising partner innovations without rewarding or retaining them.
-- Letting bureaucracy slow the cycle until the ecosystem loses interest.
-- Failing to invest in the next wave while harvesting the current one.
+- partner の innovation を commoditize するだけで、報いも関係維持もしないこと。
+- bureaucracy で cycle を遅らせ、ecosystem の関心を失うこと。
+- いまの収穫に集中しすぎて、次の波への投資を止めること。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
+**エコシステムを sensing engine として使い、革新を誘導し続ける循環戦略です。**
 
-**A cyclical strategy of using an ecosystem as a sensing engine to guide innovation and maintain market leadership.**
-
-> *"Using consumption data to detect future success."*
+> *「消費データを使って将来の成功を検知すること。」*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Innovate, Leverage, Commoditize (ILC)?
+### ILC とは何か
 
-ILC is a powerful, cyclical strategy for continuous innovation and market leadership. It works in three phases:
+ILC は、継続革新と市場主導権のための循環戦略です。3 段階で回ります。
 
-1. **Innovate:** Create a new component or platform and release it to the market. This is often a novel, unproven technology (in the Genesis or Custom-Built stage).
-2. **Leverage:** Encourage a broad ecosystem of third parties (customers, partners, developers) to build on top of your innovation. You are *leveraging* their creativity and investment to explore the possibilities of your new platform.
-3. **Commoditize:** This is the crucial step. You must have a **Sensing Engine** to monitor the ecosystem. By observing what the most successful third parties are building, you can identify emerging patterns and user needs. You then take these proven concepts and build them into your core platform as a standardized, reliable, and often cheaper component. This commoditization makes the new feature widely accessible and becomes the foundation for the next cycle of innovation.
+1. **Innovate:** 新しい component や platform を作って市場へ出す
+2. **Leverage:** 顧客、パートナー、開発者など第三者 ecosystem に、その上で build してもらう
+3. **Commoditize:** sensing engine で ecosystem を観察し、成功した pattern を core platform の標準・安価・信頼できる component に取り込む
 
-This creates a powerful feedback loop where the market itself tells you what to build next, dramatically reducing the risk of innovation.
+これにより、市場自身が次に何を作るべきかを教えてくれる feedback loop ができます。
 
 ```mermaid
 flowchart TD
@@ -74,169 +72,154 @@ flowchart TD
     class Innovate,Leverage,Commoditize phase
 ```
 
-### Why use ILC?
+### なぜ使うのか
 
-ILC is a strategy for out-maneuvering competitors by learning and adapting faster. The key benefits are:
+- **革新のリスクを下げる:** 市場が何千もの実験を行い、勝ち筋だけを自社が取れる
+- **継続的 relevance:** 価値ある新機能を絶えず core platform へ取り込める
+- **市場主導権:** emerging standard を commoditize し、競合 foothold を防げる
+- **ecosystem value:** commoditize された土台の上でも第三者が新しい価値を作れる
 
-- **De-risked Innovation:** Instead of guessing what the market wants, you let the ecosystem conduct thousands of experiments, and you only invest in the proven winners.
-- **Continuous Relevance:** The ILC cycle ensures that your platform is constantly evolving and incorporating the most valuable new features.
-- **Market Leadership:** By commoditizing emerging standards, you can prevent competitors from gaining a foothold and solidify your position as the market leader.
-- **Ecosystem Value:** A successful ILC strategy creates a vibrant ecosystem where third parties can still build successful businesses on the new, commoditized components.
+## 🗺️ **実例**
 
-## 🗺️ **Real-World Examples**
+### Amazon Web Services（AWS）
 
-### Amazon Web Services (AWS)
+AWS は EC2 や S3 で primitives を **Innovate** し、その上で startup や企業の膨大な ecosystem を **Leverage** しました。顧客が EC2 上でデータベース運用に苦しむ pattern を sensing し、それを Amazon RDS として **Commoditize** しました。同じ流れが Redshift、Lambda、SageMaker でも繰り返されています。
 
-AWS is the textbook example of ILC. They **Innovated** by creating the first true cloud computing primitives (EC2 for compute, S3 for storage). They **Leveraged** a massive ecosystem of startups and enterprises who built on these primitives. Their **Sensing Engine** was observing common customer patterns. For example, they saw many customers struggling to manage databases on EC2 instances. So, they **Commoditized** this pattern by launching Amazon RDS (Relational Database Service), a managed database service. This cycle has repeated endlessly, with AWS sensing demand for data warehousing (Redshift), serverless computing (Lambda), and machine learning (SageMaker) and commoditizing them into new services.
+### Apple の iOS
 
-### Apple's iOS
+Apple は iPhone と App Store を **Innovate** し、巨大な開発者コミュニティを **Leverage** しました。そして App Store を sensing engine にして、人気の app concept を iOS へ **Commoditize** してきました。懐中電灯、podcast、screen time などが典型です。
 
-Apple **Innovated** with the iPhone and the App Store. They **Leveraged** a huge community of developers to create millions of apps. Their **Sensing Engine** is the App Store itself – they can see which apps and features become popular. Over time, they have **Commoditized** successful app concepts directly into iOS. Features like flashlight apps, podcast players, and screen time monitors were all pioneered by third-party developers before being absorbed into the core operating system.
+### Microsoft と GitHub
 
-### Microsoft and GitHub
-
-The acquisition of GitHub by Microsoft is a classic example of the ILC strategy in action.
-
-1. **Innovate:** GitHub created a platform for developers that made it easy to host and collaborate on code. This was a significant innovation in the software development workflow.
-2. **Leverage:** Microsoft, along with the entire software development community, leveraged GitHub for its own projects. They built on top of the platform and became an active participant in the ecosystem.
-3. **Commoditize:** By acquiring GitHub, Microsoft is now in a position to commoditize many of the activities that happen on the platform. They can more deeply integrate it with their Azure cloud platform, and use the data from GitHub to sense emerging trends in technology. This allows them to create new services and tools that meet the needs of developers, further strengthening their position in the market.
-
-This is illustrated in the following map from [Chris Adams](https://awmug.wordpress.com/author/mrchrisadams/) from the [AWMUG blog](https://awmug.wordpress.com/2018/10/02/2018-06-05-mapping-microsoft-and-github/):
+GitHub は開発者向け協働基盤を **Innovate** しました。Microsoft はその ecosystem を **Leverage** し、最終的に GitHub を獲得することで、developer trend を sensing し、Azure や関連サービスへ **Commoditize** しやすい立場に入りました。
 
 ![Map of Microsoft and GitHub ILC strategy](/img/maps/microsoft-github-ilc.png)
 
 ### AWS Rekognition
 
-John Duffy (@JDUFFY) describes how AWS utilized the ILC cycle to dominate the facial recognition market with their Rekognition service. The key steps were:
-
-1. **Innovate:** A company built a facial recognition (FR) system for fraud detection on AWS EC2.
-2. **Leverage:** AWS noticed its usage and suggested applying it to general user authentication. The competitor wasn't concerned, as their strength was the core algorithm, not the UI or API.
-3. **Commoditize:** AWS then launched its own service, Rekognition, built on the newer and more efficient ECS platform, targeting the "simpler" user authentication market. They then upgraded Rekognition to also perform fraud detection, charging only for processing time, effectively commoditizing the competitor's valuable market.
-
-This emergent strategy allowed AWS to "see the board" better and apply the ILC framework to dominate the market.
+AWS は、fraud detection 向けに顧客が EC2 上で facial recognition を作っているのを見ていました。それをより広い user authentication 用途へ広げ、最終的に Rekognition としてサービス化し、元のプレイヤーの価値市場を commoditize しました。
 
 ![AWS Rekognition Wardley Map](/img/maps/ilc-aws-rekognition-map.jpeg)
 
 Credit: John Duffy, original thread: [https://x.com/jduffy/status/1440320398738870275](https://x.com/jduffy/status/1440320398738870275)
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Innovate, Leverage, Commoditize (ILC)">
   <MapSignals>
-    <li>Your map shows an opportunity to create a new platform or utility that others can build upon.</li>
-    <li>There is a potential for a large and vibrant ecosystem of third-party developers or partners.</li>
-    <li>The value chain has multiple layers, allowing for new components to be built on top of existing ones.</li>
-    <li>The market is dynamic and fast-moving, making it difficult to predict the next winning feature.</li>
+    <li>他者が build したくなる新しい platform や utility を作れる。</li>
+    <li>大きく活気ある third-party ecosystem を形成できる可能性がある。</li>
+    <li>バリューチェーンが多層で、既存 component の上に新しい component が乗りやすい。</li>
+    <li>市場が速く動き、次の winning feature を予測しにくい。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the capability to build and operate a reliable, scalable platform.</li>
-    <li>We have effective "sensing engines" – the ability to collect and analyze usage data to spot trends.</li>
-    <li>Our organization is agile enough to quickly commoditize a successful pattern once it's identified.</li>
-    <li>We understand the importance of balancing our own interests with the health of the ecosystem.</li>
+    <li>信頼性とスケールを持つ platform を作り運営できる。</li>
+    <li>usage data を収集・分析して trend を見つける sensing engine がある。</li>
+    <li>成功 pattern を見つけたら、素早く commoditize できる。</li>
+    <li>自社利益と ecosystem 健全性の均衡を理解している。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You can create a platform or utility that will attract a significant ecosystem.
-- You are in a fast-moving market where customer needs are constantly evolving.
-- You have the resources and the agility to run the full ILC cycle repeatedly.
+- 大きな ecosystem を引き寄せる platform や utility を作れるとき
+- 顧客ニーズが絶えず変化する fast-moving market にいるとき
+- ILC cycle を何度も回せる資源と俊敏性があるとき
 
-### Avoid when
+### 避けるとき
 
-- You cannot attract an ecosystem to build on your platform.
-- Your organization is too slow to act on the signals from your sensing engine. A competitor could spot the same trend and commoditize it before you do.
-- You are in a very stable, slow-moving market where this level of dynamic innovation is not required.
+- platform の上に ecosystem を引き寄せられないとき
+- sensing engine の signal を読んでも、行動が遅すぎるとき
+- とても安定した slow-moving market で、そこまで動的革新が不要なとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core leadership challenge is to master the delicate balance of the ILC cycle. Leaders must be willing to invest in creating an open platform (Innovate), resist the temptation to control it too tightly (Leverage), and have the courage to cannibalize parts of their own ecosystem by (Commoditizing) successful patterns. The most difficult part is not killing the golden goose: if you are too aggressive in commoditizing every successful idea, you will destroy the trust of your ecosystem, and they will stop innovating.
+この循環の delicate balance を保つことです。open platform を作り、tight control を我慢し、成功した pattern を commoditize しても ecosystem を殺さないようにしなければなりません。golden goose を殺さないことが最難関です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — The ability to see the business as a platform that enables others, not just a provider of products.
-- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The capacity to understand the complex feedback loops between the platform and the ecosystem.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to act quickly and decisively to commoditize a winning pattern.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — The wisdom to know when to intervene and when to let the ecosystem flourish on its own.
+- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — platform として事業を見る
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — feedback loop を理解する
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 勝ち pattern を素早く commoditize する
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — どこで介入し、どこは ecosystem に任せるかを決める
 
-### Ethical considerations
+### 倫理面
 
-The main ethical consideration is the relationship with the ecosystem. Is it a fair and symbiotic partnership, or is it an exploitative one? The term "Sherlocking" (where Apple builds a feature that makes a popular third-party app obsolete) highlights this tension. Leaders must ensure that they are creating more value for the ecosystem than they are capturing, or the ILC engine will eventually grind to a halt.
+主要論点は ecosystem との関係です。共生的なのか、搾取的なのか。Apple が popular app feature を OS に取り込む “Sherlocking” はその緊張をよく示します。ecosystem へ返す価値より取り過ぎれば、ILC engine は止まります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Innovate: Build the Platform:** Identify a component that can be turned into a utility and build a robust, scalable platform around it.
-2. **Leverage: Attract the Ecosystem:** Make your platform accessible and attractive to third parties. Provide good documentation, APIs, and support.
-3. **Sense: Monitor the Ecosystem:** Implement your sensing engine. This could be a combination of quantitative data (API usage, transaction volumes) and qualitative data (community feedback, developer interviews).
-4. **Identify the Winner:** Analyze the data to find the breakout successes – the patterns of usage that indicate a strong, unmet customer need.
-5. **Commoditize: Build the Feature:** Make the strategic decision to commoditize the winning pattern. Build a first-class, integrated version of the feature into your core platform.
-6. **Repeat:** The new commoditized layer becomes the foundation for the next wave of innovation from the ecosystem. The cycle begins again.
+1. **Innovate:** utility 化できる component を見つけ、 robust platform を作る
+2. **Leverage:** documentation、API、support で third party を呼び込む
+3. **Sense:** API usage、transaction volume、community feedback などを測る
+4. **Identify the winner:** breakout success と unmet need を示す pattern を見つける
+5. **Commoditize:** 勝ち pattern を core platform の integrated feature にする
+6. **Repeat:** 新しい commoditized layer を次の innovation wave の土台にする
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- **Ecosystem Growth:** Is the number of active participants in your ecosystem growing?
-- **Pace of Commoditization:** How quickly are you able to identify and ship new, commoditized features based on ecosystem signals?
-- **Platform Adoption:** Is the adoption of your core platform and your new, commoditized services growing?
-- **Resilience to Competition:** Are you able to consistently stay ahead of competitors by integrating the most valuable new features?
+- ecosystem の active participant 成長
+- ecosystem signal をもとにした commoditized feature の投入速度
+- core platform と新 commoditized service の adoption 成長
+- 価値ある新機能の統合を通じて、競合に先行し続けられているか
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Weak Sensing Engine
+### sensing engine が弱い
 
-If you are not able to effectively monitor your ecosystem, you will miss the signals and the entire strategy will fail.
+ecosystem を十分観測できなければ、この戦略全体が成り立ちません。
 
-### Killing the Ecosystem
+### ecosystem を殺す
 
-If you are too aggressive in commoditizing every new idea, you will create a climate of fear and developers will stop innovating on your platform.
+成功したアイデアを片っ端から commoditize すると、開発者は恐れて platform 上で innovating しなくなります。
 
-### Slowness to Act
+### 行動が遅い
 
-Sensing a trend is not enough. If you are too slow to commoditize it, a competitor may beat you to it, even if they don't have your platform.
+trend を読めても commoditize が遅ければ、競合に先を越されます。
 
-### Platform Neglect
+### platform 放置
 
-Focusing too much on the "Commoditize" phase can lead to neglecting the core platform, making it less attractive for the next wave of innovators.
+Commoditize 側に偏りすぎると、次の innovators を引きつける土台が痩せます。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### The Business as a Learning Machine
+### 事業全体を learning machine にする
 
-ILC turns the entire business into a learning machine. The ecosystem is a vast, parallel-processing engine for exploring the problem space, and the sensing engine is the mechanism for integrating that learning back into the core business.
+ILC は、事業全体を learning machine に変えます。ecosystem が problem space を parallel に探索し、sensing engine がその学習を core へ戻します。
 
-### The Future is a Commodity
+### 未来は commodity になる
 
-This strategy is based on the insight that today's innovations are tomorrow's commodities. By mastering the ILC cycle, you can be the one who drives that process of creative destruction, rather than being a victim of it.
+今日の innovation は明日の commodity です。ILC を回す側になれば、creative destruction の被害者ではなく推進者になれます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-- **The Platform:** What component can we turn into a platform that others will want to build on?
-- **The Sensing Engine:** How will we monitor the ecosystem to identify successful patterns? What are our key metrics?
-- **The Governance Model:** What are our rules of engagement with the ecosystem? How will we decide what to commoditize and what to leave to third parties?
-- **The Flywheel:** How can we ensure that each turn of the ILC cycle makes the next turn faster and more powerful?
-- **The Balance:** How do we capture enough value to make the strategy profitable, without capturing so much that we kill the ecosystem?
+- どの component を platform にすると、他者がその上に build したくなるか
+- successful pattern を見つける sensing engine は何で、主要 metric は何か
+- ecosystem との rules of engagement をどう定めるか
+- 各ターンが次のターンをさらに速く強くする flywheel をどう作るか
+- ecosystem を壊さずに、どこまで価値を回収するのか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-- **[Harvesting](/strategies/markets/harvesting)**: Harvesting is a key tactic within the "Commoditize" phase of the ILC cycle.
-- **[Open Approaches](/strategies/accelerators/open-approaches)**: ILC almost always requires an open or semi-open platform to attract a vibrant ecosystem.
-- **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: ILC is the engine that builds a powerful Tower and Moat. The Tower is the platform, and the Moat is built by continuously commoditizing complements.
-- **[Fast Follower](/strategies/positional/fast-follower)**: The commoditization step is a form of fast-following the innovations of your own ecosystem.
-
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - sensing emerging patterns and insights that feed into the innovation phase of the ILC cycle.
-- [Co-creation](/strategies/ecosystem/co-creation) - partnering with users and ecosystem members to generate prototypes and validate innovations for leveraging.
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - offloading non-core assets to specialists, freeing resources for focused innovation and leverage.
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - leveraging relationships on multiple market fronts to gather insights and maximise strategic leverage.
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - The ILC cycle can drive disaggregation as new platform capabilities emerge, and re-aggregation as ecosystem players adapt to newly commoditized components.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - The "Commoditize" phase of ILC is a form of platform envelopment, where successful ecosystem functionalities are integrated into the core platform.
+- [**Harvesting**](/strategies/markets/harvesting) - Commoditize フェーズの主要 tactic
+- [**オープンアプローチ（Open Approaches）**](/strategies/accelerators/open-approaches) - vibrant ecosystem を引き寄せる基盤になりやすい
+- [**塔と堀（Tower and Moat）**](/strategies/ecosystem/tower-and-moat) - platform が塔で、complements の commoditize が堀になる
+- [**Fast Follower**](/strategies/positional/fast-follower) - 自社 ecosystem の innovation を追随する形でもある
+- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - innovation phase へ feed する emerging pattern を sensing する
+- [共創（Co-creation）](/strategies/ecosystem/co-creation) - ecosystem member と prototype を生む
+- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - 非中核資産を外へ出し、innovation へ集中する
+- [両面張り（Playing Both Sides）](/strategies/attacking/playing-both-sides) - 複数 front で leverage を最大化する
+- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 新機能 emergence と commoditize による再編を促す
+- [プラットフォーム包摂（Platform Envelopment）](/strategies/ecosystem/platform-envelopment) - Commoditize phase は platform envelopment の一形態でもある
 
 ## ⛅ **関連する状勢パターン**
 
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – trigger: nurturing an ecosystem accelerates mutual improvement.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: commoditisation frees resources for the next wave of ideas.
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – トリガー: ecosystem を育てると相互改善が加速する
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: commoditization が次の波の資源を生む
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- **[Wardley Maps (the book)](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)** by Simon Wardley. The foundational text for understanding the ILC cycle.
-- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Provides the theoretical underpinning for why established companies struggle with disruptive innovation, a problem that ILC is designed to solve.
+- [Wardley Maps (the book)](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - ILC を理解する基礎
+- [The Innovator's Dilemma](/books/the-innovators-dilemma) - incumbents が disruptive innovation で苦しむ理論背景

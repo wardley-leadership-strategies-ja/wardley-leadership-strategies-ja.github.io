@@ -1,7 +1,6 @@
 ---
-title: Platform Envelopment
-description: A platform provider expands its market influence by integrating or bundling
-  functionality of another platform, or by directly competing with its own users.
+title: プラットフォーム包摂（Platform Envelopment）
+description: プラットフォーム事業者が、他プラットフォームの機能を統合・束ねたり、自分の利用者と直接競合したりして影響力を広げる戦略。
 tags:
 - platform-envelopment
 - ecosystem
@@ -27,223 +26,215 @@ leadership_focus:
 - Disciplined portfolio management
 - Narrative control
 quick_signals:
-- Adjacent services on your platform capture outsized value from your user base.
-- Partners monetise core experiences you could deliver more seamlessly.
-- Customers ask for integrated journeys rather than stitching offerings themselves.
+- 隣接サービスが、自社ユーザー基盤から過大な価値を取っている。
+- パートナーが monetise する中核体験を、自社ならもっと滑らかに出せる。
+- 顧客が、自分で継ぎ合わせるより統合された体験を求めている。
 momentum_moves:
-- Analyse platform data to spot services with the highest attachment and margins.
-- Offer native alternatives with preferential placement or pricing.
-- Provide migration paths so users can adopt the bundled service without friction.
+- プラットフォームデータを分析し、付着率と利幅の高いサービスを見つける。
+- 自社ネイティブ代替を、優先表示や価格優遇つきで出す。
+- ユーザーが摩擦なく bundled service へ移れる migration path を用意する。
 watch_outs:
-- Alienating developers or sellers whose businesses you absorb.
-- Triggering regulatory action for self-preferencing your own services.
-- Overextending operationally and degrading the core platform experience.
+- 吸収される開発者や販売者を遠ざけること。
+- self-preferencing と見なされ、規制対応が必要になること。
+- 事業範囲を広げすぎて、コアプラットフォーム体験を壊すこと。
 effort_level: Enterprise Transformation
 time_horizon: Long-term positioning
 ---
 
+**プラットフォーム事業者が、他プラットフォームの機能を統合・束ねたり、自分の利用者と直接競合したりして、市場影響力と価値回収を広げる戦略です。**
 
-**Platform Envelopment is a strategic action where a platform provider expands its market influence and value capture by either integrating or bundling the functionality of another platform, or by directly competing with its own users by offering similar products or services (often referred to as 'absorption').**
+これは Simon Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示されてはいませんが、実務上はよく見られるエコシステム戦略です。
 
-This strategy isn't explicitly mentioned in Simon Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+## 🤔 **解説**
 
-## 🤔 **Explanation**
+### プラットフォーム包摂とは何か
 
-### What is Platform Envelopment?
+プラットフォーム包摂とは、プラットフォーム事業者が市場影響力と価値回収を拡大するために、次のどちらかを行うことです。
 
-Platform Envelopment is a strategic action where a platform provider expands its market influence and value capture. This is achieved by either:
+- 他プラットフォームや隣接サービスの機能を統合・バンドルする
+- 自分の利用者や出店者、開発者と競合する類似サービスを自ら提供する
 
-* Integrating or bundling the functionality of another platform.
-* Directly competing with its own users by offering similar products or services (often referred to as 'absorption').
+既存の重なったユーザー基盤を利用し、エコシステムを広げつつ、競合の立ち位置を狭めます。
 
-This leverages an existing, overlapping user base to expand the platform's ecosystem and foreclose competitors.
+### 戦略意図
 
-### Strategic Intent & Rationale
+この戦略の狙いは、TAM の拡大、消費者余剰のより大きな回収、scope の経済の獲得、市場支配力の強化です。隣接や下流の価値増分サービスへ踏み込み、顧客ロックインを深めます。
 
-Organizations employ Platform Envelopment to significantly increase their Total Addressable Market (TAM), extract greater consumer surplus by offering integrated solutions, achieve substantial economies of scope, and ultimately consolidate market power. It is a proactive move designed to expand revenue streams and deepen customer lock-in by extending the platform's reach into adjacent or underlying value-adding services.
+### Wardley Map 上ではどう見えるか
 
-### Manifestation on a Wardley Map
+このゲームプレイは、コンポーネントの位置と進化を直接変えます。もともと第三者が提供していた capability を、自社バリューチェーンへ取り込みます。第三者の `Custom` や `Product` が、自社プラットフォームの標準 `Product`、場合によっては `Commodity` にまで移ることがあります。
 
-This gameplay directly impacts how components are positioned and evolve. A platform, often a 'Product' or 'Custom' stage component itself, might absorb capabilities previously offered by third-party users, effectively bringing those capabilities into its own value chain. This can shift the absorbed capability further right on the evolution axis, from a 'Custom' or 'Product' offering by a third party to a 'Product' or even 'Commoditized' feature of the platform itself. For example, a platform offering a 'Custom' integration service might absorb it, making it a standard 'Product' feature.
+これは次のような変化を伴います。
 
-Platform Envelopment leads to:
+- **水平拡張:** WeChat のように、決済、ゲーム、配車などを横へ広げる
+- **垂直統合:** Amazon Retail のように、Marketplace 出店者と直接競合する
 
-* A **horizontal expansion** of the platform's value chain (e.g., WeChat adding payment, gaming, and ride-hailing).
-* A **vertical integration** (e.g., Amazon Retail directly competing with third-party sellers on its Marketplace).
+新しいコンポーネントを足したり、既存機能をより深く統合したりして、ユーザーが必要とする一連の体験をプラットフォーム内へ巻き取ります。結果として、以前は外部に散っていた capability が、より見えやすく、より標準化された形でコア提供物に含まれます。
 
-This involves adding new components (e.g., payment gateways, gaming modules, or even physical assets like platform-operated gas stations) or more deeply integrating existing ones into the platform's core offering. The platform aims to satisfy a broader spectrum of user needs directly, often by increasing the visibility and accessibility of previously external or disparate capabilities by bundling them into a unified, seamless user experience (e.g., bundling Uber Eats into the main Uber app). This can move previously 'invisible' or 'low visibility' capabilities higher on the Y-axis.
+バンドリングは単なる販売施策ではなく、複数 capability を一つの提供物へ再配置する構造変更です。これによって個別 component への競合アクセスを閉じることができます。
 
-This gameplay fundamentally alters the competitive landscape. By bundling functionalities or absorbing user services, the platform forecloses competitor access to a shared user base, effectively shifting competitive dynamics and potentially commoditizing services previously offered by independent third parties.
+## 🗺️ **実例**
 
-From a Wardley Mapping perspective, bundling, a primary mechanism for Platform Envelopment, represents a strategic decision to combine multiple distinct capabilities (components) into a single, integrated offering. This is more than a mere marketing tactic; it signifies a fundamental structural change to the value proposition. When components are bundled, they often experience a shift on the evolution axis, typically moving further right towards 'Product' or 'Commoditized' as they become a standard, expected part of a larger, integrated offering. This can also increase their visibility on the Y-axis if the bundle simplifies user interaction and makes previously disparate functionalities more accessible. Critically, bundling can strategically foreclose access for competitors to the individual components, thereby altering the competitive dynamics of the underlying capabilities. The strategic choice of which components to bundle and when is a deliberate action that directly manipulates the map's components and their perceived value and relationships. It is an act of strategic re-packaging and re-positioning of components on the map to gain a competitive advantage.
+### WeChat のエコシステム拡張
 
-## 🗺️ **Real-World Examples**
+WeChat はメッセージングから始まり、決済、配車、ゲーム、マーケットプレイスを統合し、幅広い行動を一つのアプリ内へ包摂しました。
 
-### WeChat's Ecosystem Expansion
+### Amazon Marketplace と Amazon Retail
 
-WeChat evolved from a messaging platform into a comprehensive ecosystem by integrating functionalities like an online marketplace, payment platform (WeChat Pay), ride-hailing services, and gaming. This enveloped various services, capturing a wide range of user activities within a single app.
+Amazon はもともと第三者販売者へ顧客接点を提供していましたが、成功カテゴリでは AmazonBasics のような自社ブランドを出し、自分の利用者と直接競合するようになりました。
 
-### Amazon Marketplace and Amazon Retail
+### Microsoft: Internet Explorer と Office365
 
-Amazon Marketplace initially allowed third-party sellers to reach customers. Over time, Amazon Retail began directly competing with these sellers by offering its own branded products (e.g., AmazonBasics) in successful categories, effectively absorbing the market share of some of its own users.
+Microsoft はかつて Internet Explorer を Windows にバンドルし、ブラウザ市場で大きな優位を得ました。近年では Office365 で個別アプリとクラウドサービスをまとめ、サブスクリプション基盤へ包摂しています。
 
-### Microsoft: Internet Explorer and Office365
+### Google のハードウェアとアプリ生態系
 
-Microsoft historically bundled Internet Explorer with its Windows operating system, giving it a significant advantage over other web browsers. More recently, Microsoft has bundled a suite of productivity software and cloud services into Office365, enveloping individual applications and services into a subscription model.
+Google は Pixel 端末で Android メーカーと競合しつつ、Maps、Gmail、Drive など Play Store 上の第三者アプリとも競合するアプリ群を自ら提供しています。
 
-### Google's Hardware and App Ecosystem
+### 滴滴出行の垂直統合
 
-Google produces Pixel phones, competing directly with other Android device manufacturers. Additionally, Google offers numerous applications (e.g., Google Maps, Gmail, Google Drive) that compete with third-party apps available on its own Google Play Store.
+滴滴出行は、ガソリンスタンドや整備工場などへ投資し、ドライバーが必要とする周辺サービスまで価値連鎖へ包摂しました。
 
-### 滴滴出行 (Dīdī Chūxíng) Vertical Integration
+### Tujia のハイブリッドモデル
 
-滴滴出行 (Dīdī Chūxíng), a ride-hailing platform, expanded vertically by investing in assets like gas stations and auto repair shops to service the vehicles used by its drivers. This absorption of related services aims to control more of the value chain.
+Tujia は第三者ホストの物件を載せるだけでなく、自社管理物件も運営し、一部の利用者基盤と直接競合しています。
 
-### Tujia's Hybrid Model
-
-Tujia, a Chinese online vacation rental platform, not only lists properties from third-party hosts but also manages its own rental properties, directly competing with some of its user base.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Platform Envelopment">
   <MapSignals>
-    <li>Our platform has a significant, established user base.</li>
-    <li>There is a high degree of overlap between our user base and the users of an adjacent service.</li>
-    <li>We can identify functionalities that, if integrated, would significantly enhance our platform's value proposition.</li>
-    <li>Our map shows opportunities to absorb custom-built services offered by our users into standardized platform features.</li>
+    <li>プラットフォームがすでに大きなユーザー基盤を持っている。</li>
+    <li>そのユーザー基盤が、隣接サービスの利用者と大きく重なっている。</li>
+    <li>統合すると価値提案が大きく強まる機能が見えている。</li>
+    <li>地図上で、現在はユーザーが提供する custom service を標準 platform feature にできる。</li>
   </MapSignals>
   <Readiness>
-    <li>We have the engineering and product resources to integrate or build new functionalities.</li>
-    <li>Our organization is prepared to manage the potential channel conflict or alienation of partners/users.</li>
-    <li>We have a strong understanding of the competitive landscape and potential anti-trust implications.</li>
-    <li>Our platform architecture is flexible enough to incorporate new services.</li>
+    <li>新機能を統合・開発するエンジニアリングとプロダクト資源がある。</li>
+    <li>チャネルコンフリクトやパートナー離反を管理する覚悟がある。</li>
+    <li>競争地形と antitrust 含意を理解している。</li>
+    <li>プラットフォームのアーキテクチャが新サービス統合に耐える。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-* There is a large, existing user base that can be leveraged.
-* Significant user base overlap exists with the target functionality or service.
-* The platform can achieve substantial economies of scope by adding the new functionality.
-* The integration or absorption can create strong customer lock-in.
-* The move can effectively foreclose competitors from a key market segment.
+- 既存の大きなユーザー基盤を leverage できるとき
+- 対象機能とのユーザー重なりが大きいとき
+- 新機能追加で大きな economies of scope が得られるとき
+- 包摂が強い customer lock-in を生むとき
+- 競合がアクセスする重要市場セグメントを閉じられるとき
 
-### Avoid when
+### 避けるとき
 
-* The risk of antitrust scrutiny and regulatory intervention is unacceptably high.
-* Alienating existing platform users or partners (who become competitors) would significantly damage the core business.
-* The complexity of managing diverse business lines outweighs the potential benefits.
-* The target functionality does not have a strong synergy with the core platform.
-* The cost of integration or absorption is prohibitive.
+- antitrust 監視のリスクが高すぎるとき
+- 既存ユーザーやパートナーを敵に回し、コア事業を傷つけるとき
+- 多角化の複雑性が便益を上回るとき
+- 対象機能がコアとの相乗を持たないとき
+- 統合・吸収コストが重すぎるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-The core challenge for leadership is balancing aggressive expansion and market consolidation with the risks of antitrust action, partner alienation, and increased organizational complexity. Leaders must navigate the delicate act of competing with their own ecosystem while still fostering its growth, or risk undermining the platform's foundations. Deciding which functionalities to envelop and when requires deep market insight and a willingness to make bold, potentially controversial, moves.
+攻撃的な拡張と市場集中を進めながら、規制、パートナー離反、組織複雑化を制御することです。自分のエコシステムと競合しながらも、そのエコシステムを壊してはなりません。
 
-### Key leadership skills required
+### 必要なスキル
 
-* [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Understanding the complex relationships between the platform, its users, and third-party developers.
-* [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Identifying adjacent markets or functionalities ripe for envelopment.
-* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Assessing and mitigating antitrust risks and potential backlash from partners.
-* [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — Effectively incorporating new services and technologies into the existing platform.
-* [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clearly articulating the rationale for envelopment to internal teams, users, and the market.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — ユーザー、開発者、第三者との関係を読む
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 包摂すべき隣接市場を見抜く
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — antitrust と backlash を抑える
+- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — 新サービスを platform に組み込む
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — 社内外へ rationale を説明する
 
-### Ethical considerations
+### 倫理面
 
-Platform Envelopment inherently involves leveraging market power, which can stifle competition and reduce consumer choice if not managed responsibly. Competing directly with platform users ("absorption") can be seen as exploitative if not handled transparently and fairly. There's a fine line between value creation through integration and value extraction through monopolistic practices. Leaders must consider the long-term health of the ecosystem and the potential for negative impacts on innovation and fair competition.
+市場力を leverage する以上、競争抑制や選択肢減少のリスクが常にあります。利用者との直接競合は、透明で公正に扱わなければ搾取的と見なされます。価値創造と monopolistic な価値抽出の線引きが重要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. **Identify Envelopment Opportunities:** Analyze user needs, market adjacencies, and competitor vulnerabilities to identify functionalities or services suitable for envelopment. Look for significant user base overlap and potential for economies of scope.
-2. **Assess Strategic Fit and Risk:** Evaluate the potential impact on TAM, customer lock-in, and competitive positioning. Critically assess antitrust risks, potential partner alienation, and the internal capacity to execute.
-3. **Choose Envelopment Method (Integrate, Bundle, or Absorb):**
-    * **Integration:** Incorporate external services or functionalities via APIs or partnerships (can be a precursor to deeper envelopment).
-    * **Bundling:** Combine existing or new services into a single offering.
-    * **Absorption:** Develop and offer services that directly compete with existing platform users or third-party providers.
-4. **Develop or Acquire Capabilities:** Invest in building the necessary technology and expertise in-house or acquire companies that offer the target functionalities.
-5. **Launch and Iterate:** Introduce the new, enveloped offering to the market. Monitor user adoption, competitive responses, and ecosystem impact. Be prepared to iterate on the offering and manage any fallout.
-6. **Manage Ecosystem Dynamics:** Proactively communicate with partners and users. Clearly define the platform's role and the "rules of engagement" to mitigate conflict and maintain trust where possible.
+1. 包摂候補を見つける。ユーザーニーズ、隣接市場、競合脆弱性を分析する
+2. 戦略適合とリスクを評価する。TAM、lock-in、competitive positioning、antitrust を見る
+3. 手段を決める。Integration、Bundling、Absorption のどれで行くか選ぶ
+4. 必要 capability を内製または買収で確保する
+5. 市場へ投入し、採用、競合反応、エコシステム影響を観測する
+6. 利用者とパートナーへ役割とルールを説明し、関係悪化を最小化する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-* **Increase in Total Addressable Market (TAM):** Growth in the overall market size the platform can now serve.
-* **User Adoption of Enveloped Services:** Percentage of the existing user base adopting the new functionalities.
-* **Revenue Growth from New Services:** Direct financial contribution from the enveloped offerings.
-* **Customer Lock-in / Reduced Churn:** Improvement in user retention rates after envelopment.
-* **Market Share Shift:** Measurable gains in market share in the enveloped service areas.
+- TAM の拡大
+- 包摂サービスの利用率
+- 新サービスの売上成長
+- 顧客維持率の向上
+- 包摂領域での market share 改善
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Antitrust Scrutiny
+### antitrust 監視
 
-Aggressive envelopment, especially by dominant platforms, can attract significant attention from regulators, leading to investigations, fines, or forced changes to business practices.
+支配的プラットフォームの aggressive な包摂は、規制当局の強い関心を呼びます。
 
-### Partner Alienation
+### パートナー離反
 
-When a platform begins to compete with its own users or partners, it can erode trust and lead to an exodus of those partners, potentially weakening the overall ecosystem.
+自分の利用者やパートナーと競合し始めると、信頼が崩れ、エコシステム全体が痩せることがあります。
 
-### Neglect of Core Business
+### コア事業の放置
 
-Focusing too much on expanding into new areas can lead to a neglect of the core platform, allowing competitors to gain ground in the primary market.
+新領域に気を取られすぎると、コアプラットフォームが弱ります。
 
-### Integration Complexity
+### 統合の複雑性
 
-Integrating disparate technologies, teams, and business models can be technically and culturally challenging, leading to delays, cost overruns, and a poor user experience.
+技術、チーム、事業モデルの統合は重く、遅延や UX 劣化につながりやすいです。
 
-### Misjudging User Needs
+### ユーザーニーズの誤読
 
-Enveloping functionalities that users don't actually want or value can lead to wasted investment and a bloated, confusing platform.
+ユーザーが本当に望んでいないものを包摂すると、コストだけ増えます。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Context is Crucial
+### 文脈がすべて
 
-Platform Envelopment is not a universally applicable strategy. Its success is highly dependent on context, including market structure, the platform's existing power, user base characteristics, and the regulatory environment. What works for a super-app in one region might fail or be illegal in another.
+この戦略は普遍解ではありません。市場構造、既存権力、ユーザー特性、規制環境で大きく成否が変わります。
 
-### The Double-Edged Sword of User Data
+### ユーザーデータは両刃
 
-Leveraging user data from the core platform to gain an advantage in an enveloped market is a common tactic. However, this raises significant privacy concerns and can be a focal point for regulatory action.
+コアプラットフォームの利用データを、包摂先で優位を取るために使うのは一般的ですが、同時にプライバシーと規制の焦点にもなります。
 
-### Evolution, Not Revolution
+### 革命より進化
 
-Successful envelopment is often a gradual process. Platforms might start with loose integrations or partnerships before moving to tighter bundling or direct absorption as they test the waters and build capabilities.
+成功する包摂は、しばしば API や緩い提携から始まり、徐々に tighter bundling や direct absorption へ進みます。
 
-### Balancing Openness and Control
+### 開放と統制の均衡
 
-Platforms often start open to attract users and developers, then selectively close off or envelop parts of the ecosystem to capture more value. Managing this transition is critical to avoid alienating the community that helped build the platform.
+最初はオープンにして参加者を集め、後から selective に閉じて価値を回収する。この転換管理を誤ると、コミュニティが離れます。
 
-## ❓ **Key Questions to Ask**
+## ❓ **問うべきこと**
 
-* **User Base Synergy:** How much overlap exists between our current users and the target users of the service we plan to envelop?
-* **Value Proposition:** Does the enveloped offering provide a genuinely superior and integrated experience for users, or is it simply a bundle of convenience?
-* **Competitive Response:** How are existing players in the target market likely to react, and how will we counter their moves?
-* **Ecosystem Impact:** What will be the effect on our existing partners and developers if we enter this space? Can we mitigate negative consequences?
-* **Regulatory Risk:** What is the likelihood of antitrust or other regulatory challenges, and what is our strategy to address them?
-* **Long-term Vision:** How does this specific envelopment move fit into our broader platform strategy and long-term vision for the company?
+- 現在のユーザーと、包摂したいサービスの利用者はどれだけ重なるか
+- 本当に superior で統合された体験を出せるか、それともただ便利そうに束ねるだけか
+- 対象市場の既存プレイヤーはどう反応し、どう返すか
+- 既存パートナーや開発者へどんな影響があるか
+- 規制リスクはどの程度で、どう備えるか
+- この包摂は、長期のプラットフォーム戦略にどう位置づくか
 
-## 🔀 **Related Strategies**
+## 🔀 **関連戦略**
 
-* **[Tower and Moat](/strategies/ecosystem/tower-and-moat)** - Envelopment can be a tactic to build a moat around an existing tower by absorbing potential threats or complementary services.
-* **[Bundling](/strategies/user-perception/bundling)** - A common mechanism for platform envelopment, packaging multiple services together.
-* **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)** - Platforms often leverage their existing user base and data (Leverage) to move into new areas (Innovate) which they then seek to make standard offerings (Commoditize).
-* **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)** - Successful envelopment can create significant barriers for new entrants or existing competitors.
-* **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)** - Similar in that it involves co-opting external functionalities, but envelopment is often more about direct competition or absorption into the platform's core.
-* [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Platform envelopment is a form of re-aggregating capabilities into the platform's value chain, often absorbing functionalities that were previously disaggregated or provided by others.
+- [**Tower and Moat**](/strategies/ecosystem/tower-and-moat) - 既存の塔の周囲へ moat を築く手段になりうる
+- [**Bundling**](/strategies/user-perception/bundling) - 包摂の代表的メカニズム
+- [**Innovate, Leverage, Commoditize (ILC)**](/strategies/ecosystem/innovate-leverage-commoditize) - leverage した基盤から新領域へ進み、標準化する流れ
+- [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - 包摂が新規参入障壁を高める
+- [**抱き込みと拡張（Embrace and Extend）**](/strategies/ecosystem/embrace-and-extend) - 外部機能を取り込む点で近いが、より標準支配的
+- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 外部で分散していた機能を再統合する
 
 ## ⛅ **関連する状勢パターン**
 
-* [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: As core platform components become more efficient and commoditized, resources are freed up to innovate and expand into adjacent areas.
-* [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – influence: Platforms envelop other services to capture new sources of value created on top of existing, more evolved components.
-* [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: Platforms invest capital to envelop services in areas where new value is being created or perceived.
-* [Everything evolves](/climatic-patterns/everything-evolves) – influence: The evolution of user needs and market structures drives platforms to adapt by enveloping new functionalities.
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – トリガー: コアが効率化すると隣接領域へ広がる余力が生まれる
+- [高次システムは新たな価値の源泉を作る](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 既存部品の上に乗る新しい価値源泉を包摂する
+- [新しい価値領域へ資本が流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – トリガー: 新価値が見える場所へプラットフォームが資本投入する
+- [すべては進化する](/climatic-patterns/everything-evolves) – 影響: ユーザーニーズと市場変化が包摂を駆動する
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-* **[Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793)** by Thomas R. Eisenmann, Geoffrey Parker, and Marshall W. Van Alstyne - A foundational academic paper on platform envelopment. (Note: Access may require subscription or purchase).
-* **[The Business of Platforms](/books/the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie - Discusses platform strategies, including envelopment.
-* **[WeChat's World](https://www.economist.com/business/2016/08/06/wechats-world)** by The Economist - An article describing the breadth of WeChat's platform and its envelopment of various services.
-* **[Aggregators and Platforms: A Strategic Analysis](https://stratechery.com/2015/aggregation-theory/)** by Ben Thompson (Stratechery) - While not solely about envelopment, discusses platform power and dynamics relevant to this strategy.
-
----
+- [Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793) - platform envelopment の基礎論文
+- [The Business of Platforms](/books/the-business-of-platforms) - プラットフォーム戦略の解説
+- [WeChat's World](https://www.economist.com/business/2016/08/06/wechats-world) - WeChat 包摂戦略の紹介
+- [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) - platform power の文脈
