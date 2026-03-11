@@ -1,7 +1,6 @@
 ---
-title: Lobbying
-description: Influencing government or regulatory bodies to shape the environment
-  in your favour, often as a precursor to regulation or limitation of competition.
+title: ロビー活動（Lobbying）
+description: 政府や規制当局へ働きかけ、しばしば regulation の前段として環境を自社に有利に形作る戦略。
 tags:
 - user-perception
 - lobbying
@@ -29,198 +28,187 @@ leadership_focus:
 - Coalition building
 - Narrative building
 quick_signals:
-- Pending legislation or standards could redefine your competitive position.
-- Competitors visibly invest in government relations while you remain reactive.
-- Public sentiment aligns with arguments you can credibly champion.
+- pending legislation や standards が競争地位を塗り替えうる。
+- competitors が government relations に投資しているのに自社は reactive である。
+- public sentiment が、自社が credible に掲げられる論点と合っている。
 momentum_moves:
-- Map stakeholders, timelines, and decision points across the policy landscape.
-- Build coalitions that connect your goals to shared public outcomes.
-- Prepare evidence and narratives that frame your position as the responsible choice.
+- stakeholder、timeline、decision point を policy landscape 上で地図化する。
+- 自社 goals を public outcome と結びつける coalition を作る。
+- 自社 position を responsible choice と見せる evidence と narrative を用意する。
 watch_outs:
-- Appearing transactional and eroding trust with policymakers.
-- Investing in influence without aligning your operations to deliver on promises.
-- Neglecting transparency obligations that could expose conflicts of interest.
+- transactional に見えて policy makers の trust を失うこと。
+- 影響工作だけして、約束を実運用で果たせないこと。
+- transparency obligation を軽視して conflict of interest が露出すること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
 
-**Influencing government or regulatory bodies to shape the environment in your favour, often by aligning with user or public interest.**
+**政府や規制当局へ働きかけ、ユーザー利益や公共利益と自社の立場を結びつけながら、環境を自社に有利に形作る戦略です。**
 
 > *"Persuading Government of a favourable position."*
 >
 > – Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Lobbying?
+### ロビー活動とは何か
 
-Lobbying is the strategic act of influencing government, regulators, or standards bodies to shape the environment in your favour. In Wardley Mapping, it is a play that leverages the "climate"—the regulatory and policy context—rather than direct market action. Lobbying can be:
+政府、規制当局、標準化団体へ影響を与え、環境を自社に有利にする戦略です。Wardley Mapping では、直接市場で戦うのではなく、climate 側、つまり policy や regulation の文脈へ働きかける play と言えます。
 
-- Proactive: Advocating for new rules, subsidies, or standards that benefit your position or market.
-- Defensive: Preventing or countering regulations that would harm your interests.
-- Counterplay: Organising to oppose or neutralise a competitor's lobbying efforts.
+ロビー活動は、
 
-Lobbying is often the first step in a chain that leads to [Defensive Regulation](/strategies/defensive/defensive-regulation), [Limitation of Competition](/strategies/defensive/limitation-of-competition), or the [Standards Game](/strategies/markets/standards-game). It is not always anti-competitive—sometimes it is about enabling new markets, securing funding, or aligning with public good.
+- **proactive**: 新しい rule、subsidy、standard を取りに行く
+- **defensive**: 不利な regulation を止める
+- **counterplay**: competitor の lobbying を相殺する
+
+という三つの使い方があります。
 
 :::note
-**Lobbying** is the action of influencing government or regulators. It is frequently the necessary precursor to enacting [**Defensive Regulation**](/strategies/defensive/defensive-regulation), and successful lobbying can create rules that directly contribute to the broader goal of [**Limitation of Competition**](/strategies/defensive/limitation-of-competition). However, lobbying can also pursue other goals, such as subsidies, favourable contracts, or regulatory backing for a technical standard ([**Standards Game**](/strategies/markets/standards-game)). Not all lobbying is defensive or anti-competitive—sometimes it is about enabling new markets or aligning with industrial policy. This strategy leads into, but should not duplicate, those more specific plays. See those pages for detailed mechanisms and counterplays.
+**Lobbying** は政府や規制当局への影響工作そのものです。しばしば [**Defensive Regulation**](/strategies/defensive/defensive-regulation)、[**Limitation of Competition**](/strategies/defensive/limitation-of-competition)、[**Standards Game**](/strategies/markets/standards-game) の前段になります。ただし、すべての lobbying が anti-competitive とは限りません。市場育成、助成獲得、公共的標準の推進にも使われます。
 :::
 
-### Why use Lobbying?
+### なぜ使うのか
 
-- To shape the rules of the game before they are set by others
-- To create or defend structural advantages (e.g., regulatory barriers, subsidies, standards)
-- To align your interests with user, citizen, or public narratives for legitimacy
-- To counteract or neutralise a competitor's regulatory play
-- To unlock new markets or funding through policy change
+- **ルールが決まる前にゲーム盤を動かせる**
+- **subsidy、barrier、standard など構造優位を作れる**
+- **public interest と結びつけて正統性を得られる**
+- **competitor の regulatory play を打ち消せる**
+- **policy change で新市場や funding を開ける**
 
-### How does Lobbying relate to similar strategies?
+## 🗺️ **実例**
 
-Lobbying is the "influence" phase—often a precursor to Defensive Regulation (where rules are enacted), Limitation of Competition (where the environment is shaped to reduce rivalry), or the Standards Game (where a technical approach is institutionalised). Lobbying can also be a counterplay: mobilising users, coalitions, or public opinion to block or reverse a competitor's regulatory move. For detailed mechanisms, see those specific strategies.
+### タクシー業界と配車アプリ
 
-## 🗺️ **Real-World Examples**
+伝統的タクシー会社は、配車アプリに対する規制強化を city government へ働きかけました。安全や公平を掲げつつ、実際には参入障壁を上げる lobbying でした。
 
-### Taxi Industry vs. Ride-Sharing (Defensive Lobbying)
+### 技術企業と copyright law
 
-Traditional taxi companies lobbied city governments to impose strict regulations on ride-sharing startups (Uber, Lyft), citing safety and fairness. In many cities, this resulted in licensing caps or bans—raising barriers that ride-sharing firms had to fight city by city.
+大手 tech / entertainment 企業は、DMCA や DRM 的な枠組みを支持し、小規模 player や open source に不利な環境を作ろうとしてきました。
 
-### Tech Coalitions and Copyright Law (Incumbent Lobbying)
+### 再エネ企業の counter-lobbying
 
-Major tech and entertainment firms have lobbied for strong copyright and patent laws (e.g., DRM, DMCA), making it harder for smaller players or open-source projects to compete. These regulations protect incumbent revenue streams and slow market disruption.
+utility 側が家庭用 solar に不利な法案を進めようとしたとき、renewable company 側が public campaign と lawmaker engagement で対抗した例です。
 
-### Renewable Energy vs. Utility Counterplay (Counter-Lobbying)
+### open standard の legitimacy play
 
-When utilities lobbied for laws penalising home solar users, renewable energy companies organised public campaigns and met with lawmakers to defeat the bills—countering a competitor's lobbying. Conversely, they also lobbied for higher renewable portfolio standards, forcing utilities to buy more green energy.
+open-source community や consortia が open standard を「public good」として訴え、規制支持を得ようとするケースもあります。
 
-### Open Source and Open Standards (Legitimacy Play)
-
-Open-source communities and tech consortia have lobbied for open standards, arguing that these benefit citizens and customers. This is often framed as a public good, making it easier to gain regulatory support or mandates for their preferred approach.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Lobbying">
   <MapSignals>
-    <li>The map shows a critical component or market position at risk from regulatory or policy change.</li>
-    <li>There are emerging or proposed rules that could be shaped to your advantage (or to a competitor's disadvantage).</li>
-    <li>You have, or could build, influence with policymakers, regulators, or standards bodies.</li>
-    <li>Public or user sentiment can be credibly aligned with your position.</li>
-    <li>Competitors are actively lobbying for changes that would harm your interests.</li>
-    <li>There is a window of opportunity before the environment shifts or rules are set.</li>
+    <li>地図上の重要 component や市場地位が regulation や policy change で大きく揺れる。</li>
+    <li>自社に有利にも competitor に有利にもなりうる新ルールが出てきている。</li>
+    <li>policy makers、regulators、standards bodies へ influence を持てる、または作れる。</li>
+    <li>public/user sentiment を自社 position に credible に結びつけられる。</li>
+    <li>competitors が自社に不利な rule へ lobbying している。</li>
+    <li>ルールが固定される前の window がある。</li>
   </MapSignals>
   <Readiness>
-    <li>You have strong relationships with policymakers, regulators, or industry groups.</li>
-    <li>You understand the regulatory and standards landscape in detail.</li>
-    <li>You can mobilise resources for lobbying, coalition-building, or public campaigns.</li>
-    <li>Your organisation can credibly frame its position as serving the public or user interest.</li>
-    <li>You have contingency plans for regulatory or political backlash.</li>
-    <li>You can coordinate across legal, communications, and technical teams.</li>
+    <li>policy makers、regulators、industry groups との強い関係がある。</li>
+    <li>regulatory / standards landscape を深く理解している。</li>
+    <li>lobbying、coalition-building、public campaign に資源を投じられる。</li>
+    <li>自社 position を public/user interest として credible に語れる。</li>
+    <li>backlash への contingency plan がある。</li>
+    <li>legal、communications、technical team を連携できる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- The regulatory environment significantly impacts your industry economics
-- You have, or can build, influence or credibility with decision-makers
-- The ROI of influencing policy is higher than direct market competition
-- You can credibly align your position with user or public benefit
+- regulation が industry economics を大きく左右するとき
+- decision-maker に influence や credibility を築けるとき
+- policy を動かす ROI が市場競争より大きいとき
+- 自社立場を user/public benefit と結びつけられるとき
 
-### Avoid when
+### 避けるとき
 
-- You lack influence, credibility, or resources
-- Public sentiment or political winds are strongly against your position
-- The market is evolving too quickly for regulatory action to be effective
-- Over-reliance on lobbying would stifle your own innovation or adaptability
+- influence、credibility、resources が足りないとき
+- public sentiment や political winds が明確に逆風のとき
+- 市場進化が速すぎて、regulation が追いつかないとき
+- lobbying 依存で自社 innovation や adaptability が弱るとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Leaders must shape the narrative and build coalitions, often in a complex and politicised environment. The challenge is to influence policy without overreaching, while maintaining legitimacy and public trust.
+複雑で政治的な環境で、正統性を保ちながら narrative と coalition を作ることです。policy を動かそうとして legitimacy を失えば逆効果です。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Political and regulatory acumen.
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Stakeholder management and coalition building.
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight and scenario planning.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and narrative framing.
-- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical judgement and risk management.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — policy を読み動かす
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — coalition を組む
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 見通しと scenario を描く
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — public-facing narrative を作る
+- [Ethical judgment](/leadership-skills/ethical-judgment) — rent-seeking や capture に滑らない
 
-### Ethical considerations
+### 倫理面
 
-Lobbying can benefit users and society, but risks regulatory capture, rent-seeking, or public backlash if perceived as self-serving. Leaders must weigh the broader impact, ensure transparency, and avoid undermining trust in institutions.
+ロビー活動は user や社会に利益をもたらすこともありますが、capture、rent-seeking、制度不信を招く危険もあります。透明性と broader impact の吟味が必要です。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Map the regulatory and policy landscape: Identify where your position is threatened or could be improved.
-2. Build relationships: Develop trust with key stakeholders (regulators, policymakers, standards bodies, user groups).
-3. Frame the narrative: Align your position with public or user benefit; prepare evidence and stories.
-4. Mobilise resources: Coordinate lobbying, coalition-building, and public campaigns.
-5. Monitor and adapt: Track changes in the environment and adjust tactics as needed.
+1. regulatory / policy landscape を地図化する
+2. 関係者との trust を築く
+3. public / user benefit に沿う narrative を作る
+4. coalition-building と public campaign を動員する
+5. 環境変化を見ながら戦術を調整する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Regulatory, legal, or standards changes that favour your position
-- Reduced risk or cost from adverse regulation
-- Increased market access, funding, or legitimacy
-- Successful neutralisation of competitor lobbying
-- Sustained ability to invest and plan long-term
+- 自社に有利な regulation、law、standard の成立
+- adverse regulation による risk / cost の低下
+- market access、funding、legitimacy の増加
+- competitor lobbying の無力化
+- long-term planning がしやすい安定環境の獲得
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Reputation risk
+### reputation risk
 
-Heavy-handed or opaque lobbying can damage your reputation, especially if seen as anti-competitive or against user interests.
+heavy-handed で opaque な lobbying は brand を傷つけます。
 
-### Regulatory unpredictability
+### 規制の予測不能性
 
-Political shifts or changes in enforcement can quickly undermine a lobbying-based advantage.
+政権や運用が変われば advantage はすぐ崩れます。
 
-### Over-dependence
+### 過度依存
 
-Relying too much on regulatory protection can lead to under-investment in innovation and leave you exposed if the environment changes.
+regulatory protection に頼りすぎると、innovation が止まります。
 
-### Public backlash
+### public backlash
 
-If lobbying is perceived as self-serving or harmful to users, it can trigger activism, negative media, or regulatory retaliation.
+self-serving と見なされれば activism、negative media、regulatory retaliation を呼びます。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Evolution and counterplay
+- **evolution と counterplay を前提にする**: policy win は恒久ではなく、competitor も必ず応じる
+- **value chain leverage が効く**: critical dependency を握る側ほど lobbying は強い
+- **legitimacy が leverage になる**: public interest と結びつくほど成功率が上がる
 
-Lobbying is rarely a one-off; competitors and stakeholders will respond. Plan for counter-moves and the eventual erosion or reversal of regulatory advantages.
+## ❓ **問うべきこと**
 
-### Value chain leverage
+- どの regulation や policy change が自社 position を動かすのか
+- 主要 decision-maker は誰で、どう関係を作るか
+- 自社立場を public / user interest として credible に語れるか
+- competitors は何を求めて lobbying しているか
+- 環境が変わった場合、どう適応するか
 
-Lobbying is most effective when you control or represent a critical dependency in the value chain (e.g., user base, standards, infrastructure).
+## 🔀 **関連戦略**
 
-### Legitimacy as leverage
-
-Aligning with user or public interest narratives increases the chance of success and reduces reputational risk.
-
-## ❓ **Key Questions to Ask**
-
-- **Landscape:** What regulatory or policy changes could impact our position?
-- **Influence:** Who are the key decision-makers, and how can we build relationships?
-- **Narrative:** Can we credibly frame our position as serving the public or user interest?
-- **Counterplay:** What are competitors lobbying for, and how can we respond?
-- **Resilience:** How will we adapt if the regulatory environment shifts?
-
-## 🔀 **Related Strategies**
-
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – Using government or policy to create legal barriers.
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition) – The overarching goal of many lobbying efforts.
-- [Standards Game](/strategies/markets/standards-game) – Institutionalising a technical approach via policy or regulation.
-- [Industrial Policy](/strategies/accelerators/industrial-policy) – Aligning with government investment or strategic priorities.
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Shaping market/customer expectations, sometimes via lobbying.
-
-- [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt) - deploying fear-based arguments in policy debates to influence regulators and shape favourable legislation.
+- [Defensive Regulation](/strategies/defensive/defensive-regulation) - policy を legal barrier に変える
+- [競争制限（Limitation of Competition）](/strategies/defensive/limitation-of-competition) - 多くの lobbying の上位目的
+- [標準化ゲーム（Standards Game）](/strategies/markets/standards-game) - technical approach を制度化する
+- [産業政策（Industrial Policy）](/strategies/accelerators/industrial-policy) - 政府投資や strategic priority へ整合する
+- [参入障壁を上げる（Raising Barriers to Entry）](/strategies/defensive/raising-barriers-to-entry) - lobbying で market expectation 自体を変えることがある
+- [FUD（Fear, Uncertainty and Doubt）](/strategies/user-perception/fear-uncertainty-and-doubt) - policy debate で fear-based argument を使う dark pattern
 
 ## ⛅ **関連する状勢パターン**
 
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: lobbying efforts intensify when markets contract.
-- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: policy wins redirect investment toward preferred players.
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 市場収縮期に lobbying は強まる
+- [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: policy win は投資の流れを変える
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [Uber Versus Taxis](https://www.researchgate.net/publication/351691030_Uber_Versus_Taxis) - Santos, G. (2021), ‘Uber and taxis’, International Encyclopaedia of Transportation, Elsevier. DOI: 10.1016/B978-0-08-102671-7.10602-5.
-- [Internet Association](https://en.wikipedia.org/wiki/Internet_Association) - A trade association representing leading internet companies, often lobbying for policies that benefit the tech industry.
+- [Uber Versus Taxis](https://www.researchgate.net/publication/351691030_Uber_Versus_Taxis)
+- [Internet Association](https://en.wikipedia.org/wiki/Internet_Association)

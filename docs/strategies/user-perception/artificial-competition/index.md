@@ -1,7 +1,6 @@
 ---
-title: Artificial Competition
-description: Creating the illusion of competition by establishing or funding a secondary
-  entity that competes with your own offerings.
+title: 見せかけの競争（Artificial Competition）
+description: 自社提供と競う第二の主体を作り、競争があるように見せる戦略。
 tags:
 - artificial-competition
 - user-perception
@@ -27,185 +26,152 @@ leadership_focus:
 - Risk framing
 - Secrecy and timing
 quick_signals:
-- Regulators or customers question whether they truly have choice.
-- A challenger brand emerges that could redefine the category narrative.
-- You control multiple channels or assets that could support a parallel brand.
+- 規制当局や顧客が、本当に選択肢があるのか疑い始めている。
+- カテゴリの物語を塗り替えうる challenger brand が現れている。
+- 並行ブランドを支えられるチャネルや資産を自社が持っている。
 momentum_moves:
-- Design the secondary brand with distinct positioning but complementary economics.
-- Coordinate go-to-market plays so the proxy competes visibly while sharing infrastructure.
-- Maintain plausible independence by separating governance and messaging teams.
+- 異なる立ち位置を持つ第二ブランドを設計しつつ、経済性は補完的にする。
+- 見かけ上は競合しながら、裏側インフラは共有する go-to-market を組む。
+- governance と messaging team を分け、独立性をもっともらしく見せる。
 watch_outs:
-- Regulatory discovery that both brands share ownership.
-- Creating internal cannibalisation that confuses customers.
-- Underinvesting in the proxy so real challengers still break through.
+- 両ブランドの共通所有が規制に発見されること。
+- 内部カニバリゼーションで顧客を混乱させること。
+- proxy への投資不足で、本物の challengers を止められないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.**
+**自社と競う第二の主体を作り、競争があるように見せながら主導権を維持する戦略です。**
 
 > *"Creating two competing bodies to become the focus of competition and in effect driving oxygen out of a market."*
 >
 > - Simon Wardley
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Artificial Competition?
+### 見せかけの競争とは何か
 
-Artificial competition is a strategy where an organisation creates or supports a secondary entity that appears to compete with its own offerings. The two entities—though ultimately controlled or influenced by the same leadership—are positioned as rivals. This illusion reshapes market perception, giving the appearance of healthy competition while maintaining internal control.
+組織が、自社提供と競っているように見える第二の主体を作るか支援する戦略です。両者は見かけ上は rivals ですが、最終的には同じ所有者や同じ戦略意図の下にあります。これにより、市場には「競争がある」という印象を与えつつ、実際の競争空間を自社の管理下に置けます。
 
-The core aim is to dominate the competitive narrative. By filling the competitive space with a proxy, an organisation can divert attention, reduce the threat of genuine challengers and frame customer choice around controlled options.
+中核は競争の物語を支配することです。競争相手の席を自前の proxy で埋めれば、本物の新規参入者への注意をそらし、顧客の選択肢を管理された範囲に閉じ込められます。
 
-Key principles include:
+### なぜ使うのか
 
-- **Plausible independence:** The secondary entity must appear autonomous. Brand identity, leadership, and operations should be clearly distinct, even if the ownership is not.
-- **Overlap in market focus:** Both entities should target the same user segments, making it harder for true outsiders to gain a foothold.
-- **Narrative control:** The existence of “competition” allows the parent to steer public discourse, influence regulation, and neutralise scrutiny.
+- **独占懸念を和らげられる**
+- **競争空間を先取りできる**
+- **異なるブランドで戦略実験ができる**
+- **選択肢があるように見せて顧客不安を下げられる**
 
-### Why use Artificial Competition?
+## 🗺️ **実例**
 
-Used effectively, artificial competition offers multiple layers of strategic benefit:
+### MediaMarkt と Saturn
 
-- Regulatory positioning: In sectors prone to monopoly concerns, creating the perception of competition can deflect legal and public scrutiny.
-- Market insulation: By pre-occupying the competitive space, leaders can delay or prevent disruptive new entrants.
-- Strategic hedging: Maintaining two brands with different positioning provides flexibility. One can take risks or test innovations while the other maintains stability.
-- Customer trust through illusion of choice: People are more likely to trust a marketplace with visible competition. Even when orchestrated, the perception alone can improve customer confidence and brand legitimacy.
+欧州では MediaMarkt と Saturn が激しく競っているように見えますが、実際には同じ holding company に属しています。複数ブランドで競争面を埋めつつ、市場シェアをグループ内にとどめる例です。
 
-This is about **shaping the environment in which decisions are made**. Skilled leaders use this strategy to create optionality, reduce volatility, and consolidate advantage
-
-## 🗺️ **Real-World Examples**
-
-### MediaMarkt and Saturn
-
-The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
-
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Artificial Competition">
   <MapSignals>
-    <li>We dominate a market or segment where regulatory or public scrutiny over monopoly risk is increasing.</li>
-    <li>There is a lack of credible competitors in our space, leaving us exposed or unchallenged.</li>
-    <li>Our mapping reveals untapped adjacent segments or personas we could reach via a differentiated brand.</li>
-    <li>We see value in testing alternative positioning or pricing strategies without altering the core brand.</li>
-    <li>Regulatory dynamics or public trust factors suggest visible competition would improve legitimacy.</li>
-    <li>Customer sentiment data suggests skepticism about choice or market concentration.</li>
+    <li>独占リスクへの規制や世論の注目が高まっている。</li>
+    <li>その市場に信頼できる競合が少なく、空白がある。</li>
+    <li>地図から、別ブランドで取れる隣接セグメントが見える。</li>
+    <li>中核ブランドを崩さず別ポジションを試したい。</li>
+    <li>見える競争が正統性を高めると読める。</li>
+    <li>顧客が市場集中に懐疑的である。</li>
   </MapSignals>
   <Readiness>
-    <li>We can establish or acquire a secondary entity with sufficiently distinct branding and operational separation.</li>
-    <li>We have internal governance structures capable of maintaining plausible independence while aligning high-level strategy.</li>
-    <li>We are able to operate dual brands without creating internal conflict, inefficiencies, or cannibalisation.</li>
-    <li>We can manage the legal, operational, and reputational risks if the relationship is revealed.</li>
-    <li>We have clear goals for the strategy, including success criteria and an exit or integration plan.</li>
-    <li>We understand the ethical implications and have considered alternatives to artificial competition.</li>
-    <li>We have experience managing public perception, media narratives, or regulatory engagement.</li>
+    <li>十分に別物に見える第二主体を立てるか買収できる。</li>
+    <li>高位戦略を揃えつつ、独立性を演出できる governance がある。</li>
+    <li>二つのブランドを運営しても内部衝突やムダを抑えられる。</li>
+    <li>関係が露見したときの法的、運用的、評判的リスクに備えられる。</li>
+    <li>成功条件と exit / integration plan が明確である。</li>
+    <li>倫理的含意を理解し、代替策も検討している。</li>
+    <li>世論、メディア、規制との向き合い方に経験がある。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-- You hold significant market share and face monopoly concerns.
-- You anticipate customer demand for alternative approaches.
-- You aim to preempt new entrants by controlling the competitive narrative.
+- 大きな市場シェアを持ち、独占懸念に晒されるとき
+- 顧客が別アプローチを求めているが、その受け皿を自前で持ちたいとき
+- 新規参入前に競争の物語を押さえたいとき
 
-### Avoid when
+### 避けるとき
 
-- Maintaining two entities is prohibitively costly or complex.
-- Transparency in your industry makes affiliations easy to uncover, risking trust erosion.
+- 二重運営のコストと複雑さが大きすぎるとき
+- 業界の透明性が高く、関係がすぐ見破られるとき
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Balancing the illusion of competition while maintaining operational efficiency and avoiding exposure.
+競争の幻を保ちながら、運用効率と露出リスクを両立することです。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight to manage dual entities effectively.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management to mitigate exposure risks.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication skills to maintain plausible independence.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — 二重主体をどう使うかを設計する
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — 露見や反発のリスクを抑える
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — もっともらしい独立性を維持する
 
-### Ethical considerations
+### 倫理面
 
-Leaders must consider the ethical implications of misleading customers and regulators. Transparency and fairness should guide decision-making.
+顧客や規制当局を意図的に誤認させる性質があるため、透明性と公正さをどこまで損なうかを厳しく問う必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Identify the market segment where artificial competition would be most effective.
-2. Establish or acquire a secondary entity with plausible independence.
-3. Develop distinct branding and messaging for both entities.
-4. Monitor and manage the performance of both entities to ensure market dominance.
-5. Regularly assess risks of exposure and adjust strategies accordingly.
+1. 見せかけの競争が効く市場セグメントを特定する
+2. もっともらしい独立性を持つ第二主体を作るか取得する
+3. 両ブランドの位置付け、価格、語り口を明確に分ける
+4. 共有基盤と独立運営の境界を決める
+5. 露見リスクと内部カニバリゼーションを継続監視する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Increased market share across both entities.
-- Reduced entry of genuine competitors.
-- Positive customer perception of choice.
-- Regulatory approval or lack of scrutiny.
-- Operational efficiency in managing both entities.
+- 両主体合算での市場シェア
+- 本物の新規参入の抑制
+- 顧客が感じる「選択肢の多さ」や正統性
+- 規制監視の低減
+- 二重運営における効率性
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Exposure
+### 露見
 
-If affiliations are uncovered, it can lead to accusations of "astroturfing" and loss of trust.
+関係が明らかになると、astroturfing 的だと非難され、信頼を失います。
 
-### Inefficiency
+### 非効率
 
-Running two entities may result in internal cannibalization or duplicated efforts.
+二重運営が内部競合や重複投資を生みます。
 
-### Neglect
+### proxy の弱さ
 
-The secondary entity may underperform, making the strategy unconvincing.
+第二主体が弱すぎると、本物の競合を防げません。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Shape Perception, Not Just Structure
+- **知覚の設計が本体**: 法的分離だけでなく、顧客に rivalry が本物に見える必要がある
+- **完全分離ではなく統制された自律**: 適度な裁量を持たせた方が露出リスクも下がる
+- **対比が信頼性を作る**: 価格、価値観、体験で違いが明確なほど選択の幻は強まる
+- **出口を決めておく**: 吸収、統合、廃止のどれを狙うのかを先に持つべきである
 
-Success hinges on how others perceive the relationship between your entities. Brand differentiation, messaging, tone, and even company culture must be designed to appear independent. Surface-level separation is not enough—perceived rivalry must feel real.
+## ❓ **問うべきこと**
 
-### Operate with Autonomy, Not Separation
+- 第二主体の独立性はどれだけもっともらしいか
+- 本物の競合参入を実際に防げるか
+- 露出リスクへの対策は何か
+- 顧客はこの競争をどう認識するか
 
-The secondary entity should have real decision-making power within defined boundaries. Avoid over-engineering control mechanisms. Instead, set clear strategic guardrails and let the team run. This both reduces risk of exposure and allows genuine value creation.
+## 🔀 **関連戦略**
 
-### Use Contrast to Create Credibility
-
-The entities should differ in pricing, customer experience, or values. When customers can clearly articulate what makes each option unique, the illusion of choice becomes more convincing. Avoid making one obviously weaker—each must have a real appeal to a segment of the market.
-
-### Drive Ecosystem Behavior
-
-A well-designed artificial competitor can steer conversations and shape adoption curves. Whether resisting standards, promoting new norms, or buying time, your proxy should play an active role in setting direction. Use it to shift narratives without exposing your core brand.
-
-### Design for a Clear Exit Path
-
-Artificial competition is rarely permanent. Know from the outset whether your endgame is acquisition, absorption, or retirement. Build systems and structures that make transitions clean and minimize fallout with customers, staff, and regulators.
-
-### Plan for Scrutiny
-
-Deniability requires preparation. Separate legal entities, distinct leadership teams, and different operational processes all help reduce risk. If the connection is ever questioned, you need more than spin—you need documentation that supports the independence narrative.
-
-### Manage the Ethical Balance
-
-There is a line between strategic positioning and market distortion. Regularly test your reasoning with trusted peers. If the strategy erodes trust or harms your ecosystem in the long run, the short-term gain may not be worth it.
-
-## ❓ **Key Questions to Ask**
-
-- **Independence:** How plausible is the independence of the secondary entity?
-- **Market impact:** Does this strategy effectively block genuine competitors?
-- **Risk management:** What measures are in place to mitigate exposure risks?
-- **Customer perception:** How do customers perceive the competition?
-
-## 🔀 **Related Strategies**
-
-- [Playing Both Sides](/strategies/attacking/playing-both-sides) - Benefiting from both ends of a competition.
-- [Market Enablement](/strategies/accelerators/market-enablement) - Enabling more competition under your control.
-- [Misdirection](/strategies/competitor/misdirection) - Misleading customers about the true competitive landscape.
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - 競争の両側から利益を取る
+- [市場育成（Market Enablement）](/strategies/accelerators/market-enablement) - 自分の制御下で競争を増やす
+- [Misdirection](/strategies/competitor/misdirection) - 本当の競争地形を誤認させる
 
 ## ⛅ **関連する状勢パターン**
 
-- [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – trigger: fabricated rivalry can set off unexpected market shifts.
-- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: staged contests steer user expectations and related products.
+- [二つの異なる破壊形態がある](/climatic-patterns/two-different-forms-of-disruption) – トリガー: 作られた rivalry が予期しない市場変化を引き起こす
+- [コンポーネントは共進化しうる](/climatic-patterns/components-can-co-evolve) – 影響: 演出された競争が期待と関連市場を形作る
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
 - [Multibranding Strategy](https://en.m.wikipedia.org/wiki/Brand#Multibranding_strategy)

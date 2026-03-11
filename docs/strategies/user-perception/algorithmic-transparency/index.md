@@ -1,6 +1,6 @@
 ---
-title: Algorithmic Transparency
-description: Making algorithmic decisions understandable and auditable to build trust and satisfy oversight.
+title: アルゴリズム透明性（Algorithmic Transparency）
+description: アルゴリズム判断を理解可能かつ監査可能にして、信頼と監督適合を得る戦略。
 tags:
 - transparency
 - trust
@@ -27,171 +27,166 @@ leadership_focus:
 - Governance and policy design
 - Strategic communication and storytelling
 quick_signals:
-- Procurement or regulators require audit trails, model cards, or explainability artefacts.
-- Users appeal or contest automated outcomes at rising rates.
-- Media or stakeholder scrutiny focuses on opaque decision-making.
+- 調達や規制当局が audit trail、model card、explainability artefact を要求している。
+- 自動判断への異議申立てが増えている。
+- opaque decision-making への scrutiny が高まっている。
 momentum_moves:
-- Map the highest-impact decisions and define the minimum explainability needed for each.
-- Publish a transparent decision dossier (model cards, data lineage, evaluation metrics).
-- Establish a cross-functional review board for algorithmic changes.
+- 影響の大きい判断を地図化し、各判断に必要な最小 explainability を定義する。
+- transparent decision dossier を公開する。
+- algorithmic change を審査する cross-functional review board を置く。
 watch_outs:
-- Sharing transparency artefacts without controls, leading to gaming or security risks.
-- Overloading users with technical detail instead of actionable explanations.
-- Treating compliance checklists as a substitute for genuine accountability.
+- 透明化 artefact を無制御に共有し、gaming や security risk を生むこと。
+- technical detail を出しすぎて actionable explanation にならないこと。
+- compliance checklist を genuine accountability の代わりにすること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Making algorithmic decisions understandable and auditable to build trust and satisfy oversight.**
+**アルゴリズムによる判断を理解可能かつ監査可能にし、信頼と監督適合を得る戦略です。**
 
-This strategy isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+この戦略は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) に明示的には書かれていません。
 
-## 🤔 **Explanation**
+## 🤔 **解説**
 
-### What is Algorithmic Transparency?
+### アルゴリズム透明性とは何か
 
-Algorithmic transparency is the deliberate act of making automated decisions legible to the people who rely on them. It means exposing the *why* behind model outputs, the data that shaped them, and the governance controls that keep them accountable. Rather than hiding behind black boxes, teams build trust by offering clear explanations, evidence of performance, and a path for challenge or appeal. It is a user perception strategy because the sense of fairness and reliability is as important as the underlying math.
+自動化された判断の *why*、それを形作った data、そして責任を担保する governance を、人間が理解できる形にすることです。black box に隠れるのではなく、説明、性能証拠、異議申立て経路を提供することで trust を作ります。ここでは数式そのものよりも、「公平で信頼できると感じられるか」が重要です。
 
-### Why use Algorithmic Transparency?
+### なぜ使うのか
 
-- To earn user and buyer trust in high-stakes or regulated environments.
-- To reduce adoption friction when automation replaces human judgment.
-- To signal responsible leadership in markets sensitive to harm or bias.
-- To create defensible differentiation when competitors hide their decision logic.
+- **高リスク環境で trust を得られる**
+- **人間判断から automation へ移る摩擦を減らせる**
+- **harm や bias に敏感な市場で責任ある立場を示せる**
+- **opaque な競合に対する差別化になる**
 
-### How does Algorithmic Transparency affect the landscape?
+### 市場をどう変えるか
 
-Transparency shifts the competitive focus from "clever models" to "governed, trustworthy systems." It can raise the bar for competitors, making opaque solutions less acceptable. It also reduces the fear that automation is arbitrary, making users more willing to accept change.
+競争軸は clever model から、governed で trustworthy な system へ移ります。透明性は、opaque solution の受容性を下げ、automation への恐れを和らげます。
 
-## 🗺️ **Real-World Examples**
+## 🗺️ **実例**
 
-### Banking model risk management disclosures
+### 金融の model risk 管理
 
-In financial services, regulators require banks to document and validate decision models. Publishing structured model documentation, audit trails, and testing results helps reassure regulators and corporate customers that credit, fraud, or risk models are not arbitrary and can be challenged.
+銀行が credit、fraud、risk model の文書、監査証跡、検証結果を示すことで、規制当局と大口顧客へ arbitrariness ではないことを示します。
 
-### Healthcare triage decision support (Hypothetical)
+### 医療トリアージ支援
 
-A hospital adopts an AI triage tool and publishes a clinician-facing guide that explains the inputs, limitations, and human override workflow. Transparency helps clinicians trust the tool and keeps patients confident that care decisions remain accountable.
+AI tool の入力、限界、人間 override 手順を clinician 向けに明示すると、利用者の trust が大きく変わります。
 
-### Public sector benefits eligibility portals
+### 公共給付の eligibility portal
 
-Government teams increasingly publish decision explanations, fairness assessments, and appeal pathways for automated eligibility checks. This clarity reduces public backlash and improves trust in digital services that replace manual reviews.
+自動判定に理由説明、公平性評価、appeal path を付けることで、digital service への backlash を減らせます。
 
-## 🚦 **When to Use / When to Avoid**
+## 🚦 **使いどころ**
 
 <Assessment strategyName="Algorithmic Transparency">
   <MapSignals>
-    <li>Our map shows automated decisions that materially impact users (credit, hiring, pricing, access).</li>
-    <li>Regulators, auditors, or procurement require evidence of explainability and accountability.</li>
-    <li>Customer trust is fragile due to opaque or inconsistent outcomes.</li>
-    <li>We face reputational risk if decisions cannot be explained or appealed.</li>
-    <li>Competitors are being challenged publicly for black-box automation.</li>
+    <li>自動判断が credit、採用、pricing、access など users へ大きく影響している。</li>
+    <li>regulators、auditors、procurement が explainability と accountability を要求している。</li>
+    <li>opaque または inconsistent な outcome で customer trust が壊れやすい。</li>
+    <li>判断を説明できないと reputational risk が高い。</li>
+    <li>competitors が black-box automation で批判されている。</li>
   </MapSignals>
   <Readiness>
-    <li>We can document data lineage, features, and evaluation metrics reliably.</li>
-    <li>Legal, compliance, and product teams can agree on what must be disclosed.</li>
-    <li>We have the capability to deliver explanations that match different audiences.</li>
-    <li>We can monitor for model drift and update transparency artefacts promptly.</li>
-    <li>We can handle user appeals or challenges without breaking workflows.</li>
+    <li>data lineage、features、evaluation metrics を信頼できる形で記録できる。</li>
+    <li>legal、compliance、product で開示範囲を合意できる。</li>
+    <li>audience ごとに説明レベルを変えて届けられる。</li>
+    <li>model drift を監視し、artefact を更新できる。</li>
+    <li>appeal を受けても workflow を壊さず処理できる。</li>
   </Readiness>
 </Assessment>
 
-### Use when
+### 向くとき
 
-Use algorithmic transparency when automated decisions are high-impact, high-scrutiny, or foundational to adoption. It is especially valuable when buyers demand evidence of safety, fairness, or auditability as part of procurement.
+- automated decision が high-impact で scrutiny が強いとき
+- 調達条件として safety、fairness、auditability の証拠が求められるとき
+- trust が adoption の前提になっているとき
 
-### Avoid when
+### 避けるとき
 
-Avoid full transparency when it would expose sensitive data, enable adversarial gaming, or compromise security. In those cases, provide layered transparency: focus on high-level rationale and robust governance rather than disclosing everything.
+- full transparency が sensitive data、adversarial gaming、security を危うくするとき
+- その場合は layered transparency を採り、high-level rationale と strong governance を重視するべきです
 
-## 🎯 **Leadership**
+## 🎯 **リーダーシップ**
 
-### Core challenge
+### 中核課題
 
-Leaders must balance openness with protection. The challenge is to provide meaningful explanations and governance evidence without leaking proprietary methods or exposing vulnerabilities. It requires intentional choices about what is shared, with whom, and in what format.
+openness と protection の両立です。意味のある説明を出しつつ、IP と security を守らなければなりません。何を、誰に、どの粒度で共有するかが中核判断になります。
 
-### Key leadership skills required
+### 必要なスキル
 
-- [Ethical judgment](/leadership-skills/ethical-judgment) — Ensures transparency aligns with fairness and accountability.
-- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Defines the disclosure, review, and appeal policies.
-- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Translates model behaviour into accessible narratives.
-- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Anticipates and shapes compliance expectations.
-- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Manages exposure when models fail or are challenged.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — fairness と accountability に沿わせる
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — disclosure、review、appeal policy を設計する
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — model behaviour を人に伝わる物語へ変える
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — compliance expectation を先読みする
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — failure や challenge 時の露出を管理する
 
-### Ethical considerations
+### 倫理面
 
-Transparency is not just a compliance checkbox. Leaders must avoid "transparency theatre" that overwhelms users with jargon while concealing real accountability. Ethical application means ensuring people can understand, challenge, and seek redress for decisions that affect them.
+透明性は checkbox ではありません。jargon を大量に出して accountability を隠す transparency theatre を避け、影響を受ける人が理解し、異議を唱え、是正を求められる状態を作る必要があります。
 
-## 📋 **How to Execute**
+## 📋 **進め方**
 
-1. Map the automated decisions with the highest impact and scrutiny.
-2. Define transparency tiers for each decision (user-facing, buyer-facing, regulator-facing).
-3. Build artifacts: model cards, data lineage, evaluation metrics, bias tests, and decision logs.
-4. Create human-readable explanations and appeal workflows aligned to user needs.
-5. Establish governance for change management, audits, and incident response.
-6. Communicate transparently, then monitor trust, complaints, and regulatory feedback.
+1. 影響と scrutiny の大きい自動判断を地図化する
+2. user 向け、buyer 向け、regulator 向けの transparency tier を定義する
+3. model card、data lineage、evaluation metrics、bias test、decision log を整える
+4. 人が理解できる explanation と appeal workflow を作る
+5. change management、audit、incident response の governance を置く
+6. 公開後も trust、complaint、regulatory feedback を見て改善する
 
-## 📈 **Measuring Success**
+## 📈 **成功指標**
 
-- Reduction in decision appeals or complaints after transparency updates.
-- Faster procurement approvals due to trust in documentation.
-- Audit findings closed within agreed timelines.
-- Improved user trust scores in product research.
-- Stable adoption growth without reputational setbacks.
+- transparency 強化後の appeals や complaints の減少
+- documentation による procurement approval の短縮
+- audit findings の期限内解消
+- product research での trust score 改善
+- reputational setback なしでの adoption 成長
 
-## ⚠️ **Common Pitfalls and Warning Signs**
+## ⚠️ **失敗しやすい点**
 
-### Transparency overload
+### transparency overload
 
-Dumping technical documentation on users without context can feel like evasion. If users still say the system is a black box, the transparency is failing.
+technical documentation を投げるだけでは black box 認識は消えません。
 
-### Compliance-only mindset
+### compliance-only mindset
 
-Treating transparency as a one-time compliance deliverable leads to stale documentation and eroding trust as models evolve.
+一度出して終わりだと、models の進化に追いつかず trust が削れます。
 
-### Security and gaming exposure
+### security / gaming exposure
 
-Over-disclosing model logic can enable manipulation or reverse engineering. A lack of guardrails is a signal to redesign the transparency tiering.
+logic を出しすぎれば manipulation を招きます。tiering 設計が必要です。
 
-## 🧠 **Strategic Insights**
+## 🧠 **戦略的示唆**
 
-### Transparency as competitive differentiation
+- **透明性は差別化になる**: 規制市場では accuracy が近くても governance の差で勝敗が決まる
+- **本当のリスクは perception gap**: なぜそうなったか分からないと、人は unfair だと感じる
+- **layered transparency が実務的**: full disclosure ではなく、役割別の説明層が優位を守る
 
-When competitors hide their automation, transparency becomes a market signal of responsibility. For regulated buyers, clear documentation and governance can be a deciding factor even when models are similar. This shifts the competitive arena from model accuracy to reliability, fairness, and operational maturity.
+## ❓ **問うべきこと**
 
-### The perception gap is the real risk
+- どの自動判断が users や regulators に最も重い結果をもたらすか
+- stakeholder ごとに必要な explanation 水準は何か
+- どこまで開示しても security や IP が壊れないか
+- models が進化しても accountability をどう証明するか
+- user が異議を唱えたとき、何が起こるか
 
-Most backlash against algorithms is driven by uncertainty, not just outcomes. If users cannot explain *why* a decision occurred, they assume it was unfair. Closing this perception gap with clear explanations and appeal pathways is often more impactful than marginal accuracy gains.
+## 🔀 **関連戦略**
 
-### Layered transparency preserves advantage
-
-Full transparency is not always viable. Mature teams design tiers: user-level rationale, buyer-level evidence, and regulator-level audit trails. This structure preserves IP while still meeting trust and accountability needs.
-
-## ❓ **Key Questions to Ask**
-
-- **Decision Criticality:** Which automated decisions carry the highest consequences for users or regulators?
-- **Audience Fit:** What level of explanation does each stakeholder actually need to trust the decision?
-- **Disclosure Boundaries:** What can we reveal without creating security or IP risks?
-- **Governance Depth:** How will we prove ongoing accountability as models evolve?
-- **Appeal Mechanisms:** What happens when a user disputes an automated outcome?
-
-## 🔀 **Related Strategies**
-
-- [Education](/strategies/user-perception/education) - Builds understanding alongside transparent explanations.
-- [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Reinforces the trust narrative that transparency enables.
-- [Lobbying](/strategies/user-perception/lobbying) - Shapes the regulatory expectations that define transparency requirements.
-- [Open Approaches](/strategies/accelerators/open-approaches) - Applies transparency through open standards and collaboration.
-- [Standards Game](/strategies/markets/standards-game) - Establishes shared disclosure formats and audit practices.
+- [教育（Education）](/strategies/user-perception/education) - transparent explanation と理解促進を組み合わせる
+- [ブランドとマーケティング（Brand and Marketing）](/strategies/user-perception/brand-and-marketing) - transparency が生む trust narrative を強める
+- [ロビー活動（Lobbying）](/strategies/user-perception/lobbying) - transparency requirement の規制期待を形作る
+- [オープンアプローチ（Open Approaches）](/strategies/accelerators/open-approaches) - open standard と collaboration による透明化
+- [標準化ゲーム（Standards Game）](/strategies/markets/standards-game) - disclosure format や audit practice を標準化する
 
 ## ⛅ **関連する状勢パターン**
 
-- [Characteristics change](/climatic-patterns/characteristics-change) – influence: transparency expectations rise as automation spreads.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: opaque incumbents resist disclosure until pressure mounts.
-- [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – influence: transparency evolves from optional to mandated.
+- [特性は変化する](/climatic-patterns/characteristics-change) – 影響: automation が広がるほど transparency expectation も上がる
+- [成功が慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: opaque incumbents は disclosure を嫌う
+- [進化は選べない](/climatic-patterns/no-choice-on-evolution) – 影響: transparency は optional から mandated へ移る
 
-## 📚 **Further Reading & References**
+## 📚 **参考文献**
 
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - Practical governance guidance for AI systems.
-- [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993) - Academic proposal for transparent model documentation.
-- [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/) - Emerging regulatory expectations for high-risk AI systems.
-- [OECD Principles on AI](https://oecd.ai/en/ai-principles) - International guidance on trustworthy AI.
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
+- [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+- [OECD Principles on AI](https://oecd.ai/en/ai-principles)
