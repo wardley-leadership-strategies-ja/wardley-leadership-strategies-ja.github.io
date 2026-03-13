@@ -12,6 +12,7 @@ tags:
 - clarity
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

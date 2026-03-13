@@ -25,6 +25,7 @@ when_to_avoid: 政策サイクルが遅すぎる、または負担が重すぎ�
 core_challenge: 公的目的と私的な戦略目的をどう両立するか。
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

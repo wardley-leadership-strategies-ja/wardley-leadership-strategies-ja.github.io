@@ -1,6 +1,8 @@
 ---
 description: 競合の弱点、判断、依存関係へ働きかける戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 対競合戦略

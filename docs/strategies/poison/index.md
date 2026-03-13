@@ -1,5 +1,7 @@
 ---
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # Poison 戦略

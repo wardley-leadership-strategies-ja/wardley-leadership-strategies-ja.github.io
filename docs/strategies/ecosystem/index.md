@@ -1,6 +1,8 @@
 ---
 description: 単体プロダクトではなく、相互依存する参加者のネットワーク全体で勝つ戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # エコシステム戦略

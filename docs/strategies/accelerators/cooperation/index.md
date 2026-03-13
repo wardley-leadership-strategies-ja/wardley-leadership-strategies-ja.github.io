@@ -26,6 +26,7 @@ when_to_avoid: パートナー候補と目的が根本的に衝突している�
 core_challenge: 統制と開放性の両立。
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Genesis
 - Custom-Built

@@ -12,6 +12,7 @@ tags:
 - weakening rivals
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

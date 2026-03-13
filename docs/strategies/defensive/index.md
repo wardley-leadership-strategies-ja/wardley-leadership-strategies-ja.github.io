@@ -1,6 +1,8 @@
 ---
 description: 既存の地位、資産、収益を競争圧力や破壊的変化から守る戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 防御戦略

@@ -2,7 +2,9 @@
 title: 実験
 description: Hackday、専門チーム、スカンクワークスで素早く仮説を試し、機会を見つけて活かす戦略。
 tags: [experimentation, attacking, innovation, culture, skunkworks, ハッカソンs, rapid iteration, learning]
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 stages:
   - Genesis
   - Custom-Built

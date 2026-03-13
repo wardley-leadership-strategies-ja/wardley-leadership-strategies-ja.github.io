@@ -12,6 +12,7 @@ tags:
 - innovate-leverage-commoditize
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Genesis
 - Custom-Built

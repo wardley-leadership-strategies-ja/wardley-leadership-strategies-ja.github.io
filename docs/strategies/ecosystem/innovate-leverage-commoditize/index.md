@@ -13,6 +13,7 @@ tags:
 - sensing-engine
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Genesis
 - Custom-Built

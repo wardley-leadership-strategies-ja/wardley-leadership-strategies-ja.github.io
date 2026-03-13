@@ -1,5 +1,7 @@
 ---
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 状勢パターン

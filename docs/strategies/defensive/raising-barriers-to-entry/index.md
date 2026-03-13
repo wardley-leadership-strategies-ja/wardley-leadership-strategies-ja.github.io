@@ -2,7 +2,9 @@
 title: 参入障壁の引き上げ
 description: 提供範囲、統合、期待水準を引き上げ、新規参入を難しくする防御戦略。
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 stages:
   - Product
   - Commodity/Utility

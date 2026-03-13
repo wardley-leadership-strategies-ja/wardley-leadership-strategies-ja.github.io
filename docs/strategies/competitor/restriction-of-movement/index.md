@@ -11,6 +11,7 @@ tags:
 - limitation
 authors:
 - dave-hulbert
+- kdmsnr
 description: 競合の選択肢を絞り、適応や拡張を難しくする封じ込め戦略。
 stages:
 - Custom-Built

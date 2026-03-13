@@ -2,7 +2,9 @@
 title: テックドロップ
 description: 大きく予想外な技術変化を投下し、主導権を奪って市場を組み替える戦略。
 tags: [competitor, surprise, innovation, technology, tech-drop, disruption, proactive, market-creation]
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 stages:
   - Genesis
   - Custom-Built

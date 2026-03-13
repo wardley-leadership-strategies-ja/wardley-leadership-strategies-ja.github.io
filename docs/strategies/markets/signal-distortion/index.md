@@ -12,6 +12,7 @@ tags:
 - misdirection
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

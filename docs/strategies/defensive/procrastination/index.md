@@ -11,6 +11,7 @@ tags:
 - second-mover-advantage
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Product
 - Commodity/Utility

@@ -1,6 +1,8 @@
 ---
 description: 進化や市場変化の速度を意図的に遅らせる戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 減速戦略

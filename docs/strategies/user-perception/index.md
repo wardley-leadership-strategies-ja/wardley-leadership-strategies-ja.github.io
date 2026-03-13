@@ -1,6 +1,8 @@
 ---
 description: ユーザーや市場が価値、リスク、選択肢をどう認知するかへ働きかける戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # ユーザー認知戦略

@@ -1,6 +1,8 @@
 ---
 description: 競争、価値、価格、標準、市場進化を扱う戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 市場戦略

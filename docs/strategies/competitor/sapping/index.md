@@ -10,6 +10,7 @@ tags:
 - distraction
 authors:
 - dave-hulbert
+- kdmsnr
 description: 複数の競争正面を同時に開き、競合の対応能力をすり減らす戦略。
 stages:
 - Product

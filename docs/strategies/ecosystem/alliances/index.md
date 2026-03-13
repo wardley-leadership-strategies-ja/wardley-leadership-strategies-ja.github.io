@@ -12,6 +12,7 @@ tags:
 - cooperation
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

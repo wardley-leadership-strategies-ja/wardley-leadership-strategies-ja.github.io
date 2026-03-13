@@ -11,6 +11,7 @@ tags:
 - lock-in
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Product
 - Commodity/Utility

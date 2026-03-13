@@ -2,7 +2,9 @@
 title: 重力中心
 description: 人材、知見、活動を集中させ、業界やエコシステムの方向を引き寄せる戦略。
 tags: [center-of-gravity, attacking, talent, ecosystem, innovation, expertise, influence, attraction]
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 stages:
   - Custom-Built
   - Product

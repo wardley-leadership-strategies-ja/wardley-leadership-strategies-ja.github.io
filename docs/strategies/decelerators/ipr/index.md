@@ -9,6 +9,7 @@ tags:
 - licensing
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

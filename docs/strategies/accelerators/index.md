@@ -1,6 +1,8 @@
 ---
 description: コンポーネントの進化と市場形成を加速する戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 加速戦略

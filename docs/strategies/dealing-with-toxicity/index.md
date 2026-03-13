@@ -1,6 +1,8 @@
 ---
 description: レガシー資産や有害な依存関係を整理し、切り離し、再構成する戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 毒性への対処戦略

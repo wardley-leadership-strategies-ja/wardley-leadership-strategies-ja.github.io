@@ -1,6 +1,8 @@
 ---
 description: 競争環境へ能動的に圧力をかけ、変化を起こす戦略群。
-authors: [dave-hulbert]
+authors:
+- dave-hulbert
+- kdmsnr
 ---
 
 # 攻勢戦略

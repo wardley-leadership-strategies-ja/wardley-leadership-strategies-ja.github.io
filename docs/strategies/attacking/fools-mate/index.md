@@ -13,6 +13,7 @@ tags:
 - asymmetric warfare
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Custom-Built
 - Product

@@ -11,6 +11,7 @@ tags:
 - market entry
 authors:
 - dave-hulbert
+- kdmsnr
 stages:
 - Product
 - Commodity/Utility
