@@ -225,3 +225,9 @@ sequenceDiagram
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – トリガー: 奇襲は競合の一手への直接反応であり、再びゲームを変える
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 競合の慢心や硬直を奇襲が突ける
 - [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – 影響: オープン化やコモディティ化による奇襲が移行を早める
+
+## 📚 **参考文献**
+
+- [孫子兵法](/books/the-art-of-war) - 奇襲、タイミング、相手の備えを崩す考え方の古典
+- [Judo Strategy](/books/judo-strategy) - 正面衝突を避けつつ相手の勢いを崩す競争戦略
+- [Competition Demystified](/books/competition-demystified) - 競争反応と優位の崩し方を考える実務的な文脈

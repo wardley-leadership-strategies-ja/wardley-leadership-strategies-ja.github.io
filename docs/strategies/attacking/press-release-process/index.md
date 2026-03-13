@@ -237,6 +237,11 @@ quadrantChart
 - [差別化](/strategies/markets/differentiation) - 発表文が混雑市場での位置取りを定義する
 - [ファーストフォロワー](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
 
+## ⛅ **関連する状勢パターン**
+
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 顧客向け成果から逆算することで、新しい上位価値の設計が見えやすくなる
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – トリガー: 進化したコンポーネントが揃うほど、PR/FAQ で具体的な価値を描きやすい
+
 ## 📚 **参考文献**
 
 - [Working Backwards](/books/working-backwards)

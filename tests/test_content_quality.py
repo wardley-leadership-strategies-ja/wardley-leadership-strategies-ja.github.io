@@ -12,19 +12,28 @@ from test_utils import (
 
 # Based on CONTRIBUTING.md
 EXPECTED_H2_HEADINGS = [
-    "## 🤔 **Explanation**",
-    "## 🗺️ **Real-World Examples**",
-    "## 🚦 **When to Use / When to Avoid**",
-    "## 🎯 **Leadership**",
-    "## 📋 **How to Execute**",
-    "## 📈 **Measuring Success**",
-    "## ⚠️ **Common Pitfalls and Warning Signs**",
-    "## 🧠 **Strategic Insights**",
-    "## ❓ **Key Questions to Ask**",
-    "## 🔀 **Related Strategies**",
-    "## ⛅ **Relevant Climatic Patterns**",
-    "## 📚 **Further Reading & References**",
+    "## 🤔 **解説**",
+    "## 🗺️ **実例**",
+    "## 🚦 **使いどころ**",
+    "## 🎯 **リーダーシップ**",
+    "## 📋 **進め方**",
+    "## 📈 **成功指標**",
+    "## ⚠️ **失敗しやすい点**",
+    "## 🧠 **戦略的示唆**",
+    "## ❓ **問うべきこと**",
+    "## 🔀 **関連戦略**",
+    "## ⛅ **関連する状勢パターン**",
+    "## 📚 **参考文献**",
 ]
+
+UNMENTIONED_NOTE_MARKERS = (
+    "明示的には触れられていません",
+    "明示的には書かれていません",
+    "明示的には出てきません",
+    "明示的には挙がっていません",
+    "明示されていません",
+    "明示されてはいません",
+)
 
 @pytest.fixture(scope="module")
 def strategies():
@@ -90,7 +99,7 @@ def test_strategy_has_quote_or_unmentioned_note(strategies):
     missing_info = []
     for strategy in strategies:
         has_quote = re.search(r'^>.*Simon Wardley', strategy.content, re.MULTILINE)
-        has_unmentioned = "isn't explicitly mentioned" in strategy.content
+        has_unmentioned = any(marker in strategy.content for marker in UNMENTIONED_NOTE_MARKERS)
         if not (has_quote or has_unmentioned):
             missing_info.append(strategy.slug)
 
@@ -131,14 +140,16 @@ def get_leadership_skills_links() -> set[str]:
     return links
 
 def extract_leadership_skills_section(content: str) -> str | None:
-    leadership_section = get_section_content(content, "## 🎯 **Leadership**")
+    leadership_section = get_section_content(content, "## 🎯 **リーダーシップ**")
     if not leadership_section:
         return None
 
     section_lines = leadership_section.splitlines()
     start_index = None
     for index, line in enumerate(section_lines):
-        if line.startswith("### ") and "leadership skills" in line.lower():
+        if line.startswith("### ") and (
+            "leadership skills" in line.lower() or "必要なスキル" in line
+        ):
             start_index = index + 1
             break
 
