@@ -209,7 +209,7 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 - [重力中心](/strategies/attacking/centre-of-gravity) - 強いラボは人材を引き寄せる中心になる
 - [共創](/strategies/ecosystem/co-creation) - 実験をユーザーと一緒に回すと洞察が深まる
 - [弱いシグナル](/strategies/positional/weak-signal-horizon) - 実験は弱いシグナルを確かめる初動になる
-- [高速追随](/strategies/positional/fast-follower) - 他社の成功実験を素早く取り込む
+- [ファーストフォロワー](/strategies/positional/fast-follower) - 他社の成功実験を素早く取り込む
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 実験結果を物語として整え、支持を広げる
 - [包囲と探り](/strategies/competitor/circling-and-probing) - 競合位置を探る小さな試し打ちと相性がよい
 - [差別化](/strategies/markets/differentiation) - 実験から生まれた独自性を差別化へ変える

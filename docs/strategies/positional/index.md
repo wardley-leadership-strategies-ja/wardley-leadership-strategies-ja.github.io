@@ -15,7 +15,7 @@ authors: [dave-hulbert]
 主な型は次のとおりです。
 
 - [先行者戦略](/strategies/positional/first-mover): 先行者として市場や標準を定義する
-- [高速追随](/strategies/positional/fast-follower): 先行者の学習コストを使って素早く追い抜く
+- [ファーストフォロワー](/strategies/positional/fast-follower): 先行者の学習コストを使って素早く追い抜く
 - [先行確保](/strategies/positional/land-grab): 急成長市場でシェアや資源を一気に押さえる
 - [弱いシグナル](/strategies/positional/weak-signal-horizon): 弱いシグナルを拾って未来の布陣を決める
 
@@ -24,7 +24,7 @@ authors: [dave-hulbert]
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
 | [先行者戦略](/strategies/positional/first-mover/) | 先に市場へ入り基準を作る | 研究開発、教育、初期顧客獲得 | 新市場、新技術 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) |
-| [高速追随](/strategies/positional/fast-follower/) | 先行者の後で効率よく伸びる | 市場監視、改善実装、実行力 | 市場性は見えたが改善余地が大きい場面 | [進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
+| [ファーストフォロワー](/strategies/positional/fast-follower/) | 先行者の後で効率よく伸びる | 市場監視、改善実装、実行力 | 市場性は見えたが改善余地が大きい場面 | [進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
 | [先行確保](/strategies/positional/land-grab/) | 急成長領域で先に広く取る | 拡大投資、補助金的価格、買収 | ネットワーク効果市場、立ち上がり市場 | [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)、[資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) |
 | [弱いシグナル](/strategies/positional/weak-signal-horizon/) | 早い兆候から未来を読む | ホライズンスキャニング、シナリオ、異常値分析 | 長期計画、高不確実性環境 | [すべてがランダムではない](/climatic-patterns/not-everything-is-random)、[未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) |
 

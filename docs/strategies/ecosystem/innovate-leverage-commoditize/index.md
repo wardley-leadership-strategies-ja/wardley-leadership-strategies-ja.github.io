@@ -206,7 +206,7 @@ Credit: John Duffy, original thread: [https://x.com/jduffy/status/14403203987388
 - [収穫](/strategies/markets/harvesting) - コモディティ化 フェーズの主要 戦術
 - [オープンアプローチ](/strategies/accelerators/open-approaches) - 活気あるエコシステムを引き寄せる基盤になりやすい
 - [塔と堀](/strategies/ecosystem/tower-and-moat) - platform が塔で、補完物 の コモディティ化 が堀になる
-- [高速追随](/strategies/positional/fast-follower) - 自社 エコシステム の innovation を追随する形でもある
+- [ファーストフォロワー](/strategies/positional/fast-follower) - 自社 エコシステム の innovation を追随する形でもある
 - [弱いシグナル](/strategies/positional/weak-signal-horizon) - innovation phase へ feed する emerging パターン を sensing する
 - [共創](/strategies/ecosystem/co-creation) - エコシステム member と prototype を生む
 - [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 非中核資産を外へ出し、innovation へ集中する

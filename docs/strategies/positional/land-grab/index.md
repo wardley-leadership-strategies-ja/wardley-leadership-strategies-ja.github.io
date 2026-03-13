@@ -181,7 +181,7 @@ Land Grab 自体がゴールではなく、その後の [先行者戦略](/strat
 ## 🔀 **関連戦略**
 
 - [先行者戦略](/strategies/positional/first-mover)
-- [高速追随](/strategies/positional/fast-follower)
+- [ファーストフォロワー](/strategies/positional/fast-follower)
 - [弱いシグナル](/strategies/positional/weak-signal-horizon)
 - [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects)
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process)

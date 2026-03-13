@@ -35,7 +35,7 @@ watch_outs:
 - 失敗が自社由来だと追跡され、ブランドを傷つけること。
 - ユーザーが欠陥を直して成功させてしまうこと。
 - 本当の優先課題からチームの注意を逸らすこと。
-effort_level: Fast impact
+effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
 ---
 

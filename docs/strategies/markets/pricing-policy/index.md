@@ -26,7 +26,7 @@ leadership_focus:
 - Pricing and packaging strategy
 - Market セグメントation
 - Data instrumentation
-quick_シグナルs:
+quick_signals:
 - 大きな製品変更なしに、需要を刺激または抑制する必要がある。
 - 競合が、歴史的に自社が握っていた価格物語を崩している。
 - セグメント ごとの unit economics が大きく異なり、より良い価格設計の余地がある。
