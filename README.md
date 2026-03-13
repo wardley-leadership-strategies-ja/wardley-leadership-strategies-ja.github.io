@@ -2,8 +2,9 @@
 
 The Compendium of Wardley Mapping Leadership Gameplays and Strategies.
 
-If you landed here accidentally, this is the source behind the site.
-You can view the live site at [`wardleyleadershipstrategies.com`](https://www.wardleyleadershipstrategies.com).
+This repository contains the source for the unofficial Japanese translation site.
+You can view the live Japanese site at [`wardley-leadership-strategies-ja.github.io`](https://wardley-leadership-strategies-ja.github.io/).
+For the upstream English site, see [`wardleyleadershipstrategies.com`](https://www.wardleyleadershipstrategies.com).
 
 ## Contributing
 
