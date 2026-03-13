@@ -77,10 +77,10 @@ python3 scripts/translation_status.py --word-diff docs/strategies/index.md
 The `main` branch is deployed live with GitHub Pages at:
 
 ```text
-https://kdmsnr.github.io/wardley-leadership-strategies-ja/
+https://wardley-leadership-strategies-ja.github.io/
 ```
 
-Important: a GitHub Pages build uses `BASE_URL=/wardley-leadership-strategies-ja/`. If you build with that setting and then serve the files locally at `/`, Docusaurus will show a baseUrl error. For local preview, use `npm run build:local` or `npm run serve:local`.
+Important: this GitHub Pages deployment uses the root site path, so `BASE_URL=/`. Local preview should continue to use `npm run build:local` or `npm run serve:local`.
 
 ## Running Tests
 

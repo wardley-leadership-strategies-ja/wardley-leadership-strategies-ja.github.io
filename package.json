@@ -8,7 +8,7 @@
     "start:local": "BASE_URL=/ docusaurus start --host 127.0.0.1 --port 3000",
     "build": "docusaurus build",
     "build:local": "SITE_URL=http://127.0.0.1:3000 BASE_URL=/ DISABLE_FASTER_BUILD=true docusaurus build",
-    "build:pages": "SITE_URL=https://kdmsnr.github.io BASE_URL=/wardley-leadership-strategies-ja/ GITHUB_OWNER=kdmsnr GITHUB_REPO=wardley-leadership-strategies-ja DISABLE_FASTER_BUILD=true docusaurus build",
+    "build:pages": "SITE_URL=https://wardley-leadership-strategies-ja.github.io BASE_URL=/ GITHUB_OWNER=wardley-leadership-strategies-ja GITHUB_REPO=wardley-leadership-strategies-ja.github.io DISABLE_FASTER_BUILD=true docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

@@ -37,10 +37,10 @@ jobs:
       - name: Build site
         run: DISABLE_FASTER_BUILD=true npm run build
         env:
-          SITE_URL: https://kdmsnr.github.io
-          BASE_URL: /wardley-leadership-strategies-ja/
-          GITHUB_OWNER: kdmsnr
-          GITHUB_REPO: wardley-leadership-strategies-ja
+          SITE_URL: https://wardley-leadership-strategies-ja.github.io
+          BASE_URL: /
+          GITHUB_OWNER: wardley-leadership-strategies-ja
+          GITHUB_REPO: wardley-leadership-strategies-ja.github.io
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
