@@ -274,7 +274,7 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 - [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 相手制約を極端に leverage する形
 - [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - key component を コモディティ化すると障壁も崩れる
 - [シグナル歪曲](/strategies/markets/signal-distortion) - capability が perception されるだけでも歪みを起こせる
-- [重力中心](/strategies/attacking/centre-of-gravity) - 実は見えにくい重力中心を壊すことが多い
+- [重力の中心](/strategies/attacking/centre-of-gravity) - 実は見えにくい重力の中心を壊すことが多い
 
 ## ⛅ **関連する状勢パターン**
 

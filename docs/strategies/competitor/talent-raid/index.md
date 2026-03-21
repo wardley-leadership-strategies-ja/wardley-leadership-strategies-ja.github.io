@@ -221,7 +221,7 @@ AI や半導体のように専門性が希少な分野では、上位人材の�
 - [脅威の買収](/strategies/defensive/threat-acquisition) - 会社ごと取ることで人材も取り込める
 - [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 重要人材を吸うことで参入障壁を上げられる
 - [市場育成](/strategies/accelerators/market-enablement) - 市場知見や接点を持つ人材の獲得が市場拡大を助ける
-- [重力中心](/strategies/attacking/centre-of-gravity) - 重要人材を引き寄せることで新しい中心を作る
+- [重力の中心](/strategies/attacking/centre-of-gravity) - 重要人材を引き寄せることで新しい中心を作る
 - [挿入](/strategies/poison/insertion) - 相手の士気や結束を崩す働きかけと組み合わせられる
 
 ## ⛅ **関連する状勢パターン**

@@ -208,7 +208,7 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 ## 🔀 **関連戦略**
 
 - [集中投資](/strategies/attacking/directed-investment) - 実験で見えた有望領域へ大きく張る
-- [重力中心](/strategies/attacking/centre-of-gravity) - 強いラボは人材を引き寄せる中心になる
+- [重力の中心](/strategies/attacking/centre-of-gravity) - 強いラボは人材を引き寄せる中心になる
 - [共創](/strategies/ecosystem/co-creation) - 実験をユーザーと一緒に回すと洞察が深まる
 - [弱いシグナル](/strategies/positional/weak-signal-horizon) - 実験は弱いシグナルを確かめる初動になる
 - [ファーストフォロワー](/strategies/positional/fast-follower) - 他社の成功実験を素早く取り込む

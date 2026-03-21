@@ -156,7 +156,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Fast impact',
   },
   {
-    title: '重力中心',
+    title: '重力の中心',
     slug: '/strategies/attacking/centre-of-gravity',
     summary:
       '人材、知見、活動を集中させ、業界やエコシステムの方向を引き寄せる戦略。',

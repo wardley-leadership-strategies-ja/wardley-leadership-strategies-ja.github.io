@@ -17,7 +17,7 @@ authors:
 
 代表的な型は次のとおりです。
 
-- [重力中心](/strategies/attacking/centre-of-gravity): 人材や能力を一点へ集め、他者が寄らざるをえない中核を作る
+- [重力の中心](/strategies/attacking/centre-of-gravity): 人材や能力を一点へ集め、他者が寄らざるをえない中核を作る
 - [集中投資](/strategies/attacking/directed-investment): 将来価値が大きい領域へ狙いを絞って賭ける
 - [実験](/strategies/attacking/experimentation): 小さな実験を高速に回して学習速度で勝つ
 - [フールズ・メイト](/strategies/attacking/fools-mate): 相手の守りが薄い重要コンポーネントを一気に突く
@@ -29,7 +29,7 @@ authors:
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [重力中心](/strategies/attacking/centre-of-gravity/) | 他者が依存する中核になる | 人材集中、必須機能の掌握 | 標準争い、プラットフォーム形成 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
+| [重力の中心](/strategies/attacking/centre-of-gravity/) | 他者が依存する中核になる | 人材集中、必須機能の掌握 | 標準争い、プラットフォーム形成 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) |
 | [集中投資](/strategies/attacking/directed-investment/) | 将来優位を先に取る | 集中投資、買収、長期研究 | 将来像は見えるが市場は未成熟 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[将来価値は確実性に反比例する](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) |
 | [実験](/strategies/attacking/experimentation/) | 学習速度で差をつける | 実験、小規模試行、学習ループ | 不確実性が高い領域 | [特性は変化する](/climatic-patterns/characteristics-change)、[進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves) |
 | [フールズ・メイト](/strategies/attacking/fools-mate/) | 相手の急所を一撃で崩す | 依存関係分析、急速実行 | 競合に明確な弱点がある | [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game)、[慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) |

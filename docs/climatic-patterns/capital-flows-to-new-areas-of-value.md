@@ -7,4 +7,4 @@ tags: [financial]
 
 ## 🔀 関連戦略
 
-- [Center of Gravity](/strategies/attacking/centre-of-gravity) – トリガー: 投資は、将来価値が最も大きいと見なされる中枢へ集まりやすい。
+- [重力の中心](/strategies/attacking/centre-of-gravity) – トリガー: 投資は、将来価値が最も大きいと見なされる中枢へ集まりやすい。
