@@ -89,6 +89,7 @@
     },
     "moduleNameMapper": {
       "^@site/(.*)$": "<rootDir>/$1",
+      "^@docusaurus/Link$": "<rootDir>/jest.docusaurusLinkMock.js",
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     },
     "testEnvironment": "jsdom",
