@@ -53,6 +53,6 @@ Wardley Mapping は状況認識と文脈依存の戦略を重視します。こ�
   </MapSignals>
   <Readiness>
     <li>慣性を扱うのが得意である。</li>
-    <li>新しいものへ向かうバイアスを持っている。</li>
+    <li>新規性を重視している。</li>
   </Readiness>
 </Assessment>

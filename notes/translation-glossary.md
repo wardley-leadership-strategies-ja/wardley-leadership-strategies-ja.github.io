@@ -61,10 +61,10 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | villagers | 定住者 |
 | town planners | 都市計画者 |
 | Understand what is being considered | 検討されていることを理解する |
-| A bias toward open | オープンに対するバイアス |
-| Bias toward data | データに対するバイアス |
-| Bias toward action | 行動に対するバイアス |
-| Bias toward the new | 新規性に対するバイアス |
+| A bias toward open | オープン性を重視する |
+| Bias toward data | データを重視する |
+| Bias toward action | 行動を重視する |
+| Bias toward the new | 新規性を重視する |
 | Focus on the outcome | 成果を重視する |
 | Think fast inexpensive restrained and elegant | 高速、安価、抑制、優雅に考える |
 | Use appropriate tools | 適切なツールを使う |
