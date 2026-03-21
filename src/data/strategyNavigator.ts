@@ -757,7 +757,7 @@ export const strategyProfiles: StrategyProfile[] = [
     title: '革新・活用・コモディティ化',
     slug: '/strategies/ecosystem/innovate-leverage-commoditize',
     summary:
-      'エコシステムを sensing engine として使い、革新を導いて市場主導権を維持する循環戦略。',
+      'エコシステムを感知エンジンとして使い、革新を導いて市場主導権を維持する循環戦略。',
     stages: ['Genesis', 'Custom-Built', 'Product'],
     goals: ['Build エコシステム leverage', 'Unlock new growth', 'Shape the market'],
     pressures: [
@@ -871,7 +871,7 @@ export const strategyProfiles: StrategyProfile[] = [
       'partner trust と platform goal を両立する harvesting criteria を透明化する。',
       'acquisition、revenue share、native integration への path を successful partner へ提示する。',
     ],
-    watchOuts: ['partner に報いず収穫だけして、次の投資意欲を削ぐこと。', '元の品質を再現できないまま機能統合すること。', '感知装置 が bureaucracy 化して遅くなること。'],
+    watchOuts: ['partner に報いず収穫だけして、次の投資意欲を削ぐこと。', '元の品質を再現できないまま機能統合すること。', '感知エンジンが bureaucracy 化して遅くなること。'],
     effortLevel: 'Cross-Functional Initiative',
     timeHorizon: 'Medium-term shaping',
   },

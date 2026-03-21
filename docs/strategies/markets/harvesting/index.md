@@ -39,7 +39,7 @@ momentum_moves:
 watch_outs:
 - partner に報いず収穫だけして、次の投資意欲を削ぐこと。
 - 元の品質を再現できないまま機能統合すること。
-- 感知装置 が bureaucracy 化して遅くなること。
+- 感知エンジンが bureaucracy 化して遅くなること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -54,7 +54,7 @@ time_horizon: Medium-term shaping
 
 ### 収穫とは何か
 
-収穫は、企業が エコシステム を作り、第三者にその上で新しい 製品 や サービス を 構築 してもらい、そのうち 手応え を得た イノベーション を 感知装置 として観測する戦略です。勝ち筋が見えたら、その企業を買収する、機能を複製する、コアへ深く統合する、などの方法で「収穫」します。
+収穫は、企業が エコシステム を作り、第三者にその上で新しい 製品 や サービス を 構築 してもらい、そのうち 手応え を得た イノベーション を感知エンジンで観測する戦略です。勝ち筋が見えたら、その企業を買収する、機能を複製する、コアへ深く統合する、などの方法で「収穫」します。
 
 ### なぜ使うのか
 
@@ -88,7 +88,7 @@ Microsoft は長く Windows 上の 巨大なソフトウェアエコシステム
   </MapSignals>
   <Readiness>
     <li>third-party developer に魅力ある robust platform がある。</li>
-    <li>ecosystem を監視する 感知装置 がある。</li>
+    <li>ecosystem を監視する感知エンジンがある。</li>
     <li>新 feature を replicate または integrate できる技術力がある。</li>
     <li>ecosystem を毒さずに収穫する delicate balance を理解している。</li>
   </Readiness>
@@ -127,7 +127,7 @@ Microsoft は長く Windows 上の 巨大なソフトウェアエコシステム
 ## 📋 **進め方**
 
 1. open で 構築 しやすい platform を作って育てる
-2. API 利用量、アプリストアのデータ、コミュニティ参加 など 感知装置 を作る
+2. API 利用量、アプリストアのデータ、コミュニティ参加 など感知エンジンを作る
 3. adoption、開発者の関心、revenue の シグナル から勝ち筋を見つける
 4. acquisition、replication、partnership のどれで収穫するか決める
 5. 公正な価格、または superior integration で収穫を実行する
@@ -160,9 +160,9 @@ third-party app を OS 内蔵で obsolete にすることは、強い 否定的�
 
 ## 🧠 **戦略的示唆**
 
-### platform は 感知装置 でもある
+### platform は感知エンジンでもある
 
-platform は自社製品の土台であるだけでなく、市場 傾向 を検知し取り込む 感知装置 でもあります。開かれているほど シグナル は増えます。
+platform は自社製品の土台であるだけでなく、市場 傾向 を検知し取り込む感知エンジンでもあります。開かれているほど シグナル は増えます。
 
 ### 共生関係であるべき
 
