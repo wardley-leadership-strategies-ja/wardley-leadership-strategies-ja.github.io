@@ -170,7 +170,7 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 
 - アライアンスは、進化を共同で押し進めるエコシステム戦略である
 - Standards Game のように、ネットワーク効果が効く場で特に強い
-- 産業の重力の中心を動かすことがある
+- 産業の重心を動かすことがある
 - 早い段階のアライアンスは優位を固定しやすいが、成功するほど脆さも増す
 
 **協調との関係:**
@@ -196,7 +196,7 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 
 - [協調](/strategies/accelerators/cooperation) - 共通目的に向けた協調の構造化形態
 - [標準化ゲーム](/strategies/markets/standards-game) - 共有標準の推進や防衛にアライアンスが使われる
-- [重力の中心](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重力の中心を動かせる
+- [重心](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重心を動かせる
 - [市場育成](/strategies/accelerators/market-enablement) - 資源や能力を束ねて市場を育てる
 - [移動の制限](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
 - [包囲と探り](/strategies/competitor/circling-and-probing) - 協議を通じて相手の本気度や競争状況を探る

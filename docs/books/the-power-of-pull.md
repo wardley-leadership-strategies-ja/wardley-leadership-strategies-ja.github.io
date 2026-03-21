@@ -10,4 +10,4 @@ John Hagel III、John Seely Brown、Lang Davison による **The Power of Pull**
 
 ## 参照先
 
-- [重力の中心](/strategies/attacking/centre-of-gravity)
+- [重心](/strategies/attacking/centre-of-gravity)

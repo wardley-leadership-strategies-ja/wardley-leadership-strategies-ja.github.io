@@ -177,7 +177,7 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 - [ファーストフォロワー](/strategies/positional/fast-follower) - 取り込みを継続的に使える組織はファーストフォロワーになりやすい
 - [収穫](/strategies/markets/harvesting) - 外部のアイデアを採る点は似ているが、収穫対象が競合か自陣営かで異なる
 - [脅威の買収](/strategies/defensive/threat-acquisition) - 買収や提携で競合能力そのものを吸収する
-- [重力の中心](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重力の中心をずらす
+- [重心](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重心をずらす
 - [移動の制限](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
 - [細分化戦略](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
 

@@ -199,7 +199,7 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 
 ### バリューチェーンの重力を動かす
 
-集中投資は、バリューチェーンの中の重力の中心を移し、人材、パートナー、ユーザーを引き寄せます。同時に、新しいボトルネックや標準も作りえます。
+集中投資は、バリューチェーンの中の重心を移し、人材、パートナー、ユーザーを引き寄せます。同時に、新しいボトルネックや標準も作りえます。
 
 ## ❓ **問うべきこと**
 
@@ -214,7 +214,7 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 
 - [弱いシグナル](/strategies/positional/weak-signal-horizon) - 早いシグナルが集中投資の起点になる
 - [先行者戦略](/strategies/positional/first-mover) - 集中投資は先行優位を取るための主要手段
-- [重力の中心](/strategies/attacking/centre-of-gravity) - 人材や活動の新しい中心を作る投資になることがある
+- [重心](/strategies/attacking/centre-of-gravity) - 人材や活動の新しい中心を作る投資になることがある
 - [実験](/strategies/attacking/experimentation) - 大きな賭けの前後で、実験が機会を見極める
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 投資対象の物語を整え、社内外を揃える
 
