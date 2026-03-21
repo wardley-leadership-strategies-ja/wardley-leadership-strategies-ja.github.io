@@ -178,8 +178,8 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 ## 🔀 **関連戦略**
 
 - [取り込み](/strategies/ecosystem/co-opting)
-- [機動制限](/strategies/competitor/restriction-of-movement)
-- [人材引き抜き](/strategies/competitor/talent-raid)
+- [移動の制限](/strategies/competitor/restriction-of-movement)
+- [人材の引き抜き](/strategies/competitor/talent-raid)
 - [競争制限](/strategies/defensive/limitation-of-competition)
 - [収穫](/strategies/markets/harvesting)
 - [最後の一社](/strategies/markets/last-man-standing)

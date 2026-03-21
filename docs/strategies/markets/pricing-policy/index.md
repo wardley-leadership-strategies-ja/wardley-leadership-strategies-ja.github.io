@@ -203,7 +203,7 @@ pricing は価値回収の主装置ですが、回収だけに寄ると長期の
 
 ## 🔀 **関連戦略**
 
-- [断片化](/strategies/competitor/fragmentation) - pricing で市場を意図的に細分化できる
+- [細分化戦略](/strategies/competitor/fragmentation) - pricing で市場を意図的に細分化できる
 - [ジェヴォンズの逆説](/terms/jevons-paradox) - 価格低下が消費総量を増やすことがある
 - [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - buyer / supplier 関係での主要レバー
 - [最後の一社](/strategies/markets/last-man-standing) - 低価格で競合を消耗させる戦略と結びつきやすい

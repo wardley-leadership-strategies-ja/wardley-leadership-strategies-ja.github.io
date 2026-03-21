@@ -75,7 +75,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Misdirection">
+<Assessment strategyName="陽動">
   <MapSignals>
     <li>戦略がタイミング、秘匿、早期反撃回避に依存している。</li>
     <li>競合が公開情報、メディア、特許、発表を通じてこちらを監視している。</li>
@@ -184,7 +184,7 @@ time_horizon: Medium-term shaping
 
 ## 🔀 **関連戦略**
 
-- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) - 本当の戦略を過小評価させることで慣性を強める
+- [競合他社の惰性の強化](/strategies/competitor/reinforcing-competitor-inertia) - 本当の戦略を過小評価させることで慣性を強める
 - [テックドロップ](/strategies/competitor/tech-drops) - 直前まで意図を隠すための下準備になる
 - [シグナル歪曲](/strategies/markets/signal-distortion) - 市場シグナルを意図的に歪める点で近い
 - [恐怖・不確実性・疑念](/strategies/user-perception/fear-uncertainty-and-doubt) - 競合側へ不安を作る補助手段になりうる

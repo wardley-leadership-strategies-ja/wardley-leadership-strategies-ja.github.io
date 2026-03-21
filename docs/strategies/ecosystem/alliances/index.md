@@ -198,9 +198,9 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 - [標準化ゲーム](/strategies/markets/standards-game) - 共有標準の推進や防衛にアライアンスが使われる
 - [重力中心](/strategies/attacking/centre-of-gravity) - 競合に対して産業の重心を動かせる
 - [市場育成](/strategies/accelerators/market-enablement) - 資源や能力を束ねて市場を育てる
-- [機動制限](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
+- [移動の制限](/strategies/competitor/restriction-of-movement) - パートナーチャネルを囲い、競合の動きを制限する
 - [包囲と探り](/strategies/competitor/circling-and-probing) - 協議を通じて相手の本気度や競争状況を探る
-- [断片化](/strategies/competitor/fragmentation) - 参加者を自陣営へ引き込み、競合エコシステムを割る
+- [細分化戦略](/strategies/competitor/fragmentation) - 参加者を自陣営へ引き込み、競合エコシステムを割る
 
 ## ⛅ **関連する状勢パターン**
 

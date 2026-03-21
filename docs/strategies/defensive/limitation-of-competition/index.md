@@ -219,7 +219,7 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 - [脅威の買収](/strategies/defensive/threat-acquisition) – 脅威を買い取る
 - [標準化ゲーム](/strategies/markets/standards-game) – 自社方式を標準にする
 - [ロビー活動](/strategies/user-perception/lobbying) – 政策・標準へ影響する前段
-- [機動制限](/strategies/competitor/restriction-of-movement) - 競合の可動域を狭める
+- [移動の制限](/strategies/competitor/restriction-of-movement) - 競合の可動域を狭める
 - [ライセンシング](/strategies/poison/licensing) - ライセンス条件で利用範囲を縛る
 
 ## ⛅ **関連する状勢パターン**

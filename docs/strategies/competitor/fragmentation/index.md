@@ -1,5 +1,5 @@
 ---
-title: 断片化
+title: 細分化戦略
 description: 競合が支配する市場を分断し、その牙城を崩していく戦略。
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 stages:
@@ -38,13 +38,13 @@ time_horizon: Medium-term shaping
 >
 > - Simon Wardley
 
-断片化は、競合の強みを直接正面から折るのではなく、その市場を分割し、複数の選択肢が並立する状況を作ることで牙城を侵食します。
+細分化戦略は、競合の強みを直接正面から折るのではなく、その市場を分割し、複数の選択肢が並立する状況を作ることで牙城を侵食します。
 
 ## 🤔 **解説**
 
-### 断片化とは何か
+### 細分化戦略とは何か
 
-断片化は、競合が持つ市場支配をばらし、統一された優位を失わせる競争戦略です。価格差、開放性、制約、取り込みなどを使って市場力学を変え、相手が一枚岩の市場から規模の利益を取れないようにします。相手の中核市場へ正面突撃する代わりに、代替案や複数の選択肢を育て、相手の足場を細かく割っていきます。
+細分化戦略は、競合が持つ市場支配をばらし、統一された優位を失わせる競争戦略です。価格差、開放性、制約、取り込みなどを使って市場力学を変え、相手が一枚岩の市場から規模の利益を取れないようにします。相手の中核市場へ正面突撃する代わりに、代替案や複数の選択肢を育て、相手の足場を細かく割っていきます。
 
 ### なぜ有効なのか
 
@@ -76,7 +76,7 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Fragmentation">
+<Assessment strategyName="細分化戦略">
   <MapSignals>
     <li>強い競合が、統合された市場地位やエコシステム支配を持っている。</li>
     <li>地図から、競合領域の中に未充足ニーズや手薄な顧客セグメントが見える。</li>
@@ -207,7 +207,7 @@ Google が Android をオープンソースかつ無償で提供した判断は�
 - [取り込み](/strategies/ecosystem/co-opting) - 第三者を味方にして競合支配を崩す
 - [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 標準変更を通じて断片化を生みうる
 - [包囲と探り](/strategies/competitor/circling-and-probing) - どこを割るかを探るための前段
-- [機動制限](/strategies/competitor/restriction-of-movement) - 競合の柔軟性を奪う
+- [移動の制限](/strategies/competitor/restriction-of-movement) - 競合の柔軟性を奪う
 - [挿入](/strategies/poison/insertion) - 分断された部分へ入り込み、結束をさらに崩す
 - [価格政策](/strategies/markets/pricing-policy) - 価格差で市場を割る
 

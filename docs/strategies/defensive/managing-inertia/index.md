@@ -169,7 +169,7 @@ Satya Nadella のもとで、Microsoft は Windows と買い切りライセン�
 
 ## 🔀 **関連戦略**
 
-- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) — 自社の慣性管理の裏返しとして、競合の慣性は攻撃対象になる
+- [競合他社の惰性の強化](/strategies/competitor/reinforcing-competitor-inertia) — 自社の慣性管理の裏返しとして、競合の慣性は攻撃対象になる
 - [Change Management](https://en.wikipedia.org/wiki/Change_management) — 変革を進めるための広い実務領域
 
 ## ⛅ **関連する状勢パターン**

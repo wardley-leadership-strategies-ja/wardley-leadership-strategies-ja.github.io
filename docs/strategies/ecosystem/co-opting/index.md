@@ -178,8 +178,8 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 - [収穫](/strategies/markets/harvesting) - 外部のアイデアを採る点は似ているが、収穫対象が競合か自陣営かで異なる
 - [脅威の買収](/strategies/defensive/threat-acquisition) - 買収や提携で競合能力そのものを吸収する
 - [重力中心](/strategies/attacking/centre-of-gravity) - 競合エコシステムの重要ノードを狙って重心をずらす
-- [機動制限](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
-- [断片化](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
+- [移動の制限](/strategies/competitor/restriction-of-movement) - 重要パートナーを自陣営へ取り込み、競合の可動域を狭める
+- [細分化戦略](/strategies/competitor/fragmentation) - 参加者を引き剥がして競合ネットワークを割る
 
 ## ⛅ **関連する状勢パターン**
 

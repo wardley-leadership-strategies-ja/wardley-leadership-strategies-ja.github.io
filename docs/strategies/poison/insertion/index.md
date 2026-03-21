@@ -188,7 +188,7 @@ SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は
 
 ### 他戦略との相乗効果
 
-挿入は、[陽動](/strategies/competitor/misdirection)、[断片化](/strategies/competitor/fragmentation)、[失敗するよう設計する](/strategies/poison/designed-to-fail) と組み合わせると効きやすくなります。
+挿入は、[陽動](/strategies/competitor/misdirection)、[細分化戦略](/strategies/competitor/fragmentation)、[失敗するよう設計する](/strategies/poison/designed-to-fail) と組み合わせると効きやすくなります。
 
 ## ❓ **問うべきこと**
 
@@ -201,8 +201,8 @@ SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は
 ## 🔀 **関連戦略**
 
 - [陽動](/strategies/competitor/misdirection) — 物語で注意を逸らす
-- [人材引き抜き](/strategies/competitor/talent-raid) — 人を引き抜く逆方向の戦略
-- [断片化](/strategies/competitor/fragmentation) — 分断を作る
+- [人材の引き抜き](/strategies/competitor/talent-raid) — 人を引き抜く逆方向の戦略
+- [細分化戦略](/strategies/competitor/fragmentation) — 分断を作る
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) — 公開シグナルを操る
 - [失敗するよう設計する](/strategies/poison/designed-to-fail) — 欠陥施策を先に埋め込む
 

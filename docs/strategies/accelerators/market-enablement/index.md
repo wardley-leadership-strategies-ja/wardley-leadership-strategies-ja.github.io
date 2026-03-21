@@ -252,7 +252,7 @@ Apple の App Store は市場育成の代表例です。SDK と収益分配モ�
 - [産業政策](/strategies/accelerators/industrial-policy) - 政府支援や制度設計で市場形成を加速する
 - [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 市場の方向性を広報で揃える
 - [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 参入障壁を壊して市場を広げる
-- [人材引き抜き](/strategies/competitor/talent-raid) - 市場拡大に必要な能力を先に集める
+- [人材の引き抜き](/strategies/competitor/talent-raid) - 市場拡大に必要な能力を先に集める
 - [見せかけの競争](/strategies/user-perception/artificial-competition) - 代替選択肢があるように見せ、市場参加を促す
 
 ## ⛅ **関連する状勢パターン**

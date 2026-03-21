@@ -10,6 +10,6 @@ Porter はさらに、戦略的ポジショニング、設備拡張の判断、�
 
 ## 参照先
 
-- [Ambush](/strategies/competitor/ambush)
+- [奇襲](/strategies/competitor/ambush)
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)

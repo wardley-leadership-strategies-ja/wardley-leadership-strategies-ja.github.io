@@ -66,7 +66,7 @@ const StrategyList: StrategyItem[] = [
     link: '/strategies/user-perception/artificial-competition'
   },
   {
-    title: '断片化',
+    title: '細分化戦略',
     imageUrl: require('@site/static/img/fragmentation.jpg').default,
     description: (
       <>

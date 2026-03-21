@@ -87,7 +87,7 @@ time_horizon: Fast impact
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Ambush">
+<Assessment strategyName="奇襲">
   <MapSignals>
     <li>特定の競合が、自社の地位を脅かす製品を出そうとしている。</li>
     <li>競合が大きな投資を発表したが、自社にはそれを早く打ち返す余地がある。</li>
@@ -217,8 +217,8 @@ sequenceDiagram
 
 - [テックドロップ](/strategies/competitor/tech-drops) - 違いを理解すると奇襲の位置づけが明確になる
 - [包囲と探り](/strategies/competitor/circling-and-probing) - 奇襲に必要な情報収集を支える
-- [消耗戦](/strategies/competitor/sapping) - 競合の力や士気を削る点で近い
-- [機動制限](/strategies/competitor/restriction-of-movement) - 奇襲が相手の選択肢をさらに狭めることがある
+- [切り崩し](/strategies/competitor/sapping) - 競合の力や士気を削る点で近い
+- [移動の制限](/strategies/competitor/restriction-of-movement) - 奇襲が相手の選択肢をさらに狭めることがある
 - [両面張り](/strategies/attacking/playing-both-sides) - 一方をコモディティ化して別の側を利する構図と組み合わせられる
 
 ## ⛅ **関連する状勢パターン**

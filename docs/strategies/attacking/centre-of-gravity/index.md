@@ -107,7 +107,7 @@ Red Hat は、オープンソースのプロジェクトに投資し、それを
     <li>優秀な人材やパートナーを惹きつけ、維持できる文化がある。</li>
     <li>エコシステムやコミュニティを育てる能力がある。</li>
     <li>過度な集中のリスクを管理し、適応力を保てる。</li>
-    <li>人材引き抜きや対抗ハブの構築など、対抗策に備えられる。</li>
+    <li>人材の引き抜きや対抗ハブの構築など、対抗策に備えられる。</li>
     <li>引力を更新し続ける仕組みを持てる。</li>
   </Readiness>
 </Assessment>
@@ -194,7 +194,7 @@ Red Hat は、オープンソースのプロジェクトに投資し、それを
 
 ## 🔀 **関連戦略**
 
-- [人材引き抜き](/strategies/competitor/talent-raid) - 引力を維持するにも崩すにも、人材獲得は重要な動き
+- [人材の引き抜き](/strategies/competitor/talent-raid) - 引力を維持するにも崩すにも、人材獲得は重要な動き
 - [アライアンス](/strategies/ecosystem/alliances) - 提携は重力を増し、対抗ハブへの牽制にもなる
 - [取り込み](/strategies/ecosystem/co-opting) - 参加者を取り込むことで重力中心を補強できる
 - [オープンアプローチ](/strategies/accelerators/open-approaches) - 開かれた標準やプラットフォームは引力を強める

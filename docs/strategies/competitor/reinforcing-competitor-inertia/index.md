@@ -1,5 +1,5 @@
 ---
-title: 競合の慣性を強める
+title: 競合他社の惰性の強化
 tags:
 - reinforcing-competitor-inertia
 - competitor
@@ -50,7 +50,7 @@ time_horizon: Medium-term shaping
 
 ## 🤔 **解説**
 
-### 競合の慣性を強めるとは何か
+### 競合他社の惰性の強化とは何か
 
 ここでいう慣性とは、過去の成功、既存収益構造、組織文化、技術資産などのために、企業が変化しづらくなることです。この戦略では、競合がその慣性ゆえに古い選択を続けたくなるような市場状況を作ります。
 
@@ -82,7 +82,7 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Reinforcing Competitor Inertia">
+<Assessment strategyName="競合他社の惰性の強化">
   <MapSignals>
     <li>支配的競合が、旧来の事業モデル、構造、運用に強く縛られている。</li>
     <li>市場トレンド、ユーザー行動、実現技術が、そのモデルから明確に離れつつある。</li>

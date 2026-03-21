@@ -181,7 +181,7 @@ Amazon は食料配送やファッションで、地域限定や ベータ版形
 
 ### 他戦略の前段になりやすい
 
-Misdirection や Tech Drop の前に、景観確認として使うと強いです。
+[陽動](/strategies/competitor/misdirection) や Tech Drop の前に、景観確認として使うと強いです。
 
 ### 組織内の位置づけを明確にする
 
@@ -207,8 +207,8 @@ Misdirection や Tech Drop の前に、景観確認として使うと強いで�
 - [実験](/strategies/attacking/experimentation) - 新しいやり方を探る
 - [アライアンス](/strategies/ecosystem/alliances) - 競合を試す代わりに協力する対照戦略
 - [協調](/strategies/accelerators/cooperation) - 協業の顔をしながら市場理解を深める場面もある
-- [消耗戦](/strategies/competitor/sapping) - 防御を柔らかくしてから探る
-- [断片化](/strategies/competitor/fragmentation) - 競合ネットワークを割って孤立点を作る
+- [切り崩し](/strategies/competitor/sapping) - 防御を柔らかくしてから探る
+- [細分化戦略](/strategies/competitor/fragmentation) - 競合ネットワークを割って孤立点を作る
 - [奇襲](/strategies/competitor/ambush) - 探りで見えた弱点へ決定打を当てる
 
 ## ⛅ **関連する状勢パターン**

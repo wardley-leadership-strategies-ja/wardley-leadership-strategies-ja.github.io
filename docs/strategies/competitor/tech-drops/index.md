@@ -193,9 +193,9 @@ sequenceDiagram
 - [陽動](/strategies/competitor/misdirection) - 開発中の注意を逸らせる
 - [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 新しい競争地形を作り、古い障壁を無力化する
 - [奇襲](/strategies/competitor/ambush) - 反応的 な 奇襲性 と対照的
-- [消耗戦](/strategies/competitor/sapping) - 競合資源を消耗させ、抵抗を弱めたうえで投下する
-- [競合の慣性を強める](/strategies/competitor/reinforcing-competitor-inertia) - 慢心 を深め、効果的な返しを遅らせる
-- [人材引き抜き](/strategies/competitor/talent-raid) - 専門人材 を確保して開発速度を上げる
+- [切り崩し](/strategies/competitor/sapping) - 競合資源を消耗させ、抵抗を弱めたうえで投下する
+- [競合他社の惰性の強化](/strategies/competitor/reinforcing-competitor-inertia) - 慢心 を深め、効果的な返しを遅らせる
+- [人材の引き抜き](/strategies/competitor/talent-raid) - 専門人材 を確保して開発速度を上げる
 
 ## ⛅ **関連する状勢パターン**
 

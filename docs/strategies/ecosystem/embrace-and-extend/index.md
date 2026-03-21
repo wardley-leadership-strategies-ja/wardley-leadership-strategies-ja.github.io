@@ -191,8 +191,8 @@ time_horizon: Long-term positioning
 - [恐怖・不確実性・疑念 (FUD)](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
 - [オープンアプローチ](/strategies/accelerators/open-approaches) - 互換性を守りながら開く戦略で、本戦略とは対極にある
 - [取り込み](/strategies/ecosystem/co-opting) - 互換実装を吸収した後に独自拡張へ進むことがある
-- [機動制限](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
-- [断片化](/strategies/competitor/fragmentation) - 非互換の亜種を導入し、エコシステムを割る
+- [移動の制限](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
+- [細分化戦略](/strategies/competitor/fragmentation) - 非互換の亜種を導入し、エコシステムを割る
 - [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - 標準を取り込んでから独自拡張で閉じることで、包摂戦略の手段になる
 
 ## ⛅ **関連する状勢パターン**

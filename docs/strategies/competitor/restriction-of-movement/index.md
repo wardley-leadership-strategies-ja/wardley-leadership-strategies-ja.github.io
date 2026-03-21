@@ -1,5 +1,5 @@
 ---
-title: 機動制限
+title: 移動の制限
 tags:
 - restriction-of-movement
 - competitor
@@ -54,9 +54,9 @@ time_horizon: Long-term positioning
 
 ## 🤔 **解説**
 
-### 機動制限とは何か
+### 移動の制限とは何か
 
-機動制限、あるいは Circling は、競合が動ける方向を戦略的に制限するやり方です。市場、供給、提携、標準、人材、知財などの要所を押さえ、相手が進化したり、隣接領域へ広がったりする余地を狭めます。相手が何かを試そうとすると、どこかが既に埋まっている。そんな状態を狙います。
+移動の制限、あるいは Circling は、競合が動ける方向を戦略的に制限するやり方です。市場、供給、提携、標準、人材、知財などの要所を押さえ、相手が進化したり、隣接領域へ広がったりする余地を狭めます。相手が何かを試そうとすると、どこかが既に埋まっている。そんな状態を狙います。
 
 ### なぜ有効なのか
 
@@ -105,7 +105,7 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Restriction of Movement">
+<Assessment strategyName="移動の制限">
   <MapSignals>
     <li>競合が、限られた供給者、チャネル、技術、提携に大きく依存している。</li>
     <li>重要な実現要素を先回りして押さえられるだけの集中性がエコシステムにある。</li>
@@ -195,7 +195,7 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 
 ### 競争地形そのものを制御する
 
-機動制限の本質は、競争相手ではなく競争地形を支配することです。相手がどう動くか以前に、動ける空間自体を狭くします。
+移動の制限の本質は、競争相手ではなく競争地形を支配することです。相手がどう動くか以前に、動ける空間自体を狭くします。
 
 ### 追い詰められた相手は誤る
 
@@ -223,11 +223,11 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 - [取り込み](/strategies/ecosystem/co-opting) - 参加者を取り込み、相手の余地を減らす
 - [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 新規参入の動きを止める面で近い
 - [抱き込みと拡張](/strategies/ecosystem/embrace-and-extend) - 標準支配で競合の選択肢を狭める
-- [人材引き抜き](/strategies/competitor/talent-raid) - 人材面の機動を奪う
+- [人材の引き抜き](/strategies/competitor/talent-raid) - 人材面の機動を奪う
 - [競争制限](/strategies/defensive/limitation-of-competition) - より広い目的概念
 - [脅威の買収](/strategies/defensive/threat-acquisition) - 脅威を吸収して相手の選択肢を消す
-- [消耗戦](/strategies/competitor/sapping) - 資源や同盟を徐々に削る
-- [断片化](/strategies/competitor/fragmentation) - 相手の一体性を壊し対応力を下げる
+- [切り崩し](/strategies/competitor/sapping) - 資源や同盟を徐々に削る
+- [細分化戦略](/strategies/competitor/fragmentation) - 相手の一体性を壊し対応力を下げる
 - [奇襲](/strategies/competitor/ambush) - 動けなくなった瞬間に奇襲をかける
 
 ## ⛅ **関連する状勢パターン**

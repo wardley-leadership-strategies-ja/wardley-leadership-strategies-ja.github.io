@@ -122,7 +122,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Fast impact',
   },
   {
-    title: '断片化',
+    title: '細分化戦略',
     slug: '/strategies/competitor/fragmentation',
     summary:
       '競合が支配する市場を分断し、その牙城を崩していく戦略。',
@@ -426,7 +426,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Medium-term shaping',
   },
   {
-    title: '競合の慣性を強める',
+    title: '競合他社の惰性の強化',
     slug: '/strategies/competitor/reinforcing-competitor-inertia',
     summary:
       '競合が過去へしがみつくよう、市場の動きを仕掛けて慣性を深める戦略。',
@@ -445,7 +445,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Medium-term shaping',
   },
   {
-    title: '機動制限',
+    title: '移動の制限',
     slug: '/strategies/competitor/restriction-of-movement',
     summary:
       '競合の選択肢を絞り、適応や拡張を難しくする封じ込め戦略。',
@@ -464,7 +464,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Long-term positioning',
   },
   {
-    title: '消耗戦',
+    title: '切り崩し',
     slug: '/strategies/competitor/sapping',
     summary:
       '複数の競争正面を同時に開き、競合の対応能力をすり減らす戦略。',
@@ -474,12 +474,12 @@ export const strategyProfiles: StrategyProfile[] = [
     leadershipFocus: ['Operational readiness', 'Integrated roadmapping', 'Narrative control'],
     quickSignals: ['競合が資源制約下にあり、自社は複数の施策を同時に開ける。', '競合は複数軸で圧力を受けると、予測可能な反応を返す。', '自社には、すぐ武器化できる隣接製品やチャネルの束がある。'],
     momentumMoves: ['価格、製品、提携の各正面で、重なるようにリリースを並べる。', 'すべての一手が同じ競合への圧力を強めるよう、メッセージを揃える。', '反応データを計測し、競合が弱る正面へさらに寄せる。'],
-    watchOuts: ['自社の焦点まで薄め、全正面で中途半端になること。', '反競争的と見なされて規制注視を招くこと。', '消耗戦に夢中になり、顧客影響を軽視すること。'],
+    watchOuts: ['自社の焦点まで薄め、全正面で中途半端になること。', '反競争的と見なされて規制注視を招くこと。', '切り崩しに夢中になり、顧客影響を軽視すること。'],
     effortLevel: 'Enterprise Transformation',
     timeHorizon: 'Medium-term shaping',
   },
   {
-    title: '人材引き抜き',
+    title: '人材の引き抜き',
     slug: '/strategies/competitor/talent-raid',
     summary:
       '競合組織の重要人材を引き抜き、相手を弱めながら自社能力を高める戦略。',
