@@ -24,7 +24,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | commodity (including utilities) | コモディティ（ユーティリティを含む） |
 | commodity | コモディティ |
 | strategic primitives | 戦略的な一手 |
-| Fast Follower | ファーストフォロワー |
+| Fast Follower | ファストフォロワー |
 
 ## Climatic Patterns
 

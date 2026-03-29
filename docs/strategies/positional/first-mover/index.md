@@ -121,7 +121,7 @@ Friendster は早く市場へ入ったものの、拡張性と継続改善で失
 
 ### 中核課題
 
-大きな不確実性の中で、早い段階から大きな資源を張りつつ、[ファーストフォロワー](/strategies/positional/fast-follower) に備えることです。
+大きな不確実性の中で、早い段階から大きな資源を張りつつ、[ファストフォロワー](/strategies/positional/fast-follower) に備えることです。
 
 ### 必要なスキル
 
@@ -188,7 +188,7 @@ First Mover は製品を出すだけでなく、採用条件、標準、価格�
 
 ## 🔀 **関連戦略**
 
-- [ファーストフォロワー](/strategies/positional/fast-follower) — 先行者の後で市場を取りに来る動きへの備え
+- [ファストフォロワー](/strategies/positional/fast-follower) — 先行者の後で市場を取りに来る動きへの備え
 - [先行確保](/strategies/positional/land-grab) — 希少資産や重要地点を先に取る
 - [弱いシグナル](/strategies/positional/weak-signal-horizon) — 機会が見える前に兆候を拾う
 - [集中投資](/strategies/attacking/directed-investment) — 初期優位を固定するための集中投資

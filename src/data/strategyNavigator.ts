@@ -982,7 +982,7 @@ export const strategyProfiles: StrategyProfile[] = [
     timeHorizon: 'Long-term positioning',
   },
   {
-    title: 'ファーストフォロワー',
+    title: 'ファストフォロワー',
     slug: '/strategies/positional/fast-follower',
     summary:
       '先行者の失敗と市場開拓を利用し、より良い実行で最適なタイミングに参入するポジショニング戦略。',

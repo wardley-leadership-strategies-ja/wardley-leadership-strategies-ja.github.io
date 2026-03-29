@@ -182,7 +182,7 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 - [先行確保](/strategies/positional/land-grab) - どこを先に押さえるべきかをシグナルで判断する
 - [先行者戦略](/strategies/positional/first-mover) - 弱いシグナルを先に産業化する
-- [ファーストフォロワー](/strategies/positional/fast-follower) - 先行者の動きから入る最適な時点を測る
+- [ファストフォロワー](/strategies/positional/fast-follower) - 先行者の動きから入る最適な時点を測る
 - [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 系統的なデータ収集基盤を作る
 - [戦略的先送り](/strategies/defensive/procrastination) - 弱いシグナルが十分に束になるまで待つ防御策
 - [実験](/strategies/attacking/experimentation) - シグナル検証のための探りを入れる

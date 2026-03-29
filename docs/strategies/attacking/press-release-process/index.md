@@ -236,7 +236,7 @@ quadrantChart
 - [オープンアプローチ](/strategies/accelerators/open-approaches) - 標準化や利用可能性の前提を満たすのに有効
 - [教育](/strategies/user-perception/education) - 行動変容が必要な物語を支える
 - [差別化](/strategies/markets/differentiation) - 発表文が混雑市場での位置取りを定義する
-- [ファーストフォロワー](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
+- [ファストフォロワー](/strategies/positional/fast-follower) - 進化した能力を使って需要に素早く応える際にも使える
 
 ## ⛅ **関連する状勢パターン**
 
