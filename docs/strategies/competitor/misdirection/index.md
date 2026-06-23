@@ -10,20 +10,20 @@ tags:
 - competitor intelligence
 description: 競合へ意図的に誤ったシグナルを送り、本当の狙いから目を逸らして時間を稼ぐ戦略。
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Shape the market
-- Change the narrative
+- 自社の地位を守る
+- 市場を形作る
+- 物語を変える
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Narrative control
-- Secrecy and timing
-- Selective openness
+- 物語統制
+- 秘匿性とタイミング
+- 選択的な開放性
 quick_signals:
 - 競合がこちらの動きを細かく追い、発表のたびに反応している。
 - 本命施策を邪魔されず育てるための時間が欲しい。
@@ -76,23 +76,23 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="陽動">
-  <MapSignals>
-    <li>戦略がタイミング、秘匿、早期反撃回避に依存している。</li>
-    <li>競合が公開情報、メディア、特許、発表を通じてこちらを監視している。</li>
-    <li>競合は資源制約が強いか、市場変化へ過剰反応しやすい。</li>
-    <li>驚きや先行優位が競争上の価値を持つ。</li>
-    <li>社内を壊さずに打ち出せる囮の物語がある。</li>
-    <li>本命の注目を遅らせる、またはそらしたい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>競合が監視する情報経路と、その解釈方法を理解している。</li>
-    <li>内外の発信を揃え、囮の物語を一貫させられる。</li>
-    <li>本命戦略の漏えいを防ぐ、規律ある実行と秘密管理がある。</li>
-    <li>関係チームの間で、囮と本命の違いが明確に共有されている。</li>
-    <li>自社シグナルに対する競合反応を観測できる。</li>
-    <li>陽動が露見した場合の信頼低下を最小化できる。</li>
-    <li>囮から本命へ切り替えるタイミングと条件が決まっている。</li>
-  </Readiness>
+ <MapSignals>
+  <li>戦略がタイミング、秘匿、早期反撃回避に依存している。</li>
+  <li>競合が公開情報、メディア、特許、発表を通じてこちらを監視している。</li>
+  <li>競合は資源制約が強いか、市場変化へ過剰反応しやすい。</li>
+  <li>驚きや先行優位が競争上の価値を持つ。</li>
+  <li>社内を壊さずに打ち出せる囮の物語がある。</li>
+  <li>本命の注目を遅らせる、またはそらしたい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>競合が監視する情報経路と、その解釈方法を理解している。</li>
+  <li>内外の発信を揃え、囮の物語を一貫させられる。</li>
+  <li>本命戦略の漏えいを防ぐ、規律ある実行と秘密管理がある。</li>
+  <li>関係チームの間で、囮と本命の違いが明確に共有されている。</li>
+  <li>自社シグナルに対する競合反応を観測できる。</li>
+  <li>陽動が露見した場合の信頼低下を最小化できる。</li>
+  <li>囮から本命へ切り替えるタイミングと条件が決まっている。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

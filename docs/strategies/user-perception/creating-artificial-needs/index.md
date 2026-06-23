@@ -12,32 +12,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Change the narrative
-- Accelerate adoption
-- Unlock new growth
+- 物語を変える
+- 採用を加速する
+- 新しい成長を開く
 pressures:
-- Customers are nervous about change
-- Competitive attack underway
-- Market is nascent or undefined
+- 顧客が変化に不安を感じている
+- 競合から攻撃を受けている
+- 市場が初期段階または未定義である
 leadership_focus:
-- Narrative building
-- Storytelling
-- Influencer engagement
+- 物語構築
+- ストーリーテリング
+- 影響者との関係構築
 quick_signals:
-- 満足度は高いのに organic demand が頭打ちである。
-- 文化トレンドが aspirational identity と product を結びつけられそうである。
-- competitors が機能より story で imagination を取っている。
+- 満足度は高いのに 自然需要 が頭打ちである。
+- 文化トレンドが 憧れの自己像 と プロダクト を結びつけられそうである。
+- 競合 が機能より 物語 で 想像力 を取っている。
 momentum_moves:
-- product を必需品に見せる myth や movement を設計する。
-- scarcity、ritual、social proof で新しく作った need を補強する。
-- story が売る promise を体験でも満たせるよう roadmap を揃える。
+- プロダクト を必需品に見せる 俗説 や ムーブメント を設計する。
+- 希少性、儀式、社会的証明 で新しく作った ニーズ を補強する。
+- 物語 が売る 約束 を体験でも満たせるよう ロードマップ を揃える。
 watch_outs:
-- 自社 values や社会期待に反する need を作ること。
-- benefits を煽りすぎて early adopter を失望させること。
-- 実際の顧客問題を無視して manufactured desire を追うこと。
+- 自社 価値観 や社会期待に反する ニーズ を作ること。
+- 便益 を煽りすぎて 初期 採用者 を失望させること。
+- 実際の顧客問題を無視して 作られた欲望 を追うこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -70,7 +70,7 @@ time_horizon: Medium-term shaping
 
 De Beers は、婚約にダイヤが必要だという社会規範をマーケティングで作り上げました。元々必需ではなかったものを、必需のように感じさせた代表例です。
 
-### 高級電子機器の iterative release
+### 高級電子機器の 反復的リリース
 
 毎年の製品更新を生活様式や創造性の発揮と結びつけることで、現行品で十分な顧客にも「最新が必要だ」と思わせる例です。
 
@@ -81,20 +81,20 @@ De Beers は、婚約にダイヤが必要だという社会規範をマーケ�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Creating Artificial Needs">
-  <MapSignals>
-    <li>地図上で、その component に既存需要がほとんどない。</li>
-    <li>現在の行動と新しい提供物の間にギャップがある。</li>
-    <li>competitors がその need や category をまだ扱っていない。</li>
-    <li>感情的、社会的ドライバーと結びつける余地がある。</li>
-    <li>市場が新しい流行や地位象徴に開いている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>強い marketing と narrative-building 能力がある。</li>
-    <li>インフルエンサーや社会的証明を使える。</li>
-    <li>public sentiment を監視し対応できる。</li>
-    <li>倫理と評判のリスクを引き受け、管理できる。</li>
-    <li>反応と採用を見ながら速く改善できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、その コンポーネント に既存需要がほとんどない。</li>
+  <li>現在の行動と新しい提供物の間にギャップがある。</li>
+  <li>競合 がその ニーズ や カテゴリ をまだ扱っていない。</li>
+  <li>感情的、社会的ドライバーと結びつける余地がある。</li>
+  <li>市場が新しい流行や地位象徴に開いている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>強い マーケティング と 物語構築 能力がある。</li>
+  <li>インフルエンサーや社会的証明を使える。</li>
+  <li>世論 を監視し対応できる。</li>
+  <li>倫理と評判のリスクを引き受け、管理できる。</li>
+  <li>反応と採用を見ながら速く改善できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -145,19 +145,19 @@ De Beers は、婚約にダイヤが必要だという社会規範をマーケ�
 
 ## ⚠️ **失敗しやすい点**
 
-### manipulation と見なされる
+### 操作 と見なされる
 
 本当の価値が見えなければ、ブランド毀損は大きいです。
 
-### 一過性 fad で終わる
+### 一過性 流行 で終わる
 
 目新しさが消えると需要も消えるなら、持続しません。
 
-### 倫理・規制 scrutiny
+### 倫理・規制 監視
 
 健康、安全、経済的健全性に絡む作られた需要は特に危険です。
 
-### authenticity を保てない
+### 真正性 を保てない
 
 最初は狭い層への訴求で成功しても、拡大すると嘘っぽさが出やすいです。
 

@@ -1,6 +1,6 @@
 ---
 title: ロビー活動
-description: 政府や規制当局へ働きかけ、しばしば regulation の前段として環境を自社に有利に形作る戦略。
+description: 政府や規制当局へ働きかけ、しばしば規制戦略の前段として環境を自社に有利に形作る戦略。
 tags:
 - user-perception
 - lobbying
@@ -13,32 +13,32 @@ tags:
 - defensive
 - counterplay
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Shape the market
-- Change the narrative
-- Secure long-term investment
+- 市場を形作る
+- 物語を変える
+- 長期投資を確保する
 pressures:
-- Regulatory or policy leverage available
-- Competitive attack underway
-- Facing dominant incumbent
+- 規制や政策を活用できる余地がある
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Policy advocacy
-- Coalition building
-- Narrative building
+- 政策提言
+- 連合形成
+- 物語構築
 quick_signals:
-- pending legislation や standards が競争地位を塗り替えうる。
-- competitors が government relations に投資しているのに自社は reactive である。
-- public sentiment が、自社が credible に掲げられる論点と合っている。
+- 審議中の法案 や 標準 が競争地位を塗り替えうる。
+- 競合 が 政府渉外 に投資しているのに自社は 受け身 である。
+- 世論 が、自社が信頼できる形で掲げられる論点と合っている。
 momentum_moves:
-- stakeholder、timeline、decision point を policy landscape 上で地図化する。
-- 自社 goals を public outcome と結びつける coalition を作る。
-- 自社 position を responsible choice と見せる evidence と narrative を用意する。
+- ステークホルダー、タイムライン、判断点 を 政策 状況 上で地図化する。
+- 自社 目標 を 公共的成果 と結びつける 連合 を作る。
+- 自社 立場 を 責任ある選択 と見せる 証拠 と 物語 を用意する。
 watch_outs:
-- transactional に見えて policy makers の trust を失うこと。
+- 取引的 に見えて 政策担当者 の 信頼 を失うこと。
 - 影響工作だけして、約束を実運用で果たせないこと。
-- transparency obligation を軽視して conflict of interest が露出すること。
+- 透明性義務を軽視して利益相反が露出すること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
@@ -81,11 +81,11 @@ time_horizon: Long-term positioning
 
 伝統的タクシー会社は、配車アプリに対する規制強化を市政府へ働きかけました。安全や公平を掲げつつ、実際には参入障壁を上げるロビー活動でした。
 
-### 技術企業と copyright law
+### 技術企業と 著作権法
 
 大手テック企業やエンターテインメント企業は、DMCA や DRM 的な枠組みを支持し、小規模事業者やオープンソースに不利な環境を作ろうとしてきました。
 
-### 再エネ企業の counter-lobbying
+### 再エネ企業の 対抗ロビー活動
 
 電力会社側が家庭用太陽光に不利な法案を進めようとしたとき、再生可能エネルギー企業側が広報活動と議員対応で対抗した例です。
 
@@ -96,22 +96,22 @@ time_horizon: Long-term positioning
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Lobbying">
-  <MapSignals>
-    <li>地図上の重要 component や市場地位が regulation や policy change で大きく揺れる。</li>
-    <li>自社に有利にも競合に有利にもなりうる新ルールが出てきている。</li>
-    <li>policy makers、regulators、standards bodies へ influence を持てる、または作れる。</li>
-    <li>public/user sentiment を自社 position に credible に結びつけられる。</li>
-    <li>competitors が自社に不利な rule へ lobbying している。</li>
-    <li>ルールが固定される前の window がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>policy makers、regulators、industry groups との強い関係がある。</li>
-    <li>regulatory / standards landscape を深く理解している。</li>
-    <li>lobbying、coalition-building、public campaign に資源を投じられる。</li>
-    <li>自社 position を public/user interest として credible に語れる。</li>
-    <li>反発への予備計画がある。</li>
-    <li>legal、communications、technical team を連携できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上の重要 コンポーネント や市場地位が 規制 や 政策 変更 で大きく揺れる。</li>
+  <li>自社に有利にも競合に有利にもなりうる新ルールが出てきている。</li>
+  <li>政策担当者、規制当局、標準化団体 へ 影響力 を持てる、または作れる。</li>
+  <li>公共/ユーザー 感情 を自社 立場 に 信頼できる立場で結びつけられる。</li>
+  <li>競合 が自社に不利な ルール へ ロビー活動 している。</li>
+  <li>ルールが固定される前の 機会 がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>政策担当者、規制当局、業界団体 との強い関係がある。</li>
+  <li>規制・標準化の状況 を深く理解している。</li>
+  <li>ロビー活動、連合形成、世論キャンペーン に資源を投じられる。</li>
+  <li>自社 立場 を 公共/ユーザー 利益 として 信頼できる立場で語れる。</li>
+  <li>反発への予備計画がある。</li>
+  <li>法務、広報、技術チーム を連携できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -136,7 +136,7 @@ time_horizon: Long-term positioning
 
 ### 必要なスキル
 
-- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — policy を読み動かす
+- [規制・政治リテラシー](/leadership-skills/regulatory-and-political-acumen) — 政策 を読み動かす
 - [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 連合を組む
 - [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 見通しとシナリオを描く
 - [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 対外向けの物語を作る
@@ -164,7 +164,7 @@ time_horizon: Long-term positioning
 
 ## ⚠️ **失敗しやすい点**
 
-### reputation risk
+### 評判リスク
 
 強引で不透明なロビー活動はブランドを傷つけます。
 

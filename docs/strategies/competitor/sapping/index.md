@@ -13,20 +13,20 @@ authors:
 - kdmsnr
 description: 複数の競争正面を同時に開き、競合の対応能力をすり減らす戦略。
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Accelerate adoption
-- Shape the market
+- 自社の地位を守る
+- 採用を加速する
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Limited resources or capacity
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 資源や能力が限られている
 leadership_focus:
-- Operational readiness
-- Integrated roadmapping
-- Narrative control
+- 運用準備
+- 統合ロードマップ策定
+- 物語統制
 quick_signals:
 - 競合が資源制約下にあり、自社は複数の施策を同時に開ける。
 - 競合は複数軸で圧力を受けると、予測可能な反応を返す。
@@ -82,23 +82,23 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="切り崩し">
-  <MapSignals>
-    <li>競合は焦点の狭いポジションか限られた範囲しか持たず、多方面攻撃に弱い。</li>
-    <li>景観には、製品、地域、価格帯、提携など複数の戦場が同時に存在する。</li>
-    <li>競合の重心が単一ではなく、弱さが複数領域に分散している。</li>
-    <li>一正面の圧力が、信頼、人材、提携など別正面にも波及する。</li>
-    <li>過去の反応を見ると、競合は同時多発の混乱へ弱い。</li>
-    <li>競合は、多数の正面を少数の防御レバーで支えている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>自社は過伸長せずに複数正面を維持できる資源を持つ。</li>
-    <li>各正面の結果に応じて強弱を付け替える機動性がある。</li>
-    <li>部門横断の同期、共有情報、戦略整合の仕組みがある。</li>
-    <li>各正面ごとに成功基準と escalation 計画がある。</li>
-    <li>競合反応からすぐ学び、圧力の重みを再配分できる。</li>
-    <li>競合がどこかで集中的に反撃した場合の備えがある。</li>
-    <li>長引く多正面戦を支える指揮の帯域と士気がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合は焦点の狭いポジションか限られた範囲しか持たず、多方面攻撃に弱い。</li>
+  <li>景観には、製品、地域、価格帯、提携など複数の戦場が同時に存在する。</li>
+  <li>競合の重心が単一ではなく、弱さが複数領域に分散している。</li>
+  <li>一正面の圧力が、信頼、人材、提携など別正面にも波及する。</li>
+  <li>過去の反応を見ると、競合は同時多発の混乱へ弱い。</li>
+  <li>競合は、多数の正面を少数の防御レバーで支えている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>自社は過伸長せずに複数正面を維持できる資源を持つ。</li>
+  <li>各正面の結果に応じて強弱を付け替える機動性がある。</li>
+  <li>部門横断の同期、共有情報、戦略整合の仕組みがある。</li>
+  <li>各正面ごとに成功基準と エスカレーション 計画がある。</li>
+  <li>競合反応からすぐ学び、圧力の重みを再配分できる。</li>
+  <li>競合がどこかで集中的に反撃した場合の備えがある。</li>
+  <li>長引く多正面戦を支える指揮の帯域と士気がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -204,4 +204,4 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)

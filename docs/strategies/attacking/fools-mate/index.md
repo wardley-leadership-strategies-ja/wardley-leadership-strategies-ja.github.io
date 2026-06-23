@@ -15,31 +15,31 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Shape the market
-- Accelerate adoption
+- 自社の地位を守る
+- 市場を形作る
+- 採用を加速する
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Secrecy and timing
-- Risk framing
-- Narrative control
+- 秘匿性とタイミング
+- リスクの枠組み化
+- 物語統制
 quick_signals:
-- 地図から、相手が proprietary のまま保てると誤信している要素が見えている。
-- 自社は bottleneck を incumbents より速く産業化できそうだ。
-- 顧客は、その hidden dependency が生む friction に既に不満を持っている。
+- 地図から、相手が プロプライエタリな のまま保てると誤信している要素が見えている。
+- 自社は ボトルネック を 既存勢力 より速く産業化できそうだ。
+- 顧客は、その 隠れた依存関係 が生む 摩擦 に既に不満を持っている。
 momentum_moves:
 - オープンでコモディティ化した代替案を試作し、先行導入者で耐久試験する。
-- その要素が abundant になった瞬間に切り替える ecosystem supporters を揃える。
-- 競合へ反応時間を与えない reveal の順序を設計する。
+- その要素が 豊富 になった瞬間に切り替える エコシステム支援者 を揃える。
+- 競合へ反応時間を与えない 公開 の順序を設計する。
 watch_outs:
-- コンポーネント重要度を読み違えて dead end に資源を落とすこと。
-- 代替案が需要を吸収できる前に retaliation を招くこと。
+- コンポーネント重要度を読み違えて 行き止まり に資源を落とすこと。
+- 代替案が需要を吸収できる前に 報復 を招くこと。
 - コモディティ化したサービスを維持する運用負荷を甘く見ること。
 effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
@@ -79,13 +79,13 @@ time_horizon: Fast impact
 
 ```mermaid
 sequenceDiagram
-    participant Attacker as 攻撃側
-    participant Opponent as 相手
-    Attacker->>Opponent: 守りの甘い要素を特定
-    Note right of Opponent: 相手は脆さに気づいていない
-    Attacker->>Attacker: その要素を急速にコモディティ化
-    Attacker-->>Opponent: バリューチェーンを攪乱
-    Note right of Opponent: 連鎖的な失速
+  participant Attacker as 攻撃側
+  participant Opponent as 相手
+  Attacker->>Opponent: 守りの甘い要素を特定
+  Note right of Opponent: 相手は脆さに気づいていない
+  Attacker->>Attacker: その要素を急速にコモディティ化
+  Attacker-->>Opponent: バリューチェーンを攪乱
+  Note right of Opponent: 連鎖的な失速
 ```
 
 ### チェス由来の比喩
@@ -104,26 +104,26 @@ Linux の台頭は、単一企業の一撃ではないにせよ、サーバー O
 
 ### Google による VP9 / AV1 の推進
 
-Google と Alliance for Open Media によるロイヤルティフリーのコーデック推進は、動画コーデックという重要要素をプロプライエタリなライセンシングから切り離す動きでした。配信やデバイスの価値連鎖における重要コンポーネントがコモディティ化すると、旧来の収益構造は圧迫されます。
+Google と オープンメディアアライアンス によるロイヤルティフリーのコーデック推進は、動画コーデックという重要要素をプロプライエタリなライセンシングから切り離す動きでした。配信やデバイスの価値連鎖における重要コンポーネントがコモディティ化すると、旧来の収益構造は圧迫されます。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Fool's Mate">
-  <MapSignals>
-    <li>相手のバリューチェーンが、重要だが誤解・過小評価・防御不足の要素へ依存している。</li>
-    <li>その要素を、自社の手段で急速にコモディティ化または neutralize できる。</li>
-    <li>相手はその脆さに対する状況認識が低い。</li>
-    <li>その要素のコモディティ化が、上位システムや事業モデルへ cascading failure を起こしそうだ。</li>
-    <li>いったん攻撃すると相手はその要素から簡単に逃げられない。</li>
-  </MapSignals>
-  <Readiness>
-    <li>自社は相手より高い状況認識を持っている。</li>
-    <li>速度と secrecy を伴って commoditization move を実行できる。</li>
-    <li>大胆で高リスクな動きを取る覚悟がある。</li>
-    <li>実行後の市場でどう勝つかの設計がある。</li>
-    <li>曖昧さと unintended consequences に耐える指揮がある。</li>
-    <li>遅れて来る retaliation を耐えられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>相手のバリューチェーンが、重要だが誤解・過小評価・防御不足の要素へ依存している。</li>
+  <li>その要素を、自社の手段で急速にコモディティ化または 無力化 できる。</li>
+  <li>相手はその脆さに対する状況認識が低い。</li>
+  <li>その要素のコモディティ化が、上位システムや事業モデルへ 連鎖的失敗 を起こしそうだ。</li>
+  <li>いったん攻撃すると相手はその要素から簡単に逃げられない。</li>
+ </MapSignals>
+ <Readiness>
+  <li>自社は相手より高い状況認識を持っている。</li>
+  <li>速度と 秘匿性 を伴って コモディティ化の一手 を実行できる。</li>
+  <li>大胆で高リスクな動きを取る覚悟がある。</li>
+  <li>実行後の市場でどう勝つかの設計がある。</li>
+  <li>曖昧さと 意図せぬ結果 に耐える指揮がある。</li>
+  <li>遅れて来る 報復 を耐えられる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -149,9 +149,12 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 
 課題は二つあります。
 
-1. **正しい 要石 の特定と 秘匿**
-   - 本当に 重要で、しかもコモディティ化可能な要素を見抜くこと
+1. **正しい要石の特定と秘匿**
+
+   - 本当に重要で、しかもコモディティ化可能な要素を見抜くこと
+
 2. **決断と高速実行**
+
    - 対象を決めたら、ためらわず一気に実行すること
 
 ### 必要なスキル
@@ -175,18 +178,29 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 ## 📋 **進め方**
 
 1. **深いバリューチェーン分析をする**
+
    - 相手の重要要素、依存、進化状態を地図化する
-2. **候補の 要石 を見つける**
+
+2. **候補の要石を見つける**
+
    - 重要で、防御が薄く、コモディティ化しやすく、相手が軽視している要素を探す
-3. **相手の 愚か者ishness を評価する**
-   - 旧来思考、傲慢、官僚主義、盲点 などを確認する
-4. **コモディティ化計画 を作る**
+
+3. **相手の愚かさを評価する**
+
+   - 旧来思考、傲慢、官僚主義、盲点などを確認する
+
+4. **コモディティ化計画を作る**
+
    - オープンソース、標準化、無料版、アライアンスなどで急速に豊富さを作る
+
 5. **秘匿と陽動を整える**
 6. **速く決定的に実行する**
 7. **効果を増幅する**
-   - 他プレイヤーにも 採用 を広げる
+
+   - 他プレイヤーにも採用を広げる
+
 8. **翌日の戦いを準備する**
+
    - 新市場での勝ち方をすぐ動かす
 
 ## 📈 **成功指標**
@@ -237,7 +251,7 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 
 大きな既存勢力ほど埋没費用、プロセス、文化抵抗、自前主義などで非定型の攻撃に弱くなります。
 
-### 事業版の asymmetric warfare
+### 事業版の 非対称戦
 
 小さいプレイヤーでも、相手の一点を突けば大きな損害を与えられます。正面戦力差を埋める代表例です。
 
@@ -247,7 +261,7 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 
 ### 制約は両義的
 
-相手の制約を突くだけでなく、自社の資源制約が creative indirect attack を生むこともあります。open source はその代表です。
+相手の制約を突くだけでなく、自社の資源制約が 創造的な間接攻撃 を生むこともあります。オープンソース はその代表です。
 
 ### 攻撃側にも賭けの性質がある
 
@@ -259,31 +273,31 @@ Google と Alliance for Open Media によるロイヤルティフリーのコー
 
 ## ❓ **問うべきこと**
 
-- 本当に不可欠で、しかも undervalued な要素を特定できたか
-- 相手のどんな assumptions や inertia が vulnerability を生んでいるか
+- 本当に不可欠で、しかも 過小評価された な要素を特定できたか
+- 相手のどんな 前提や慣性が脆弱性 を生んでいるか
 - 速度と 秘匿 を現実に担保できるか
-- commoditization 手段は十分に 採用 を起こせるか
+- コモディティ化 手段は十分に 採用を起こせるか
 - 実行後の市場でどう勝つか
-- 自社や ecosystem への 巻き添え被害 は何か
+- 自社やエコシステムへの巻き添え被害 は何か
 - 倫理的境界を越えていないか
 - 想定外に相手が速く返したらどうするか
 
 ## 🔀 **関連戦略**
 
-- [オープンアプローチ](/strategies/accelerators/open-approaches) - open source が delivery mechanism になりやすい
-- [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 相手制約を極端に leverage する形
-- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - key component を コモディティ化すると障壁も崩れる
-- [シグナル歪曲](/strategies/markets/signal-distortion) - capability が perception されるだけでも歪みを起こせる
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - オープンソース が 実行手段 になりやすい
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint) - 相手制約を極端に 活用 する形
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry) - 重要コンポーネント を コモディティ化すると障壁も崩れる
+- [シグナル歪曲](/strategies/markets/signal-distortion) - 能力 が 認識 されるだけでも歪みを起こせる
 - [重心](/strategies/attacking/centre-of-gravity) - 実は見えにくい重心を壊すことが多い
 
 ## ⛅ **関連する状勢パターン**
 
-- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: incumbents は脅威を dismiss しやすい
-- [破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption) – 影響: 急速な commoditization shift が予想外の upheaval を起こす
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 既存勢力 は脅威を 軽視 しやすい
+- [破壊には二つの異なる形がある](/climatic-patterns/two-different-forms-of-disruption) – 影響: 急速なコモディティ化への移行が予想外の激変 を起こす
 
 ## 📚 **参考文献**
 
 - [Fool's mate in Business](https://blog.gardeviance.org/2014/11/fools-mate-in-business.html)
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)
 - [Fool's mate in chess](https://en.wikipedia.org/wiki/Fool%27s_mate)

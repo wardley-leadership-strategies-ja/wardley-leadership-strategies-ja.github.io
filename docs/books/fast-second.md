@@ -10,4 +10,4 @@ isbn13: "9780787971540"
 
 ## 参照先
 
-- [Procrastination](/strategies/defensive/procrastination)
+- [戦略的先送り](/strategies/defensive/procrastination)

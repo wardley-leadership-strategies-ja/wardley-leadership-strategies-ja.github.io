@@ -12,30 +12,30 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Change the narrative
+- 自社の地位を守る
+- 物語を変える
 pressures:
-- Customers are nervous about change
-- Competitive attack underway
+- 顧客が変化に不安を感じている
+- 競合から攻撃を受けている
 leadership_focus:
-- Narrative control
-- Influencer engagement
-- Risk framing
+- 物語統制
+- 影響者との関係構築
+- リスクの枠組み化
 quick_signals:
-- procurement や compliance team が switching risk をすでに心配している。
-- analysts、media、community voices と trusted relationship がある。
-- competitor が proven delivery より hype に依存している。
+- 調達 や コンプライアンス チーム が 乗り換えリスク をすでに心配している。
+- アナリスト、メディア、コミュニティの声 と 信頼できる 関係hip がある。
+- 競合 が 実証済みの提供力 より 過熱感 に依存している。
 momentum_moves:
-- unanswered question を際立たせる fact-based talking point を作る。
-- credible に懸念を上げられる influential voices へ briefing する。
-- hesitation が自社有利に働くよう safe migration path を提示する。
+- 未回答の疑問 を際立たせる 事実に基づく論点 を作る。
+- 信頼できる立場で懸念を上げられる 影響力ある声 へ ブリーフィング する。
+- ためらい が自社有利に働くよう 安全な移行 経路 を提示する。
 watch_outs:
-- ethical line を越えて長期 trust を傷つけること。
+- 倫理的境界 を越えて長期 信頼 を傷つけること。
 - 競合メッセージを繰り返して逆に宣伝してしまうこと。
-- product gap への対処を怠り FUD に逃げること。
+- 製品ギャップ への対処を怠り FUD に逃げること。
 effort_level: Lean Experiment
 time_horizon: Fast impact
 ---
@@ -64,7 +64,7 @@ FUD は、直接の嘘ではなくても、否定的な枠付けやほのめか�
 
 ## 🗺️ **実例**
 
-### IBM の "Nobody ever got fired for buying IBM"
+### IBM の "IBM を買って首になった者はいない"
 
 他社選定は職業上のリスクだと暗示し、小さい競合を試す心理障壁を高めました。
 
@@ -79,20 +79,20 @@ Linux は無料ではなく、別の依存を生むといった物語を流し�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Fear, Uncertainty and Doubt">
-  <MapSignals>
-    <li>競合提供物が初期段階、または実績不足である。</li>
-    <li>顧客が change や new entrant に不安を持っている。</li>
-    <li>自社が incumbent として high inertia を持つ。</li>
-    <li>市場に大きな information asymmetry がある。</li>
-    <li>switching cost が技術より心理や評判に寄っている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>営業とマーケティングが規律ある一貫した発信を出せる。</li>
-    <li>競争的な発信の倫理・法務境界を理解している。</li>
-    <li>市場感情を追い、すばやく反応できる。</li>
-    <li>crisis communication plan がある。</li>
-    <li>相手から FUD を受けたときの counter も準備している。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合提供物が初期段階、または実績不足である。</li>
+  <li>顧客が 変更 や 新規参入者 に不安を持っている。</li>
+  <li>自社が 既存勢力 として 高い慣性 を持つ。</li>
+  <li>市場に大きな 情報の非対称性 がある。</li>
+  <li>乗り換えコスト が技術より心理や評判に寄っている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>営業とマーケティングが規律ある一貫した発信を出せる。</li>
+  <li>競争的な発信の倫理・法務境界を理解している。</li>
+  <li>市場感情を追い、すばやく反応できる。</li>
+  <li>危機コミュニケーション計画 がある。</li>
+  <li>相手から FUD を受けたときの 対抗策 も準備している。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

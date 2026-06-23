@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Build ecosystem leverage
-- Accelerate adoption
-- Unlock new growth
+- エコシステムの影響力を築く
+- 採用を加速する
+- 新しい成長を開く
 pressures:
-- Ecosystem fragmentation
-- Market is nascent or undefined
-- Limited resources or capacity
+- エコシステムが断片化している
+- 市場が初期段階または未定義である
+- 資源や能力が限られている
 leadership_focus:
-- Community stewardship
-- Experience design
-- Learning culture
+- コミュニティ運営責任
+- 体験設計
+- 学習文化
 quick_signals:
 - ユーザーがすでに回避策を作ったり、自分たちの拡張を共有したりしている。
 - 需要に対してロードマップが遅れており、洞察も開発余力も足りない。
@@ -79,18 +79,18 @@ Threadless は、世界中のアーティストが T シャツデザインを投
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Co-creation">
-  <MapSignals>
-    <li>地図上で、ユーザーニーズが多様、複雑、または十分理解されていない。</li>
-    <li>製品や市場の周りに、熱量の高いコミュニティがある。</li>
-    <li>競合が画一的な解しか提供していない。</li>
-    <li>製品価値がユーザー文脈や創意に強く依存している。</li>
-  </MapSignals>
-  <Readiness>
-    <li>外部のアイデアに開かれ、顧客フィードバックを尊重する文化がある。</li>
-    <li>ユーザーコミュニティと協働するための道具や場がある。</li>
-    <li>製品開発の一部で主導権を手放す覚悟がある。</li>
-    <li>外部からの貢献を評価し、統合する明確なプロセスがある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、ユーザーニーズが多様、複雑、または十分理解されていない。</li>
+  <li>製品や市場の周りに、熱量の高いコミュニティがある。</li>
+  <li>競合が画一的な解しか提供していない。</li>
+  <li>製品価値がユーザー文脈や創意に強く依存している。</li>
+ </MapSignals>
+ <Readiness>
+  <li>外部のアイデアに開かれ、顧客フィードバックを尊重する文化がある。</li>
+  <li>ユーザーコミュニティと協働するための道具や場がある。</li>
+  <li>製品開発の一部で主導権を手放す覚悟がある。</li>
+  <li>外部からの貢献を評価し、統合する明確なプロセスがある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

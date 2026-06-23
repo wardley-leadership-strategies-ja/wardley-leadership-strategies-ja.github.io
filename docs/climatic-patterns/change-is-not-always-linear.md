@@ -10,5 +10,5 @@ tags: [speed]
 ## 🔀 関連戦略
 
 - [ファストフォロワー](/strategies/positional/fast-follower) – トリガー: 急変の兆候が見えるまで待つことで、資源投入の精度を高められる。
-- [Directed Investment](/strategies/attacking/directed-investment) – 影響: 急激な変化は、集中投資を正当化しうる。
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) – 影響: ネットワーク効果は指数的な採用曲線を生みやすい。
+- [集中投資](/strategies/attacking/directed-investment) – 影響: 急激な変化は、集中投資を正当化しうる。
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) – 影響: ネットワーク効果は指数的な採用曲線を生みやすい。

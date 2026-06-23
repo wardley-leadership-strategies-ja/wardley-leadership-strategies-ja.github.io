@@ -8,28 +8,28 @@ tags:
 title: 挿入
 description: 競合のエコシステム内部へ人や物語を埋め込み、悪い判断へ誘導する戦略。
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Change the narrative
-- Shape the market
+- 自社の地位を守る
+- 物語を変える
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Need to go faster than internal bureaucracy
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Secrecy and timing
-- Risk framing
-- Influencer engagement
+- 秘匿性とタイミング
+- リスクの枠組み化
+- 影響者との関係構築
 quick_signals:
 - 自社は、競合意思決定へ静かに影響を与えられる情報経路を持っている。
 - 競合が自社の噂へ敏感で、流言に反応しやすい。
-- 競合の計画サイクルに近い insider やパートナーがいる。
+- 競合の計画サイクルに近い 内部協力者 やパートナーがいる。
 momentum_moves:
 - 競合組織内で、もっともらしく影響できる意思決定の場を見つける。
 - 低収益の取り組みへ過剰コミットさせる物語を植え込む。
-- 発覚を避ける cover story と、知識の compartmentalisation を作る。
+- 発覚を避ける 隠れ蓑となる物語 と、知識の 情報隔離 を作る。
 watch_outs:
 - 法的・倫理的境界を越えて重大な制裁を受けること。
 - 競合の検出と排除能力を甘く見ること。
@@ -51,7 +51,7 @@ time_horizon: Medium-term shaping
 挿入とは、競合のエコシステム内部に人、提携、物語、メディア論調を差し込み、相手の意思決定を歪める戦略です。
 
 - **人材の挿入:** 微妙なバイアスを持ち込む採用や提携
-- **物語の挿入:** メディアやアナリストを通じた hype や誤情報の散布
+- **物語の挿入:** メディアやアナリストを通じた 過熱感 や誤情報の散布
 - **提携の挿入:** 共同事業やアライアンスを通じて迂回路を作る
 
 ### なぜ使うのか
@@ -64,9 +64,9 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### テック業界の reverse mentoring 的操作
+### テック業界の リバースメンタリング 的操作
 
-支配的プラットフォームが、オープンソース支持者を採用して feature rollout を遅らせたり、官僚的ハードルを増やしたりすれば、競合進化を鈍らせられます。
+支配的プラットフォームが、オープンソース支持者を採用して 機能展開 を遅らせたり、官僚的ハードルを増やしたりすれば、競合進化を鈍らせられます。
 
 ### 仮想例: 市場アナリスト・キャンペーン
 
@@ -75,18 +75,18 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Insertion">
-  <MapSignals>
-    <li>地図上で、競合が重要コンポーネントや能力で勢いを得つつある。</li>
-    <li>競合は、影響可能な専門人材や戦略提携へ依存している。</li>
-    <li>競合意思決定が、外部物語に反応しやすい。</li>
-    <li>その統治やコミュニティ構造に不透明さがある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>採用、メディア、提携など静かな影響経路へアクセスできる。</li>
-    <li>発覚を避ける plausible deniability を保てる。</li>
-    <li>競合の内部判断を間接的にモニタできる。</li>
-    <li>影響工作の法的・倫理的限界を理解している。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、競合が重要コンポーネントや能力で勢いを得つつある。</li>
+  <li>競合は、影響可能な専門人材や戦略提携へ依存している。</li>
+  <li>競合意思決定が、外部物語に反応しやすい。</li>
+  <li>その統治やコミュニティ構造に不透明さがある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>採用、メディア、提携など静かな影響経路へアクセスできる。</li>
+  <li>発覚を避ける もっともらしい否認可能性 を保てる。</li>
+  <li>競合の内部判断を間接的にモニタできる。</li>
+  <li>影響工作の法的・倫理的限界を理解している。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -109,7 +109,7 @@ time_horizon: Medium-term shaping
 
 ### 必要なスキル
 
-- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — stealth operation の設計
+- [戦略的センスメイキング](/leadership-skills/strategic-sensemaking) — 秘匿作戦 の設計
 - [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 物語とメディア管理
 - [競争インテリジェンス](/leadership-skills/competitive-intelligence) — 情報収集
 - [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 危機と発覚リスクの管理
@@ -123,7 +123,7 @@ time_horizon: Medium-term shaping
 1. 対象競合と、その戦略転換点を特定する
 2. 人材、メディア、提携を使う影響計画を作る
 3. もっともらしい役割で人や物語を差し込む
-4. 公開シグナルや insiders を通じて競合反応を観測する
+4. 公開シグナルや 内部協力者を通じて競合反応を観測する
 5. 効いた撹乱を強める
 6. 発覚を最小化しながら資産を引き上げる
 
@@ -158,31 +158,31 @@ time_horizon: Medium-term shaping
 
 カスタムビルドからプロダクトへ向かう途中では、標準も意思決定もまだ流動的で、外部の物語や影響が刺さりやすいです。
 
-### insider threat の増幅
+### 内部脅威 の増幅
 
 外部人材を送り込むだけでなく、既存の不満分子や認知バイアスを持つ人物へ微妙に影響する方が、より低リスクで深い撹乱になることがあります。
 
 ### デジタルと AI による物語挿入
 
-SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は、低コストで大量の物語挿入を可能にします。誰に何が刺さるかをデータで選べるため、危険度も高いです。
+SNS ボット、AI 生成コンテンツ、ターゲティングされた誤情報は、低コストで大量の物語挿入を可能にします。誰に何が刺さるかをデータで選べるため、危険度も高いです。
 
-### 二次的 sabotage
+### 二次的 妨害工作
 
-直接戦略を歪めるだけでなく、オープンソース依存へ微妙な欠陥コードを混ぜる、標準団体を不利な仕様へ動かす、資金配分基準を曲げるなど、二次的 sabotage もあります。
+直接戦略を歪めるだけでなく、オープンソース依存へ微妙な欠陥コードを混ぜる、標準団体を不利な仕様へ動かす、資金配分基準を曲げるなど、二次的 妨害工作 もあります。
 
 ### エコシステム周辺への攻撃
 
 競合本体だけでなく、供給者、代理店、重要顧客への不信や摩擦を作ることで、間接的に弱らせることも可能です。
 
-### host immune response と blowback
+### 宿主の免疫反応 と 反動
 
 発覚や疑念があるだけで、相手は防御を強め、内向きで不信の強い文化になります。場合によってはそれが逆に相手を強くすることもあります。さらに、挿入資産が転向して逆情報を流すこともあります。
 
-### 文化的 resilience が最大防御
+### 文化的 レジリエンス が最大防御
 
-透明性、健全な異論、red teaming を持つ組織は、挿入に強いです。多様な視点と検証文化は重要な防壁です。
+透明性、健全な異論、レッドチーミング を持つ組織は、挿入に強いです。多様な視点と検証文化は重要な防壁です。
 
-### counterplay と検証
+### 対抗策 と検証
 
 意思決定の透明性、多重確認、第三者検証、良すぎる話を疑う文化が、防御線になります。
 
@@ -216,5 +216,5 @@ SNS bots、AI 生成コンテンツ、ターゲティングされた誤情報は
 
 ## 📚 **参考文献**
 
-- [Influence: The Psychology of Persuasion](/books/influence-the-psychology-of-persuasion) - 行動影響の基礎
-- [The Art of Deception](/books/the-art-of-deception) - ソーシャルエンジニアリングの事例
+- [影響力の武器](/books/influence-the-psychology-of-persuasion) - 行動影響の基礎
+- [欺術](/books/the-art-of-deception) - ソーシャルエンジニアリングの事例

@@ -11,5 +11,5 @@ Porter はさらに、戦略的ポジショニング、設備拡張の判断、�
 ## 参照先
 
 - [奇襲](/strategies/competitor/ambush)
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power)
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)

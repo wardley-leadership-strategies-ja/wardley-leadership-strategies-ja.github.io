@@ -10,4 +10,4 @@ Ryan Holiday の **Trust Me, I'm Lying: Confessions of a Media Manipulator** は
 
 ## 参照先
 
-- [Signal Distortion](/strategies/markets/signal-distortion)
+- [シグナル歪曲](/strategies/markets/signal-distortion)

@@ -11,30 +11,30 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Change the narrative
-- Stabilise operations
+- 自社の地位を守る
+- 物語を変える
+- 運用を安定させる
 pressures:
-- Customers are nervous about change
-- Competitive attack underway
-- Facing dominant incumbent
+- 顧客が変化に不安を感じている
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Pricing and packaging strategy
-- Narrative control
-- Experience design
+- 価格とパッケージ戦略
+- 物語統制
+- 体験設計
 quick_signals:
-- 詳細を出しすぎると、顧客が legacy offer に戻る。
-- 競合が単純比較を出すたびに churn が増える。
-- すでに差の小さい variant を多数抱えている。
+- 詳細を出しすぎると、顧客が レガシー提供 に戻る。
+- 競合が単純比較を出すたびに 解約 が増える。
+- すでに差の小さい バリエーション を多数抱えている。
 momentum_moves:
-- 望ましい選択へ anchoring するよう option set を設計する。
-- easy comparison を出さずに会話を導けるよう front-line team を訓練する。
-- competitor messaging を見ながら complexity dial を調整する。
+- 望ましい選択へ アンカリング するよう 選択肢セット を設計する。
+- 簡単な比較 を出さずに会話を導けるよう 前線チーム を訓練する。
+- 競合メッセージ を見ながら 複雑さのダイヤル を調整する。
 watch_outs:
-- 顧客を苛立たせ、より単純な alternative へ逃がすこと。
+- 顧客を苛立たせ、より単純な 代替案 へ逃がすこと。
 - 誰も理解しない SKU を抱えて運用負荷を増やすこと。
 - 欺瞞的、混乱的実践として規制当局を呼ぶこと。
 effort_level: Cross-Functional Initiative
@@ -79,20 +79,20 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Confusion of Choice">
-  <MapSignals>
-    <li>重要な user decision point に多くの選択肢が存在する。</li>
-    <li>競合がより単純で透明な選択肢を出している。</li>
-    <li>複雑な選択集合の中で既定案や推奨案を握っている。</li>
-    <li>混乱を入れないと切替コストが低い。</li>
-    <li>成熟市場で、放っておくと直接比較が容易である。</li>
-  </MapSignals>
-  <Readiness>
-    <li>多様な提供物が生む運用複雑性を管理できる。</li>
-    <li>強い product portfolio 管理がある。</li>
-    <li>顧客の苛立ちや反発を観測できる。</li>
-    <li>単純さを売る競合が伸びたらすぐ対応できる。</li>
-    <li>選択設計に関する倫理線がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>重要な ユーザー 判断点 に多くの選択肢が存在する。</li>
+  <li>競合がより単純で透明な選択肢を出している。</li>
+  <li>複雑な選択集合の中で既定案や推奨案を握っている。</li>
+  <li>混乱を入れないと切替コストが低い。</li>
+  <li>成熟市場で、放っておくと直接比較が容易である。</li>
+ </MapSignals>
+ <Readiness>
+  <li>多様な提供物が生む運用複雑性を管理できる。</li>
+  <li>強いプロダクトポートフォリオ管理がある。</li>
+  <li>顧客の苛立ちや反発を観測できる。</li>
+  <li>単純さを売る競合が伸びたらすぐ対応できる。</li>
+  <li>選択設計に関する倫理線がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -149,7 +149,7 @@ time_horizon: Medium-term shaping
 
 多すぎる派生形は社内コストもサポート負荷も増やします。
 
-### simplifier の参入余地
+### 単純化する参入者 の参入余地
 
 過剰な複雑性は「分かりやすさ」を売りにする競合へ大きな機会を与えます。
 
@@ -188,4 +188,4 @@ time_horizon: Medium-term shaping
 
 - [The Paradox of Choice by Barry Schwartz](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 - [Choice Overload: A Conceptual Review and Meta-Analysis](https://www.researchgate.net/publication/265170803_Choice_Overload_A_Conceptual_Review_and_Meta-Analysis)
-- [Harnessing the power of simplicity in a complex consumer-product environment](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/Harnessing%20the%20power%20of%20simplicity%20in%20a%20complex%20consumer%20product%20environment/Harnessing-the-power-of-simplicity-in-a-complex-consumer-product-environment.pdf)
+- [複雑な消費財環境におけるシンプルさの力](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/Harnessing%20the%20power%20of%20simplicity%20in%20a%20complex%20consumer%20product%20environment/Harnessing-the-power-of-simplicity-in-a-complex-consumer-product-environment.pdf)

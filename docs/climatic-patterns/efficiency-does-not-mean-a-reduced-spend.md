@@ -7,5 +7,5 @@ tags: [financial]
 
 ## 🔀 関連戦略
 
-- [Pricing Policy](/strategies/markets/pricing-policy) – 影響: 効率化による価格低下は、コスト削減ではなく需要拡大を招くことがある。
-- [Last Man Standing](/strategies/markets/last-man-standing) – トリガー: 徹底した効率化は、競合を消耗させるための条件を強めうる。
+- [価格政策](/strategies/markets/pricing-policy) – 影響: 効率化による価格低下は、コスト削減ではなく需要拡大を招くことがある。
+- [最後の一社](/strategies/markets/last-man-standing) – トリガー: 徹底した効率化は、競合を消耗させるための条件を強めうる。

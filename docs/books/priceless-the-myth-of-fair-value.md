@@ -10,4 +10,4 @@ William Poundstone の **Priceless: The Myth of Fair Value (and How to Take Adva
 
 ## 参照先
 
-- [Pricing Policy](/strategies/markets/pricing-policy)
+- [価格政策](/strategies/markets/pricing-policy)

@@ -10,4 +10,4 @@ Bruce C. Greenwald と Judd Kahn による **Competition Demystified** は、競
 
 ## 参照先
 
-- [Last Man Standing](/strategies/markets/last-man-standing)
+- [最後の一社](/strategies/markets/last-man-standing)

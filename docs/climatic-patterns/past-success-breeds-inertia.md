@@ -9,5 +9,5 @@ tags: [inertia]
 
 ## 🔀 関連戦略
 
-- [Managing Inertia](/strategies/defensive/managing-inertia) – トリガー: 過去の成功が必要な変化への抵抗を生む局面を見抜く。
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 影響: 過去の成功に縛られた既存勢力は、適応より規制へ頼りやすい。
+- [慣性の管理](/strategies/defensive/managing-inertia) – トリガー: 過去の成功が必要な変化への抵抗を生む局面を見抜く。
+- [防御的規制](/strategies/defensive/defensive-regulation) – 影響: 過去の成功に縛られた既存勢力は、適応より規制へ頼りやすい。

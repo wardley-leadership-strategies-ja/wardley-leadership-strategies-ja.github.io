@@ -14,20 +14,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Secure long-term investment
-- Shape the market
+- 自社の地位を守る
+- 長期投資を確保する
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Regulatory or policy leverage available
-- Customers are nervous about change
+- 競合から攻撃を受けている
+- 規制や政策を活用できる余地がある
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Policy advocacy
-- Narrative control
-- Risk framing
+- 政策提言
+- 物語統制
+- リスクの枠組み化
 quick_signals:
 - 新規参入者が、長年かけて築いた安全策や制度を迂回し始めている。
 - 政策担当者が、安全性、コンプライアンス、消費者保護について整理を求めている。
@@ -80,18 +80,18 @@ time_horizon: Long-term positioning
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Defensive Regulation">
-  <MapSignals>
-    <li>その業界が既に強く規制されている、または今後規制強化が見込まれる。</li>
-    <li>新技術や新しい事業モデルが、既存規制の外側から市場を崩そうとしている。</li>
-    <li>競合は小さく、複雑なコンプライアンス対応に弱い。</li>
-    <li>安全、プライバシー、公平性の名目で世論を動かせる。</li>
-  </MapSignals>
-  <Readiness>
-    <li>洗練された渉外・ロビー体制がある。</li>
-    <li>長期の政策対応に耐える資源がある。</li>
-    <li>倫理面と評判面のリスクを引き受ける覚悟がある。</li>
-    <li>自社に都合のよい規制を公共利益として語る物語を作れる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>その業界が既に強く規制されている、または今後規制強化が見込まれる。</li>
+  <li>新技術や新しい事業モデルが、既存規制の外側から市場を崩そうとしている。</li>
+  <li>競合は小さく、複雑なコンプライアンス対応に弱い。</li>
+  <li>安全、プライバシー、公平性の名目で世論を動かせる。</li>
+ </MapSignals>
+ <Readiness>
+  <li>洗練された渉外・ロビー体制がある。</li>
+  <li>長期の政策対応に耐える資源がある。</li>
+  <li>倫理面と評判面のリスクを引き受ける覚悟がある。</li>
+  <li>自社に都合のよい規制を公共利益として語る物語を作れる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -111,7 +111,7 @@ time_horizon: Long-term positioning
 
 ### 中核課題
 
-企業市民としての正当性と、自己利益のための rent-seeking の境界をどう越えないかです。短期的に効いても、世論や政治の逆風を呼べば長期的には不利になります。
+企業市民としての正当性と、自己利益のための レントシーキング の境界をどう越えないかです。短期的に効いても、世論や政治の逆風を呼べば長期的には不利になります。
 
 ### 必要なスキル
 
@@ -159,7 +159,7 @@ time_horizon: Long-term positioning
 
 ## 🧠 **戦略的示唆**
 
-### Rent-seeking とイノベーションは逆方向にある
+### レントシーキングとイノベーションは逆方向にある
 
 防御的規制は、顧客価値を増やすより既存の富を守る方向へ働きます。短期には効いても、長期には競争力低下の兆候であることが多いです。
 

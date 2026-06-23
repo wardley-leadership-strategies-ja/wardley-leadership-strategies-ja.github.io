@@ -10,5 +10,5 @@ Marty Cagan と Chris Jones の **Empowered** は、技術組織が権限委譲�
 
 ## 参照先
 
-- [Experimentation](/strategies/attacking/experimentation)
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership)
+- [実験](/strategies/attacking/experimentation)
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership)

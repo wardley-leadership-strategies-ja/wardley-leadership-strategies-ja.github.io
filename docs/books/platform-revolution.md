@@ -10,8 +10,8 @@ Geoffrey G. Parker、Marshall W. Van Alstyne、Sangeet Paul Choudary による *
 
 ## 参照先
 
-- [Harvesting](/strategies/markets/harvesting)
-- [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
-- [Market Enablement](/strategies/accelerators/market-enablement)
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
-- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)
+- [収穫](/strategies/markets/harvesting)
+- [両面市場](/strategies/ecosystem/two-factor-markets)
+- [市場育成](/strategies/accelerators/market-enablement)
+- [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
+- [プラットフォーム戦略とネットワーク効果](/leadership-skills/platform-strategy-and-network-effects)

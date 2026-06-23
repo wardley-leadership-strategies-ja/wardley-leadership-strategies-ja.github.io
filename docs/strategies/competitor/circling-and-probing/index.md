@@ -11,30 +11,30 @@ tags:
 - intelligence
 description: 小さな実験で競合領域を探り、大きな投資の前に情報を集める戦略。
 stages:
-- Genesis
-- Custom-Built
+- 創世記
+- カスタムビルド
 goals:
-- Unlock new growth
-- Shape the market
-- Defend your position
+- 新しい成長を開く
+- 市場を形作る
+- 自社の地位を守る
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Learning culture
-- Deep user insight
-- Disciplined portfolio management
+- 学習文化
+- 深いユーザー洞察
+- 規律あるポートフォリオ管理
 quick_signals:
 - 新しい提供への競合反応に関する実データがない。
 - 経営層が、現場証拠なしに攻勢判断を議論している。
 - 地図では魅力的な空間が見えるが、需要への確信が低い。
 momentum_moves:
 - 隣接セグメントで低リスク実験を打ち、競合反応を見る。
-- 反応速度と顧客フィードバックを取れるよう probe を計測する。
+- 反応速度と顧客フィードバックを取れるよう 探り を計測する。
 - 学びをもとに大きな一手を磨くか、投資しない場所を決める。
 watch_outs:
-- 学習ループのない vanity experiment にすること。
+- 学習ループのない 見せかけの実験 にすること。
 - フォローできる力がないのに競合を刺激すること。
 - ノイズの多い信号を誤読すること。
 effort_level: Lean Experiment
@@ -85,23 +85,23 @@ Amazon は食料配送やファッションで、地域限定や ベータ版形
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Circling and Probing">
-  <MapSignals>
-    <li>価値ある市場や利用者層が競合に押さえられているが、満足度や unmet needs は不明である。</li>
-    <li>競合は強いが無敵ではなく、価格、体験、俊敏性に制約が見える。</li>
-    <li>地図上では自社バリューチェーンに隣接するが、まだ十分探索できていない領域である。</li>
-    <li>機会は不確実で、全面投資には早い。</li>
-    <li>市場変化や転換点がありそうだが、まだ確証が足りない。</li>
-    <li>競合が unexpected moves にどう反応するかを学びたい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>MVP、限定 pilot、beta など小規模提供を素早く作れる。</li>
-    <li>制御された実験を回し、やりながら学ぶ文化がある。</li>
-    <li>低コミットの probe を計測し、使える情報へ変えられる。</li>
-    <li>早すぎる拡張や小さな信号の過大解釈を避ける規律がある。</li>
-    <li>本流実行と実験的 probe の違いをチームが理解している。</li>
-    <li>市場テストから得た新情報へすぐ適応できる。</li>
-    <li>競合から何を引き出したいか、明確な意図がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>価値ある市場や利用者層が競合に押さえられているが、満足度や 未充足ニーズ は不明である。</li>
+  <li>競合は強いが無敵ではなく、価格、体験、俊敏性に制約が見える。</li>
+  <li>地図上では自社バリューチェーンに隣接するが、まだ十分探索できていない領域である。</li>
+  <li>機会は不確実で、全面投資には早い。</li>
+  <li>市場変化や転換点がありそうだが、まだ確証が足りない。</li>
+  <li>競合が 予想外の動き にどう反応するかを学びたい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>MVP、限定 試験導入、ベータ など小規模提供を素早く作れる。</li>
+  <li>制御された実験を回し、やりながら学ぶ文化がある。</li>
+  <li>低コミットの 探り を計測し、使える情報へ変えられる。</li>
+  <li>早すぎる拡張や小さな信号の過大解釈を避ける規律がある。</li>
+  <li>本流実行と実験的 探り の違いをチームが理解している。</li>
+  <li>市場テストから得た新情報へすぐ適応できる。</li>
+  <li>競合から何を引き出したいか、明確な意図がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -222,6 +222,6 @@ Amazon は食料配送やファッションで、地域限定や ベータ版形
 ## 📚 **参考文献**
 
 - [Competitive Strategy](/books/competitive-strategy)
-- [The Art of War](/books/the-art-of-war)
+- [孫子](/books/the-art-of-war)
 - [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
 - [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)

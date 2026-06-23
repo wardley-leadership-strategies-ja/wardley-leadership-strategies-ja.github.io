@@ -14,32 +14,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Genesis
-- Custom-Built
+- 創世記
+- カスタムビルド
 goals:
-- Shape the market
-- Unlock new growth
-- Reduce legacy drag
+- 市場を形作る
+- 新しい成長を開く
+- レガシーの足かせを減らす
 pressures:
-- Market is nascent or undefined
-- Need to go faster than internal bureaucracy
-- Limited resources or capacity
+- 市場が初期段階または未定義である
+- 社内官僚制より速く進む必要がある
+- 資源や能力が限られている
 leadership_focus:
-- Data instrumentation
-- Learning culture
-- Long-horizon roadmapping
+- データ計測
+- 学習文化
+- 長期ロードマップ策定
 quick_signals:
 - 戦略プロセスが先行指標ではなく遅行指標に依存している。
 - 現場は新しい行動変化に気づいているのに、経営へ届かない。
 - 新しいパターンが出るたびに、競合が先に動いている。
 momentum_moves:
-- 異常値や新傾向を見直す横断的な sensing の定例を作る。
+- 異常値や新傾向を見直す横断的な センシング の定例を作る。
 - 弱いシグナルを、小さな実験で検証してから広げる。
 - シグナルの洞察を、シナリオと投資選択肢へ落とし込む。
 watch_outs:
 - 何が意味あるシグナルかが曖昧で、雑音に溺れること。
-- 証拠が出ても資源を出さず、sensing を儀式化すること。
-- sensing を中央部門の仕事とみなし、チームへ埋め込まないこと。
+- 証拠が出ても資源を出さず、センシング を儀式化すること。
+- センシング を中央部門の仕事とみなし、チームへ埋め込まないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
@@ -60,7 +60,7 @@ time_horizon: Long-term positioning
 
 - 多様な情報源からシグナルを継続収集する
 - コンポーネントの進化段階とパターンを結びつけて読む
-- sensing をプロセスや文化に埋め込む
+- センシング をプロセスや文化に埋め込む
 
 ### なぜ使うのか
 
@@ -68,7 +68,7 @@ time_horizon: Long-term positioning
 
 ### どう使うのか
 
-1. 分析、ユーザーフィードバック、市場調査など、sensing の仕組みを持つ
+1. 分析、ユーザーフィードバック、市場調査など、センシング の仕組みを持つ
 2. シグナルをバリューチェーンの進化や Wardley Map 上へ重ねる
 3. 影響の大きいシグナルを優先し、雑音を落とす
 4. 洞察を仮説と小規模実験へ変える
@@ -85,24 +85,24 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 ### 仮想例: ウェアラブル健康センサー
 
-ある医療事業者が、ウェアラブルから流れる患者データの増加を早く見て、遠隔モニタリング需要の本格化を予測し、統合型 telehealth を先に立ち上げるようなケースです。
+ある医療事業者が、ウェアラブルから流れる患者データの増加を早く見て、遠隔モニタリング需要の本格化を予測し、統合型 遠隔医療 を先に立ち上げるようなケースです。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Weak Signal (Horizon)">
-  <MapSignals>
-    <li>バリューチェーン上で、コンポーネントが転換点へ近づいている。</li>
-    <li>複数の弱い指標が、一つの戦略変化へ収束し始めている。</li>
-    <li>早期採用者やニッチ市場で新しい行動が見え始めている。</li>
-    <li>コスト曲線や試作品など、技術成熟のシグナルが見えている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>データ収集と分析の能力がある。</li>
-    <li>好奇心と早期実験を尊重する文化がある。</li>
-    <li>洞察をすぐパイロットへ変えられる。</li>
-    <li>経営が sensing と foresight への投資を支えている。</li>
-    <li>シグナル解釈のための横断協働がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>バリューチェーン上で、コンポーネントが転換点へ近づいている。</li>
+  <li>複数の弱い指標が、一つの戦略変化へ収束し始めている。</li>
+  <li>早期採用者やニッチ市場で新しい行動が見え始めている。</li>
+  <li>コスト曲線や試作品など、技術成熟のシグナルが見えている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>データ収集と分析の能力がある。</li>
+  <li>好奇心と早期実験を尊重する文化がある。</li>
+  <li>洞察をすぐパイロットへ変えられる。</li>
+  <li>経営が センシングとフォーサイト への投資を支えている。</li>
+  <li>シグナル解釈のための横断協働がある。</li>
+ </Readiness>
 </Assessment>
 
 ## 🎯 **リーダーシップ**
@@ -128,7 +128,7 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 2. シグナルを進化地図の上に集約し、可視化する
 3. 横断チームでレビューし、優先順位を付ける
 4. 仮説を作り、集中的な実験を回す
-5. sensing と実験のサイクルを反復する
+5. センシング と実験のサイクルを反復する
 
 ## 📈 **成功指標**
 
@@ -136,7 +136,7 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 - 戦略判断までの時間短縮
 - 弱いシグナル起点の施策成功率
 - 見逃しや想定外の減少
-- sensing への投資対効果
+- センシング への投資対効果
 
 ## ⚠️ **失敗しやすい点**
 
@@ -168,7 +168,7 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 ### 文化への埋め込み
 
-有効な sensing は専任部署だけでは成り立ちません。早い洞察を拾い、行動に変える文化が必要です。
+有効な センシング は専任部署だけでは成り立ちません。早い洞察を拾い、行動に変える文化が必要です。
 
 ## ❓ **問うべきこと**
 
@@ -198,6 +198,6 @@ ARM は低消費電力プロセッサ需要の兆しを読み、早い段階で�
 
 ## 📚 **参考文献**
 
-- Simon Wardley – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) - sensing と foresight の基礎
-- [Thinking, Fast and Slow](/books/thinking-fast-and-slow) - バイアスとシグナル解釈を考える文脈
-- [Horizon Scanning](https://en.wikipedia.org/wiki/Horizon_scanning) - foresight 実務の方法論
+- Simon Wardley – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) - センシング と フォーサイト の基礎
+- [ファスト＆スロー](/books/thinking-fast-and-slow) - バイアスとシグナル解釈を考える文脈
+- [Horizon Scanning](https://en.wikipedia.org/wiki/Horizon_scanning) - フォーサイト 実務の方法論

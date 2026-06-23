@@ -10,20 +10,20 @@ tags:
 - innovation
 description: 競合が過去へしがみつくよう、市場の動きを仕掛けて慣性を深める戦略。
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Shape the market
-- Unlock new growth
+- 自社の地位を守る
+- 市場を形作る
+- 新しい成長を開く
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Narrative building
-- Risk framing
-- Integrated roadmapping
+- 物語構築
+- リスクの枠組み化
+- 統合ロードマップ策定
 quick_signals:
 - 競合が明らかなユーザー移行を前にしても旧来提供へ資源を寄せている。
 - 顧客は古いモデルを離れる準備があることが探索で見えている。
@@ -83,23 +83,23 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="競合他社の惰性の強化">
-  <MapSignals>
-    <li>支配的競合が、旧来の事業モデル、構造、運用に強く縛られている。</li>
-    <li>市場トレンド、ユーザー行動、実現技術が、そのモデルから明確に離れつつある。</li>
-    <li>競合の収益、コスト構造、ブランド位置づけが現状維持に強く依存している。</li>
-    <li>新しい選択肢やプラットフォームが出始めており、正当性と規模をあと一押しで得られそうだ。</li>
-    <li>競合の戦略方向がユーザーニーズとズレ始めていると地図が示している。</li>
-    <li>小さな変化の積み重ねが、市場構造を変える環境である。</li>
-  </MapSignals>
-  <Readiness>
-    <li>新しいモデルを採り入れつつ、初期非効率や低マージンに耐えられる。</li>
-    <li>本当に違う未来像を市場へ提示できる。</li>
-    <li>自社のやり方が現代的で不可避だと伝える物語を作れる。</li>
-    <li>価格、位置づけ、公開メッセージなどで、競合を微妙に挑発しつつ大きな方向転換は誘発しない設計ができる。</li>
-    <li>競合の防衛的な埋め込みや反応を継続監視できる。</li>
-    <li>市場変化の読みが外れた場合の代替案がある。</li>
-    <li>自社も同じ慣性に陥らないための手当てがある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>支配的競合が、旧来の事業モデル、構造、運用に強く縛られている。</li>
+  <li>市場トレンド、ユーザー行動、実現技術が、そのモデルから明確に離れつつある。</li>
+  <li>競合の収益、コスト構造、ブランド位置づけが現状維持に強く依存している。</li>
+  <li>新しい選択肢やプラットフォームが出始めており、正当性と規模をあと一押しで得られそうだ。</li>
+  <li>競合の戦略方向がユーザーニーズとズレ始めていると地図が示している。</li>
+  <li>小さな変化の積み重ねが、市場構造を変える環境である。</li>
+ </MapSignals>
+ <Readiness>
+  <li>新しいモデルを採り入れつつ、初期非効率や低マージンに耐えられる。</li>
+  <li>本当に違う未来像を市場へ提示できる。</li>
+  <li>自社のやり方が現代的で不可避だと伝える物語を作れる。</li>
+  <li>価格、位置づけ、公開メッセージなどで、競合を微妙に挑発しつつ大きな方向転換は誘発しない設計ができる。</li>
+  <li>競合の防衛的な埋め込みや反応を継続監視できる。</li>
+  <li>市場変化の読みが外れた場合の代替案がある。</li>
+  <li>自社も同じ慣性に陥らないための手当てがある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -195,6 +195,6 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [The Rise and Fall of Kodak: How an Industry Giant Missed the Digital Revolution - Unlimited Graphic Design Service](https://penji.co/the-rise-and-fall-of-kodak/)
 - [Lessons from the Rise of Netflix and the Fall of Blockbuster | Cato Institute](https://www.cato.org/commentary/lessons-rise-netflix-fall-blockbuster)

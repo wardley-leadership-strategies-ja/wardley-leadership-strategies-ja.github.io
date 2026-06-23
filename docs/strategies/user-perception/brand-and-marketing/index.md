@@ -13,32 +13,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Change the narrative
-- Accelerate adoption
-- Defend your position
+- 物語を変える
+- 採用を加速する
+- 自社の地位を守る
 pressures:
-- Customers are nervous about change
-- Competitive attack underway
-- Facing dominant incumbent
+- 顧客が変化に不安を感じている
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Narrative building
-- Storytelling
-- Experience design
+- 物語構築
+- ストーリーテリング
+- 体験設計
 quick_signals:
-- feature parity なのに何が違うか顧客が言語化できない。
-- emotional proof や social proof がないせいで sales cycle が止まる。
-- value は勝っているのに、mindshare は competitor が握っている。
+- 機能 同等 なのに何が違うか顧客が言語化できない。
+- 感情的証拠 や 社会的証明 がないせいで 営業サイクル が止まる。
+- 価値 は勝っているのに、マインドシェア は 競合 が握っている。
 momentum_moves:
-- brand promise を明確にし、campaign と touchpoint 全体へ埋め込む。
-- story を tangible にする signature experience へ投資する。
-- brand narrative を体現する advocates や influencers を動かす。
+- ブランド約束 を明確にし、キャンペーン と 接点 全体へ埋め込む。
+- 物語 を 具体的 にする 象徴的体験 へ投資する。
+- ブランド 物語 を体現する 支持者 や インフルエンサー を動かす。
 watch_outs:
-- campaign で約束しすぎて product が追いつかないこと。
-- vanity metrics ばかり見て行動変化を見ないこと。
-- 選んだ narrative に響かない segment を無視すること。
+- キャンペーン で約束しすぎて プロダクト が追いつかないこと。
+- 虚栄指標 ばかり見て行動変化を見ないこと。
+- 選んだ 物語 に響かない セグメント を無視すること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -66,8 +66,8 @@ time_horizon: Medium-term shaping
 Wardley Map では多くの提供物が右へ進み、やがてコモディティ化します。ブランディングは、この自然な進化圧力に対抗して、知覚上は提供物を左へ引き戻す力になります。中身が成熟していても、語り方と体験設計によって「特別」「あつらえ向き」に感じさせられれば、知覚上のコモディティ化を遅らせられます。
 
 <figure>
-    ![Wardley Map showing the effect of branding on a コンポーネント, moving it up (more visible) and left (away from commodity)](branding-map.png)
-    <figcaption>ブランド化されたコンポーネントは、より可視化され、より差別化されて見える。</figcaption>
+  ![ブランディングがコンポーネントをより目に見える位置へ動かし、コモディティから遠ざける効果を示す Wardley Map](branding-map.png)
+  <figcaption>ブランド化されたコンポーネントは、より可視化され、より差別化されて見える。</figcaption>
 </figure>
 
 ### なぜ使うのか
@@ -90,23 +90,23 @@ Orange は若年層向けのサブブランドを出し、主力ブランドを�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Brand and Marketing">
-  <MapSignals>
-    <li>市場が機能面では似た提供物で飽和している。</li>
-    <li>コンポーネントはコモディティ化しつつあるが、知覚はまだ動かせる。</li>
-    <li>ユーザーニーズが機能だけでなく、自己認識や地位感覚にも左右されている。</li>
-    <li>「私たちのような人の選択」として位置付けられる余地がある。</li>
-    <li>component を地図上で上へ、左へ動かせる余地がある。</li>
-    <li>競合が、ありふれた、古い、危うい存在として再定義されやすい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>対象顧客層の価値観、憧れ、自己認識を理解している。</li>
-    <li>広告、営業、サポート、包装を通して一貫した物語を出せる。</li>
-    <li>長期的に認知を補強するマーケティング実行力がある。</li>
-    <li>contrast と framing による間接 position ができる。</li>
-    <li>文化変化や競争変化に応じて発信内容を変えられる。</li>
-    <li>ブランドメッセージと実際の品質を揃えられる。</li>
-    <li>マーケティングだけに頼らず、製品やサポートの改善も進められる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>市場が機能面では似た提供物で飽和している。</li>
+  <li>コンポーネントはコモディティ化しつつあるが、知覚はまだ動かせる。</li>
+  <li>ユーザーニーズが機能だけでなく、自己認識や地位感覚にも左右されている。</li>
+  <li>「私たちのような人の選択」として位置付けられる余地がある。</li>
+  <li>コンポーネント を地図上で上へ、左へ動かせる余地がある。</li>
+  <li>競合が、ありふれた、古い、危うい存在として再定義されやすい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>対象顧客層の価値観、憧れ、自己認識を理解している。</li>
+  <li>広告、営業、サポート、包装を通して一貫した物語を出せる。</li>
+  <li>長期的に認知を補強するマーケティング実行力がある。</li>
+  <li>対比 と 枠組み化 による間接 立場 ができる。</li>
+  <li>文化変化や競争変化に応じて発信内容を変えられる。</li>
+  <li>ブランドメッセージと実際の品質を揃えられる。</li>
+  <li>マーケティングだけに頼らず、製品やサポートの改善も進められる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

@@ -10,4 +10,4 @@ Madhavan Ramanujam と Georg Tacke の **Monetizing Innovation** は、価格を
 
 ## 参照先
 
-- [Pricing Policy](/strategies/markets/pricing-policy)
+- [価格政策](/strategies/markets/pricing-policy)

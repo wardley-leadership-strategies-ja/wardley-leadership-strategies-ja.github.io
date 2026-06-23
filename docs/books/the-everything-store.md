@@ -10,4 +10,4 @@ Amazon が供給者とどう向き合い、パートナーと交渉し、規模�
 
 ## 参照先
 
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power)

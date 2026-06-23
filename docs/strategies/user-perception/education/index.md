@@ -13,32 +13,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Accelerate adoption
-- Change the narrative
-- Stabilise operations
+- 採用を加速する
+- 物語を変える
+- 運用を安定させる
 pressures:
-- Customers are nervous about change
-- Need to go faster than internal bureaucracy
-- Competitive attack underway
+- 顧客が変化に不安を感じている
+- 社内官僚制より速く進む必要がある
+- 競合から攻撃を受けている
 leadership_focus:
-- Narrative building
-- Experience design
-- Community stewardship
+- 物語構築
+- 体験設計
+- コミュニティ運営責任
 quick_signals:
-- ユーザーがリスクや価値提案を誤解し、adoption を遅らせている。
-- support team が myth や misinformation の訂正に時間を取られている。
+- ユーザーがリスクや価値提案を誤解し、採用を遅らせている。
+- サポートチーム が 俗説 や 誤情報 の訂正に時間を取られている。
 - 規制当局や関係者が、安全利用の理解証明を求めている。
 momentum_moves:
-- 最頻 objection を潰す education journey を設計する。
-- partners、community leaders、frontline staff など trusted voice に伝達手段を持たせる。
-- awareness だけでなく行動変化を測って curriculum を改善する。
+- 最頻 反論 を潰す 教育導線 を設計する。
+- パートナー、コミュニティリーダー、前線スタッフ など 信頼できる 声 に伝達手段を持たせる。
+- 認知 だけでなく行動変化を測って カリキュラム を改善する。
 watch_outs:
-- 本当の障壁に触れていない generic content を出すこと。
-- 自分が教育した市場を、実行の速い competitors に取られること。
-- patronising で現実離れした programme だと感じられること。
+- 本当の障壁に触れていない 汎用的コンテンツ を出すこと。
+- 自分が教育した市場を、実行の速い 競合 に取られること。
+- 見下した で現実離れした プログラム だと感じられること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -79,20 +79,20 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Education">
-  <MapSignals>
-    <li>地図上で、ユーザーや市場の慣性が採用の主要障害になっている。</li>
-    <li>解決策やカテゴリに対する誤解や認知不足が広い。</li>
-    <li>競合が恐怖・不確実性・疑念や誤情報を使っている。</li>
-    <li>製品と市場の適合はあるのに採用が低い。</li>
-    <li>理解不足のせいで導入やサポートコストが高い。</li>
-  </MapSignals>
-  <Readiness>
-    <li>高品質で accessible な教育コンテンツを作れる。</li>
-    <li>継続的な教育投資を続けられる。</li>
-    <li>対象へ届く経路を持っている。</li>
-    <li>教育効果を測り改善できる。</li>
-    <li>客観性と credibility を保てる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、ユーザーや市場の慣性が採用の主要障害になっている。</li>
+  <li>解決策やカテゴリに対する誤解や認知不足が広い。</li>
+  <li>競合が恐怖・不確実性・疑念や誤情報を使っている。</li>
+  <li>製品と市場の適合はあるのに採用が低い。</li>
+  <li>理解不足のせいで導入やサポートコストが高い。</li>
+ </MapSignals>
+ <Readiness>
+  <li>高品質で アクセシブル な教育コンテンツを作れる。</li>
+  <li>継続的な教育投資を続けられる。</li>
+  <li>対象へ届く経路を持っている。</li>
+  <li>教育効果を測り改善できる。</li>
+  <li>客観性と 信頼性 を保てる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -150,11 +150,11 @@ time_horizon: Medium-term shaping
 
 市場教育は長期戦です。短期売上だけで評価するとやめてしまいます。
 
-### credibility を失う
+### 信頼性 を失う
 
 偏っている、不正確だ、売り込みだと見なされれば終わりです。
 
-### competitors のために教育する
+### 競合 のために教育する
 
 一般論の業界教育だけだと、市場全体を育てて競合にも利します。
 

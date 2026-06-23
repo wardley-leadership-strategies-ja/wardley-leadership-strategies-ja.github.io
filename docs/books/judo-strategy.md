@@ -10,4 +10,4 @@ isbn13: "9781591391265"
 
 ## 参照先
 
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry)

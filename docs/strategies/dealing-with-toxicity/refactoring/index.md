@@ -13,19 +13,19 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Reduce legacy drag
-- Stabilise operations
+- レガシーの足かせを減らす
+- 運用を安定させる
 pressures:
-- Legacy system drag
-- Limited resources or capacity
-- Need to go faster than internal bureaucracy
+- レガシーシステムが足かせになっている
+- 資源や能力が限られている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Change management
-- Architectural thinking
-- Talent redeployment
+- 変更管理
+- アーキテクチャ思考
+- 人材再配置
 quick_signals:
 - レガシープラットフォームが予算と注意を過剰に吸っている。
 - 地図上で、残すべき部品と廃止すべき毒性部品が見えている。
@@ -80,24 +80,24 @@ time_horizon: Long-term positioning
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Refactoring">
-  <MapSignals>
-    <li>価値や重要性が落ちるレガシー運用を抱えている。</li>
-    <li>地図上で、そのレガシー資産の中にまだ使える下位構成要素が見えている。</li>
-    <li>全面廃棄の政治的・実務的コストが高く、急な出口を取りにくい。</li>
-    <li>保存すべき内部依存や知識が埋まっている。</li>
-    <li>緊急停止ではなく、計画的な変換を進める時間がある。</li>
-    <li>救い出した要素を、新しい戦略施策へ組み込める。</li>
-    <li>レガシーが内部毒性や慣性の源になっている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>スキル、技術、データ、設備を再利用観点で評価できる。</li>
-    <li>他の運用を壊さずに内部再編を実行できる。</li>
-    <li>一時的な二重運用に耐えられる。</li>
-    <li>段階的変化に耐える文化と変革経験がある。</li>
-    <li>人の再訓練や再配置を丁寧に行える。</li>
-    <li>移行中に横断的な説明を続けられる。</li>
-    <li>明確な期限とガバナンスがある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>価値や重要性が落ちるレガシー運用を抱えている。</li>
+  <li>地図上で、そのレガシー資産の中にまだ使える下位構成要素が見えている。</li>
+  <li>全面廃棄の政治的・実務的コストが高く、急な出口を取りにくい。</li>
+  <li>保存すべき内部依存や知識が埋まっている。</li>
+  <li>緊急停止ではなく、計画的な変換を進める時間がある。</li>
+  <li>救い出した要素を、新しい戦略施策へ組み込める。</li>
+  <li>レガシーが内部毒性や慣性の源になっている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>スキル、技術、データ、設備を再利用観点で評価できる。</li>
+  <li>他の運用を壊さずに内部再編を実行できる。</li>
+  <li>一時的な二重運用に耐えられる。</li>
+  <li>段階的変化に耐える文化と変革経験がある。</li>
+  <li>人の再訓練や再配置を丁寧に行える。</li>
+  <li>移行中に横断的な説明を続けられる。</li>
+  <li>明確な期限とガバナンスがある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -204,5 +204,5 @@ time_horizon: Long-term positioning
 
 ## 📚 **参考文献**
 
-- business process re-engineering などの文献は、業務構造の分解と再設計という点で近い
+- 業務プロセス再設計 などの文献は、業務構造の分解と再設計という点で近い
 - *Dual Transformation* は、既存事業の能力を新しい成長へ移す組織変換として参考になる

@@ -4,4 +4,4 @@
 
 ## 🔀 関連戦略
 
-- [Tower and Moat](/strategies/ecosystem/tower-and-moat)
+- [塔と堀](/strategies/ecosystem/tower-and-moat)

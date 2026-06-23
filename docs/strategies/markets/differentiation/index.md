@@ -13,19 +13,19 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Genesis
-- Custom-Built
+- 創世記
+- カスタムビルド
 goals:
-- Unlock new growth
-- Change the narrative
+- 新しい成長を開く
+- 物語を変える
 pressures:
-- Market is nascent or undefined
-- Competitive attack underway
-- Customers are nervous about change
+- 市場が初期段階または未定義である
+- 競合から攻撃を受けている
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Deep user insight
-- Experience design
-- Storytelling
+- 深いユーザー洞察
+- 体験設計
+- ストーリーテリング
 quick_signals:
 - 既存提供物がどれも似たように見えるとユーザーが不満を言っている。
 - 地図から、固有ニーズを持つ見過ごされたセグメントが見えている。
@@ -80,18 +80,18 @@ Juicero は高価なジューサーで技術差別化を試みましたが、ユ
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Differentiation">
-  <MapSignals>
-    <li>地図上で、対象コンポーネントが創世記またはカスタムビルドにある。</li>
-    <li>市場に不確実性が高く、革新余地が大きい。</li>
-    <li>競合は一律の解しか出しておらず、一部 セグメントのニーズ を満たしていない。</li>
-    <li>明確な未充足ニーズへ 独自の解決策 を出せる。</li>
-  </MapSignals>
-  <Readiness>
-    <li>対象ユーザーと 痛点 を深く理解している。</li>
-    <li>実験文化があり、リスクを取れる。</li>
-    <li>本当に新しい解を作る R&amp;D 能力がある。</li>
-    <li>独自価値を伝える マーケティング能力がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、対象コンポーネントが創世記またはカスタムビルドにある。</li>
+  <li>市場に不確実性が高く、革新余地が大きい。</li>
+  <li>競合は一律の解しか出しておらず、一部 セグメントのニーズ を満たしていない。</li>
+  <li>明確な未充足ニーズへ 独自の解決策 を出せる。</li>
+ </MapSignals>
+ <Readiness>
+  <li>対象ユーザーと 痛点 を深く理解している。</li>
+  <li>実験文化があり、リスクを取れる。</li>
+  <li>本当に新しい解を作る 研究開発 能力がある。</li>
+  <li>独自価値を伝える マーケティング能力がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -130,16 +130,16 @@ Juicero は高価なジューサーで技術差別化を試みましたが、ユ
 1. ユーザー調査やインタビュー、観察で 未充足ニーズ を見つける
 2. Wardley Map で バリューチェーン の進化段階を把握する
 3. 広くアイデアを出し、低 忠実度の高い試作 で検証する
-4. 作る・測る・学ぶ で solution を磨く
-5. high-品質 な 機能 や product として作り込む
+4. 作る・測る・学ぶ で 解決策 を磨く
+5. 高品質 な 機能やプロダクト として作り込む
 6. 何が違い、なぜ ユーザーに効くのかを明確に伝える
 
 ## 📈 **成功指標**
 
 - プレミアム価格 を取れているか
-- NPS や解約率 で loyalty が見えるか
+- NPS や解約率 で ロイヤルティが見えるか
 - 狙った ニッチで意味のあるシェア を取れているか
-- brand が innovation と 品質 に結びついているか
+- ブランドがイノベーション と 品質 に結びついているか
 
 ## ⚠️ **失敗しやすい点**
 
@@ -182,17 +182,17 @@ Juicero は高価なジューサーで技術差別化を試みましたが、ユ
 - [先行者戦略](/strategies/positional/first-mover) - 先行者であること自体が初期差別化になりうる
 - [実験](/strategies/attacking/experimentation) - 差別化は実験の中で見つかることが多い
 - [共創](/strategies/ecosystem/co-creation) - ユーザーと直接 協働することで 意味のある差異を見つけやすい
-- [人工的ニーズの創出](/strategies/user-perception/creating-artificial-needs) - 本物のニーズ ではなく marketing で差異を作ろうとする危うい対照戦略
-- [プレスリリース・プロセス](/strategies/attacking/press-release-process) - differentiating 機能 を市場へ印象づける
-- [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing) - unique value proposition を物語として定着させる
+- [人工的ニーズの創出](/strategies/user-perception/creating-artificial-needs) - 本物のニーズ ではなく マーケティング で差異を作ろうとする危うい対照戦略
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process) - 差別化する機能を市場へ印象づける
+- [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing) - 独自の価値提案 を物語として定着させる
 
 ## ⛅ **関連する状勢パターン**
 
-- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – トリガー: immature な コンポーネント ほど差別化余地が大きい
+- [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – トリガー: 未成熟なコンポーネント ほど差別化余地が大きい
 - [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – 影響: 自分が活かせる 速度 の市場を選ぶことが重要
 
 ## 📚 **参考文献**
 
 - [Blue Ocean Strategy](/books/blue-ocean-strategy) - 競争の少ない市場空間を作る考え方
-- [Differentiate or Die](/books/differentiate-or-die) - 差別化原則の実践書
+- [差別化か死か](/books/differentiate-or-die) - 差別化原則の実践書
 - [Obviously Awesome](/books/obviously-awesome) - ポジショニングと差別化の伝え方

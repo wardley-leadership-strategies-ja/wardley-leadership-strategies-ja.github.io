@@ -10,5 +10,5 @@ Thales S. Teixeira と Greg Piechota による **Unlocking the Customer Value Ch
 
 ## 参照先
 
-- [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)
+- [チャネル競合と中間排除](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking)

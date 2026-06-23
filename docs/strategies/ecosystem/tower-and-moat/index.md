@@ -14,21 +14,21 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Genesis
-- Custom-Built
-- Product
+- 創世記
+- カスタムビルド
+- プロダクト
 goals:
-- Build エコシステム leverage
-- Secure long-term investment
-- Shape the market
+- エコシステムの影響力を築く
+- 長期投資を確保する
+- 市場を形作る
 pressures:
-- Facing dominant incumbent
-- Market is nascent or undefined
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 市場が初期段階または未定義である
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Long-horizon roadmapping
-- Platform stewardship
-- Incentive design
+- 長期ロードマップ策定
+- プラットフォーム運営責任
+- インセンティブ設計
 quick_signals:
 - まだ誰も支配していない将来のボトルネックが見えている。
 - 市場需要に先行して投資できる資本と忍耐がある。
@@ -80,18 +80,18 @@ AWS は計算インフラが ユーティリティになる未来を読み、巨
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Tower and Moat">
-  <MapSignals>
-    <li>地図上で、創世記またはカスタムビルド段階のコンポーネントが、将来 ユーティリティになると読める。</li>
-    <li>そのコンポーネントが、将来の価値あるエコシステムの中心ハブになる道筋が見えている。</li>
-    <li>周辺の高次コンポーネントをコモディティ化して 堀 を築ける。</li>
-    <li>まだどの競合もその未来の塔を十分に見ていない。</li>
-  </MapSignals>
-  <Readiness>
-    <li>長期で大きく賭ける ビジョン と継続投資能力がある。</li>
-    <li>塔を作る R&D 能力と、 台頭する脅威 を commoditize する俊敏性がある。</li>
-    <li>大規模エコシステムを育てる力がある。</li>
-    <li>高リスク高リターン戦略に賭ける conviction がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、創世記またはカスタムビルド段階のコンポーネントが、将来 ユーティリティになると読める。</li>
+  <li>そのコンポーネントが、将来の価値あるエコシステムの中心ハブになる道筋が見えている。</li>
+  <li>周辺の高次コンポーネントをコモディティ化して 堀 を築ける。</li>
+  <li>まだどの競合もその未来の塔を十分に見ていない。</li>
+ </MapSignals>
+ <Readiness>
+  <li>長期で大きく賭ける ビジョン と継続投資能力がある。</li>
+  <li>塔を作る R&D 能力と、 台頭する脅威 を コモディティ化 する俊敏性がある。</li>
+  <li>大規模エコシステムを育てる力がある。</li>
+  <li>高リスク高リターン戦略に賭ける 確信 がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -123,19 +123,19 @@ AWS は計算インフラが ユーティリティになる未来を読み、巨
 
 ### 倫理面
 
-この戦略は、支配的でほぼ 独占的 な位置を作ることを狙うため、公正競争への大きな倫理課題があります。新しいアイデアをすぐ commoditize して差別化余地を奪う行為は、市場全体にとって 有害 になりえます。
+この戦略は、支配的でほぼ 独占的 な位置を作ることを狙うため、公正競争への大きな倫理課題があります。新しいアイデアをすぐ コモディティ化 して差別化余地を奪う行為は、市場全体にとって 有害 になりえます。
 
 ## 📋 **進め方**
 
-1. **未来の塔を特定する:** Wardley Map を使い、将来 utility 化する重要 コンポーネント を読む
+1. **未来の塔を特定する:** Wardley Map を使い、将来 ユーティリティ 化する重要 コンポーネント を読む
 2. **塔へ投資する:** 規模、信頼性、低コストを重視して 最高水準の の基盤を作る
 3. **エコシステムを育てる:** API、支援、コミュニティを通じて、他者が塔の上に 構築するよう促す
-4. **補完物 を commoditize する:** 手応え を得る上位サービスを監視し、自社版を低価格または無料で出す
+4. **補完物 を コモディティ化 する:** 手応え を得る上位サービスを監視し、自社版を低価格または無料で出す
 5. **防御と拡張を続ける:** 新しい差別化候補を見つけるたびに 堀 を拡張する
 
 ## 📈 **成功指標**
 
-- 塔に当たる 中核ユーティリティ の market share
+- 塔に当たる 中核ユーティリティ の 市場シェア
 - エコシステムの規模と健全性
 - 差別化競合が育っていないか
 - 塔自体が継続的に大きな利益を生んでいるか
@@ -152,11 +152,11 @@ AWS は計算インフラが ユーティリティになる未来を読み、巨
 
 ### 速度不足
 
-新しい差別化候補を commoditize するのが遅いと、競合が 足場 を作ります。
+新しい差別化候補を コモディティ化 するのが遅いと、競合が 足場 を作ります。
 
 ### 規制介入
 
-成功しすぎると monopoly と見なされ、反トラストや規制介入を呼びます。
+成功しすぎると 独占と見なされ、反トラストや規制介入を呼びます。
 
 ## 🧠 **戦略的示唆**
 
@@ -172,7 +172,7 @@ AWS は計算インフラが ユーティリティになる未来を読み、巨
 
 - 10 年後、この市場で最も価値ある コンポーネント は何か
 - その未来市場を取るために、大きく長い投資を本当に置くのか
-- 塔の上の層を commoditize して競争を防ぐ具体策は何か
+- 塔の上の層を コモディティ化 して競争を防ぐ具体策は何か
 - 他者に塔の上へ 構築してもらうため、どんな インセンティブ を出すか
 - 何が見えたら、自分たちの賭けが間違いだと判断するのか
 
@@ -188,9 +188,9 @@ AWS は計算インフラが ユーティリティになる未来を読み、巨
 ## ⛅ **関連する状勢パターン**
 
 - [製品からユーティリティへの移行は断続平衡を示す](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – トリガー: 急な移行が塔を築く機会になる
-- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 成熟 utility の上に生まれる新価値を塔が吸い上げる
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – 影響: 成熟 ユーティリティ の上に生まれる新価値を塔が吸い上げる
 
 ## 📚 **参考文献**
 
-- [Bits or pieces?: Tower and Moat](https://blog.gardeviance.org/2014/07/tower-and-堀.html) - Simon Wardley による原典
-- [Google: "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-堀-and-neither) - AI 文脈での実例分析
+- [Bits or pieces?: Tower and Moat](https://blog.gardeviance.org/2014/07/tower-and-moat.html) - Simon Wardley による原典
+- [Google: "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) - AI 文脈での実例分析

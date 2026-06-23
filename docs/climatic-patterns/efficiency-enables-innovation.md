@@ -11,4 +11,4 @@ tags: [speed]
 
 ## 🔀 関連戦略
 
-- [Open Approaches](/strategies/accelerators/open-approaches) – トリガー: コンポーネントが効率的になった段階で開くと、さらなるイノベーションを促せる。
+- [オープンアプローチ](/strategies/accelerators/open-approaches) – トリガー: コンポーネントが効率的になった段階で開くと、さらなるイノベーションを促せる。

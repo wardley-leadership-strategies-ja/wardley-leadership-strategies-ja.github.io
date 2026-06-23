@@ -10,4 +10,4 @@ April Dunford の **Obviously Awesome** は、技術プロダクト向けの段�
 
 ## 参照先
 
-- [Differentiation](/strategies/markets/differentiation)
+- [差別化](/strategies/markets/differentiation)

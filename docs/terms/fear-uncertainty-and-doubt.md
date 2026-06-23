@@ -4,4 +4,4 @@
 
 ## 🔀 関連戦略
 
-- [Fear, Uncertainty, and Doubt (FUD)](/strategies/user-perception/fear-uncertainty-and-doubt)
+- [恐怖・不確実性・疑念](/strategies/user-perception/fear-uncertainty-and-doubt)

@@ -11,5 +11,5 @@ isbn13: "9780140439199"
 ## 参照先
 
 - [奇襲](/strategies/competitor/ambush)
-- [Tech Drops](/strategies/competitor/tech-drops)
-- [Signal Distortion](/strategies/markets/signal-distortion)
+- [テックドロップ](/strategies/competitor/tech-drops)
+- [シグナル歪曲](/strategies/markets/signal-distortion)

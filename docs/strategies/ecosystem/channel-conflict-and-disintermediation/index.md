@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem leverage
-- Shape the market
-- Unlock new growth
+- エコシステムの影響力を築く
+- 市場を形作る
+- 新しい成長を開く
 pressures:
-- Ecosystem fragmentation
-- Facing dominant incumbent
-- Customers are nervous about change
+- エコシステムが断片化している
+- 支配的な既存勢力に直面している
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Partner choreography
-- Narrative building
-- Platform stewardship
+- パートナー連携設計
+- 物語構築
+- プラットフォーム運営責任
 quick_signals:
 - 中間業者が顧客データへのアクセスを妨げ、販売展開も遅くしている。
 - チャネルごとに顧客体験がばらつくという不満が出ている。
@@ -68,16 +68,16 @@ time_horizon: Medium-term shaping
 
 ```mermaid
 flowchart LR
-    subgraph 従来チャネル
-        A[供給者] --> B[中間業者 / パートナー]
-        B --> C[顧客]
-    end
-    A --> D[直販チャネル]
-    D --> C
-    D --> E[データと体験のフィードバック]
-    E --> A
-    B -.->|抵抗、要求、ロビー活動| A
-    A -->|条件再設計、選択的アクセス| B
+  subgraph 従来チャネル
+    A[供給者] --> B[中間業者 / パートナー]
+    B --> C[顧客]
+  end
+  A --> D[直販チャネル]
+  D --> C
+  D --> E[データと体験のフィードバック]
+  E --> A
+  B -.->|抵抗、要求、ロビー活動| A
+  A -->|条件再設計、選択的アクセス| B
 ```
 
 この図は、直販経路を作ることで顧客との新しいフィードバックループが生まれ、同時に既存中間業者との緊張管理が必要になることを示しています。
@@ -99,18 +99,18 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Channel Conflict and Disintermediation">
-  <MapSignals>
-    <li>強い中間業者が、エンドユーザーへのアクセスを握っている。</li>
-    <li>パートナーが遅く、高マージンで、イノベーションにも抵抗している。</li>
-    <li>望む顧客体験と、パートナー経由で実際に提供される体験の間に大きな差がある。</li>
-    <li>新技術により、直販モデルが実行可能になってきた。</li>
-  </MapSignals>
-  <Readiness>
-    <li>顧客を直接引き寄せられるだけのブランド力がある。</li>
-    <li>物流、顧客対応、EC 運営を担える能力がある。</li>
-    <li>既存パートナーからの反発を受け止める覚悟がある。</li>
-    <li>価格、商品供給、案件配分をチャネル横断で設計できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>強い中間業者が、エンドユーザーへのアクセスを握っている。</li>
+  <li>パートナーが遅く、高マージンで、イノベーションにも抵抗している。</li>
+  <li>望む顧客体験と、パートナー経由で実際に提供される体験の間に大きな差がある。</li>
+  <li>新技術により、直販モデルが実行可能になってきた。</li>
+ </MapSignals>
+ <Readiness>
+  <li>顧客を直接引き寄せられるだけのブランド力がある。</li>
+  <li>物流、顧客対応、EC 運営を担える能力がある。</li>
+  <li>既存パートナーからの反発を受け止める覚悟がある。</li>
+  <li>価格、商品供給、案件配分をチャネル横断で設計できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

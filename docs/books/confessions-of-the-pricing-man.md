@@ -10,5 +10,5 @@ isbn13: "9783319203997"
 
 ## 参照先
 
-- [Pricing Policy](/strategies/markets/pricing-policy)
-- [Pricing strategy](/leadership-skills/pricing-strategy)
+- [価格政策](/strategies/markets/pricing-policy)
+- [価格戦略](/leadership-skills/pricing-strategy)

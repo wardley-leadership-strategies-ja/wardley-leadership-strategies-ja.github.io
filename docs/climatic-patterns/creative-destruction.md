@@ -7,4 +7,4 @@ Joseph Schumpeter が指摘したように、新しいイノベーションは�
 
 ## 🔀 関連戦略
 
-- [Co-opting](/strategies/ecosystem/co-opting) – 影響: 競合の機能を取り込むことが、古いやり方の終焉を早めることがある。
+- [取り込み](/strategies/ecosystem/co-opting) – 影響: 競合の機能を取り込むことが、古いやり方の終焉を早めることがある。

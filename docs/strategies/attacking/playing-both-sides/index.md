@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem leverage
-- Defend your position
-- Shape the market
+- エコシステムの影響力を築く
+- 自社の地位を守る
+- 市場を形作る
 pressures:
-- Facing dominant incumbent
-- Ecosystem fragmentation
-- Market is nascent or undefined
+- 支配的な既存勢力に直面している
+- エコシステムが断片化している
+- 市場が初期段階または未定義である
 leadership_focus:
-- Partner choreography
-- Risk framing
-- Selective openness
+- パートナー連携設計
+- リスクの枠組み化
+- 選択的な開放性
 quick_signals:
 - 無視できない競合標準との互換性を顧客が求めている。
 - エコシステム参加者が一つのプラットフォームへ賭け切らず、両にらみになっている。
@@ -65,15 +65,15 @@ time_horizon: Medium-term shaping
 
 ```mermaid
 graph TD
-    subgraph 自社
-        A(自社の提供物)
-    end
-    subgraph 競合標準
-        B(標準 A)
-        C(標準 B)
-    end
-    A --> B
-    A --> C
+  subgraph 自社
+    A(自社の提供物)
+  end
+  subgraph 競合標準
+    B(標準 A)
+    C(標準 B)
+  end
+  A --> B
+  A --> C
 ```
 
 ## 🗺️ **実例**
@@ -93,18 +93,18 @@ ARM はスマートフォンの大半に使われる CPU アーキテクチャ�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Playing Both Sides">
-  <MapSignals>
-    <li>市場が二つ以上の競合標準やプラットフォームに分かれている。</li>
-    <li>その勝敗がまだかなり不確実である。</li>
-    <li>自社は全陣営へ中立的な仲介者や供給者として入れる。</li>
-    <li>複数陣営を支えるコストが、外れた側へ賭ける損失より小さい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>複数の製品ラインや取り組みを支える資源がある。</li>
-    <li>どちらかを明確に選ばない曖昧さに、ブランドが耐えられる。</li>
-    <li>複雑なパートナー関係を管理する能力がある。</li>
-    <li>関係者が、中立戦略を受け入れている。</li>
-  </Readiness>
+ <MapSignals>
+  <li>市場が二つ以上の競合標準やプラットフォームに分かれている。</li>
+  <li>その勝敗がまだかなり不確実である。</li>
+  <li>自社は全陣営へ中立的な仲介者や供給者として入れる。</li>
+  <li>複数陣営を支えるコストが、外れた側へ賭ける損失より小さい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>複数の製品ラインや取り組みを支える資源がある。</li>
+  <li>どちらかを明確に選ばない曖昧さに、ブランドが耐えられる。</li>
+  <li>複雑なパートナー関係を管理する能力がある。</li>
+  <li>関係者が、中立戦略を受け入れている。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -202,5 +202,5 @@ ARM はスマートフォンの大半に使われる CPU アーキテクチャ�
 
 ## 📚 **参考文献**
 
-- *The Art of War* by Sun Tzu - 複数の視点から競争地形を読むための古典
-- *Thinking in Bets* by Annie Duke - 不確実性下の意思決定を扱う
+- *孫子*（孫武） - 複数の視点から競争地形を読むための古典
+- *賭けの思考法*（Annie Duke） - 不確実性下の意思決定を扱う

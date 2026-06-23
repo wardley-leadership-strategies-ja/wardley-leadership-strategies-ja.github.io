@@ -6,31 +6,31 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-  - Genesis
-  - Custom-Built
+ - 創世記
+ - カスタムビルド
 goals:
-  - Unlock new growth
-  - Defend your position
-  - Change the narrative
+ - 新しい成長を開く
+ - 自社の地位を守る
+ - 物語を変える
 pressures:
-  - Competitive attack underway
-  - Market is nascent or undefined
+ - 競合から攻撃を受けている
+ - 市場が初期段階または未定義である
 leadership_focus:
-  - Secrecy and timing
-  - Launch choreography
-  - Operational readiness
+ - 秘匿性とタイミング
+ - ローンチ設計
+ - 運用準備
 quick_signals:
-  - 競合が bespoke や低価値と見ているものを、自社は産業化できそうだ。
-  - 競合は予測可能なロードマップを公開しており、飛び越えられる。
-  - ユーザーが漸進的改善に疲れ始めている。
+ - 競合が 特注 や低価値と見ているものを、自社は産業化できそうだ。
+ - 競合は予測可能なロードマップを公開しており、飛び越えられる。
+ - ユーザーが漸進的改善に疲れ始めている。
 momentum_moves:
-  - 経営支援付きでスカンクワークスを隔離する。
-  - ローンチ前に供給、サポート、マーケ準備をストレステストする。
-  - 発表瞬間に期待値を塗り替える強い物語を用意する。
+ - 経営支援付きでスカンクワークスを隔離する。
+ - ローンチ前に供給、サポート、マーケ準備をストレステストする。
+ - 発表瞬間に期待値を塗り替える強い物語を用意する。
 watch_outs:
-  - 体験や運用が scale に耐えない段階で出すこと。
-  - 漏えい により incumbents へ対応時間を与えること。
-  - spectacle に金を使いすぎ、持続優位を作れないこと。
+ - 体験や運用が 規模 に耐えない段階で出すこと。
+ - 漏えい により 既存勢力 へ対応時間を与えること。
+ - 見せ物 に金を使いすぎ、持続優位を作れないこと。
 effort_level: Enterprise Transformation
 time_horizon: Fast impact
 ---
@@ -73,19 +73,19 @@ Nokia、BlackBerry、Microsoft が物理キーボードや エンタープライ
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Tech Drops">
-  <MapSignals>
-    <li>競合が低進化と見ている能力を、自社は産業化できている。</li>
-    <li>競合が予測可能な公開ロードマップへ縛られている。</li>
-    <li>停滞感や unmet need がある市場へ surprise を与えられる。</li>
-    <li>サプライズを支える重要ボトルネックや依存関係を自社が握っている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>強い情報統制のもとで秘密開発できている。</li>
-    <li>インフラ、供給、サポートがローンチ日に scale へ備えている。</li>
-    <li>高インパクトな coordinated release の準備が整っている。</li>
-    <li>競合が予想より速く返した場合の fallback がある。</li>
-    <li>それが incremental feature ではなく、意味ある飛躍である。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合が低進化と見ている能力を、自社は産業化できている。</li>
+  <li>競合が予測可能な公開ロードマップへ縛られている。</li>
+  <li>停滞感や 未充足ニーズ がある市場へ 驚き を与えられる。</li>
+  <li>サプライズを支える重要ボトルネックや依存関係を自社が握っている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>強い情報統制のもとで秘密開発できている。</li>
+  <li>インフラ、供給、サポートがローンチ日に 規模 へ備えている。</li>
+  <li>高インパクトな 協調的なリリース の準備が整っている。</li>
+  <li>競合が予想より速く返した場合の 代替策 がある。</li>
+  <li>それが 漸進的機能 ではなく、意味ある飛躍である。</li>
+ </Readiness>
 </Assessment>
 
 ## 🎯 **リーダーシップ**
@@ -117,14 +117,14 @@ Nokia、BlackBerry、Microsoft が物理キーボードや エンタープライ
 
 ```mermaid
 sequenceDiagram
-    participant Initiator as 自社
-    participant Market as 市場
-    participant Competitor as 競合
+  participant Initiator as 自社
+  participant Market as 市場
+  participant Competitor as 競合
 
-    Initiator->>Market: disruptive innovation を投入
-    Market->>Competitor: 新しい標準や期待が生まれる
-    Competitor->>Competitor: ロードマップが乱れ、対応を急ぐ
-    Competitor->>Market: 数か月後から数年後に追随を出す
+  Initiator->>Market: disruptive innovation を投入
+  Market->>Competitor: 新しい標準や期待が生まれる
+  Competitor->>Competitor: ロードマップが乱れ、対応を急ぐ
+  Competitor->>Market: 数か月後から数年後に追随を出す
 ```
 
 ## 📈 **成功指標**
@@ -204,6 +204,6 @@ sequenceDiagram
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
-- [The Art of War](/books/the-art-of-war)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
+- [孫子](/books/the-art-of-war)
 - [Apple's iPhone launch 2007](https://www.youtube.com/watch?v=vN4U5FqrOdQ)

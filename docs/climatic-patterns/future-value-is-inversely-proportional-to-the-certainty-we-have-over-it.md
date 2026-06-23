@@ -7,4 +7,4 @@ tags: [financial]
 
 ## 🔀 関連戦略
 
-- [Directed Investment](/strategies/attacking/directed-investment) – トリガー: 狙いを定めた賭けは、不確実だが高価値になりうる機会を探しに行く。
+- [集中投資](/strategies/attacking/directed-investment) – トリガー: 狙いを定めた賭けは、不確実だが高価値になりうる機会を探しに行く。

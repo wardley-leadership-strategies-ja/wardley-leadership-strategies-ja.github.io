@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Reduce legacy drag
-- Stabilise operations
-- Unlock new growth
+- レガシーの足かせを減らす
+- 運用を安定させる
+- 新しい成長を開く
 pressures:
-- Legacy system drag
-- Need to go faster than internal bureaucracy
-- Customers are nervous about change
+- レガシーシステムが足かせになっている
+- 社内官僚制より速く進む必要がある
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Change management
-- Learning culture
-- Empowered teams
+- 変更管理
+- 学習文化
+- 権限を持つチーム
 quick_signals:
 - 重要施策が、古い運営モデルへの執着で止まっている。
 - 地図では進化が必要なコンポーネントが見えているのに、予算は保守に固定されている。
@@ -79,18 +79,18 @@ Satya Nadella のもとで、Microsoft は Windows と買い切りライセン�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Managing Inertia">
-  <MapSignals>
-    <li>現在の収益モデルが、コモディティ化へ向かうコンポーネントに依存している。</li>
-    <li>新しい市場で必要な手法と、現在の運営方法の間に大きな断絶がある。</li>
-    <li>より現代的で俊敏な競合に市場を削られている。</li>
-    <li>新しい技術や事業モデルが業界構造を崩し始めている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>リーダー陣が変化の必要性で一致し、自ら引っ張る覚悟がある。</li>
-    <li>自分たちの弱さを率直に見つめる文化がある。</li>
-    <li>長年の前提や聖域に疑問を向けられる。</li>
-    <li>中長期の変革へ投資する資源と忍耐がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>現在の収益モデルが、コモディティ化へ向かうコンポーネントに依存している。</li>
+  <li>新しい市場で必要な手法と、現在の運営方法の間に大きな断絶がある。</li>
+  <li>より現代的で俊敏な競合に市場を削られている。</li>
+  <li>新しい技術や事業モデルが業界構造を崩し始めている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>リーダー陣が変化の必要性で一致し、自ら引っ張る覚悟がある。</li>
+  <li>自分たちの弱さを率直に見つめる文化がある。</li>
+  <li>長年の前提や聖域に疑問を向けられる。</li>
+  <li>中長期の変革へ投資する資源と忍耐がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -180,5 +180,5 @@ Satya Nadella のもとで、Microsoft は Windows と買い切りライセン�
 ## 📚 **参考文献**
 
 - [Leading Change](/books/leading-change)
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [Who Says Elephants Can't Dance?](/books/who-says-elephants-cant-dance)

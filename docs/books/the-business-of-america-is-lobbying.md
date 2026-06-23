@@ -10,4 +10,4 @@ Lee Drutman の **The Business of America is Lobbying** は、企業ロビー活
 
 ## 参照先
 
-- [Defensive Regulation](/strategies/defensive/defensive-regulation)
+- [防御的規制](/strategies/defensive/defensive-regulation)

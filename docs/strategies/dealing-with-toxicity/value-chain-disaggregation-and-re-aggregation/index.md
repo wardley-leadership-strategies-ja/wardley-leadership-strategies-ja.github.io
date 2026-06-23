@@ -14,28 +14,28 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Reduce legacy drag
-- Unlock new growth
-- Stabilise operations
+- レガシーの足かせを減らす
+- 新しい成長を開く
+- 運用を安定させる
 pressures:
-- Legacy system drag
-- Need to go faster than internal bureaucracy
-- Limited resources or capacity
+- レガシーシステムが足かせになっている
+- 社内官僚制より速く進む必要がある
+- 資源や能力が限られている
 leadership_focus:
-- Change management
-- Architectural thinking
-- Disciplined portfolio management
+- 変更管理
+- アーキテクチャ思考
+- 規律あるポートフォリオ管理
 quick_signals:
 - 一枚岩のサービスが事業モデル進化の足を引っ張っている。
 - 既存基盤が硬すぎて、チームが似た能力を別々に作り直している。
 - 自社保有せず組み込めるモジュールを外部パートナーが提供している。
 momentum_moves:
 - いまのバリューチェーンを地図化し、安全に切り離せる部分を特定する。
-- 限定領域でモジュール置換の pilot を行ってから広げる。
-- 何を作り、何を買い、何を提携するかを決める governance を置く。
+- 限定領域でモジュール置換の 試験導入 を行ってから広げる。
+- 何を作り、何を買い、何を提携するかを決める ガバナンス を置く。
 watch_outs:
 - 再接続の設計なしに体験だけを分断すること。
 - 組織が吸収できる速度より速く複雑さを増やすこと。
@@ -59,7 +59,7 @@ time_horizon: Long-term positioning
 大きく重い構造を、よりモジュール的で柔軟な構造へ変えることで、次が可能になります。
 
 - 各部分を独立に最適化できる
-- build / buy / partner の判断を柔軟にできる
+- 構築 / 購入 / 提携 の判断を柔軟にできる
 - 市場変化へ速く応答できる
 - サービスの新しい組み合わせを作れる
 
@@ -104,23 +104,23 @@ time_horizon: Long-term positioning
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Value Chain Disaggregation and Re-aggregation">
-  <MapSignals>
-    <li>現行バリューチェーンが一枚岩で、市場変化へ適応しにくい。</li>
-    <li>統合されすぎた部品の中に、切り分ければ効率化や革新余地がある。</li>
-    <li>新技術や新事業モデルが、いまの統合方式を脅かしている。</li>
-    <li>競合が分解モデルを使って市場シェアを取っている。</li>
-    <li>分解した部品を新しく組み合わせることで、新しい価値が作れそうだ。</li>
-    <li>現行の統合バリューチェーンでは満たせないユーザーニーズが見えている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>戦略分析と事業モデル設計の力がある。</li>
-    <li>経営が大きな組織変化を引き受ける覚悟を持っている。</li>
-    <li>複雑なパートナー・エコシステムを扱える。</li>
-    <li>システムやプロセスをモジュール化する技術力がある。</li>
-    <li>新しい役割や働き方へ文化を適応させられる。</li>
-    <li>なぜ分解し、どう再統合するかの明確な構想がある。</li>
-    <li>時間、資本、人材を大きく投じられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>現行バリューチェーンが一枚岩で、市場変化へ適応しにくい。</li>
+  <li>統合されすぎた部品の中に、切り分ければ効率化や革新余地がある。</li>
+  <li>新技術や新事業モデルが、いまの統合方式を脅かしている。</li>
+  <li>競合が分解モデルを使って市場シェアを取っている。</li>
+  <li>分解した部品を新しく組み合わせることで、新しい価値が作れそうだ。</li>
+  <li>現行の統合バリューチェーンでは満たせないユーザーニーズが見えている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>戦略分析と事業モデル設計の力がある。</li>
+  <li>経営が大きな組織変化を引き受ける覚悟を持っている。</li>
+  <li>複雑なパートナー・エコシステムを扱える。</li>
+  <li>システムやプロセスをモジュール化する技術力がある。</li>
+  <li>新しい役割や働き方へ文化を適応させられる。</li>
+  <li>なぜ分解し、どう再統合するかの明確な構想がある。</li>
+  <li>時間、資本、人材を大きく投じられる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -168,7 +168,7 @@ time_horizon: Long-term positioning
 3. 技術変化、市場変化、競合行動など外部要因を読む
 4. 将来の再統合パターンを複数描く
 5. 戦略、運用、財務、技術の実現可能性とリスクを評価する
-6. pilot、段階導入、並行運用を含む移行計画を作る
+6. 試験導入、段階導入、並行運用を含む移行計画を作る
 7. 必要なスキル、技術、提携を整える
 8. 実行しながら継続的に調整する
 
@@ -225,8 +225,8 @@ time_horizon: Long-term positioning
 - [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 社内の救出と整理が主眼の、より小さな変化
 - [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - 分解の過程で切り離すべき負担部品が見つかることがある
 - [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 分解は ILC を進める土台になりうる
-- [オープンアプローチ](/strategies/accelerators/open-approaches) - 分解された部品同士の相互運用には open interface が効く
-- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - 再統合が platform 型事業へつながることが多い
+- [オープンアプローチ](/strategies/accelerators/open-approaches) - 分解された部品同士の相互運用には オープンインターフェース が効く
+- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment) - 再統合が プラットフォーム 型事業へつながることが多い
 
 ## ⛅ **関連する状勢パターン**
 
@@ -236,4 +236,4 @@ time_horizon: Long-term positioning
 
 ## 📚 **参考文献**
 
-- 通信業界の disaggregation、FinTech、platform 戦略の事例はこの戦略の理解に直結する
+- 通信業界の 分解、FinTech、プラットフォーム 戦略の事例はこの戦略の理解に直結する

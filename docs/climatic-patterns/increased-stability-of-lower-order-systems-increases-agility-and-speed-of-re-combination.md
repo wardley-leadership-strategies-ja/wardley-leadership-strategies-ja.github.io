@@ -7,5 +7,5 @@ tags: [speed]
 
 ## 🔀 関連戦略
 
-- [Open Approaches](/strategies/accelerators/open-approaches) – 影響: 安定したオープンコンポーネントは高速な再結合を可能にする。
-- [Cooperation](/strategies/accelerators/cooperation) – トリガー: 基盤が安定すると、協力はより容易になる。
+- [オープンアプローチ](/strategies/accelerators/open-approaches) – 影響: 安定したオープンコンポーネントは高速な再結合を可能にする。
+- [協調](/strategies/accelerators/cooperation) – トリガー: 基盤が安定すると、協力はより容易になる。

@@ -14,20 +14,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem leverage
-- Defend your position
-- Accelerate adoption
+- エコシステムの影響力を築く
+- 自社の地位を守る
+- 採用を加速する
 pressures:
-- Competitive attack underway
-- Ecosystem fragmentation
-- Facing dominant incumbent
+- 競合から攻撃を受けている
+- エコシステムが断片化している
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Platform stewardship
-- Narrative control
-- Experience design
+- プラットフォーム運営責任
+- 物語統制
+- 体験設計
 quick_signals:
 - 競合の機能や標準が不可欠と見なされ、利用者離脱が起きている。
 - パートナーが、競合エコシステムとの統合を求めている。
@@ -69,29 +69,29 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### Instagram vs. Snapchat（Stories）
+### Instagram 対. Snapchat（Stories）
 
 2016 年、Instagram は Snapchat の中核機能をほぼそのまま模した Stories を投入しました。当時 Snapchat は急成長しており、Instagram にとって重大な脅威でした。Instagram は Stories を取り込むことで Snapchat の主要差別化を無力化し、その機能のために別アプリへ移る理由を大幅に減らしました。
 
 ### Microsoft と Linux / オープンソース
 
-Microsoft は長く Linux を強い競合と見ていましたが、2010 年代に入ると方向を変えました。Windows Subsystem for Linux を作り、オープンソースへの貢献を増やし、GitHub を買収することで、オープンソースの勢いそのものを自社の提供価値へ取り込みました。これにより、かつての脅威を中和し、Windows を開発者にとって魅力的な場所へ再配置しました。
+Microsoft は長く Linux を強い競合と見ていましたが、2010 年代に入ると方向を変えました。WSL を作り、オープンソースへの貢献を増やし、GitHub を買収することで、オープンソースの勢いそのものを自社の提供価値へ取り込みました。これにより、かつての脅威を中和し、Windows を開発者にとって魅力的な場所へ再配置しました。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Co-opting">
-  <MapSignals>
-    <li>競合の単一機能が、成長の主要因になっている。</li>
-    <li>地図上で、競合の差別化が根本的なプラットフォーム優位ではなく、模倣可能な特徴に依存している。</li>
-    <li>顧客が、特定機能のために競合へ乗り換えている。</li>
-    <li>新しいトレンドや技術が立ち上がり、競合がその初期リーダーになっている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>競合機能を素早く再現できるエンジニアリング機動力がある。</li>
-    <li>自社側の利用者基盤が大きく、機能投入と同時に成立しやすい。</li>
-    <li>単なるコピーではなく、自社製品との統合で独自価値を出せる。</li>
-    <li>「模倣企業」と言われるリスクにブランドが耐えられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合の単一機能が、成長の主要因になっている。</li>
+  <li>地図上で、競合の差別化が根本的なプラットフォーム優位ではなく、模倣可能な特徴に依存している。</li>
+  <li>顧客が、特定機能のために競合へ乗り換えている。</li>
+  <li>新しいトレンドや技術が立ち上がり、競合がその初期リーダーになっている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>競合機能を素早く再現できるエンジニアリング機動力がある。</li>
+  <li>自社側の利用者基盤が大きく、機能投入と同時に成立しやすい。</li>
+  <li>単なるコピーではなく、自社製品との統合で独自価値を出せる。</li>
+  <li>「模倣企業」と言われるリスクにブランドが耐えられる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -120,7 +120,7 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 
 ### 倫理面
 
-取り込みは倫理的に灰色です。特許侵害でない限り違法とは限りませんが、元の革新者にとっては寄生的にも見えます。大きな incumbents が成功したアイデアだけを吸い上げる構図は、スタートアップの挑戦意欲を削ぐこともあります。より広いイノベーション環境への影響を考える必要があります。
+取り込みは倫理的に灰色です。特許侵害でない限り違法とは限りませんが、元の革新者にとっては寄生的にも見えます。大きな 既存勢力 が成功したアイデアだけを吸い上げる構図は、スタートアップの挑戦意欲を削ぐこともあります。より広いイノベーション環境への影響を考える必要があります。
 
 ## 📋 **進め方**
 
@@ -188,5 +188,5 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 
 ## 📚 **参考文献**
 
-- [How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone) - 代表的な現代の取り込み事例
-- [Seeing Like a State](/books/seeing-like-a-state) - 大きなシステムが有機的な実践をどう吸収するかを考える手がかりになる
+- [How Instagram's new Stories 機能 is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone) - 代表的な現代の取り込み事例
+- [国家のように見る](/books/seeing-like-a-state) - 大きなシステムが有機的な実践をどう吸収するかを考える手がかりになる

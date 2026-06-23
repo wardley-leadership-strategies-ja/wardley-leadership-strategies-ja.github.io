@@ -7,4 +7,4 @@ tags: [inertia]
 
 ## 🔀 関連戦略
 
-- [Managing Inertia](/strategies/defensive/managing-inertia) – 影響: 内部抵抗へ先回りして対処することが、この結末を防ぐ。
+- [慣性の管理](/strategies/defensive/managing-inertia) – 影響: 内部抵抗へ先回りして対処することが、この結末を防ぐ。

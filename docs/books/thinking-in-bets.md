@@ -11,4 +11,4 @@ isbn13: "9780735216358"
 ## 参照先
 
 - [奇襲](/strategies/competitor/ambush)
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty)

@@ -10,4 +10,4 @@ Mike Stevens の **The Direct-to-Consumer Playbook** は、DTC ブランドの�
 
 ## 参照先
 
-- [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [チャネル競合と中間排除](/strategies/ecosystem/channel-conflict-and-disintermediation)

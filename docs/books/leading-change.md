@@ -10,5 +10,5 @@ John P. Kotter の **Leading Change** は、組織変革を成功させるため
 
 ## 参照先
 
-- [Managing Inertia](/strategies/defensive/managing-inertia)
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)
+- [慣性の管理](/strategies/defensive/managing-inertia)
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation)

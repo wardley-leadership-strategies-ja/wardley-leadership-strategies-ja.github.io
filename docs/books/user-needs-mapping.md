@@ -10,4 +10,4 @@ Rich Allen の **User Needs Mapping** は、Wardley Map を描く前に、表明
 
 ## 参照先
 
-- [User Needs Mapping](/terms/user-needs-mapping)
+- [ユーザーニーズマッピング](/terms/user-needs-mapping)

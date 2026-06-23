@@ -14,20 +14,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Protect market access
-- Build trust
-- Shape the market
+- 市場アクセスを守る
+- 信頼を築く
+- 市場を形作る
 pressures:
-- Regulatory changes create uncertainty about data handling.
-- Customers demand local processing and residency guarantees.
-- Cross-border data transfers increase legal or reputational risk.
+- 規制変更でデータ取り扱いの不確実性が高まっている
+- 顧客が国内処理とデータ所在保証を求めている
+- 越境データ移転が法務・評判リスクを高めている
 leadership_focus:
-- Jurisdictional strategy
-- Compliance design
-- Risk management and resilience
+- 法域戦略
+- コンプライアンス設計
+- リスク管理とレジリエンス
 quick_signals:
 - 企業顧客が国別のデータ所在地条項を契約に求め始めている。
 - 公共部門や規制産業が、ローカライゼーションを調達条件として扱っている。
@@ -63,7 +63,7 @@ time_horizon: Medium-term shaping
 
 ### 市場ダイナミクスをどう変えるか
 
-データローカライゼーションは、インフラの地理を市場の差別化要素に変えます。地域ごとの moat を生み、現地運用できる提供者へ交渉力を寄せ、監査人、クラウド、パートナーの地域エコシステムを育てます。やがて地域内処理が当たり前になれば、競合は設計変更を迫られるか、市場から退くことになります。
+データローカライゼーションは、インフラの地理を市場の差別化要素に変えます。地域ごとの堀 を生み、現地運用できる提供者へ交渉力を寄せ、監査人、クラウド、パートナーの地域エコシステムを育てます。やがて地域内処理が当たり前になれば、競合は設計変更を迫られるか、市場から退くことになります。
 
 ## 🗺️ **実例**
 
@@ -82,18 +82,18 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Data Sovereignty & Localization">
-  <MapSignals>
-    <li>地図上で、複数法域をまたぐデータフローがあり、規制差が大きい。</li>
-    <li>規制産業の買い手が、データ所在地や主権を必須調達条件にしている。</li>
-    <li>競合が市場参入のためにインフラをローカライズしている。</li>
-    <li>現地パートナーや当局が参入条件に強く影響している。</li>
-  </MapSignals>
-  <Readiness>
-    <li>運用統制を失わずに地域別スタックを運営できる。</li>
-    <li>法務、セキュリティ、準拠の知見が製品判断に埋め込まれている。</li>
-    <li>データ所在地の約束を契約と監査で裏付けられる。</li>
-    <li>重複インフラや現地提携のコストを維持できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、複数法域をまたぐデータフローがあり、規制差が大きい。</li>
+  <li>規制産業の買い手が、データ所在地や主権を必須調達条件にしている。</li>
+  <li>競合が市場参入のためにインフラをローカライズしている。</li>
+  <li>現地パートナーや当局が参入条件に強く影響している。</li>
+ </MapSignals>
+ <Readiness>
+  <li>運用統制を失わずに地域別スタックを運営できる。</li>
+  <li>法務、セキュリティ、準拠の知見が製品判断に埋め込まれている。</li>
+  <li>データ所在地の約束を契約と監査で裏付けられる。</li>
+  <li>重複インフラや現地提携のコストを維持できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -167,7 +167,7 @@ time_horizon: Medium-term shaping
 
 クラウドやデータ市場が成熟すると、地理は価値提案の一部になります。競合が自社より厳しい地域制約の下で運用できるなら、こちらが会話に入る前に信頼と市場参入を取られます。
 
-### ローカライゼーションは地域 moat を作る
+### ローカライゼーションは地域の堀 を作る
 
 顧客が地域内データフローを前提に業務を組み込むと、切替コストは上がります。中核サービスがコモディティ化していても、現地準拠の物語を握る提供者は強い位置を保てます。
 

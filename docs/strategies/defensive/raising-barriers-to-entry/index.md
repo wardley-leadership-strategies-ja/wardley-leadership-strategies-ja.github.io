@@ -6,30 +6,30 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-  - Product
-  - Commodity/Utility
+ - プロダクト
+ - コモディティ/ユーティリティ
 goals:
-  - Defend your position
-  - Stabilise operations
+ - 自社の地位を守る
+ - 運用を安定させる
 pressures:
-  - Competitive attack underway
-  - Customers are nervous about change
+ - 競合から攻撃を受けている
+ - 顧客が変化に不安を感じている
 leadership_focus:
-  - Integrated roadmapping
-  - Operational excellence
-  - Pricing and packaging strategy
+ - 統合ロードマップ策定
+ - 運用卓越性
+ - 価格とパッケージ戦略
 quick_signals:
-  - 新規参入者が狭い点の解決策だけで低価格攻勢を仕掛けている。
-  - 顧客が、単機能より統合された提供物を評価している。
-  - 競合より早く周辺機能を追加・統合できる。
+ - 新規参入者が狭い点の解決策だけで低価格攻勢を仕掛けている。
+ - 顧客が、単機能より統合された提供物を評価している。
+ - 競合より早く周辺機能を追加・統合できる。
 momentum_moves:
-  - 模倣しづらい統合やサービスへ投資する。
-  - 抱き合わせで「これが最低限必要」という市場期待を作る。
-  - 切替の総コストを顧客とアナリストへ教育する。
+ - 模倣しづらい統合やサービスへ投資する。
+ - 抱き合わせで「これが最低限必要」という市場期待を作る。
+ - 切替の総コストを顧客とアナリストへ教育する。
 watch_outs:
-  - 顧客が消化できない速度で複雑さを増やすこと。
-  - 価値の薄い機能へチームを拡散させること。
-  - 将来の革新を遅らせる社内慣性を自ら育てること。
+ - 顧客が消化できない速度で複雑さを増やすこと。
+ - 価値の薄い機能へチームを拡散させること。
+ - 将来の革新を遅らせる社内慣性を自ら育てること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -66,18 +66,18 @@ Jira、Confluence、Bitbucket などを組み合わせることで、単一ツ�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Raising Barriers to Entry">
-  <MapSignals>
-    <li>自社プロダクトが、より大きなバリューチェーンの一部になっている。</li>
-    <li>新規参入者が単一機能に絞って市場へ入ろうとしている。</li>
-    <li>顧客が、点ではなく統合ソリューションを好み始めている。</li>
-    <li>周辺機能を自社で作る、買う、組む能力がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>強い市場地位と投資余力がある。</li>
-    <li>異なる製品や技術をひとつの体験へ統合できる。</li>
-    <li>バンドル全体の価値を訴求できるブランドがある。</li>
-    <li>長期的な堀を作るための複雑性を引き受けられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>自社プロダクトが、より大きなバリューチェーンの一部になっている。</li>
+  <li>新規参入者が単一機能に絞って市場へ入ろうとしている。</li>
+  <li>顧客が、点ではなく統合ソリューションを好み始めている。</li>
+  <li>周辺機能を自社で作る、買う、組む能力がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>強い市場地位と投資余力がある。</li>
+  <li>異なる製品や技術をひとつの体験へ統合できる。</li>
+  <li>バンドル全体の価値を訴求できるブランドがある。</li>
+  <li>長期的な堀を作るための複雑性を引き受けられる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -169,5 +169,5 @@ Jira、Confluence、Bitbucket などを組み合わせることで、単一ツ�
 ## 📚 **参考文献**
 
 - [Competition Demystified](/books/competition-demystified)
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [The Strategy and Tactics of Pricing](/books/the-strategy-and-tactics-of-pricing)

@@ -13,27 +13,27 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Stabilise operations
-- Secure long-term investment
+- 自社の地位を守る
+- 運用を安定させる
+- 長期投資を確保する
 pressures:
-- Competitive attack underway
-- Limited resources or capacity
-- Customers are nervous about change
+- 競合から攻撃を受けている
+- 資源や能力が限られている
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Operational excellence
-- Disciplined portfolio management
-- Risk framing
+- 運用卓越性
+- 規律あるポートフォリオ管理
+- リスクの枠組み化
 quick_signals:
 - 業界マージンは崩れているが、自社にはまだ規模優位がある。
 - 競合が工場閉鎖や地域撤退を始めている一方で、自社は資金繰りを維持できている。
 - 仕入先が消える中でも、顧客は供給継続を必要としている。
 momentum_moves:
 - キャッシュフローを守る効率化策へさらに資源を寄せる。
-- コスト構造を強くする distressed asset を取得する。
+- コスト構造を強くする 困窮した 資産 を取得する。
 - 顧客に安定性を伝え、競合が崩れる前に移行してもらう。
 watch_outs:
 - 再発明の計画なしに緊縮を続け、チームを疲弊させること。
@@ -79,18 +79,18 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Last Man Standing">
-  <MapSignals>
-    <li>地図上で、市場が明確にコモディティ段階に入っている。</li>
-    <li>購買判断の主因が価格で、ブランド忠誠が低い。</li>
-    <li>競合に財務悪化や市場退出の兆候がある。</li>
-    <li>市場は成長していなくても、安定していて十分な規模がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>規模、自動化、運用効率による明確なコスト優位がある。</li>
-    <li>低利益または無利益の期間に耐える財務体力がある。</li>
-    <li>消耗戦をやり切る規律と長期視点が経営にある。</li>
-    <li>コスト管理と効率化に執着できる文化がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、市場が明確にコモディティ段階に入っている。</li>
+  <li>購買判断の主因が価格で、ブランド忠誠が低い。</li>
+  <li>競合に財務悪化や市場退出の兆候がある。</li>
+  <li>市場は成長していなくても、安定していて十分な規模がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>規模、自動化、運用効率による明確なコスト優位がある。</li>
+  <li>低利益または無利益の期間に耐える財務体力がある。</li>
+  <li>消耗戦をやり切る規律と長期視点が経営にある。</li>
+  <li>コスト管理と効率化に執着できる文化がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

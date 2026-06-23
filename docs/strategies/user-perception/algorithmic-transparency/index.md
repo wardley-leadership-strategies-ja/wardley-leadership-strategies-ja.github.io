@@ -13,32 +13,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Build trust
-- Reduce regulatory exposure
-- Accelerate adoption
+- 信頼を築く
+- 規制リスクを減らす
+- 採用を加速する
 pressures:
-- Regulatory scrutiny of automated decisions
-- High-stakes outcomes that require explainability
-- Buyers demand evidence of model safety and fairness
+- 自動判断への規制監視が強まっている
+- 説明可能性が必要な高リスクの判断がある
+- 買い手がモデルの安全性と公平性の証拠を求めている
 leadership_focus:
-- Ethical judgment
-- Governance and policy design
-- Strategic communication and storytelling
+- 倫理的判断
+- ガバナンスと政策設計
+- 戦略的コミュニケーションとストーリーテリング
 quick_signals:
-- 調達や規制当局が audit trail、model card、explainability artefact を要求している。
+- 調達や規制当局が 監査証跡、モデルカード、説明可能性の成果物 を要求している。
 - 自動判断への異議申立てが増えている。
-- opaque decision-making への scrutiny が高まっている。
+- 不透明な意思決定 への 監視 が高まっている。
 momentum_moves:
-- 影響の大きい判断を地図化し、各判断に必要な最小 explainability を定義する。
-- transparent decision dossier を公開する。
-- algorithmic change を審査する cross-functional review board を置く。
+- 影響の大きい判断を地図化し、各判断に必要な最小 説明可能性 を定義する。
+- 透明な意思決定資料 を公開する。
+- アルゴリズム変更 を審査する 部門横断レビュー委員会 を置く。
 watch_outs:
-- 透明化 artefact を無制御に共有し、gaming や security risk を生むこと。
-- technical detail を出しすぎて actionable explanation にならないこと。
-- compliance checklist を genuine accountability の代わりにすること。
+- 透明化 成果物 を無制御に共有し、攻略 や セキュリティリスク を生むこと。
+- 技術詳細 を出しすぎて 行動可能な説明 にならないこと。
+- コンプライアンスチェックリスト を 真の説明責任 の代わりにすること。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -74,27 +74,27 @@ time_horizon: Medium-term shaping
 
 AI ツールの入力、限界、人間による介入手順を臨床現場へ明示すると、利用者の信頼が大きく変わります。
 
-### 公共給付の eligibility portal
+### 公共給付の 受給資格ポータル
 
 自動判定に理由説明、公平性評価、不服申立て経路を付けることで、デジタルサービスへの反発を減らせます。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Algorithmic Transparency">
-  <MapSignals>
-    <li>自動判断が credit、採用、pricing、access など users へ大きく影響している。</li>
-    <li>規制当局、監査担当、調達部門が説明可能性と説明責任を要求している。</li>
-    <li>不透明または一貫しない結果で顧客信頼が壊れやすい。</li>
-    <li>判断を説明できないと評判リスクが高い。</li>
-    <li>競合がブラックボックス型自動化で批判されている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>データ来歴、特徴量、評価指標を信頼できる形で記録できる。</li>
-    <li>legal、compliance、product で開示範囲を合意できる。</li>
-    <li>相手ごとに説明レベルを変えて届けられる。</li>
-    <li>モデル劣化を監視し、資料を更新できる。</li>
-    <li>異議申立てを受けても業務の流れを壊さず処理できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>自動判断が 信用、採用、価格設定、アクセス など ユーザー へ大きく影響している。</li>
+  <li>規制当局、監査担当、調達部門が説明可能性と説明責任を要求している。</li>
+  <li>不透明または一貫しない結果で顧客信頼が壊れやすい。</li>
+  <li>判断を説明できないと評判リスクが高い。</li>
+  <li>競合がブラックボックス型自動化で批判されている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>データ来歴、特徴量、評価指標を信頼できる形で記録できる。</li>
+  <li>法務、コンプライアンス、プロダクト で開示範囲を合意できる。</li>
+  <li>相手ごとに説明レベルを変えて届けられる。</li>
+  <li>モデル劣化を監視し、資料を更新できる。</li>
+  <li>異議申立てを受けても業務の流れを壊さず処理できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -128,7 +128,7 @@ AI ツールの入力、限界、人間による介入手順を臨床現場へ�
 
 ## 📋 **進め方**
 
-1. 影響と scrutiny の大きい自動判断を地図化する
+1. 影響と 監視 の大きい自動判断を地図化する
 2. 利用者向け、買い手向け、規制当局向けの透明化レベルを定義する
 3. モデルカード、データ来歴、評価指標、偏り検証、判断記録を整える
 4. 人が理解できる説明と不服申立ての流れを作る

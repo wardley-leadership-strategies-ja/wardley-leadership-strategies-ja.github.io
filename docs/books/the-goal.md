@@ -10,5 +10,5 @@ Eliyahu M. Goldratt と Jeff Cox の **The Goal** は、制約理論を紹介す
 
 ## 参照先
 
-- [Exploiting Constraint](/strategies/decelerators/exploiting-constraint)
-- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint)
+- [システム思考とバリューチェーン思考](/leadership-skills/systems-and-value-chain-thinking)

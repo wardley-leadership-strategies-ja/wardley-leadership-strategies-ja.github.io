@@ -10,4 +10,4 @@ C.K. Prahalad と Venkat Ramaswamy の **The Future of Competition: Co-Creating 
 
 ## 参照先
 
-- [Co-Creation](/strategies/ecosystem/co-creation)
+- [共創](/strategies/ecosystem/co-creation)

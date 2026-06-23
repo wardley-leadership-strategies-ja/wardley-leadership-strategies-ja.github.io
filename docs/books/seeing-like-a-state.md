@@ -10,5 +10,5 @@ James C. Scott の **Seeing Like a State** は、大きな制度が複雑な社�
 
 ## 参照先
 
-- [Co-opting](/strategies/ecosystem/co-opting)
-- [Governance and policy design](/leadership-skills/governance-and-policy-design)
+- [取り込み](/strategies/ecosystem/co-opting)
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design)

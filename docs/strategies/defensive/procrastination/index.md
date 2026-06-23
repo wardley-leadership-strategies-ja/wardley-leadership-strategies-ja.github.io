@@ -13,22 +13,22 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Stabilise operations
-- Secure long-term investment
-- Defend your position
+- 運用を安定させる
+- 長期投資を確保する
+- 自社の地位を守る
 pressures:
-- Limited resources or capacity
-- Need to go faster than internal bureaucracy
-- Customers are nervous about change
+- 資源や能力が限られている
+- 社内官僚制より速く進む必要がある
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Disciplined portfolio management
-- Market segmentation
-- Risk framing
+- 規律あるポートフォリオ管理
+- 市場セグメンテーション
+- リスクの枠組み化
 quick_signals:
-- 新しい提供物に early adopters が本当に払う証拠が足りない。
+- 新しい提供物に 初期採用者 が本当に払う証拠が足りない。
 - 競合が重い研究開発費を吸収しているが、採算はまだ曖昧だ。
 - 現在のポートフォリオはまだ収益を生むが、将来の頭打ちも見え始めている。
 momentum_moves:
@@ -80,18 +80,18 @@ Kodak は最初期のデジタルカメラを発明しながら、フィルム�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Procrastination">
-  <MapSignals>
-    <li>創世記段階のコンポーネントで、不確実性が高く、育成投資が大きい。</li>
-    <li>競合が新しく未検証の領域へ一斉に投資している。</li>
-    <li>そのコンポーネントは、自社の中核差別化ではない。</li>
-    <li>その市場で、持続的な先行者優位があまりない。</li>
-  </MapSignals>
-  <Readiness>
-    <li>競合が先に動く間、待てる規律と忍耐がある。</li>
-    <li>先行者の進展を追える市場インテリジェンスが強い。</li>
-    <li>入ると決めたら、素早く大きく動ける。</li>
-    <li>意図的に何もしない戦略を、内外へ説明できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>創世記段階のコンポーネントで、不確実性が高く、育成投資が大きい。</li>
+  <li>競合が新しく未検証の領域へ一斉に投資している。</li>
+  <li>そのコンポーネントは、自社の中核差別化ではない。</li>
+  <li>その市場で、持続的な先行者優位があまりない。</li>
+ </MapSignals>
+ <Readiness>
+  <li>競合が先に動く間、待てる規律と忍耐がある。</li>
+  <li>先行者の進展を追える市場インテリジェンスが強い。</li>
+  <li>入ると決めたら、素早く大きく動ける。</li>
+  <li>意図的に何もしない戦略を、内外へ説明できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -176,9 +176,9 @@ Kodak は最初期のデジタルカメラを発明しながら、フィルム�
 
 この戦略は、高不確実性で進化速度の速い市場ほど効きます。市場が成熟し、標準が見えた後に入る方が合理的です。
 
-### incumbents のジレンマを使う
+### 既存勢力 のジレンマを使う
 
-incumbents は既存収益を守るために、新しい破壊的技術への全面移行をためらいます。ファストフォロワーは、その文化的・構造的な鈍さを突けます。
+既存勢力 は既存収益を守るために、新しい破壊的技術への全面移行をためらいます。ファストフォロワーは、その文化的・構造的な鈍さを突けます。
 
 ### ポートフォリオ戦略としての先送り
 
@@ -203,5 +203,5 @@ incumbents は既存収益を守るために、新しい破壊的技術への全
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma) - incumbents が破壊的技術を先送りしやすい理由
+- [イノベーションのジレンマ](/books/the-innovators-dilemma) - 既存勢力 が破壊的技術を先送りしやすい理由
 - [Fast Second](/books/fast-second) - ファストフォロワー戦略の専門書

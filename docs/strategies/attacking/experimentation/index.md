@@ -6,32 +6,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-  - Genesis
-  - Custom-Built
+ - 創世記
+ - カスタムビルド
 goals:
-  - Unlock new growth
-  - Accelerate adoption
-  - Change the narrative
+ - 新しい成長を開く
+ - 採用を加速する
+ - 物語を変える
 pressures:
-  - Need to go faster than internal bureaucracy
-  - Market is nascent or undefined
-  - Limited resources or capacity
+ - 社内官僚制より速く進む必要がある
+ - 市場が初期段階または未定義である
+ - 資源や能力が限られている
 leadership_focus:
-  - Learning culture
-  - Empowered teams
-  - Disciplined portfolio management
+ - 学習文化
+ - 権限を持つチーム
+ - 規律あるポートフォリオ管理
 quick_signals:
-  - 有望な機会は見えるが、本格投資するだけの証拠がない。
-  - チームが試す前に議論へ詰まり、前に進めていない。
-  - 競合のほうが速く反復し、物語を先に取っている。
+ - 有望な機会は見えるが、本格投資するだけの証拠がない。
+ - チームが試す前に議論へ詰まり、前に進めていない。
+ - 競合のほうが速く反復し、物語を先に取っている。
 momentum_moves:
-  - 探索に使う時間と予算を明示的に切り分ける。
-  - 弱い実験を早く閉じるための終了条件を先に決める。
-  - 学びを広く共有し、本流の組織が成果を取り込めるようにする。
+ - 探索に使う時間と予算を明示的に切り分ける。
+ - 弱い実験を早く閉じるための終了条件を先に決める。
+ - 学びを広く共有し、本流の組織が成果を取り込めるようにする。
 watch_outs:
-  - 終わらないまま延命するゾンビ実験。
-  - 学習ループなしの、見せ物としての実験。
-  - 検証済みの案を本流の提供へ移せないこと。
+ - 終わらないまま延命するゾンビ実験。
+ - 学習ループなしの、見せ物としての実験。
+ - 検証済みの案を本流の提供へ移せないこと。
 effort_level: Lean Experiment
 time_horizon: Fast impact
 ---
@@ -61,30 +61,30 @@ time_horizon: Fast impact
 
 ```mermaid
 %%{init: {'gitGraph': {
-  'mainBranchName': 'Strategy'
+ 'mainBranchName': 'Strategy'
 }} }%%
 gitGraph
-   commit id: "Baseline"
-   branch Hackathon
-   checkout Hackathon
-   commit id: "Fails" type: REVERSE
-   checkout Strategy
-   branch Lab
-   checkout Lab
-   commit id: "Idea B"
-   checkout Strategy
-   merge Lab tag: "Adopted"
-   commit id: "Evolved"
-   branch Skunkworks
-   checkout Skunkworks
-   commit id: "Unscalable" type: REVERSE
-   checkout Strategy
-   branch Spike
-   checkout Spike
-   commit id: "Idea D"
-   checkout Strategy
-   merge Spike tag: "Scaled"
-   commit id: "Competitive Edge"
+  commit id: "Baseline"
+  branch Hackathon
+  checkout Hackathon
+  commit id: "Fails" type: REVERSE
+  checkout Strategy
+  branch Lab
+  checkout Lab
+  commit id: "Idea B"
+  checkout Strategy
+  merge Lab tag: "Adopted"
+  commit id: "Evolved"
+  branch Skunkworks
+  checkout Skunkworks
+  commit id: "Unscalable" type: REVERSE
+  checkout Strategy
+  branch Spike
+  checkout Spike
+  commit id: "Idea D"
+  checkout Strategy
+  merge Spike tag: "Scaled"
+  commit id: "Competitive Edge"
 ```
 
 ### 戦略的な意味
@@ -108,20 +108,20 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Experimentation">
-  <MapSignals>
-    <li>地図に不確実な領域や新興コンポーネントが多い。</li>
-    <li>競合が新技術を試し始めている。</li>
-    <li>新しいバリューチェーンの可能性は見えるが、成立性のデータがない。</li>
-    <li>通常の開発は官僚制で遅い。</li>
-    <li>高リスクなしに小さなパイロットを回す余力がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>経営が失敗からの学習を支える。</li>
-    <li>ハックデー やラボに使える時間やチームを確保できる。</li>
-    <li>成功した実験を本流へ統合する道筋がある。</li>
-    <li>学びと影響を測る指標がある。</li>
-    <li>実験者が過剰な手続きから守られている。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図に不確実な領域や新興コンポーネントが多い。</li>
+  <li>競合が新技術を試し始めている。</li>
+  <li>新しいバリューチェーンの可能性は見えるが、成立性のデータがない。</li>
+  <li>通常の開発は官僚制で遅い。</li>
+  <li>高リスクなしに小さなパイロットを回す余力がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>経営が失敗からの学習を支える。</li>
+  <li>ハックデー やラボに使える時間やチームを確保できる。</li>
+  <li>成功した実験を本流へ統合する道筋がある。</li>
+  <li>学びと影響を測る指標がある。</li>
+  <li>実験者が過剰な手続きから守られている。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -223,7 +223,7 @@ AI を使う小さな探索チームが化合物スクリーニングを高速�
 
 ## 📚 **参考文献**
 
-- [Empowered](/books/empowered)
-- [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
+- [Em支配力ed](/books/empowered)
+- [Em支配力ed Product Teams](https://www.svpg.com/empowered-product-teams/)
 - [Google's 20% Time](https://www.wired.com/2013/08/20-percent-time-will-never-die/)
 - [Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks.html)

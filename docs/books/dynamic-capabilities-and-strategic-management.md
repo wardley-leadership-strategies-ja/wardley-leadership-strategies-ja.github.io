@@ -10,4 +10,4 @@ David J. Teece の **Dynamic Capabilities and Strategic Management: Organizing f
 
 ## 参照先
 
-- [Land Grab](/strategies/positional/land-grab)
+- [先行確保](/strategies/positional/land-grab)

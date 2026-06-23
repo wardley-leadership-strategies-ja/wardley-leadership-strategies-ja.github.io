@@ -10,5 +10,5 @@ Michael A. Cusumano、Annabelle Gawer、David B. Yoffie による **The Business
 
 ## 参照先
 
-- [Harvesting](/strategies/markets/harvesting)
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
+- [収穫](/strategies/markets/harvesting)
+- [プラットフォーム包摂](/strategies/ecosystem/platform-envelopment)

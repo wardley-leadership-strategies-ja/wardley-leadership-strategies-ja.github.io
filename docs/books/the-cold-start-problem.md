@@ -10,5 +10,5 @@ Andrew Chen の **The Cold Start Problem** は、ネットワーク効果型ビ�
 
 ## 参照先
 
-- [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
-- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)
+- [両面市場](/strategies/ecosystem/two-factor-markets)
+- [プラットフォーム戦略とネットワーク効果](/leadership-skills/platform-strategy-and-network-effects)

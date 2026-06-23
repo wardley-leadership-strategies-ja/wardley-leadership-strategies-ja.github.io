@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Change the narrative
-- Accelerate adoption
+- 自社の地位を守る
+- 物語を変える
+- 採用を加速する
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Need to go faster than internal bureaucracy
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Secrecy and timing
-- Operational readiness
-- Narrative control
+- 秘匿性とタイミング
+- 運用準備
+- 物語統制
 quick_signals:
 - 競合が中核収益を脅かす大きな発表を準備している。
 - 自社には、競合が反応する前に再構成できる成熟資産がある。
@@ -88,21 +88,21 @@ time_horizon: Fast impact
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="奇襲">
-  <MapSignals>
-    <li>特定の競合が、自社の地位を脅かす製品を出そうとしている。</li>
-    <li>競合が大きな投資を発表したが、自社にはそれを早く打ち返す余地がある。</li>
-    <li>競合が節目へ達したことで、特定の対抗策に弱くなっている。</li>
-    <li>競合の新しい提供に、すぐ突ける明確な弱点がある。</li>
-    <li>市場状況を見ると、競合の勢いをここで止める必要がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>高い競合情報収集能力がある。</li>
-    <li>引き金を見た瞬間に、素早く決断して動ける。</li>
-    <li>再構成や再投入できる既存資産や能力がある。</li>
-    <li>準備中の奇襲を秘匿できる。</li>
-    <li>相手からの報復に備えている。</li>
-    <li>経営が大胆で攻撃的な一手を許容する。</li>
-  </Readiness>
+ <MapSignals>
+  <li>特定の競合が、自社の地位を脅かす製品を出そうとしている。</li>
+  <li>競合が大きな投資を発表したが、自社にはそれを早く打ち返す余地がある。</li>
+  <li>競合が節目へ達したことで、特定の対抗策に弱くなっている。</li>
+  <li>競合の新しい提供に、すぐ突ける明確な弱点がある。</li>
+  <li>市場状況を見ると、競合の勢いをここで止める必要がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>高い競合情報収集能力がある。</li>
+  <li>引き金を見た瞬間に、素早く決断して動ける。</li>
+  <li>再構成や再投入できる既存資産や能力がある。</li>
+  <li>準備中の奇襲を秘匿できる。</li>
+  <li>相手からの報復に備えている。</li>
+  <li>経営が大胆で攻撃的な一手を許容する。</li>
+ </Readiness>
 </Assessment>
 
 ## 🎯 **リーダーシップ**
@@ -136,16 +136,16 @@ time_horizon: Fast impact
 
 ```mermaid
 sequenceDiagram
-    participant Competitor as 競合
-    participant Initiator as 自社
-    participant Market as 市場
+  participant Competitor as 競合
+  participant Initiator as 自社
+  participant Market as 市場
 
-    Competitor->>Market: 新製品や新施策を発表
-    Note over Competitor,Market: 競合は優位獲得を見込む
-    Initiator->>Market: 奇襲を発動
-    Market->>Competitor: 価値提案への疑問や選好変化が起きる
-    Competitor->>Competitor: ロードマップが乱れ、防御対応に回る
-    Note over Initiator,Market: 自社が主導権を取り戻す
+  Competitor->>Market: 新製品や新施策を発表
+  Note over Competitor,Market: 競合は優位獲得を見込む
+  Initiator->>Market: 奇襲を発動
+  Market->>Competitor: 価値提案への疑問や選好変化が起きる
+  Competitor->>Competitor: ロードマップが乱れ、防御対応に回る
+  Note over Initiator,Market: 自社が主導権を取り戻す
 ```
 
 ## 📈 **成功指標**

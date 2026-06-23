@@ -10,4 +10,4 @@ Narain Gehani の **Bell Labs: Life in the Crown Jewel** は、Bell Laboratories
 
 ## 参照先
 
-- [Directed Investment](/strategies/attacking/directed-investment)
+- [集中投資](/strategies/attacking/directed-investment)

@@ -10,5 +10,5 @@ Thomas T. Nagle、John Hogan、Joseph Zale による **The Strategy and Tactics 
 
 ## 参照先
 
-- [Bundling](/strategies/user-perception/bundling)
-- [Pricing strategy](/leadership-skills/pricing-strategy)
+- [バンドリング](/strategies/user-perception/bundling)
+- [価格戦略](/leadership-skills/pricing-strategy)

@@ -10,5 +10,5 @@ W. Chan Kim と Renée Mauborgne による **Blue Ocean Strategy: How to Create 
 
 ## 参照先
 
-- [Differentiation](/strategies/markets/differentiation)
-- [Designed to Fail](/strategies/poison/designed-to-fail)
+- [差別化](/strategies/markets/differentiation)
+- [失敗するよう設計する](/strategies/poison/designed-to-fail)

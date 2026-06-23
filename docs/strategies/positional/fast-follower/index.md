@@ -13,26 +13,26 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Accelerate adoption
-- Unlock new growth
-- Defend your position
+- 採用を加速する
+- 新しい成長を開く
+- 自社の地位を守る
 pressures:
-- Facing dominant incumbent
-- Market is nascent or undefined
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 市場が初期段階または未定義である
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Operational readiness
-- Learning culture
-- Launch choreography
+- 運用準備
+- 学習文化
+- ローンチ設計
 quick_signals:
 - 先行者は需要を証明したが、規模や信頼性で苦しんでいる。
 - より良い流通や価格で、同等の中核体験を提供できる。
 - ユーザー調査で、初期リーダーへの不満が見えている。
 momentum_moves:
-- 先行者の失敗を記録し、自社設計と go-to-market に反映する。
+- 先行者の失敗を記録し、自社設計と 市場投入 に反映する。
 - 急拡大に耐える供給・サポート能力を先に揃える。
 - 先行者の欠点への不満が高まる時期に合わせて投入する。
 watch_outs:
@@ -89,20 +89,20 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="ファストフォロワー">
-  <MapSignals>
-    <li>先行者が需要を証明し、拡大フェーズへ入り始めている。</li>
-    <li>中核コンポーネントがプロダクト段階にあり、技術リスクが下がっている。</li>
-    <li>ユーザーニーズと利用パターンがかなり見えている。</li>
-    <li>先行者の実行やコスト構造に明確な非効率がある。</li>
-    <li>競争の重心が探索から最適化へ移っている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>運用実行と反復改善が得意である。</li>
-    <li>実証済みのアイデアへ資源を素早く張れる。</li>
-    <li>学習文化があり、他者の失敗を取り込める。</li>
-    <li>競合分析と市場情報を十分に持てる。</li>
-    <li>新しい提供物を支える運用プロセスがある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>先行者が需要を証明し、拡大フェーズへ入り始めている。</li>
+  <li>中核コンポーネントがプロダクト段階にあり、技術リスクが下がっている。</li>
+  <li>ユーザーニーズと利用パターンがかなり見えている。</li>
+  <li>先行者の実行やコスト構造に明確な非効率がある。</li>
+  <li>競争の重心が探索から最適化へ移っている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>運用実行と反復改善が得意である。</li>
+  <li>実証済みのアイデアへ資源を素早く張れる。</li>
+  <li>学習文化があり、他者の失敗を取り込める。</li>
+  <li>競合分析と市場情報を十分に持てる。</li>
+  <li>新しい提供物を支える運用プロセスがある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -170,7 +170,7 @@ time_horizon: Medium-term shaping
 
 ## 🧠 **戦略的示唆**
 
-### Pioneer / Settler / Town Planner
+### 探索者 / 定住者 / 都市計画者
 
 Wardley の枠組みでは、ファストフォロワーは Settler 的な役割を担います。未知の開拓ではなく、見えてきた価値を安定した運用へ落とし込む役目です。
 
@@ -210,4 +210,4 @@ Wardley の枠組みでは、ファストフォロワーは Settler 的な役割
 
 - [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
 - [Is it better to be a first mover or a fast follower?](https://www.bdo.co.uk/en-gb/insights/industries/technology-media-and-life-sciences/plugdin-insights-is-it-better-to-be-a-first-mover-or-a-fast-follower)
-- [Fast Followers and First Movers: Innovation in Organizations](https://blog.siemens.com/2022/12/fast-followers-and-first-movers-innovation-in-organizations/)
+- [ファストフォロワーと先行者戦略: 組織におけるイノベーション](https://blog.siemens.com/2022/12/fast-followers-and-first-movers-innovation-in-organizations/)

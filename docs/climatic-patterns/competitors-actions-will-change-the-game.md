@@ -9,6 +9,6 @@ tags: [competitors]
 
 ## 🔀 関連戦略
 
-- [Experimentation](/strategies/attacking/experimentation) – トリガー: 小さな実験は、競争上の動きへすばやく反応する助けになる。
-- [Defensive Regulation](/strategies/defensive/defensive-regulation) – 影響: 競合がゲームを変えたとき、既存勢力は新たなルールを求めやすい。
-- [Co-opting](/strategies/ecosystem/co-opting) – 影響: 競合を模倣することで、その優位を中和できることがある。
+- [実験](/strategies/attacking/experimentation) – トリガー: 小さな実験は、競争上の動きへすばやく反応する助けになる。
+- [防御的規制](/strategies/defensive/defensive-regulation) – 影響: 競合がゲームを変えたとき、既存勢力は新たなルールを求めやすい。
+- [取り込み](/strategies/ecosystem/co-opting) – 影響: 競合を模倣することで、その優位を中和できることがある。

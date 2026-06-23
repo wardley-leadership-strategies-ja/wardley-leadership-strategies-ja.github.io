@@ -10,5 +10,5 @@ Kevin D. Mitnick と William L. Simon の **The Art of Deception** は、ソー�
 
 ## 参照先
 
-- [Insertion](/strategies/poison/insertion)
-- [Information control and operational security](/leadership-skills/information-control-and-operational-security)
+- [挿入](/strategies/poison/insertion)
+- [情報統制とオペレーショナルセキュリティ](/leadership-skills/information-control-and-operational-security)

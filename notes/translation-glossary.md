@@ -10,7 +10,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Value Chain | バリューチェーン |
 | Evolution | 進化 |
 | Map | 地図 / マップ |
-| Wardley Mapping | ウォードリーマッピング |
+| Wardley Mapping | Wardley Mapping |
+| Wardley Leadership Strategies | Wardley Leadership Strategies |
 | purpose | 目的 |
 | landscape | 状況 |
 | climate | 状勢 |
@@ -25,6 +26,76 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | commodity | コモディティ |
 | strategic primitives | 戦略的な一手 |
 | Fast Follower | ファストフォロワー |
+
+## Strategy Names
+
+| English | Japanese |
+| --- | --- |
+| First Mover | 先行者戦略 |
+| Land Grab | 先行確保 |
+| Pig in a Poke | 袋の中の豚 |
+| Sweat & Dump | 使い切って手放す |
+| Standards Game | 標準化ゲーム |
+| Limitation of Competition | 競争制限 |
+| Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
+
+## Strategy And Market Vocabulary
+
+| English | Japanese |
+| --- | --- |
+| adoption | 採用 |
+| assumption | 前提 |
+| capability | 能力 |
+| component | コンポーネント |
+| commoditization | コモディティ化 |
+| commoditize | コモディティ化 |
+| competitor | 競合 |
+| incumbent | 既存勢力 |
+| leverage | 活用 |
+| market share | 市場シェア |
+| moat | 堀 |
+| perception | 認識 |
+| platform | プラットフォーム |
+| proprietary | プロプライエタリな |
+| sensing | センシング |
+| standard | 標準 |
+| utility | ユーティリティ |
+| vulnerability | 脆弱性 |
+
+## Ecosystem And Governance Vocabulary
+
+| English | Japanese |
+| --- | --- |
+| community governance | コミュニティ統治 |
+| contribution volume | 貢献量 |
+| council | 評議会 |
+| decision rights | 決定権 |
+| fork | フォーク |
+| governance | ガバナンス |
+| neutral home | 中立的な受け皿 |
+| participation | 参加 |
+| roadmap | ロードマップ |
+| shared governance | 共有ガバナンス |
+| shared infrastructure | 共有インフラ |
+| shared IP | 共有知財 |
+| stewardship | 運営責任 |
+| trust | 信頼 |
+
+## Finance, Legal, And Operations Vocabulary
+
+| English | Japanese |
+| --- | --- |
+| capex | 設備投資 |
+| carve-out | カーブアウト |
+| due diligence | デューデリジェンス |
+| earn-out | アーンアウト |
+| exit | 退出 |
+| patent thicket | 特許の藪 |
+| patent troll | パテントトロール |
+| private equity | プライベートエクイティ |
+| rent-seeking | レントシーキング |
+| spin-off | スピンオフ |
+| split-off | スプリットオフ |
 
 ## Climatic Patterns
 

@@ -10,5 +10,5 @@ isbn13: "9780060523800"
 
 ## 参照先
 
-- [Managing Inertia](/strategies/defensive/managing-inertia)
-- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)
+- [慣性の管理](/strategies/defensive/managing-inertia)
+- [変革リーダーシップ](/leadership-skills/change-leadership-and-transformation)

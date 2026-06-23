@@ -12,32 +12,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Change the narrative
-- Defend your position
-- Shape the market
+- 物語を変える
+- 自社の地位を守る
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Customers are nervous about change
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Narrative control
-- Risk framing
-- Secrecy and timing
+- 物語統制
+- リスクの枠組み化
+- 秘匿性とタイミング
 quick_signals:
 - 規制当局や顧客が、本当に選択肢があるのか疑い始めている。
-- カテゴリの物語を塗り替えうる challenger brand が現れている。
+- カテゴリの物語を塗り替えうる 挑戦者ブランド が現れている。
 - 並行ブランドを支えられるチャネルや資産を自社が持っている。
 momentum_moves:
 - 異なる立ち位置を持つ第二ブランドを設計しつつ、経済性は補完的にする。
-- 見かけ上は競合しながら、裏側インフラは共有する go-to-market を組む。
-- governance と messaging team を分け、独立性をもっともらしく見せる。
+- 見かけ上は競合しながら、裏側インフラは共有する 市場投入 を組む。
+- ガバナンス と メッセージングチーム を分け、独立性をもっともらしく見せる。
 watch_outs:
 - 両ブランドの共通所有が規制に発見されること。
 - 内部カニバリゼーションで顧客を混乱させること。
-- proxy への投資不足で、本物の challengers を止められないこと。
+- 代理競合 への投資不足で、本物の 挑戦者 を止められないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -72,23 +72,23 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Artificial Competition">
-  <MapSignals>
-    <li>独占リスクへの規制や世論の注目が高まっている。</li>
-    <li>その市場に信頼できる競合が少なく、空白がある。</li>
-    <li>地図から、別ブランドで取れる隣接セグメントが見える。</li>
-    <li>中核ブランドを崩さず別ポジションを試したい。</li>
-    <li>見える競争が正統性を高めると読める。</li>
-    <li>顧客が市場集中に懐疑的である。</li>
-  </MapSignals>
-  <Readiness>
-    <li>十分に別物に見える第二主体を立てるか買収できる。</li>
-    <li>上位戦略を揃えつつ、独立性を演出できる統治の仕組みがある。</li>
-    <li>二つのブランドを運営しても内部衝突やムダを抑えられる。</li>
-    <li>関係が露見したときの法的、運用的、評判的リスクに備えられる。</li>
-    <li>成功条件と出口戦略、統合計画が明確である。</li>
-    <li>倫理的含意を理解し、代替策も検討している。</li>
-    <li>世論、メディア、規制との向き合い方に経験がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>独占リスクへの規制や世論の注目が高まっている。</li>
+  <li>その市場に信頼できる競合が少なく、空白がある。</li>
+  <li>地図から、別ブランドで取れる隣接セグメントが見える。</li>
+  <li>中核ブランドを崩さず別ポジションを試したい。</li>
+  <li>見える競争が正統性を高めると読める。</li>
+  <li>顧客が市場集中に懐疑的である。</li>
+ </MapSignals>
+ <Readiness>
+  <li>十分に別物に見える第二主体を立てるか買収できる。</li>
+  <li>上位戦略を揃えつつ、独立性を演出できる統治の仕組みがある。</li>
+  <li>二つのブランドを運営しても内部衝突やムダを抑えられる。</li>
+  <li>関係が露見したときの法的、運用的、評判的リスクに備えられる。</li>
+  <li>成功条件と出口戦略、統合計画が明確である。</li>
+  <li>倫理的含意を理解し、代替策も検討している。</li>
+  <li>世論、メディア、規制との向き合い方に経験がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -175,4 +175,4 @@ time_horizon: Medium-term shaping
 
 ## 📚 **参考文献**
 
-- [Multibranding Strategy](https://en.m.wikipedia.org/wiki/Brand#Multibranding_strategy)
+- [Multiブランディング Strategy](https://en.m.wikipedia.org/wiki/Brand#Multibranding_strategy)

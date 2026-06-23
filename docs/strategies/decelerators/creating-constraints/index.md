@@ -12,20 +12,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Shape the market
-- Secure long-term investment
+- 自社の地位を守る
+- 市場を形作る
+- 長期投資を確保する
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Regulatory or policy leverage available
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 規制や政策を活用できる余地がある
 leadership_focus:
-- Integrated roadmapping
-- Risk framing
-- Policy advocacy
+- 統合ロードマップ策定
+- リスクの枠組み化
+- 政策提言
 quick_signals:
 - 供給者が、皆に必要な部材の供給逼迫を警告している。
 - 規制当局が、重要資源へのアクセス条件を変えうる新ルールを検討している。
@@ -83,14 +83,14 @@ time_horizon: Long-term positioning
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Creating Constraints">
-  <MapSignals>
-    <li>地図上で、初期進化段階にある重要コンポーネントが将来ボトルネックになる。</li>
-    <li>競合が当然視している将来資源を、自社は先に特定できている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>強い交渉力と法務能力がある。</li>
-    <li>排他契約や制度化を支える資源を投じられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、初期進化段階にある重要コンポーネントが将来ボトルネックになる。</li>
+  <li>競合が当然視している将来資源を、自社は先に特定できている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>強い交渉力と法務能力がある。</li>
+  <li>排他契約や制度化を支える資源を投じられる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -191,4 +191,4 @@ time_horizon: Long-term positioning
 
 - [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing)
 - [De Beers](https://en.wikipedia.org/wiki/De_Beers)
-- [Antitrust and Exclusive Agreements](https://en.wikipedia.org/wiki/Antitrust_laws)
+- [反トラスト法と排他的契約](https://en.wikipedia.org/wiki/Antitrust_laws)

@@ -10,5 +10,5 @@ Amazon の成長に関する逸話と、それを他組織へ持ち込むため�
 
 ## 参照先
 
-- [Press Release Process](/strategies/attacking/press-release-process)
-- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership)
+- [プレスリリース・プロセス](/strategies/attacking/press-release-process)
+- [イノベーションとプロダクトリーダーシップ](/leadership-skills/innovation-and-product-leadership)

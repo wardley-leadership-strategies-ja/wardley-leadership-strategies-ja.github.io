@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem leverage
-- Unlock new growth
-- Accelerate adoption
+- エコシステムの影響力を築く
+- 新しい成長を開く
+- 採用を加速する
 pressures:
-- Ecosystem fragmentation
-- Market is nascent or undefined
-- Facing dominant incumbent
+- エコシステムが断片化している
+- 市場が初期段階または未定義である
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Two-sided marketplace management
-- Incentive design
-- Data instrumentation
+- 両面市場の運営
+- インセンティブ設計
+- データ計測
 quick_signals:
 - 市場の片側は、反対側がいる証拠がないと参加をためらう。
 - 既存の中間業者では、需要と供給の結びつきが非効率である。
@@ -81,18 +81,18 @@ App Store はアプリ開発者と iPhone 利用者をつなぐ両面市場で�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Two-Sided Markets">
-  <MapSignals>
-    <li>地図上に、つながれば価値が生まれるが分断されている二つの利用者集団がある。</li>
-    <li>両集団の間に強い正のネットワーク効果が生まれそうだ。</li>
-    <li>既存プラットフォームが両側の需要を十分に満たしていない。</li>
-    <li>両側の相互作用から有用なデータが取れる。</li>
-  </MapSignals>
-  <Readiness>
-    <li>両側を呼び込む「鶏と卵」の問題に対する明確な戦略がある。</li>
-    <li>信頼できるプラットフォームを構築し拡張する技術力がある。</li>
-    <li>異なる利用者集団のニーズを両立させる運営力がある。</li>
-    <li>どちらかを遠ざけずに収益化する計画がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上に、つながれば価値が生まれるが分断されている二つの利用者集団がある。</li>
+  <li>両集団の間に強い正のネットワーク効果が生まれそうだ。</li>
+  <li>既存プラットフォームが両側の需要を十分に満たしていない。</li>
+  <li>両側の相互作用から有用なデータが取れる。</li>
+ </MapSignals>
+ <Readiness>
+  <li>両側を呼び込む「鶏と卵」の問題に対する明確な戦略がある。</li>
+  <li>信頼できるプラットフォームを構築し拡張する技術力がある。</li>
+  <li>異なる利用者集団のニーズを両立させる運営力がある。</li>
+  <li>どちらかを遠ざけずに収益化する計画がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -135,9 +135,11 @@ App Store はアプリ開発者と iPhone 利用者をつなぐ両面市場で�
 1. **二つの側を定義する:** どの二集団を結びたいのかを明確にする
 2. **中核相互作用を定義する:** 何の取引ややり取りを仲介するのかを決める
 3. **鶏と卵問題を解く:** 最初の利用者を集める戦略を作る
+
    - **片側を補助する:** 例として Uber の初期ドライバー報酬
    - **片側に単独価値を与える:** 例として OpenTable が飲食店向け管理システムを先に提供したやり方
    - **立ち上げを限定する:** 狭い地域やニッチから始める
+
 4. **信頼できるプラットフォームを作る:** プロフィール、レビュー、安全決済などへ投資する
 5. **ネットワーク効果を育てる:** 規模拡大とともに両側の価値を増やす
 6. **慎重に収益化する:** 手数料、会費、広告などを入れてもネットワーク効果を壊さないようにする
@@ -199,6 +201,6 @@ App Store はアプリ開発者と iPhone 利用者をつなぐ両面市場で�
 
 ## 📚 **参考文献**
 
-- [Platform Revolution](/books/platform-revolution)
+- [プラットフォーム革命](/books/platform-revolution)
 - [The Cold Start Problem](/books/the-cold-start-problem)
 - [Modern Monopolies](/books/modern-monopolies)

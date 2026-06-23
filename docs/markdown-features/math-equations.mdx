@@ -35,7 +35,7 @@ Let $f\colon[a,b] \to \R$ be Riemann integrable. Let $F\colon[a,b]\to\R$ be $F(x
 
 ### ブロック {#blocks}
 
-ブロック数式、つまり display mode では改行と `$$` を使います。
+ブロック数式、つまり表示モードでは改行と `$$` を使います。
 
 ```latex
 $$
@@ -55,7 +55,7 @@ $$
 
 KaTeX を有効化します。
 
-1. `remark-math` と `rehype-katex` plugin を install します。
+1. `remark-math` と `rehype-katex` プラグインをインストールします。
 
     ```bash npm2yarn
     npm install --save remark-math@6 rehype-katex@7
@@ -63,11 +63,11 @@ KaTeX を有効化します。
 
     :::warning
 
-    Docusaurus v3（MDX v3）では `remark-math 6` と `rehype-katex 7` を使ってください。他の version の動作は保証できません。
+    Docusaurus v3（MDX v3）では `remark-math 6` と `rehype-katex 7` を使ってください。他のバージョンの動作は保証できません。
 
     :::
 
-2. この 2 つの plugin は [**ES Modules**](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) のみです。[**ES Modules**](https://flaviocopes.com/es-modules/) の config file を使うことを勧めます。
+2. この 2 つのプラグインは [**ES Modules**](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) のみです。[**ES Modules**](https://flaviocopes.com/es-modules/) の設定ファイルを使うことを勧めます。
 
     ```js title="ES module docusaurus.config.js"
     // highlight-start
@@ -98,10 +98,10 @@ KaTeX を有効化します。
 
     <summary>
       [**CommonJS**](https://nodejs.org/api/modules.html#modules-commonjs-modules)
-      の config file を使う場合
+      の設定ファイルを使う場合
     </summary>
 
-            CommonJS config file を使う場合でも、dynamic import と async な config creator function によって ES module plugin を読み込めます。
+            CommonJS 設定ファイルを使う場合でも、`dynamic import` と `async` な設定作成関数によって ES module プラグインを読み込めます。
 
     ```js title="CommonJS module docusaurus.config.js"
     // highlight-start
@@ -128,7 +128,7 @@ KaTeX を有効化します。
 
         </details>
 
-3. config の `stylesheets` に KaTeX の CSS を含めます。
+3. 設定の `stylesheets` に KaTeX の CSS を含めます。
 
     ```js
     export default {
@@ -146,7 +146,7 @@ KaTeX を有効化します。
     ```
 
 <details>
-<summary>config file の例を見る</summary>
+<summary>設定ファイルの例を見る</summary>
 
 ```js title="docusaurus.config.js"
 // highlight-start
@@ -187,9 +187,9 @@ export default {
 
 </details>
 
-## KaTeX アセットを self-host する {#self-hosting-katex-assets}
+## KaTeX アセットをセルフホストする {#self-hosting-katex-assets}
 
-stylesheet、font、JavaScript library を CDN から読むのは、popular library や asset では一般に便利です。host すべき asset 量が減るためです。`katex.min.css` と必要な KaTeX font を self-host したい場合は、[KaTeX GitHub releases](https://github.com/KaTeX/KaTeX/releases) から最新 version をダウンロードし、`katex.min.css` と `fonts` directory（`.woff2` だけでも多くの場合は十分）を site の `static` directory へ置いてください。その上で `docusaurus.config.js` の stylesheet `href` を CDN URL からローカル path（例: `/katex/katex.min.css`）へ差し替えます。
+スタイルシート、フォント、JavaScript ライブラリを CDN から読むのは、一般的なライブラリやアセットでは便利です。ホストすべきアセット量が減るためです。`katex.min.css` と必要な KaTeX フォントをセルフホストしたい場合は、[KaTeX GitHub releases](https://github.com/KaTeX/KaTeX/releases) から最新バージョンをダウンロードし、`katex.min.css` と `fonts` ディレクトリ（`.woff2` だけでも多くの場合は十分）をサイトの `static` ディレクトリへ置いてください。その上で `docusaurus.config.js` のスタイルシート `href` を CDN URL からローカルパス（例: `/katex/katex.min.css`）へ差し替えます。
 
 ```js title="docusaurus.config.js"
 export default {

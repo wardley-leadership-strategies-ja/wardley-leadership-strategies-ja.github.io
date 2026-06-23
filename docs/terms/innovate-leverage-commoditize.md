@@ -4,4 +4,4 @@ Simon Wardley が説明したエコシステム戦略の循環です。組織は
 
 ## 🔀 関連戦略
 
-- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize)

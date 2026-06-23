@@ -10,5 +10,5 @@ Annabelle Gawer 編の **Platforms, Markets and Innovation** は、プラット�
 
 ## 参照先
 
-- [First Mover](/strategies/positional/first-mover)
-- [Land Grab](/strategies/positional/land-grab)
+- [先行者戦略](/strategies/positional/first-mover)
+- [先行確保](/strategies/positional/land-grab)

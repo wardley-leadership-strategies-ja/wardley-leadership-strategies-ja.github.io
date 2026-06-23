@@ -11,20 +11,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Secure long-term investment
-- Shape the market
+- 自社の地位を守る
+- 長期投資を確保する
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Regulatory or policy leverage available
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 規制や政策を活用できる余地がある
 leadership_focus:
-- Disciplined portfolio management
-- Policy advocacy
-- Secrecy and timing
+- 規律あるポートフォリオ管理
+- 政策提言
+- 秘匿性とタイミング
 quick_signals:
 - 競合が重なる特許を出し、自社の差別化空間を埋め始めている。
 - 投資家が、技術パイプラインの防御可能性を疑っている。
@@ -71,7 +71,7 @@ IPR を使うことで次が可能になります。
 
 1. 特許地形を分析し、空白と競合位置を把握する
 2. 主要発明と派生形を広くカバーする特許を出願する
-3. 重要技術の周囲に patent thicket を築く
+3. 重要技術の周囲に 特許の藪 を築く
 4. ライセンス、訴訟、あるいは訴訟の脅しで権利を行使する
 5. 競合出願を監視し、継続的にポートフォリオを更新する
 
@@ -83,7 +83,7 @@ IPR を使うことで次が可能になります。
 
 ## 🗺️ **実例**
 
-### 製薬の patent thicket
+### 製薬の 特許の藪
 
 製薬会社は有効成分だけでなく、製造法、剤形、二次用途まで広く特許化し、後発薬参入を遅らせます。
 
@@ -95,21 +95,21 @@ Qualcomm は 3G/4G 標準周辺に広い特許ポートフォリオを持ち、�
 
 あるスタートアップが、一般的な荷物投下機構を広くカバーする特許を取ると、既存物流企業はライセンス交渉か研究開発遅延を強いられます。
 
-### 注意例: SCO Group vs Linux
+### 注意例: SCO Group 対 Linux
 
 2000 年代初頭、SCO Group は Linux に Unix 由来コードが含まれると主張して訴訟を乱発しました。結果的に主張は退けられ、会社は破綻しました。強引な IPR 戦略は、法務コスト、評判毀損、失敗を招きえます。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Patents & IPR">
-  <MapSignals>
-    <li>将来インパクトの大きい重要技術が見つかっている。</li>
-    <li>競合が、十分に保護されていない代替へ依存している。</li>
-  </MapSignals>
-  <Readiness>
-    <li>出願、管理、権利行使を回す資源がある。</li>
-    <li>訴訟やライセンス交渉に耐えられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>将来インパクトの大きい重要技術が見つかっている。</li>
+  <li>競合が、十分に保護されていない代替へ依存している。</li>
+ </MapSignals>
+ <Readiness>
+  <li>出願、管理、権利行使を回す資源がある。</li>
+  <li>訴訟やライセンス交渉に耐えられる。</li>
+ </Readiness>
 </Assessment>
 
 **向くとき:** 新規性と特許性の高い革新を持ち、法的保護が強く機能する分野にいるとき。
@@ -159,7 +159,7 @@ Qualcomm は 3G/4G 標準周辺に広い特許ポートフォリオを持ち、�
 
 執行は高額で時間もかかり、革新から注意を逸らします。
 
-### patent thicket の副作用
+### 特許の藪 の副作用
 
 密集した知財は、競合だけでなく提携候補や補完的革新者まで遠ざけます。
 
@@ -177,9 +177,9 @@ Qualcomm は 3G/4G 標準周辺に広い特許ポートフォリオを持ち、�
 
 AI、通信、バイオのような戦略産業では、IPR は企業間だけでなく国家間の力学にも絡みます。国際関係や産業政策が市場アクセスに影響します。
 
-### patent troll の両刃性
+### パテントトロール の両刃性
 
-NPE や patent troll は、実体事業なしに訴訟だけで価値回収を狙います。大企業にとっても小企業にとっても大きな脅威です。
+NPE や パテントトロール は、実体事業なしに訴訟だけで価値回収を狙います。大企業にとっても小企業にとっても大きな脅威です。
 
 ### 営業秘密という代替
 
@@ -208,7 +208,7 @@ NPE や patent troll は、実体事業なしに訴訟だけで価値回収を�
 
 ## ⛅ **関連する状勢パターン**
 
-- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 強い知財保護は incumbents を鈍らせることがある
+- [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 強い知財保護は 既存勢力 を鈍らせることがある
 - [進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) – トリガー: 保護があっても市場は最終的にコモディティ化へ向かう
 
 ## 📚 **参考文献**

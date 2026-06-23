@@ -10,5 +10,5 @@ Daniel Kahneman の **Thinking, Fast and Slow** は、人が不確実性の下�
 
 ## 参照先
 
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)
-- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)
+- [弱いシグナル](/strategies/positional/weak-signal-horizon)
+- [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty)

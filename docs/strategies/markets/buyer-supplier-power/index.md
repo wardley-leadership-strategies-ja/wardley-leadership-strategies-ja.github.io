@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Shape the market
-- Defend your position
-- Secure long-term investment
+- 市場を形作る
+- 自社の地位を守る
+- 長期投資を確保する
 pressures:
-- Facing dominant incumbent
-- Limited resources or capacity
-- Competitive attack underway
+- 支配的な既存勢力に直面している
+- 資源や能力が限られている
+- 競合から攻撃を受けている
 leadership_focus:
-- Partner choreography
-- Risk framing
-- Disciplined portfolio management
+- パートナー連携設計
+- リスクの枠組み化
+- 規律あるポートフォリオ管理
 quick_signals:
 - 供給者や買い手が、利益を削る条件を押し付け始めている。
 - 集中度分析で、バリューチェーンの単一点障害が見えている。
@@ -79,18 +79,18 @@ iPhone ユーザーへ届く唯一の流通路を握ることで、Apple は開�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Buyer-Supplier Power">
-  <MapSignals>
-    <li>重要コンポーネントで単一の強い供給者に依存している。</li>
-    <li>バリューチェーン上で自社がチョークポイントになれる余地がある。</li>
-    <li>競合が買い手・供給者への依存で脆くなっている。</li>
-    <li>コモディティ化によって力関係が動き始めている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>バリューチェーン全体とその力学を深く理解している。</li>
-    <li>交渉力を現実に使える。</li>
-    <li>垂直統合やプラットフォーム化に投資できる。</li>
-    <li>二次・三次の影響まで含めて判断できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>重要コンポーネントで単一の強い供給者に依存している。</li>
+  <li>バリューチェーン上で自社がチョークポイントになれる余地がある。</li>
+  <li>競合が買い手・供給者への依存で脆くなっている。</li>
+  <li>コモディティ化によって力関係が動き始めている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>バリューチェーン全体とその力学を深く理解している。</li>
+  <li>交渉力を現実に使える。</li>
+  <li>垂直統合やプラットフォーム化に投資できる。</li>
+  <li>二次・三次の影響まで含めて判断できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき

@@ -10,4 +10,4 @@ Bill Snow の **Mergers & Acquisitions For Dummies** は、M&A の計画、評�
 
 ## 参照先
 
-- [Threat Acquisition](/strategies/defensive/threat-acquisition)
+- [脅威の買収](/strategies/defensive/threat-acquisition)

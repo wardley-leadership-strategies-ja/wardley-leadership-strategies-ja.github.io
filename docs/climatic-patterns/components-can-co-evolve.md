@@ -7,5 +7,5 @@ tags: [components]
 
 ## 🔀 関連戦略
 
-- [Cooperation](/strategies/accelerators/cooperation) – 影響: 協働する組織は、互いの実践を形づくる。
-- [Co-creation](/strategies/ecosystem/co-creation) – トリガー: ユーザーとの共創は、プロダクトと実践の両方の進化を加速しうる。
+- [協調](/strategies/accelerators/cooperation) – 影響: 協働する組織は、互いの実践を形づくる。
+- [共創](/strategies/ecosystem/co-creation) – トリガー: ユーザーとの共創は、プロダクトと実践の両方の進化を加速しうる。

@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Genesis
-- Custom-Built
+- 創世記
+- カスタムビルド
 goals:
-- Accelerate adoption
-- Unlock new growth
-- Shape the market
+- 採用を加速する
+- 新しい成長を開く
+- 市場を形作る
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Disciplined portfolio management
-- Launch choreography
-- Learning culture
+- 規律あるポートフォリオ管理
+- ローンチ設計
+- 学習文化
 quick_signals:
 - 地図上で、既存勢力に有力な対抗策がない変化が近づいていることが見えている。
 - 資本はあるのに、小粒な案件へ分散して焦点がぼやけている。
@@ -74,12 +74,12 @@ time_horizon: Long-term positioning
 
 ```mermaid
 flowchart TD
-    A[機会を特定] --> B{大きな賭けか}
-    B --> C[資源を投入]
-    C --> D[実行と反復]
-    D --> E{市場の主導権を取れたか}
-    E -- Yes --> F[市場を形作る]
-    E -- No --> G[方向転換または撤退]
+  A[機会を特定] --> B{大きな賭けか}
+  B --> C[資源を投入]
+  C --> D[実行と反復]
+  D --> E{市場の主導権を取れたか}
+  E -- Yes --> F[市場を形作る]
+  E -- No --> G[方向転換または撤退]
 ```
 
 ## 🗺️ **実例**
@@ -103,24 +103,24 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Directed Investment">
-  <MapSignals>
-    <li>地図上で、バリューチェーンに大きな変化や不可避性が見えている。</li>
-    <li>高い影響を持つ特定の新興領域を見定めている。</li>
-    <li>競合はその変化に遅いか、まだ気づいていない。</li>
-    <li>長期で高リスクな投資を支えられる資源がある。</li>
-    <li>成功時に統合または規模化へつなぐ道筋が見えている。</li>
-    <li>孤立や統合の早すぎる失敗のリスクを理解している。</li>
-    <li>状況の変化を監視し、調整できる仕組みがある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>不確実性と長い時間軸に耐えられる。</li>
-    <li>探索と失敗からの学習を支える文化がある。</li>
-    <li>経営が早い段階で大きな資源配分を決断できる。</li>
-    <li>短期圧力から投資対象を守れる。</li>
-    <li>社内ベンチャーやコーポレート VC に近い運営経験がある。</li>
-    <li>新規事業の自律性と本流との統合を両立できる。</li>
-    <li>賭けが外れたときの撤退や転換手順がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、バリューチェーンに大きな変化や不可避性が見えている。</li>
+  <li>高い影響を持つ特定の新興領域を見定めている。</li>
+  <li>競合はその変化に遅いか、まだ気づいていない。</li>
+  <li>長期で高リスクな投資を支えられる資源がある。</li>
+  <li>成功時に統合または規模化へつなぐ道筋が見えている。</li>
+  <li>孤立や統合の早すぎる失敗のリスクを理解している。</li>
+  <li>状況の変化を監視し、調整できる仕組みがある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>不確実性と長い時間軸に耐えられる。</li>
+  <li>探索と失敗からの学習を支える文化がある。</li>
+  <li>経営が早い段階で大きな資源配分を決断できる。</li>
+  <li>短期圧力から投資対象を守れる。</li>
+  <li>社内ベンチャーやコーポレート VC に近い運営経験がある。</li>
+  <li>新規事業の自律性と本流との統合を両立できる。</li>
+  <li>賭けが外れたときの撤退や転換手順がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -225,7 +225,7 @@ AT&T は独占利益を Bell Labs へ振り向け、トランジスタ、衛星�
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [Corporate Venturing: Managing the Innovation Family](https://www.strategy-business.com/article/03408)
 - [Google DeepMind: The Story Behind the World's Leading AI Startup](https://www.techadvisor.com/article/738778/google-deepmind-the-story-behind-the-worlds-leading-ai-startup.html)
 - [Bell Labs: Life in the Crown Jewel](/books/bell-labs-life-in-the-crown-jewel)

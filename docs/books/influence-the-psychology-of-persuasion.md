@@ -10,5 +10,5 @@ Robert B. Cialdini の **Influence: The Psychology of Persuasion** は、返報�
 
 ## 参照先
 
-- [Insertion](/strategies/poison/insertion)
-- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence)
+- [挿入](/strategies/poison/insertion)
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence)

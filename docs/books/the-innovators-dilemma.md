@@ -10,10 +10,10 @@ isbn13: "9781633691780"
 
 ## 参照先
 
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)
-- [Tech Drops](/strategies/competitor/tech-drops)
-- [Managing Inertia](/strategies/defensive/managing-inertia)
-- [Procrastination](/strategies/defensive/procrastination)
-- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)
-- [Threat Acquisition](/strategies/defensive/threat-acquisition)
-- [Innovate, Leverage, Commoditize](/strategies/ecosystem/innovate-leverage-commoditize)
+- [参入障壁の切り崩し](/strategies/attacking/undermining-barriers-to-entry)
+- [テックドロップ](/strategies/competitor/tech-drops)
+- [慣性の管理](/strategies/defensive/managing-inertia)
+- [戦略的先送り](/strategies/defensive/procrastination)
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
+- [脅威の買収](/strategies/defensive/threat-acquisition)
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize)

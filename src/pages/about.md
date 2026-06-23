@@ -14,9 +14,9 @@ Wardley Mapping は、競争環境を理解し将来の変化を見通すため�
 
 このリソースでは、60 を超える戦略の選び方と実装方法について、詳細な解説、現実の事例、実務的な助言を提供します。たとえば次のようなものです。
 
-- **[Cooperation](/strategies/accelerators/cooperation):** 提携を活かして成長を加速する。
-- **[Creating Constraints](/strategies/decelerators/creating-constraints):** 制約を使ってイノベーションと集中を促す。
-- **[Experimentation](/strategies/attacking/experimentation):** 新しい手をすばやく試し、競争優位を探る。
+- **[協調](/strategies/accelerators/cooperation):** 提携を活かして成長を加速する。
+- **[制約の創出](/strategies/decelerators/creating-constraints):** 制約を使ってイノベーションと集中を促す。
+- **[実験](/strategies/attacking/experimentation):** 新しい手をすばやく試し、競争優位を探る。
 
 一部の戦略には、インタラクティブな [**🚦 戦略評価ツール**](/about/assessment-tool) も用意しており、自分たちの文脈にその戦略がどれだけ適しているか、実行準備が整っているかを確認できます。
 
@@ -50,7 +50,7 @@ Wardley が言うように、[地図なしに戦略はない](https://blog.garde
 
 [Learn Wardley Mapping](https://learnwardleymapping.com/) が述べるように、有効なリーダーシップには次が含まれます。
 
-> **目的**（ゲーム）、競争 **環境**（マップ）、その環境に作用する外部の力 (**climate**)、そして人材の鍛え方 (**doctrine**) に基づいて戦略判断を行うこと。
+> **目的**（ゲーム）、競争 **環境**（マップ）、その環境に作用する外部の力 (**状勢**)、そして人材の鍛え方 (**指針**) に基づいて戦略判断を行うこと。
 
 このガイドは、マッピング、[状勢パターン](/climatic-patterns) の分析、[指針](/doctrines) から得た洞察を、具体的で実行可能な戦略へ変換する助けになります。
 

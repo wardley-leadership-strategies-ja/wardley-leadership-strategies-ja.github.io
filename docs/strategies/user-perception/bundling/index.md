@@ -12,31 +12,31 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Accelerate adoption
-- Change the narrative
-- Defend your position
+- 採用を加速する
+- 物語を変える
+- 自社の地位を守る
 pressures:
-- Customers are nervous about change
-- Competitive attack underway
-- Limited resources or capacity
+- 顧客が変化に不安を感じている
+- 競合から攻撃を受けている
+- 資源や能力が限られている
 leadership_focus:
-- Pricing and packaging strategy
-- Narrative building
-- Experience design
+- 価格とパッケージ戦略
+- 物語構築
+- 体験設計
 quick_signals:
-- 目に見える upside がないと、必要な変更を users が拒む。
-- 各要素を別売りしているせいで adoption が遅い。
-- 競合は suite を出し、自社は point solution に留まっている。
+- 目に見える 上振れ がないと、必要な変更を ユーザー が拒む。
+- 各要素を別売りしているせいで 採用 が遅い。
+- 競合は スイート を出し、自社は 点の解決策 に留まっている。
 momentum_moves:
-- 完結した job を解く bundle を設計し、trade-off を明示する。
-- tiered packaging で望ましい選択へ誘導する。
-- sales と success team が package の価値を明快に説明できるようにする。
+- 完結した ジョブ を解く バンドル を設計し、トレードオフ を明示する。
+- 階層型パッケージ で望ましい選択へ誘導する。
+- 営業 と サクセスチーム が パッケージ の価値を明快に説明できるようにする。
 watch_outs:
-- 関連の薄い製品を束ねて trust を薄めること。
-- 反競争的な tying として規制を呼ぶこと。
+- 関連の薄い製品を束ねて 信頼 を薄めること。
+- 反競争的な 抱き合わせ として規制を呼ぶこと。
 - 束ねた要素が実際に使われているか見ないこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Fast impact
@@ -80,20 +80,20 @@ Microsoft が Internet Explorer を Windows に同梱した例は典型です。
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Bundling">
-  <MapSignals>
-    <li>地図上で、ユーザー抵抗や慣性にぶつかるコンポーネントがある。</li>
-    <li>強い需要を持つ魅力的な製品やサービスがある。</li>
-    <li>望まれにくい要素が、価値連鎖や進化のために重要である。</li>
-    <li>競合が単独提供で生態系を脅かしている。</li>
-    <li>新しい標準や機能の採用を加速したい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>顧客ニーズと痛点をよく理解している。</li>
-    <li>バンドルの価値を明確に説明できる。</li>
-    <li>顧客反応をすばやく見て調整できる。</li>
-    <li>法的・規制上の懸念へ備えられる。</li>
-    <li>製品、マーケティング、営業を横断調整できる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、ユーザー抵抗や慣性にぶつかるコンポーネントがある。</li>
+  <li>強い需要を持つ魅力的な製品やサービスがある。</li>
+  <li>望まれにくい要素が、価値連鎖や進化のために重要である。</li>
+  <li>競合が単独提供で生態系を脅かしている。</li>
+  <li>新しい標準や機能の採用を加速したい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>顧客ニーズと痛点をよく理解している。</li>
+  <li>バンドルの価値を明確に説明できる。</li>
+  <li>顧客反応をすばやく見て調整できる。</li>
+  <li>法的・規制上の懸念へ備えられる。</li>
+  <li>製品、マーケティング、営業を横断調整できる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -141,7 +141,7 @@ Microsoft が Internet Explorer を Windows に同梱した例は典型です。
 - 単体売上への影響
 - 同梱サービスの顧客獲得コスト
 - CLV の改善
-- target 要素の実使用率
+- 対象要素の実使用率
 
 ## ⚠️ **失敗しやすい点**
 
@@ -191,6 +191,6 @@ Microsoft が Internet Explorer を Windows に同梱した例は典型です。
 
 ## 📚 **参考文献**
 
-- [U.S. v. Microsoft (1998) – DOJ Antitrust Case Documents](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
-- [Bundling and Tying: Antitrust Analysis](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/single-firm-conduct/tying-sale-two-products)
+- [U.S. v. Microsoft (1998) – DOJ 反トラスト事件文書](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
+- [バンドリングと抱き合わせ: 反トラスト分析](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/single-firm-conduct/tying-sale-two-products)
 - [The Strategy and Tactics of Pricing](/books/the-strategy-and-tactics-of-pricing)

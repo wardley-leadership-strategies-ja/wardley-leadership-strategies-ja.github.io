@@ -7,4 +7,4 @@ tags: [prediction]
 
 ## 🔀 関連戦略
 
-- [Alliances](/strategies/ecosystem/alliances) – トリガー: 戦時的な競争は、組織同士が連携する動機になりやすい。
+- [アライアンス](/strategies/ecosystem/alliances) – トリガー: 戦時的な競争は、組織同士が連携する動機になりやすい。

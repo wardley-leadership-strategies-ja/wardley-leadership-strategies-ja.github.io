@@ -10,4 +10,4 @@ Jack Trout と Steve Rivkin による **Differentiate or Die** は、混み合�
 
 ## 参照先
 
-- [Differentiation](/strategies/markets/differentiation)
+- [差別化](/strategies/markets/differentiation)

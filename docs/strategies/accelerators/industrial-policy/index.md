@@ -27,19 +27,19 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Secure long-term investment
-- Shape the market
-- Defend your position
+- 長期投資を確保する
+- 市場を形作る
+- 自社の地位を守る
 pressures:
-- Regulatory or policy leverage available
-- Limited resources or capacity
+- 規制や政策を活用できる余地がある
+- 資源や能力が限られている
 leadership_focus:
-- Policy advocacy
-- Coalition building
-- Long-horizon roadmapping
+- 政策提言
+- 連合形成
+- 長期ロードマップ策定
 quick_signals:
 - 国や地域の施策で、自社領域が優先分野として明示されている。
 - 地図上で、インフラや研究開発が単独では賄えないほど高額だと見えている。
@@ -95,28 +95,28 @@ time_horizon: Long-term positioning
 
 ```mermaid
 mindmap
-  root((産業政策))
-    手段
-      補助金
-      税優遇
-      公的調達
-      規制
-      インフラ投資
-      貿易保護
-    目的
-      イノベーション加速
-      市場形成
-      戦略自律性
-      雇用創出
-    リスク
-      政策転換
-      依存
-      市場歪曲
-    成功要因
-      政策整合
-      戦略的な語り方
-      関係者巻き込み
-      コンプライアンス
+ root((産業政策))
+  手段
+   補助金
+   税優遇
+   公的調達
+   規制
+   インフラ投資
+   貿易保護
+  目的
+   イノベーション加速
+   市場形成
+   戦略自律性
+   雇用創出
+  リスク
+   政策転換
+   依存
+   市場歪曲
+  成功要因
+   政策整合
+   戦略的な語り方
+   関係者巻き込み
+   コンプライアンス
 ```
 
 ## 🗺️ **実例**
@@ -136,18 +136,18 @@ Boeing や Airbus は、防衛契約、直接補助、共同保有に近い枠�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Industrial Policy">
-  <MapSignals>
-    <li>政府が自社分野向けの予算や施策を打ち出している。たとえばグリーン技術、防衛、半導体など。</li>
-    <li>高額資本や規制障壁があり、公的支援がリスクやコストを大きく下げる。</li>
-    <li>雇用、安全保障、技術革新などの政策目的が、自社戦略と一致している。</li>
-    <li>政治環境が、複数年にわたる施策を支えられる程度には安定している。</li>
-  </MapSignals>
-  <Readiness>
-    <li>政策対応やアドボカシーに必要な資源と専門性がある。</li>
-    <li>公共部門の報告、監査、透明性要件に対応できる。</li>
-    <li>制度形成の流れと時間軸を理解している。</li>
-    <li>効果を示す実証や試作を出せる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>政府が自社分野向けの予算や施策を打ち出している。たとえばグリーン技術、防衛、半導体など。</li>
+  <li>高額資本や規制障壁があり、公的支援がリスクやコストを大きく下げる。</li>
+  <li>雇用、安全保障、技術革新などの政策目的が、自社戦略と一致している。</li>
+  <li>政治環境が、複数年にわたる施策を支えられる程度には安定している。</li>
+ </MapSignals>
+ <Readiness>
+  <li>政策対応やアドボカシーに必要な資源と専門性がある。</li>
+  <li>公共部門の報告、監査、透明性要件に対応できる。</li>
+  <li>制度形成の流れと時間軸を理解している。</li>
+  <li>効果を示す実証や試作を出せる。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -244,5 +244,5 @@ Boeing や Airbus は、防衛契約、直接補助、共同保有に近い枠�
 ## 📚 **参考文献**
 
 - Simon Wardley, *On Industrial Policy and Strategic Climatic Patterns*
-- *The Rise of Airbus* - 欧州の政府連携と補助による航空産業形成の事例
-- *Wardley on Industrial Policy in China's Tech Landscape* - 中国テック分野における産業政策の解説
+- *Airbus の台頭* - 欧州の政府連携と補助による航空産業形成の事例
+- *中国テック産業における産業政策についての Wardley の考察* - 中国テック分野における産業政策の解説

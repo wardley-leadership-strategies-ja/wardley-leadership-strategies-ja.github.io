@@ -13,32 +13,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- コモディティ/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Shape the market
-- Accelerate adoption
-- Defend your position
+- 市場を形作る
+- 採用を加速する
+- 自社の地位を守る
 pressures:
-- Competitive attack underway
-- Customers are nervous about change
-- Limited resources or capacity
+- 競合から攻撃を受けている
+- 顧客が変化に不安を感じている
+- 資源や能力が限られている
 leadership_focus:
-- Pricing and packaging strategy
-- Market セグメントation
-- Data instrumentation
+- 価格とパッケージ戦略
+- 市場セグメンテーション
+- データ計測
 quick_signals:
 - 大きな製品変更なしに、需要を刺激または抑制する必要がある。
 - 競合が、歴史的に自社が握っていた価格物語を崩している。
-- セグメント ごとの unit economics が大きく異なり、より良い価格設計の余地がある。
+- セグメント ごとの ユニットエコノミクス が大きく異なり、より良い価格設計の余地がある。
 momentum_moves:
-- elasticity のシナリオを組み、価格変更を戦略成果へ結びつける。
+- 弾力性 のシナリオを組み、価格変更を戦略成果へ結びつける。
 - セグメント ごとの 支払い意思額 を小さな実験で検証する。
-- pricing、marketing、sales の playbook を揃え、新しい位置付けを補強する。
+- 価格設定、マーケティング、営業 の プレイブック を揃え、新しい位置付けを補強する。
 watch_outs:
 - 持続できない 価格戦争 を起こすこと。
 - 価格変更が頻繁または不透明で 顧客 を混乱させること。
-- cost-to-serve の違いを無視して 利益率 を壊すこと。
+- サービス提供コスト の違いを無視して 利益率 を壊すこと。
 effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
@@ -82,18 +82,18 @@ Apple は プレミアム価格戦略 を維持し、高品質で 憧れを呼�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Pricing Policy">
-  <MapSignals>
-    <li>地図上で、積極価格によって コモディティ化 できる component がある。</li>
-    <li>市場の価格弾力性が高く、需要が価格に敏感である。</li>
-    <li>競合の価格構造が硬直していて動きが遅い。</li>
-    <li>段階別価格やモジュール型価格 で市場を分断できる。</li>
-  </MapSignals>
-  <Readiness>
-    <li>原価構造と顧客価値を深く理解している。</li>
-    <li>財務とマーケティング が密に連携している。</li>
-    <li>異なる価格モデルを実験し、結果を測る仕組みがある。</li>
-    <li>短期 利益率 を削っても 価格設定を戦略レバーに使う覚悟がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、積極価格によって コモディティ化 できる コンポーネント がある。</li>
+  <li>市場の価格弾力性が高く、需要が価格に敏感である。</li>
+  <li>競合の価格構造が硬直していて動きが遅い。</li>
+  <li>段階別価格やモジュール型価格 で市場を分断できる。</li>
+ </MapSignals>
+ <Readiness>
+  <li>原価構造と顧客価値を深く理解している。</li>
+  <li>財務とマーケティング が密に連携している。</li>
+  <li>異なる価格モデルを実験し、結果を測る仕組みがある。</li>
+  <li>短期 利益率 を削っても 価格設定を戦略レバーに使う覚悟がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -107,19 +107,19 @@ Apple は プレミアム価格戦略 を維持し、高品質で 憧れを呼�
 
 - 高度規制産業のように、価格が主要購買要因ではないとき
 - 排他性や威信 にブランドが依存し、値下げがそれを壊すとき
-- competitor が容易に同じ価格へ合わせられ、業界全体の利益を壊すとき
+- 競合が容易に同じ価格へ合わせられ、業界全体の利益を壊すとき
 - 顧客の 支払い意思額 をよく分かっていないとき
 
 ## 🎯 **リーダーシップ**
 
 ### 中核課題
 
-短期売上・利益の圧力と、長期戦略目的をどう両立するかです。シェア拡大のための値下げは、finance 側の反発を呼びやすく、信念を持って押し切る力が要ります。
+短期売上・利益の圧力と、長期戦略目的をどう両立するかです。シェア拡大のための値下げは、財務 側の反発を呼びやすく、信念を持って押し切る力が要ります。
 
 ### 必要なスキル
 
 - [データ戦略と分析](/leadership-skills/data-strategy-and-analytics) — 市場力学、原価、顧客データを読む
-- [価格戦略](/leadership-skills/pricing-strategy) — price を未来形成の道具として使う
+- [価格戦略](/leadership-skills/pricing-strategy) — 価格 を未来形成の道具として使う
 - [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 短期に 不人気な価格判断を下す
 - [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 価格設定の理由 を関係者へ伝える
 
@@ -130,8 +130,8 @@ Apple は プレミアム価格戦略 を維持し、高品質で 憧れを呼�
 ## 📋 **進め方**
 
 1. 市場、競争、原価、自社位置を分析する
-2. 価格政策の 目的 を明確にする。share、profit、利用者獲得 など
-3. penetration、プレミアム価格、freemium、サブスクリプション などからモデルを選ぶ
+2. 価格政策の 目的 を明確にする。シェア、利益、利用者獲得 など
+3. 浸透価格、プレミアム価格、フリーミアム、サブスクリプション などからモデルを選ぶ
 4. A/B テストやコンジョイント分析 などで実価格を決める
 5. 展開 し、価値提案 とともに説明する
 6. 売上、利益、シェア、競合反応を見て調整する
@@ -140,27 +140,27 @@ Apple は プレミアム価格戦略 を維持し、高品質で 憧れを呼�
 
 ```mermaid
 flowchart TD
-    A[需要、弾力性、原価を把握する] --> B{主目的は何か}
-    B -->|採用加速| C[低価格化<br/>浸透価格またはフリーミアム]
-    B -->|利益保護| D[プレミアム価格 価値を示す]
-    B -->|市場分断| E[段階別またはモジュール型価格]
-    B -->|利用抑制| F[利用量ベースの制御]
-    C --> G[量 と 顧客獲得コスト を観測]
-    D --> H[差別化要素を bundle して正当化]
-    E --> I[支払い意思額 に合わせて パッケージ化]
-    F --> J[需要を capacity 制約へ合わせる]
-    G --> K[share、顧客生涯価値、competitor reaction を測る]
-    H --> K
-    I --> K
-    J --> K
-    K --> L[実験を反復し、価格設計を磨く]
-    L --> A
+  A[需要、弾力性、原価を把握する] --> B{主目的は何か}
+  B -->|採用加速| C[低価格化<br/>浸透価格またはフリーミアム]
+  B -->|利益保護| D[プレミアム価格 価値を示す]
+  B -->|市場分断| E[段階別またはモジュール型価格]
+  B -->|利用抑制| F[利用量ベースの制御]
+  C --> G[量 と 顧客獲得コスト を観測]
+  D --> H[差別化要素を bundle して正当化]
+  E --> I[支払い意思額 に合わせて パッケージ化]
+  F --> J[需要を capacity 制約へ合わせる]
+  G --> K[share、顧客生涯価値、competitor reaction を測る]
+  H --> K
+  I --> K
+  J --> K
+  K --> L[実験を反復し、価格設計を磨く]
+  L --> A
 ```
 
 ## 📈 **成功指標**
 
-- market share の変化
-- target profit 利益率 の達成度
+- 市場シェア の変化
+- 目標利益 利益率 の達成度
 - 顧客獲得コスト の変化
 - 顧客生涯価値 の変化
 - 価格弾力性の把握精度
@@ -187,25 +187,25 @@ flowchart TD
 
 ### 価格と進化
 
-コンポーネントが 創世記 から コモディティ へ進化するにつれて、最適 価格戦略は変わります。初期は プレミアム価格 が可能でも、市場成熟とともに competitive pricing が中心になります。
+コンポーネントが 創世記 から コモディティ へ進化するにつれて、最適 価格戦略は変わります。初期は プレミアム価格 が可能でも、市場成熟とともに 競争価格 が中心になります。
 
 ### 価値創造と価値回収
 
-pricing は価値回収の主装置ですが、回収だけに寄ると長期の価値創造を止めます。均衡が必要です。
+価格設定 は価値回収の主装置ですが、回収だけに寄ると長期の価値創造を止めます。均衡が必要です。
 
 ## ❓ **問うべきこと**
 
 - 価格の主目的は何か
 - 自社製品は顧客へどれだけの価値を作り、それをどう定量化するか
 - 値上げ・値下げで 量 はどう動くか
-- competitor はどう反応するか
-- pricing が brand image にどんな影響を与えるか
+- 競合はどう反応するか
+- 価格設定 が ブランドイメージ にどんな影響を与えるか
 
 ## 🔀 **関連戦略**
 
-- [細分化戦略](/strategies/competitor/fragmentation) - pricing で市場を意図的に細分化できる
+- [細分化戦略](/strategies/competitor/fragmentation) - 価格設定 で市場を意図的に細分化できる
 - [ジェヴォンズの逆説](/terms/jevons-paradox) - 価格低下が消費総量を増やすことがある
-- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - buyer / supplier 関係での主要レバー
+- [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - 買い手 / 供給者 関係での主要レバー
 - [最後の一社](/strategies/markets/last-man-standing) - 低価格で競合を消耗させる戦略と結びつきやすい
 
 ## ⛅ **関連する状勢パターン**
@@ -215,6 +215,6 @@ pricing は価値回収の主装置ですが、回収だけに寄ると長期の
 
 ## 📚 **参考文献**
 
-- [Confessions of the Pricing Man](/books/confessions-of-the-pricing-man) - pricing の理論と実務
-- [Monetizing Innovation](/books/monetizing-innovation) - innovation を pricing に結びつける方法
-- [Priceless: The Myth of Fair Value](/books/priceless-the-myth-of-fair-value) - 価格心理学 の考察
+- [価格設定者の告白](/books/confessions-of-the-pricing-man) - 価格設定 の理論と実務
+- [イノベーションの収益化](/books/monetizing-innovation) - イノベーションを 価格設定 に結びつける方法
+- [価格の心理学](/books/priceless-the-myth-of-fair-value) - 価格心理学 の考察

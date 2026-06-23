@@ -52,4 +52,4 @@ Vercel Analytics は、過去のトラフィック傾向を確認できるよう
 
 ## お問い合わせ
 
-このポリシーについて質問がある場合や、プライバシー権の行使を希望する場合は、[dave.engineer](https://dave.engineer) に掲載されている連絡先から Dave Hulbert に連絡するか、[GitHub リポジトリ](https://github.com/dave1010/wardley-leadership-strategies) に issue を作成してください。
+このポリシーについて質問がある場合や、プライバシー権の行使を希望する場合は、[dave.engineer](https://dave.engineer) に掲載されている連絡先から Dave Hulbert に連絡するか、[GitHub リポジトリ](https://github.com/dave1010/wardley-leadership-strategies) に Issue を作成してください。

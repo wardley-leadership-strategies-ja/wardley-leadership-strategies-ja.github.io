@@ -13,20 +13,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Secure long-term investment
-- Shape the market
+- 自社の地位を守る
+- 長期投資を確保する
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Regulatory or policy leverage available
-- Limited resources or capacity
+- 競合から攻撃を受けている
+- 規制や政策を活用できる余地がある
+- 資源や能力が限られている
 leadership_focus:
-- Policy advocacy
-- Coalition building
-- Narrative building
+- 政策提言
+- 連合形成
+- 物語構築
 quick_signals:
 - 新規参入者が、製品改善で追いつく前に利幅を削っている。
 - 業界団体で、参加条件を左右するルール変更が議論されている。
@@ -50,7 +50,7 @@ time_horizon: Long-term positioning
 > - Simon Wardley
 
 :::note
-**競争制限（Limitation of Competition）** は、競争圧力を減らしたいという上位目的です。[防御的規制](/strategies/defensive/defensive-regulation)、[参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)、[特許と知的財産権](/strategies/decelerators/ipr)、[脅威の買収](/strategies/defensive/threat-acquisition)、[標準化ゲーム](/strategies/markets/standards-game) は、その目的を達成する個別手段です。このページは高位の文脈を扱い、具体策の詳細はそれぞれのページに譲ります。
+**競争制限（競争制限）** は、競争圧力を減らしたいという上位目的です。[防御的規制](/strategies/defensive/defensive-regulation)、[参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)、[特許と知的財産権](/strategies/decelerators/ipr)、[脅威の買収](/strategies/defensive/threat-acquisition)、[標準化ゲーム](/strategies/markets/standards-game) は、その目的を達成する個別手段です。このページは高位の文脈を扱い、具体策の詳細はそれぞれのページに譲ります。
 :::
 
 ## 🤔 **解説**
@@ -59,7 +59,7 @@ time_horizon: Long-term positioning
 
 競争制限は、競合の脅威を、ルール、環境、市場条件を形作ることで構造的に減らすメタ戦略です。一つの戦術ではなく、規制、法律、標準、制度を使って、競合を締め出す、遅らせる、重くする戦略群の総称です。たとえば次が含まれます。
 
-- incumbents に有利で、高い準拠コストを課す規制づくり
+- 既存勢力 に有利で、高い準拠コストを課す規制づくり
 - 新規参入者が満たしにくい業界標準の形成
 - 特許、著作権などで重要領域を囲うこと
 - 脅威が育つ前に買収、無力化すること
@@ -69,7 +69,7 @@ time_horizon: Long-term positioning
 
 ### なぜ使うのか
 
-- disruptive な新規参入を減らし、市場地位と収益性を守るため
+- 破壊的 な新規参入を減らし、市場地位と収益性を守るため
 - 変化の速度を遅らせ、適応や内製革新の時間を稼ぐため
 - 長期計画に向く安定的な環境を作るため
 - 既存の政治力、法的力、エコシステム支配を競争優位に変えるため
@@ -90,9 +90,9 @@ time_horizon: Long-term positioning
 
 AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T 機器の接続まで制限していました。反トラスト介入まで、産業進化の速度と方向を大きく支配しました。
 
-### 銀行規制と incumbents 保護
+### 銀行規制と 既存勢力 保護
 
-多くの国で、資本要件、免許、コンプライアンス要件は、新規参入者にとって非常に重く、資金力のある既存銀行が有利になるよう働きます。これが fintech の進行を遅らせます。
+多くの国で、資本要件、免許、コンプライアンス要件は、新規参入者にとって非常に重く、資金力のある既存銀行が有利になるよう働きます。これが フィンテック の進行を遅らせます。
 
 ### 欧州の自動車排ガス規制
 
@@ -100,27 +100,27 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 
 ### 1930〜70年代の航空規制
 
-米国の Civil Aeronautics Board は路線と運賃を厳しく管理し、新規競争を抑えて incumbents を守りました。規制緩和後、競争と革新は一気に高まりましたが、保護環境に慣れた既存勢は苦しみました。
+米国の Civil Aeronautics Board は路線と運賃を厳しく管理し、新規競争を抑えて 既存勢力 を守りました。規制緩和後、競争と革新は一気に高まりましたが、保護環境に慣れた既存勢は苦しみました。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Limitation of Competition">
-  <MapSignals>
-    <li>地図上で、重要なコンポーネントや市場地位が新規参入や代替に脅かされている。</li>
-    <li>規制当局、標準団体、重要顧客へ大きな影響力を持つ、または持てる。</li>
-    <li>既存または新しいルールを、自社有利に形作れる余地がある。</li>
-    <li>競合が、今の障壁を回避・破壊しようとしている。</li>
-    <li>安全性、品質、安定性などの公共利益で、障壁を正当化できる。</li>
-    <li>環境が変わる前に手を打てる時間がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>政策立案者、規制当局、業界団体と強い関係を持っている。</li>
-    <li>規制や標準の地形を細かく理解している。</li>
-    <li>ロビー、法務、標準化へ資源を投入できる。</li>
-    <li>反競争的と見なされた場合の監視や反発に備えている。</li>
-    <li>障壁が外れた場合の代替計画がある。</li>
-    <li>防御策と並行して、革新への投資も続けられる。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、重要なコンポーネントや市場地位が新規参入や代替に脅かされている。</li>
+  <li>規制当局、標準団体、重要顧客へ大きな影響力を持つ、または持てる。</li>
+  <li>既存または新しいルールを、自社有利に形作れる余地がある。</li>
+  <li>競合が、今の障壁を回避・破壊しようとしている。</li>
+  <li>安全性、品質、安定性などの公共利益で、障壁を正当化できる。</li>
+  <li>環境が変わる前に手を打てる時間がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>政策立案者、規制当局、業界団体と強い関係を持っている。</li>
+  <li>規制や標準の地形を細かく理解している。</li>
+  <li>ロビー、法務、標準化へ資源を投入できる。</li>
+  <li>反競争的と見なされた場合の監視や反発に備えている。</li>
+  <li>障壁が外れた場合の代替計画がある。</li>
+  <li>防御策と並行して、革新への投資も続けられる。</li>
+ </Readiness>
 </Assessment>
 
 **向くとき:**
@@ -167,7 +167,7 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 - 新規参入者の数や強さの低下
 - 規制、法、標準の変更が自社有利になったか
 - 市場シェアや収益安定性の向上
-- 市場の disruptive な変化速度が落ちたか
+- 市場の 破壊的 な変化速度が落ちたか
 - 長期投資と計画を継続できているか
 
 ## ⚠️ **失敗しやすい点**
@@ -224,10 +224,10 @@ AT&T は長年、FCC ルールを通じて競合排除に成功し、非 AT&T �
 
 ## ⛅ **関連する状勢パターン**
 
-- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 市況変化で imposed な制限が崩れることがある
-- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 守られた incumbents は変化に弱くなる
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – トリガー: 市況変化で 押し付けられた な制限が崩れることがある
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 影響: 守られた 既存勢力 は変化に弱くなる
 
 ## 📚 **参考文献**
 
-- Taxi Medallion System vs Uber - 都市ごとの免許制が長く競争を制限し、後に回避された例
+- Taxi Medallion System 対 Uber - 都市ごとの免許制が長く競争を制限し、後に回避された例
 - Airline Regulation (1930s–70s) - 規制保護とその崩壊の典型例

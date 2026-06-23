@@ -52,7 +52,7 @@ authors:
 
 予測のパターンは、市場サイクルやシグナルを通じて将来の変化を見通す助けになります。
 
-- [「戦争」は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve)
+- [『戦争』は組織を進化させる](/climatic-patterns/a-war-causes-organisations-to-evolve)
 - [経済にはサイクルがある](/climatic-patterns/economy-has-cycles)
 - [進化は複数の普及曲線から成る](/climatic-patterns/evolution-consists-of-multiple-diffusion-curves)
 - [すべてがランダムではない](/climatic-patterns/not-everything-is-random)
@@ -65,7 +65,7 @@ authors:
 速度のパターンは、変化の速さと安定性が俊敏性にどう影響するかを扱います。
 
 - [変化は必ずしも線形ではない](/climatic-patterns/change-is-not-always-linear)
-- [効率性はイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation)
 - [通信手段の進化は全体速度を高める](/climatic-patterns/evolution-of-communication-mechanisms-can-increase-the-speed-of-evolution-overall-and-the-diffusion-of-a-single-example-of-change)
 - [下位システムの安定性向上は俊敏性を高める](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination)
 - [自律の長さは広がる](/climatic-patterns/autonomy-length-expands)

@@ -13,21 +13,21 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Genesis
-- Custom-Built
-- Product
+- 創世記
+- カスタムビルド
+- プロダクト
 goals:
-- Shape the market
-- Build ecosystem leverage
-- Secure long-term investment
+- 市場を形作る
+- エコシステムの影響力を築く
+- 長期投資を確保する
 pressures:
-- Market is nascent or undefined
-- Facing dominant incumbent
-- Limited resources or capacity
+- 市場が初期段階または未定義である
+- 支配的な既存勢力に直面している
+- 資源や能力が限られている
 leadership_focus:
-- Launch choreography
-- Partner choreography
-- Risk framing
+- ローンチ設計
+- パートナー連携設計
+- リスクの枠組み化
 quick_signals:
 - 後からの参加可否を、希少資産や許認可が左右する。
 - 地図に、既存勢力がまだ無視している白地が見える。
@@ -54,9 +54,9 @@ time_horizon: Long-term positioning
 
 ## 🤔 **解説**
 
-### Land Grab とは何か
+### 先行確保 とは何か
 
-Land Grab は、成長前の市場で、後から複製しにくい場所、資産、標準、許認可、インターフェースを先に確保する戦略です。物流拠点、周波数、開発者基盤、API 標準、規制上の地位など、将来の参加条件を左右する地点を取ります。
+先行確保は、成長前の市場で、後から複製しにくい場所、資産、標準、許認可、インターフェースを先に確保する戦略です。物流拠点、周波数、開発者基盤、API 標準、規制上の地位など、将来の参加条件を左右する地点を取ります。
 
 ### なぜ使うのか
 
@@ -86,19 +86,19 @@ EV の普及前に充電インフラを敷いたことで、Tesla は車両販�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Land Grab">
-  <MapSignals>
-    <li>新市場の基盤やインターフェースがまだ未確定である。</li>
-    <li>希少資源、標準、許認可を早く押さえた側が有利になる。</li>
-    <li>ネットワーク効果やエコシステム効果が働く余地が大きい。</li>
-    <li>既存勢力がまだ本気で動いていない。</li>
-  </MapSignals>
-  <Readiness>
-    <li>高い初期投資を支えられる。</li>
-    <li>資源を素早く集めて配置できる。</li>
-    <li>パートナーや利害関係者を巻き込める。</li>
-    <li>不確実な空間で方向修正しながら進められる。</li>
-    <li>数年単位で維持する覚悟がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>新市場の基盤やインターフェースがまだ未確定である。</li>
+  <li>希少資源、標準、許認可を早く押さえた側が有利になる。</li>
+  <li>ネットワーク効果やエコシステム効果が働く余地が大きい。</li>
+  <li>既存勢力がまだ本気で動いていない。</li>
+ </MapSignals>
+ <Readiness>
+  <li>高い初期投資を支えられる。</li>
+  <li>資源を素早く集めて配置できる。</li>
+  <li>パートナーや利害関係者を巻き込める。</li>
+  <li>不確実な空間で方向修正しながら進められる。</li>
+  <li>数年単位で維持する覚悟がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -169,7 +169,7 @@ EV の普及前に充電インフラを敷いたことで、Tesla は車両販�
 
 ### 先行確保は後続戦略の土台
 
-Land Grab 自体がゴールではなく、その後の [先行者戦略](/strategies/positional/first-mover)、[ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects)、[塔と堀](/strategies/ecosystem/tower-and-moat) を成立させる土台になります。
+先行確保自体がゴールではなく、その後の [先行者戦略](/strategies/positional/first-mover)、[ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects)、[塔と堀](/strategies/ecosystem/tower-and-moat) を成立させる土台になります。
 
 ## ❓ **問うべきこと**
 

@@ -14,27 +14,27 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Accelerate adoption
-- Shape the market
-- Unlock new growth
+- 採用を加速する
+- 市場を形作る
+- 新しい成長を開く
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Customers are nervous about change
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 顧客が変化に不安を感じている
 leadership_focus:
-- Policy advocacy
-- Narrative building
-- Partner choreography
+- 政策提言
+- 物語構築
+- パートナー連携設計
 quick_signals:
-- 顧客が、高すぎる価格やライセンス条件のせいで incumbent から動けないと言っている。
-- 規制当局や大口顧客が、incumbent の支配の公正さを疑っている。
+- 顧客が、高すぎる価格やライセンス条件のせいで 既存勢力 から動けないと言っている。
+- 規制当局や大口顧客が、既存勢力 の支配の公正さを疑っている。
 - ユーザーニーズはあるのに、新規参入者が同じボトルネックで苦しんでいる。
 momentum_moves:
 - 障壁の構成要素を地図にし、ユーザーが実感できる摩擦を証拠つきで示す。
-- incumbent の優位を崩すオープンな代替や共有サービスを支援する。
+- 既存勢力 の優位を崩すオープンな代替や共有サービスを支援する。
 - パートナーや規制当局を動かし、低摩擦な新経路を正当化する。
 watch_outs:
 - 障壁を壊した後の価値回収計画がないこと。
@@ -67,7 +67,7 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### Google Android vs Apple iOS
+### Google Android 対 Apple iOS
 
 スマートフォン初期には、競争力あるモバイル OS を作ること自体が大きな参入障壁でした。Apple の iOS は閉じた プロプライエタリ システムで、大きな優位を持っていました。Google は Android を開発し、オープンソース化することでこの障壁を切り崩しました。これにより Samsung、LG、HTC など多数のメーカーが、自前 OS を作らず市場へ入れるようになりました。
 
@@ -82,18 +82,18 @@ time_horizon: Medium-term shaping
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Undermining Barriers to Entry">
-  <MapSignals>
-    <li>地図上で、incumbent が単一の明確な参入障壁に守られている。</li>
-    <li>その障壁が顧客やエコシステム参加者に不満を生んでいる。</li>
-    <li>こちらには、その障壁を大きく下げる技術や事業モデルがある。</li>
-    <li>市場が停滞し、incumbent の保護によってイノベーションが鈍っている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>自社は障壁で利益を得る incumbent ではなく、挑戦者である。</li>
-    <li>もっと競争的になった市場で、自社がどう勝つか明確な計画がある。</li>
-    <li>強い incumbent と正面から戦う資源とリスク許容がある。</li>
-    <li>ブランドが、破壊、オープンさ、顧客側に立つ姿勢と結びついている。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、既存勢力 が単一の明確な参入障壁に守られている。</li>
+  <li>その障壁が顧客やエコシステム参加者に不満を生んでいる。</li>
+  <li>こちらには、その障壁を大きく下げる技術や事業モデルがある。</li>
+  <li>市場が停滞し、既存勢力 の保護によってイノベーションが鈍っている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>自社は障壁で利益を得る 既存勢力 ではなく、挑戦者である。</li>
+  <li>もっと競争的になった市場で、自社がどう勝つか明確な計画がある。</li>
+  <li>強い 既存勢力 と正面から戦う資源とリスク許容がある。</li>
+  <li>ブランドが、破壊、オープンさ、顧客側に立つ姿勢と結びついている。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -184,5 +184,5 @@ time_horizon: Medium-term shaping
 
 ## 📚 **参考文献**
 
-- [The Innovator's Dilemma](/books/the-innovators-dilemma) - 破壊的挑戦者が既存勢力を崩す理論的背景
+- [イノベーションのジレンマ](/books/the-innovators-dilemma) - 破壊的挑戦者が既存勢力を崩す理論的背景
 - [Judo Strategy](/books/judo-strategy) - 小さな挑戦者が 既存勢力 の重さを逆用する戦略

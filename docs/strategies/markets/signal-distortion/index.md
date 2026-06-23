@@ -14,24 +14,24 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Change the narrative
-- Defend your position
-- Shape the market
+- 物語を変える
+- 自社の地位を守る
+- 市場を形作る
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Market is nascent or undefined
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 市場が初期段階または未定義である
 leadership_focus:
-- Narrative control
-- Secrecy and timing
-- Influencer engagement
+- 物語統制
+- 秘匿性とタイミング
+- 影響者との関係構築
 quick_signals:
 - 競合が直接のユーザー観察より、アナリストやメディアの言説に強く反応している。
 - 実際の施策を立ち上げる間の時間を稼ぎたい。
-- 市場の hype が、実体以上に投資や評価を揺らしている。
+- 市場の 過熱感 が、実体以上に投資や評価を揺らしている。
 momentum_moves:
 - アナリストが望ましい物語を採るように、話題とデータ点を意図的に流す。
 - 経営メッセージを揃え、歪めたシグナルを一貫して補強する。
@@ -69,11 +69,11 @@ time_horizon: Fast impact
 
 ### Vaporware の発表
 
-典型例は vaporware です。製品を発表して市場期待だけを作り、実際には出さない。1990 年代の Microsoft は、この手法で競合製品の購入を思いとどまらせたと批判されることがありました。
+典型例は ベーパーウェア です。製品を発表して市場期待だけを作り、実際には出さない。1990 年代の Microsoft は、この手法で競合製品の購入を思いとどまらせたと批判されることがありました。
 
 ### ハイプサイクルの増幅
 
-企業は AI、メタバース、Web3 のような hype に便乗し、進捗が乏しくても投資、人材、メディア注目を集めることがあります。競合は取り残される恐怖から、その領域に無理に資源を振ることになります。
+企業は AI、メタバース、Web3 のような 過熱感 に便乗し、進捗が乏しくても投資、人材、メディア注目を集めることがあります。競合は取り残される恐怖から、その領域に無理に資源を振ることになります。
 
 ### 選択的なデータ公開
 
@@ -82,18 +82,18 @@ time_horizon: Fast impact
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Signal Distortion">
-  <MapSignals>
-    <li>競合が業界アナリストやメディア報道に強く影響される。</li>
-    <li>市場に不確実性と投機性が強い。</li>
-    <li>活用できる既存の情報流通チャネルがある。</li>
-    <li>競合が見かけの脅威や機会に過剰反応してきた履歴がある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>複雑な物語を作り、広められる広報とマーケティング能力がある。</li>
-    <li>倫理的な曖昧さと付随リスクを引き受ける覚悟がある。</li>
-    <li>もっともらしいシグナルを作り、継続的に支えられる。</li>
-    <li>経営が市場心理と戦略コミュニケーションを理解している。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合が業界アナリストやメディア報道に強く影響される。</li>
+  <li>市場に不確実性と投機性が強い。</li>
+  <li>活用できる既存の情報流通チャネルがある。</li>
+  <li>競合が見かけの脅威や機会に過剰反応してきた履歴がある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>複雑な物語を作り、広められる広報とマーケティング能力がある。</li>
+  <li>倫理的な曖昧さと付随リスクを引き受ける覚悟がある。</li>
+  <li>もっともらしいシグナルを作り、継続的に支えられる。</li>
+  <li>経営が市場心理と戦略コミュニケーションを理解している。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -143,7 +143,7 @@ time_horizon: Fast impact
 
 - 狙った競合が、期待した反応を実際に取ったか
 - メディアやアナリストが歪めたシグナルを事実として反復したか
-- 競合がこちらの feint に対抗して有意な資源を振った証拠があるか
+- 競合がこちらの陽動 に対抗して有意な資源を振った証拠があるか
 
 ## ⚠️ **失敗しやすい点**
 
@@ -192,12 +192,12 @@ time_horizon: Fast impact
 ## ⛅ **関連する状勢パターン**
 
 - [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 競合の状況認識の弱さを利用する
-- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: hype cycle やバブルはシグナル歪曲で増幅される
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: ハイプサイクル やバブルはシグナル歪曲で増幅される
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功シグナルに依存する競合は、新しい歪んだシグナルに引っかかりやすい
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の行動変化そのものが目的である
 - [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性はシグナル歪曲を効かせやすい
 
 ## 📚 **参考文献**
 
-- [Trust Me, I'm Lying](/books/trust-me-im-lying) - メディア操作の実情を扱う本
-- [The Art of War](/books/the-art-of-war) - 欺瞞と陽動に関する古典
+- [メディア操作の告白](/books/trust-me-im-lying) - メディア操作の実情を扱う本
+- [孫子](/books/the-art-of-war) - 欺瞞と陽動に関する古典

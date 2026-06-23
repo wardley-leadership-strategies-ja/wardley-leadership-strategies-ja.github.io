@@ -10,4 +10,4 @@ isbn13: "9781250091895"
 
 ## 参照先
 
-- [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
+- [両面市場](/strategies/ecosystem/two-factor-markets)

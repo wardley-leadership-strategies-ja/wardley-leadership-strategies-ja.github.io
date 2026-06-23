@@ -14,20 +14,20 @@ authors:
 - kdmsnr
 description: 競合の選択肢を絞り、適応や拡張を難しくする封じ込め戦略。
 stages:
-- Custom-Built
-- Product
+- カスタムビルド
+- プロダクト
 goals:
-- Defend your position
-- Shape the market
-- Build ecosystem leverage
+- 自社の地位を守る
+- 市場を形作る
+- エコシステムの影響力を築く
 pressures:
-- Facing dominant incumbent
-- Competitive attack underway
-- Need to go faster than internal bureaucracy
+- 支配的な既存勢力に直面している
+- 競合から攻撃を受けている
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Partner choreography
-- Policy advocacy
-- Risk framing
+- パートナー連携設計
+- 政策提言
+- リスクの枠組み化
 quick_signals:
 - 競合が自社のパートナーや供給者へ接近し、新しい販路を作ろうとしている。
 - 競合が中核周辺の隣接領域で実験し始めている。
@@ -70,23 +70,23 @@ time_horizon: Long-term positioning
 
 ```mermaid
 flowchart TD
-    A[競合の適応経路を地図化] --> B{どの正面か}
-    B -->|製品と市場| C[隣接提供を出し
+  A[競合の適応経路を地図化] --> B{どの正面か}
+  B -->|製品と市場| C[隣接提供を出し
 価格帯を埋める]
-    B -->|提携| D[供給者やチャネルと
+  B -->|提携| D[供給者やチャネルと
 排他的条件を結ぶ]
-    B -->|人材と能力| E[重要人材やチームを
+  B -->|人材と能力| E[重要人材やチームを
 確保する]
-    B -->|規制と知財| F[標準を形作り
+  B -->|規制と知財| F[標準を形作り
 防御特許を積む]
-    C --> G[差別化の余地を狭める]
-    D --> G
-    E --> G
-    F --> G
-    G --> H[競合の選択肢が縮む]
-    H --> I[逃げ道を監視し
+  C --> G[差別化の余地を狭める]
+  D --> G
+  E --> G
+  F --> G
+  G --> H[競合の選択肢が縮む]
+  H --> I[逃げ道を監視し
 地図を更新する]
-    I --> A
+  I --> A
 ```
 
 ## 🗺️ **実例**
@@ -106,23 +106,23 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="移動の制限">
-  <MapSignals>
-    <li>競合が、限られた供給者、チャネル、技術、提携に大きく依存している。</li>
-    <li>重要な実現要素を先回りして押さえられるだけの集中性がエコシステムにある。</li>
-    <li>市場境界が動いており、競合より先に隣接セグメントへ打てる。</li>
-    <li>規制、標準、API、インフルエンサーなど、競合依存の接点が見えている。</li>
-    <li>競合の最近の動きが、依存の偏りや戦略選択肢の狭さを示している。</li>
-    <li>競合の横展開を先回りできる未充足ニーズがある。</li>
-  </MapSignals>
-  <Readiness>
-    <li>重要資源を先回りして押さえられる運営規模や到達範囲がある。</li>
-    <li>プロダクト、法務、提携、マーケティングを横断して動ける。</li>
-    <li>競合の動きとエコシステム変化を継続監視できる。</li>
-    <li>規制や評判の反発を避ける語り方と設計ができる。</li>
-    <li>相手を塞ぎつつ自分は柔軟に動ける能力がある。</li>
-    <li>技術、市場アクセス、提携、人材の複数正面を同時に見られる。</li>
-    <li>長期的立場を損なう過剰反応を避ける判断力がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>競合が、限られた供給者、チャネル、技術、提携に大きく依存している。</li>
+  <li>重要な実現要素を先回りして押さえられるだけの集中性がエコシステムにある。</li>
+  <li>市場境界が動いており、競合より先に隣接セグメントへ打てる。</li>
+  <li>規制、標準、API、インフルエンサーなど、競合依存の接点が見えている。</li>
+  <li>競合の最近の動きが、依存の偏りや戦略選択肢の狭さを示している。</li>
+  <li>競合の横展開を先回りできる未充足ニーズがある。</li>
+ </MapSignals>
+ <Readiness>
+  <li>重要資源を先回りして押さえられる運営規模や到達範囲がある。</li>
+  <li>プロダクト、法務、提携、マーケティングを横断して動ける。</li>
+  <li>競合の動きとエコシステム変化を継続監視できる。</li>
+  <li>規制や評判の反発を避ける語り方と設計ができる。</li>
+  <li>相手を塞ぎつつ自分は柔軟に動ける能力がある。</li>
+  <li>技術、市場アクセス、提携、人材の複数正面を同時に見られる。</li>
+  <li>長期的立場を損なう過剰反応を避ける判断力がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -238,4 +238,4 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 ## 📚 **参考文献**
 
 - [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
-- [Antitrust Division | U.S. V. Microsoft: Proposed Findings Of Fact](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
+- [反トラスト局 | U.S. V. Microsoft: 事実認定案](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)

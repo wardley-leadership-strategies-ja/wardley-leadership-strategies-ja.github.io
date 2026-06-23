@@ -15,32 +15,32 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem leverage
-- Accelerate adoption
-- Secure long-term investment
+- エコシステムの影響力を築く
+- 採用を加速する
+- 長期投資を確保する
 pressures:
-- Ecosystem fragmentation
-- Trust deficit with partners
-- Platform risks losing legitimacy
+- エコシステムが断片化している
+- パートナーとの信頼が不足している
+- プラットフォームが正統性を失いかけている
 leadership_focus:
-- Governance stewardship
-- Incentive design and fairness
-- Long-term ecosystem health
+- ガバナンス運営責任
+- インセンティブ設計と公平性
+- 長期のエコシステム健全性
 quick_signals:
 - パートナーは重要モジュールを提供しているが、投資拡大をためらっている。
-- 共有インフラを維持するための neutral home が必要になっている。
-- shared standard、shared IP、共同資金調達に依存して規模化している。
+- 共有インフラを維持するための中立的な受け皿が必要になっている。
+- 共有標準、共有知財、共同資金調達に依存して規模化している。
 momentum_moves:
-- どの資産は共同統治が必要で、どれは proprietary control のままにするか切り分ける。
-- 議決権、紛争解決、IP stewardship を含む軽量 charter を作る。
-- 明確な責任と期限付き判断を持つ暫定 council を立ち上げる。
+- どの資産を共同統治し、どれをプロプライエタリな統制のままにするか切り分ける。
+- 議決権、紛争解決、知財管理を含む軽量な憲章を作る。
+- 明確な責任と期限付き判断を持つ暫定評議会を立ち上げる。
 watch_outs:
 - ガバナンスが名目だけで、実権は中央に残ること。
 - 共同所有構造が法務・税務の複雑性を生み、参加を妨げること。
-- 意思決定が遅くなり、ecosystem の勢いが失われること。
+- 意思決定が遅くなり、エコシステムの勢いが失われること。
 effort_level: Cross-Functional Initiative
 time_horizon: Long-term positioning
 ---
@@ -53,21 +53,21 @@ time_horizon: Long-term positioning
 
 ### コミュニティ統治と共同所有とは何か
 
-この戦略は、重要なエコシステム資産に対する 統制を形式化して共有し、参加者が結果に当事者性を持つようにするものです。たとえば次の形があります。
+この戦略は、重要なエコシステム資産に対する統制を形式化して共有し、参加者が結果に当事者性を持つようにするものです。たとえば次の形があります。
 
-- **財団や 信託:** 標準、商標、インフラなど共有資産を保有する
+- **財団や信託:** 標準、商標、インフラなど共有資産を保有する
 - **メンバー評議会や運営委員会:** 予算配分、優先順位、紛争解決を担う
-- **共有知財プールやライセンス枠組み:** 共同価値を守りつつ コモンズ を利用可能にする
+- **共有知財プールやライセンス枠組み:** 共同価値を守りつつコモンズを利用可能にする
 
-目的は、「許可された参加」から「権利としての参加」へ移し、参加者が自分のロードマップをこの エコシステム と深く結びつけやすくすることです。
+目的は、「許可された参加」から「権利としての参加」へ移し、参加者が自分のロードマップをこのエコシステムと深く結びつけやすくすることです。
 
 ### なぜ使うのか
 
-共有資産が オープンで、安定していて、公正 に保たれると信じられるとき、参加者はその上に 構築 しやすくなります。統治への 当事者性 を与えることで 信託 が増し、深い貢献と長期投資が出やすくなります。結果として採用は速まり、標準は しなやか になり、補完的 イノベーション の流れも太くなります。
+共有資産がオープンで、安定していて、公正に保たれると信じられるとき、参加者はその上に構築しやすくなります。統治への当事者性を与えることで信頼が増し、深い貢献と長期投資が出やすくなります。結果として採用は速まり、標準はしなやかになり、補完的イノベーションの流れも太くなります。
 
 ### どうやって 粘着性 を強めるのか
 
-粘着性 は、離脱コストと残留便益の両方から生まれます。共同所有はその両方を上げます。
+粘着性は、離脱コストと残留便益の両方から生まれます。共同所有はその両方を上げます。
 
 - **ガバナンス上のロックイン:** 自分たちで作った決定権を捨てる必要がある
 - **資産面のロックイン:** 共有知財、共有ロードマップ、共有インフラが切替コストを上げる
@@ -77,142 +77,142 @@ time_horizon: Long-term positioning
 
 ### Linux Foundation
 
-中立財団として重要なオープンソース基盤を統治し、加盟企業が資金を出しつつ、その上でプロプライエタリな提供物 を構築できるようにしています。
+中立財団として重要なオープンソース基盤を統治し、加盟企業が資金を出しつつ、その上でプロプライエタリな提供物を構築できるようにしています。
 
 ### Cloud Native Computing Foundation（CNCF）
 
-クラウドネイティブ標準やプロジェクトを 監督し し、技術監督委員会 と段階的ガバナンスで 貢献者 の投資意欲を保っています。
+クラウドネイティブ標準やプロジェクトを監督し、技術監督委員会と段階的ガバナンスで貢献者の投資意欲を保っています。
 
 ### 仮想例: オープンなデータ交換基盤
 
-複数の金融機関が、共有データ スキーマ と API を管理する 財団 を作り、メンバー評議会が更新を決め、共有知財プール を維持するケースです。
+複数の金融機関が、共有データスキーマと API を管理する財団を作り、メンバー評議会が更新を決め、共有知財プールを維持するケースです。
 
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Community Governance and Co-Ownership">
-  <MapSignals>
-    <li>地図上で、標準、インフラ、共通データなど複数者の投資が必要な shared dependency がある。</li>
-    <li>重要参加者が unilateral control を恐れて、深いコミットを避けている。</li>
-    <li>バリューチェーンが相互運用性へ依存し、単独企業では全 stack を credibly own できない。</li>
-    <li>重要 component が utility 化し、neutral stewardship の方が利益になる。</li>
-    <li>複数の supplier や partner が、roadmap を揃えるための予測可能な統治を必要としている。</li>
-  </MapSignals>
-  <Readiness>
-    <li>明確な統治ルールを設計し、一貫して執行できる。</li>
-    <li>shared ownership を安全に組む法務と IP 能力がある。</li>
-    <li>product P&amp;L に直結しない neutral stewardship role へ投資できる。</li>
-    <li>trust を壊さず member 間対立を処理できる。</li>
-    <li>ecosystem growth のために decision rights を共有する覚悟がある。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上で、標準、インフラ、共通データなど複数者の投資が必要な共有依存要素がある。</li>
+  <li>重要参加者が一方的統制を恐れて、深いコミットを避けている。</li>
+  <li>バリューチェーンが相互運用性へ依存し、単独企業ではスタック全体を信頼できる形で所有できない。</li>
+  <li>重要コンポーネントがユーティリティ化し、中立的な運営責任の方が利益になる。</li>
+  <li>複数の供給者やパートナーが、ロードマップを揃えるための予測可能な統治を必要としている。</li>
+ </MapSignals>
+ <Readiness>
+  <li>明確な統治ルールを設計し、一貫して執行できる。</li>
+  <li>共同所有を安全に組む法務と知財能力がある。</li>
+  <li>プロダクト損益責任に直結しない中立運営の役割へ投資できる。</li>
+  <li>信頼を壊さずメンバー間の対立を処理できる。</li>
+  <li>エコシステム成長のために決定権を共有する覚悟がある。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
 
-- shared infrastructure が単独企業を超える長期投資を必要とするとき
+- 共有インフラが単独企業を超える長期投資を必要とするとき
 - パートナーが中立性の保証なしには資源を出さないとき
-- 標準や shared IP の stable で 信託ed な home が必要なとき
-- reputation と 信託 が participation 維持の中核にあるとき
+- 標準や共有知財の安定した信頼できる受け皿が必要なとき
+- 評判と信頼が参加維持の中核にあるとき
 
 ### 避けるとき
 
-- 自社優位が 強く統制されたプロプライエタリ資産 に依存しているとき
-- エコシステム が小さすぎる、または未成熟すぎて 正式なガバナンス に見合わないとき
+- 自社優位が強く統制されたプロプライエタリ資産に依存しているとき
+- エコシステムが小さすぎる、または未成熟すぎて正式なガバナンスに見合わないとき
 - 規制、税務、法務の複雑性が参加を妨げるとき
-- 高速で、最小限の 協議 で決める必要があるとき
+- 高速で、最小限の協議で決める必要があるとき
 
 ## 🎯 **リーダーシップ**
 
 ### 中核課題
 
-open participation と decisive stewardship の均衡を取り、信託ed で fast-moving な エコシステム を保つことです。
+開かれた参加と明確な運営責任の均衡を取り、信頼でき、速く動けるエコシステムを保つことです。
 
 ### 必要なスキル
 
 - [コミュニティとエコシステムの育成](/leadership-skills/community-and-ecosystem-stewardship) — 正統性を保つ
-- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 拡張可能な 決定権 を設計する
+- [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 拡張可能な決定権を設計する
 - [インセンティブ設計とゲーム理論](/leadership-skills/incentive-design-and-game-theory) — 貢献と報酬を揃える
-- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — shared IP を安全に設計する
-- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 多様な member をつなぐ
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 共有知財を安全に設計する
+- [ステークホルダー調整と影響力](/leadership-skills/stakeholder-alignment-and-influence) — 多様なメンバーをつなぐ
 
 ### 倫理面
 
-共同所有は participation を広げるために使うべきで、門番を固定化するためではありません。小さな member でも 成果に影響 できるか、反競争的 control を隠す器になっていないかが重要です。
+共同所有は参加を広げるために使うべきで、門番を固定化するためではありません。小さなメンバーでも成果に影響できるか、反競争的統制を隠す器になっていないかが重要です。
 
 ## 📋 **進め方**
 
-1. neutral のまま保つべき 共有資産 を地図化する
-2. 財団、協同組合、信託 など、制約に合う器を選ぶ
-3. 投票権、エスカレーション経路、貢献要件 を 憲章 に定める
-4. roadmap と 予算 に責任を持つ member council を置く
-5. 便乗的な乗っ取り を防ぐ shared IP 方針 を作る
-6. neutral 運営チーム に運営、コンプライアンス、透明性を担わせる
-7. 毎年 governance を見直し、公平さと適応力を保つ
+1. 中立のまま保つべき共有資産を地図化する
+2. 財団、協同組合、信託など、制約に合う器を選ぶ
+3. 投票権、エスカレーション経路、貢献要件を憲章に定める
+4. ロードマップと予算に責任を持つメンバー評議会を置く
+5. 便乗的な乗っ取りを防ぐ共有知財方針を作る
+6. 中立運営チームに運営、コンプライアンス、透明性を担わせる
+7. 毎年ガバナンスを見直し、公平さと適応力を保つ
 
 ## 📈 **成功指標**
 
-- member participation と contribution volume の成長
-- governance 経路 を通じて決まる roadmap 比率
-- パートナー離脱 や fragmentation の減少
-- shared standard や IP asset の採用拡大
-- council 投票 の 意思決定までの時間
+- メンバー参加と貢献量の成長
+- ガバナンス経路を通じて決まるロードマップ比率
+- パートナー離脱や断片化の減少
+- 共有標準や知財資産の採用拡大
+- 評議会投票の意思決定までの時間
 
 ## ⚠️ **失敗しやすい点**
 
-### Governance theatre
+### 見せかけのガバナンス
 
-財団 や council はあるのに、実権は 創設企業 が持ち続ける状態です。信託 が壊れます。
+財団や評議会はあるのに、実権は創設企業が持ち続ける状態です。信頼が壊れます。
 
-### Shared IP の停滞
+### 共有知財 の停滞
 
-制限が強すぎる、または判断が遅すぎると、貢献者が fork や離脱へ向かいます。
+制限が強すぎる、または判断が遅すぎると、貢献者がフォークや離脱へ向かいます。
 
-### Council gridlock
+### 評議会の膠着
 
-権限が曖昧なまま council だけ拡大すると、政治化と停滞が起きます。
+権限が曖昧なまま評議会だけ拡大すると、政治化と停滞が起きます。
 
 ### 資金の不整合
 
-共有サービス を期待するのに 財団 へ十分出資しないと、統治は脆くなります。
+共有サービスを期待するのに財団へ十分出資しないと、統治は脆くなります。
 
 ## 🧠 **戦略的示唆**
 
 ### 中立性は競争資産になる
 
-市場が 相互運用性 を求めるとき、信頼できる中立の受け皿は、プロプライエタリなプラットフォームより防御力が高く です。競合企業からも投資を引き出せます。
+市場が相互運用性を求めるとき、信頼できる中立の受け皿は、プロプライエタリなプラットフォームより防御力が高いです。競合企業からも投資を引き出せます。
 
 ### 共同所有は切替コストを作り替える
 
-共同所有資産から離れることは、決定権、reputation、shared investment を捨てることです。これは契約ロックインより durable な 粘着性 になりえます。
+共同所有資産から離れることは、決定権、評判、共同投資を捨てることです。これは契約ロックインより持続的な粘着性になりえます。
 
 ### ガバナンス自体がプロダクトの一部
 
-明快な 決定権、透明な 投票、信頼できる実行は、それ自体が差別化になります。成熟した governance は エコシステム を 構築 しやすい場にします。
+明快な決定権、透明な投票、信頼できる実行は、それ自体が差別化になります。成熟したガバナンスはエコシステムを構築しやすい場にします。
 
 ## ❓ **問うべきこと**
 
-- エコシステム 成長のために、どの component は neutral であるべきか
-- どこまで decision power を share するのか
-- voting や steering rights の条件として何を要求するか
-- コモンズ を守りつつ ただ乗り を防ぐ IP 方針 はどうあるべきか
+- エコシステム成長のために、どのコンポーネントは中立であるべきか
+- どこまで決定権を共有するのか
+- 投票や運営権の条件として何を要求するか
+- コモンズを守りつつただ乗りを防ぐ知財方針はどうあるべきか
 - どこは速い判断が必要で、どこは広い合意が必要か
 
 ## 🔀 **関連戦略**
 
-- [アライアンス](/strategies/ecosystem/alliances) - 共有統治を durable institution にできる
-- [共創](/strategies/ecosystem/co-creation) - incentives を深める
-- [塔と堀](/strategies/ecosystem/tower-and-moat) - 信託ed neutrality が moat になることがある
-- [標準化ゲーム](/strategies/markets/standards-game) - 共同所有された標準は adoption を強める
-- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) - governance が staying value を増やす
+- [アライアンス](/strategies/ecosystem/alliances) - 共有統治を持続的な制度にできる
+- [共創](/strategies/ecosystem/co-creation) - インセンティブを深める
+- [塔と堀](/strategies/ecosystem/tower-and-moat) - 信頼できる中立性が堀になることがある
+- [標準化ゲーム](/strategies/markets/standards-game) - 共同所有された標準は採用を強める
+- [ネットワーク効果の活用](/strategies/accelerators/exploiting-network-effects) - ガバナンスが残留価値を増やす
 
 ## ⛅ **関連する状勢パターン**
 
-- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: shared governance が共進化を調整する
-- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: 共同所有が新しい エコシステム value を解放する
-- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: shared infrastructure が新施策へ投資余力を作る
+- [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) – 影響: 共有ガバナンスが共進化を調整する
+- [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – トリガー: 共同所有が新しいエコシステム価値を解放する
+- [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) – 影響: 共有インフラが新施策へ投資余力を作る
 
 ## 📚 **参考文献**
 
 - [Governing the Commons](https://www.cambridge.org/9780521405997) - Elinor Ostrom の共同統治研究
-- [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - community-led governance の古典
-- [Understanding Open Governance Networks](https://www.linuxfoundation.org/blog/blog/understanding-open-governance-networks) - 財団 型統治の概説
-- [CNCF Governance](https://contribute.cncf.io/community/governance/) - member council と technical oversight の実例
+- [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - コミュニティ主導のガバナンスの古典
+- [Understanding Open Governance Networks](https://www.linuxfoundation.org/blog/blog/understanding-open-governance-networks) - 財団型統治の概説
+- [CNCF Governance](https://contribute.cncf.io/community/governance/) - メンバー評議会と技術監督の実例

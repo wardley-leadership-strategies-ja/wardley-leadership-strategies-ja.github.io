@@ -12,20 +12,20 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Defend your position
-- Secure long-term investment
-- Unlock new growth
+- 自社の地位を守る
+- 長期投資を確保する
+- 新しい成長を開く
 pressures:
-- Competitive attack underway
-- Facing dominant incumbent
-- Need to go faster than internal bureaucracy
+- 競合から攻撃を受けている
+- 支配的な既存勢力に直面している
+- 社内官僚制より速く進む必要がある
 leadership_focus:
-- Disciplined portfolio management
-- Talent redeployment
-- Risk framing
+- 規律あるポートフォリオ管理
+- 人材再配置
+- リスクの枠組み化
 quick_signals:
 - 急成長する競合が中核指標を削り始めている。
 - 投資家やパートナーが、破壊的参入者への対処を求めている。
@@ -78,18 +78,18 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Threat Acquisition">
-  <MapSignals>
-    <li>地図上の新規参入者が、重要セグメントで勢いを増している。</li>
-    <li>競合が、自社モデルを崩しかねない技術を育てている。</li>
-    <li>小さな企業が業界で重要な知財や技術を持っている。</li>
-    <li>買収コストが、失う市場シェアより十分小さい。</li>
-  </MapSignals>
-  <Readiness>
-    <li>市場監視と競合分析の仕組みがある。</li>
-    <li>M&amp;A を主導できる経営能力がある。</li>
-    <li>中核事業を傷めずに戦略買収できる財務余力がある。</li>
-    <li>買収後の統合プロセスが明確である。</li>
-  </Readiness>
+ <MapSignals>
+  <li>地図上の新規参入者が、重要セグメントで勢いを増している。</li>
+  <li>競合が、自社モデルを崩しかねない技術を育てている。</li>
+  <li>小さな企業が業界で重要な知財や技術を持っている。</li>
+  <li>買収コストが、失う市場シェアより十分小さい。</li>
+ </MapSignals>
+ <Readiness>
+  <li>市場監視と競合分析の仕組みがある。</li>
+  <li>合併・買収 を主導できる経営能力がある。</li>
+  <li>中核事業を傷めずに戦略買収できる財務余力がある。</li>
+  <li>買収後の統合プロセスが明確である。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -109,7 +109,7 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 
 ### 中核課題
 
-本当に危険な脅威だけを見抜き、高値掴みや場当たり的 M&amp;A を避けることです。市場理解、戦略の明確さ、複雑な取引を実行する力が求められます。
+本当に危険な脅威だけを見抜き、高値掴みや場当たり的 合併・買収 を避けることです。市場理解、戦略の明確さ、複雑な取引を実行する力が求められます。
 
 ### 必要なスキル
 
@@ -120,7 +120,7 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 
 ### 倫理面
 
-競争を消すためだけの買収、いわゆる killer acquisition と見なされると、強い規制リスクがあります。また、買収先社員への配慮や、ユーザー利益の説明責任も重要です。
+競争を消すためだけの買収、いわゆる キラー買収 と見なされると、強い規制リスクがあります。また、買収先社員への配慮や、ユーザー利益の説明責任も重要です。
 
 ## 📋 **進め方**
 
@@ -192,5 +192,5 @@ Yahoo は GeoCities を買いましたが、統合と活用に失敗しました
 ## 📚 **参考文献**
 
 - [Wardley Maps](https://medium.com/wardleymaps)
-- [The Innovator's Dilemma](/books/the-innovators-dilemma)
+- [イノベーションのジレンマ](/books/the-innovators-dilemma)
 - [Mergers & Acquisitions For Dummies](/books/mergers-and-acquisitions-for-dummies)

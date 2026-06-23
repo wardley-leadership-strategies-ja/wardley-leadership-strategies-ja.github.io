@@ -12,23 +12,23 @@ authors:
 - dave-hulbert
 - kdmsnr
 stages:
-- Product
-- Commodity/Utility
+- プロダクト
+- コモディティ/ユーティリティ
 goals:
-- Build ecosystem 活用
-- Unlock new growth
-- Defend your position
+- エコシステムの影響力を築く
+- 新しい成長を開く
+- 自社の地位を守る
 pressures:
-- Competitive attack underway
-- Ecosystem fragmentation
-- Facing dominant incumbent
+- 競合から攻撃を受けている
+- エコシステムが断片化している
+- 支配的な既存勢力に直面している
 leadership_focus:
-- Platform stewardship
-- Disciplined portfolio management
-- Narrative control
+- プラットフォーム運営責任
+- 規律あるポートフォリオ管理
+- 物語統制
 quick_signals:
 - 隣接サービスが、自社ユーザー基盤から過大な価値を取っている。
-- パートナーが 収益化する する中核体験を、自社ならもっと滑らかに出せる。
+- パートナーが収益化している中核体験を、自社ならもっと滑らかに出せる。
 - 顧客が、自分で継ぎ合わせるより統合された体験を求めている。
 momentum_moves:
 - プラットフォームデータを分析し、付着率と利幅の高いサービスを見つける。
@@ -103,18 +103,18 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 ## 🚦 **使いどころ**
 
 <Assessment strategyName="Platform Envelopment">
-  <MapSignals>
-    <li>プラットフォームがすでに大きなユーザー基盤を持っている。</li>
-    <li>そのユーザー基盤が、隣接サービスの利用者と大きく重なっている。</li>
-    <li>統合すると価値提案が大きく強まる機能が見えている。</li>
-    <li>地図上で、現在はユーザーが提供する カスタムサービスを標準的なプラットフォーム機能 にできる。</li>
-  </MapSignals>
-  <Readiness>
-    <li>新機能を統合・開発するエンジニアリングとプロダクト資源がある。</li>
-    <li>チャネルコンフリクトやパートナー離反を管理する覚悟がある。</li>
-    <li>競争地形と 反トラスト 含意を理解している。</li>
-    <li>プラットフォームのアーキテクチャが新サービス統合に耐える。</li>
-  </Readiness>
+ <MapSignals>
+  <li>プラットフォームがすでに大きなユーザー基盤を持っている。</li>
+  <li>そのユーザー基盤が、隣接サービスの利用者と大きく重なっている。</li>
+  <li>統合すると価値提案が大きく強まる機能が見えている。</li>
+  <li>地図上で、現在はユーザーが提供する カスタムサービスを標準的なプラットフォーム機能 にできる。</li>
+ </MapSignals>
+ <Readiness>
+  <li>新機能を統合・開発するエンジニアリングとプロダクト資源がある。</li>
+  <li>チャネルコンフリクトやパートナー離反を管理する覚悟がある。</li>
+  <li>競争地形と 反トラスト 含意を理解している。</li>
+  <li>プラットフォームのアーキテクチャが新サービス統合に耐える。</li>
+ </Readiness>
 </Assessment>
 
 ### 向くとき
@@ -219,7 +219,7 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 
 ## 🔀 **関連戦略**
 
-- [塔と堀](/strategies/ecosystem/tower-and-moat) - 既存の塔の周囲へ moat を築く手段になりうる
+- [塔と堀](/strategies/ecosystem/tower-and-moat) - 既存の塔の周囲へ堀を築く手段になりうる
 - [バンドリング](/strategies/user-perception/bundling) - 包摂の代表的メカニズム
 - [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 活用 した基盤から新領域へ進み、標準化する流れ
 - [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) - 包摂が新規参入障壁を高める
@@ -235,7 +235,7 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 
 ## 📚 **参考文献**
 
-- [Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793) - platform envelopment の基礎論文
-- [The Business of Platforms](/books/the-business-of-platforms) - プラットフォーム戦略の解説
+- [Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793) - プラットフォーム包摂 の基礎論文
+- [プラットフォームのビジネス](/books/the-business-of-platforms) - プラットフォーム戦略の解説
 - [WeChat's World](https://www.economist.com/business/2016/08/06/wechats-world) - WeChat 包摂戦略の紹介
-- [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) - platform power の文脈
+- [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) - プラットフォーム 支配力 の文脈
