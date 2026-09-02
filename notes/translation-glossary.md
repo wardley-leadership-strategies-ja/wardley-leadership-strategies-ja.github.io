@@ -38,6 +38,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Insertion | 挿入 |
 | Education | 教育 |
 | Licensing | ライセンシング |
+| Confusion of Choice | 選択肢の混乱 |
+| Bundling | バンドリング |
 | Land Grab | 先行確保 |
 | Pig in a Poke | 袋の中の豚 |
 | Sweat & Dump | 使い切って手放す |
