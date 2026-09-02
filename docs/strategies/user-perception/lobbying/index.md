@@ -53,7 +53,7 @@ time_horizon: Long-term positioning
 
 ### ロビー活動とは何か
 
-ロビー活動は、政府、規制当局、標準化団体へ戦略的に働きかけ、事業環境を自社に有利な形へ動かすことです。Wardley Mapping では、市場で直接競争するのではなく、規制や政策という「状勢」に働きかける戦い方だと捉えられます。
+ロビー活動は、政府、規制当局、標準化団体へ戦略的に働きかけ、事業環境を自社に有利な形へ動かすことです。Wardley Mappingでは、市場で直接競争するのではなく、規制や政策という「状勢」に働きかける戦い方だと捉えられます。
 
 ロビー活動は、
 
@@ -64,7 +64,7 @@ time_horizon: Long-term positioning
 という三つの使い方があります。
 
 :::note
-ロビー活動は、政府や規制当局へ影響を与える行為そのものです。しばしば [防御的規制](/strategies/defensive/defensive-regulation)、[競争制限](/strategies/defensive/limitation-of-competition)、[標準化ゲーム](/strategies/markets/standards-game) の前段になります。ただし、すべてのロビー活動が防御的または反競争的とは限りません。新市場の育成、補助金や有利な契約の獲得、公共性のある標準の推進にも使われます。具体的な仕組みや対抗策は、それぞれの戦略ページで扱います。
+ロビー活動は、政府や規制当局へ影響を与える行為そのものです。しばしば [防御的規制](/strategies/defensive/defensive-regulation)、[競争制限](/strategies/defensive/limitation-of-competition)、[標準化ゲーム](/strategies/markets/standards-game)の前段になります。ただし、すべてのロビー活動が防御的または反競争的とは限りません。新市場の育成、補助金や有利な契約の獲得、公共性のある標準の推進にも使われます。具体的な仕組みや対抗策は、それぞれの戦略ページで扱います。
 :::
 
 ### なぜ使うのか
@@ -77,7 +77,7 @@ time_horizon: Long-term positioning
 
 ### 類似する戦略との関係
 
-ロビー活動は「影響を与える」段階です。その後、規則を成立させる [防御的規制](/strategies/defensive/defensive-regulation)、競争を減らすよう環境を形作る [競争制限](/strategies/defensive/limitation-of-competition)、技術的な手法を制度化する [標準化ゲーム](/strategies/markets/standards-game) へつながることがあります。また、利用者、連合、世論を動員して競合の規制面の一手を阻止する対抗策としても使えます。
+ロビー活動は「影響を与える」段階です。その後、規則を成立させる [防御的規制](/strategies/defensive/defensive-regulation)、競争を減らすよう環境を形作る [競争制限](/strategies/defensive/limitation-of-competition)、技術的な手法を制度化する [標準化ゲーム](/strategies/markets/standards-game)へつながることがあります。また、利用者、連合、世論を動員して競合の規制面の一手を阻止する対抗策としても使えます。
 
 ## 🗺️ **実例**
 
@@ -87,7 +87,7 @@ time_horizon: Long-term positioning
 
 ### 技術企業と著作権法
 
-大手テクノロジー企業やエンターテインメント企業は、DMCA や DRM などの強力な著作権・特許制度を求めてロビー活動を行ってきました。こうした制度は既存勢力の収益源を守る一方、小規模な事業者やオープンソースプロジェクトの競争を難しくし、市場の破壊を遅らせることがあります。
+大手テクノロジー企業やエンターテインメント企業は、DMCAやDRMなどの強力な著作権・特許制度を求めてロビー活動を行ってきました。こうした制度は既存勢力の収益源を守る一方、小規模な事業者やオープンソースプロジェクトの競争を難しくし、市場の破壊を遅らせることがあります。
 
 ### 再エネ企業の対抗ロビー活動
 
@@ -217,10 +217,10 @@ time_horizon: Long-term positioning
 
 ## ⛅ **関連する状勢パターン**
 
-- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 引き金: 市場が縮小すると、ロビー活動は激しくなる
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – きっかけ: 市場が縮小すると、ロビー活動は激しくなる
 - [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value) – 影響: 政策面の勝利によって、特定のプレイヤーへ投資の流れを変えられる
 
 ## 📚 **参考文献**
 
-- [Uber Versus Taxis](https://www.researchgate.net/publication/351691030_Uber_Versus_Taxis) - Uber とタクシー産業の競争を扱った、G. Santos による論考
-- [Internet Association](https://en.wikipedia.org/wiki/Internet_Association) - 大手インターネット企業を代表し、業界に有利な政策を求めて活動していた業界団体の解説
+- [Uberとタクシー](https://www.researchgate.net/publication/351691030_Uber_Versus_Taxis) – Uberとタクシー産業の競争を扱った、G. Santosによる論考
+- [インターネット協会](https://en.wikipedia.org/wiki/Internet_Association) – 大手インターネット企業を代表し、業界に有利な政策を求めて活動していた業界団体の解説

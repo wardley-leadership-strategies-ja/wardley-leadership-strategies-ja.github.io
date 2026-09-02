@@ -45,7 +45,7 @@ time_horizon: Medium-term shaping
 
 **アルゴリズムによる判断を理解可能かつ監査可能にし、信頼と監督適合を得る戦略です。**
 
-この戦略は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) に明示的には書かれていません。
+この戦略はWardleyの[「61種類のゲームプレイについて」](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)に明示的には書かれていません。
 
 ## 🤔 **解説**
 
@@ -72,7 +72,7 @@ time_horizon: Medium-term shaping
 
 ### 医療トリアージ支援
 
-AI ツールの入力、限界、人間による介入手順を臨床現場へ明示すると、利用者の信頼が大きく変わります。
+AIツールの入力、限界、人間による介入手順を臨床現場へ明示すると、利用者の信頼が大きく変わります。
 
 ### 公共給付の受給資格ポータル
 
@@ -182,12 +182,12 @@ AI ツールの入力、限界、人間による介入手順を臨床現場へ�
 ## ⛅ **関連する状勢パターン**
 
 - [特性は変化する](/climatic-patterns/characteristics-change) – 影響: 自動化が広がるほど透明性期待も上がる
-- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – トリガー: 不透明な既存大手は開示を嫌う
+- [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – きっかけ: 不透明な既存大手は開示を嫌う
 - [進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) – 影響: 透明性は任意から義務へ移る
 
 ## 📚 **参考文献**
 
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
-- [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
-- [OECD Principles on AI](https://oecd.ai/en/ai-principles)
+- [NISTのAIリスク管理フレームワーク](https://www.nist.gov/itl/ai-risk-management-framework)
+- [モデル報告のためのモデルカード](https://arxiv.org/abs/1810.03993)
+- [EUのAI法](https://artificialintelligenceact.eu/)
+- [OECDのAI原則](https://oecd.ai/en/ai-principles)
