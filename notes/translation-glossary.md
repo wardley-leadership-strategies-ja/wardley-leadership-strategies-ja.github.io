@@ -59,6 +59,13 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Data Sovereignty & Localization | データ主権とローカライゼーション |
 | Last Man Standing | 最後の一社 |
 | Signal Distortion | シグナル歪曲 |
+| Ambush | 奇襲 |
+| Fragmentation | 細分化戦略 |
+| Misdirection | 陽動 |
+| Reinforcing Competitor Inertia | 競合他社の惰性の強化 |
+| Restriction of Movement | 移動の制限 |
+| Sapping | 切り崩し |
+| Talent Raid | 人材の引き抜き |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |

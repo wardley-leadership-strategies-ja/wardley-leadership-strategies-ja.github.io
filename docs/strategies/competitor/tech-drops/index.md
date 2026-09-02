@@ -62,13 +62,13 @@ time_horizon: Fast impact
 
 ## 🗺️ **実例**
 
-### Apple の iPhone（2007）
+### AppleのiPhone（2007）
 
-Nokia、BlackBerry、Microsoft が物理キーボードや企業向け機能を漸進的に改善していた中で、Apple はマルチタッチ画面、フル機能のウェブブラウザ、iPod を一つの製品に統合しました。この発表は業界全体を驚かせ、当時のスマートフォンを一気に時代遅れに見せ、競合にロードマップの作り直しを迫りました。
+Nokia、BlackBerry、Microsoftが物理キーボードや企業向け機能を漸進的に改善していた中で、Appleはマルチタッチ画面、フル機能のウェブブラウザ、iPodを一つの製品に統合しました。この発表は業界全体を驚かせ、当時のスマートフォンを一気に時代遅れに見せ、競合にロードマップの作り直しを迫りました。
 
 ### AWS Lambda（2014）
 
-業界が仮想マシンとコンテナに集中していた中で、AWS は re:Invent でサーバーレスコンピューティングを市場へ投入しました。これにより新しい市場カテゴリが生まれ、AWS が主導権を握り、Google や Microsoft は対抗サービスの開発に数年を費やすことになりました。
+業界が仮想マシンとコンテナに集中していた中で、AWSはre:Inventでサーバーレスコンピューティングを市場へ投入しました。これにより新しい市場カテゴリが生まれ、AWSが主導権を握り、GoogleやMicrosoftは対抗サービスの開発に数年を費やすことになりました。
 
 ## 🚦 **使いどころ**
 
@@ -169,7 +169,7 @@ sequenceDiagram
 
 ### 奇襲との違い
 
-[奇襲](/strategies/competitor/ambush) も驚きを利用しますが、意図と性質が異なります。
+[奇襲](/strategies/competitor/ambush)も驚きを利用しますが、意図と性質が異なります。
 
 | 特徴 | テックドロップ | 奇襲 |
 | --- | --- | --- |
@@ -206,4 +206,4 @@ sequenceDiagram
 
 - [イノベーションのジレンマ](/books/the-innovators-dilemma) - テックドロップの基礎となり得る、破壊的イノベーションの理論を解説する書籍
 - [孫子](/books/the-art-of-war) - 奇襲と欺瞞の重要性を含む、戦略に関する古典
-- [Apple's iPhone launch 2007](https://www.youtube.com/watch?v=vN4U5FqrOdQ) - 周到に実行されたテックドロップが業界を作り替える様子を示す、発表イベントの映像
+- [AppleのiPhone発表（2007年）](https://www.youtube.com/watch?v=vN4U5FqrOdQ) - 周到に実行されたテックドロップが業界を作り替える様子を示す、発表イベントの映像

@@ -42,7 +42,7 @@ time_horizon: Fast impact
 ---
 
 :::note
-**包囲と探り**は、Wardleyによる[On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)では明示的には触れられていません。
+**包囲と探り**は、Simon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)では明示的には触れられていません。
 :::
 
 **小規模な進出を通じて競合の領域を探る戦略です。**
@@ -221,7 +221,7 @@ Amazonは食料品の配送やファッションなどの新規事業を、特�
 
 ## 📚 **参考文献**
 
-- [Competitive Strategy](/books/competitive-strategy)
+- [競争戦略](/books/competitive-strategy)
 - [孫子](/books/the-art-of-war)
-- [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
-- [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
+- [Netflix、ゲーム配信をモバイルからテレビとPCへ拡大するテスト | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
+- [IBM、Linuxへさらに10億ドルを投資 - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)

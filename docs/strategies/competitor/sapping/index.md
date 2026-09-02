@@ -67,17 +67,17 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### 1990 年代の Microsoft
+### 1990年代のMicrosoft
 
-Microsoft はブラウザ、ミドルウェア、アプリケーション、企業向けソフトなど多方面で戦いを仕掛けました。Windows と Office の統合も含め、競合は一つの明確な正面に戦力集中できず、分散対応を強いられました。
+Microsoftはブラウザ、ミドルウェア、アプリケーション、企業向けソフトなど多方面で戦いを仕掛けました。WindowsとOfficeの統合も含め、競合は一つの明確な正面に戦力集中できず、分散対応を強いられました。
 
-### Facebook と新興 SNS
+### Facebookと新興SNS
 
-Facebook の Snapchat への対応は、Stories の模倣、世界的配信網、広告基盤など複数正面からの圧力でした。小さい Snap は広い戦場に引きずり出され、反応コストが急上昇しました。
+FacebookのSnapchatへの対応は、Storiesの模倣、世界的配信網、広告基盤など複数正面からの圧力でした。小さいSnapは広い戦場に引きずり出され、反応コストが急上昇しました。
 
-### Amazon と小売競合
+### Amazonと小売競合
 
-Amazon は EC、Prime、価格、デジタル商材、新規事業など複数正面で伝統的 小売業者 へ圧力をかけました。相手はサプライチェーン、価格、技術投資、新規領域を同時に考えなければならず、持久戦を強いられました。
+AmazonはEC、Prime、価格、デジタル商材、新規事業など複数正面で伝統的小売業者へ圧力をかけました。相手はサプライチェーン、価格、技術投資、新規領域を同時に考えなければならず、持久戦を強いられました。
 
 ## 🚦 **使いどころ**
 
@@ -94,7 +94,7 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
   <li>自社は過伸長せずに複数正面を維持できる資源を持つ。</li>
   <li>各正面の結果に応じて強弱を付け替える機動性がある。</li>
   <li>部門横断の同期、共有情報、戦略整合の仕組みがある。</li>
-  <li>各正面ごとに成功基準と エスカレーション 計画がある。</li>
+  <li>各正面ごとに成功基準とエスカレーション計画がある。</li>
   <li>競合反応からすぐ学び、圧力の重みを再配分できる。</li>
   <li>競合がどこかで集中的に反撃した場合の備えがある。</li>
   <li>長引く多正面戦を支える指揮の帯域と士気がある。</li>
@@ -123,7 +123,7 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 
 - [実行規律とオペレーショナルエクセレンス](/leadership-skills/execution-discipline-and-operational-excellence) — 多正面の優先順位と実行を揃える
 - [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — どこを強め、どこを止めるかを判断する
-- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 意図と 勢い を共有する
+- [戦略的コミュニケーションとストーリーテリング](/leadership-skills/strategic-communication-and-storytelling) — 意図と勢いを共有する
 - [人材育成とチームづくり](/leadership-skills/talent-development-and-team-building) — 疲弊を防ぎ、委任する
 - [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 反撃に耐える
 
@@ -135,7 +135,7 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 4. **進捗を監視する:** 効かない正面は引き、弱る正面へ集中する
 5. **勝ち筋を増幅する:** 効いたところはさらに押し込む
 6. **通信を保つ:** チーム横断のフィードバックループを切らさない
-7. **組織を整える:** 必要なら部門横断チームで 縦割り を崩す
+7. **組織を整える:** 必要なら部門横断チームで縦割りを崩す
 
 ## 📈 **成功指標**
 
@@ -189,7 +189,7 @@ Amazon は EC、Prime、価格、デジタル商材、新規事業など複数�
 
 ## 🔀 **関連戦略**
 
-- [テックドロップ](/strategies/competitor/tech-drops) - 奇襲性 を多正面戦の一部として使える
+- [テックドロップ](/strategies/competitor/tech-drops) - 奇襲性を多正面戦の一部として使える
 - [移動の制限](/strategies/competitor/restriction-of-movement) - 相手の反応余地を狭める
 - [包囲と探り](/strategies/competitor/circling-and-probing) - 弱点を探ってから多正面戦へ入る
 - [奇襲](/strategies/competitor/ambush) - 消耗の途中で決定打として使える

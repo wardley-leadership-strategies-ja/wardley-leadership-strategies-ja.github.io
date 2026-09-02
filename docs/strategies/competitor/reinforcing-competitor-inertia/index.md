@@ -68,17 +68,17 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### Kodak とデジタル写真
+### Kodakとデジタル写真
 
-Kodak はフィルム写真で圧倒的でしたが、フィルム事業の共食いを恐れ、デジタル移行が遅れました。Sony や Canon などが積極的にデジタルを進めるほど、Kodak は旧来収益を守ろうとして慣性を強めました。市場変化が進む中でも自分の成功モデルから離れられず、破綻へ向かいました。
+Kodakはフィルム写真で圧倒的でしたが、フィルム事業の共食いを恐れ、デジタル移行が遅れました。SonyやCanonなどが積極的にデジタルを進めるほど、Kodakは旧来収益を守ろうとして慣性を強めました。市場変化が進む中でも自分の成功モデルから離れられず、破綻へ向かいました。
 
-### Blockbuster と Netflix
+### BlockbusterとNetflix
 
-Blockbuster は店舗と延滞料金モデルに大きく依存していました。Netflix が定額配送、その後ストリーミングへ進んだことで、Blockbuster は新しいモデルへ十分に寄れず、旧来の収益源にしがみつく形になりました。Netflix は新しい市場規律を押し出すことで、Blockbuster の慣性を実質的に補強しました。
+Blockbusterは店舗と延滞料金モデルに大きく依存していました。Netflixが定額配送、その後ストリーミングへ進んだことで、Blockbusterは新しいモデルへ十分に寄れず、旧来の収益源にしがみつく形になりました。Netflixは新しい市場規律を押し出すことで、Blockbusterの慣性を実質的に補強しました。
 
-### BlackBerry とタッチスクリーン
+### BlackBerryとタッチスクリーン
 
-BlackBerry は物理キーボード端末で成功しており、企業顧客は物理キーを好むという前提が社内に強くありました。iPhone と Android がタッチ中心へ移ったとき、BlackBerry は既存強みを守ろうとして反応が遅れ、慣性の罠へ深く入りました。
+BlackBerryは物理キーボード端末で成功しており、企業顧客は物理キーを好むという前提が社内に強くありました。iPhoneとAndroidがタッチ中心へ移ったとき、BlackBerryは既存強みを守ろうとして反応が遅れ、慣性の罠へ深く入りました。
 
 ## 🚦 **使いどころ**
 
@@ -196,5 +196,5 @@ BlackBerry は物理キーボード端末で成功しており、企業顧客は
 ## 📚 **参考文献**
 
 - [イノベーションのジレンマ](/books/the-innovators-dilemma)
-- [The Rise and Fall of Kodak: How an Industry Giant Missed the Digital Revolution - Unlimited Graphic Design Service](https://penji.co/the-rise-and-fall-of-kodak/)
-- [Lessons from the Rise of Netflix and the Fall of Blockbuster | Cato Institute](https://www.cato.org/commentary/lessons-rise-netflix-fall-blockbuster)
+- [Kodakの盛衰：巨大企業はいかにデジタル革命を逃したか](https://penji.co/the-rise-and-fall-of-kodak/)
+- [Netflixの台頭とBlockbusterの没落から学ぶこと | Cato Institute](https://www.cato.org/commentary/lessons-rise-netflix-fall-blockbuster)

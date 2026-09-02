@@ -56,7 +56,7 @@ time_horizon: Long-term positioning
 
 ### 移動の制限とは何か
 
-移動の制限、あるいは Circling は、競合が動ける方向を戦略的に制限するやり方です。市場、供給、提携、標準、人材、知財などの要所を押さえ、相手が進化したり、隣接領域へ広がったりする余地を狭めます。相手が何かを試そうとすると、どこかが既に埋まっている。そんな状態を狙います。
+移動の制限、あるいはCirclingは、競合が動ける方向を戦略的に制限するやり方です。市場、供給、提携、標準、人材、知財などの要所を押さえ、相手が進化したり、隣接領域へ広がったりする余地を狭めます。相手が何かを試そうとすると、どこかが既に埋まっている。そんな状態を狙います。
 
 ### なぜ有効なのか
 
@@ -91,13 +91,13 @@ flowchart TD
 
 ## 🗺️ **実例**
 
-### Facebook による Snapchat の囲い込み
+### FacebookによるSnapchatの囲い込み
 
-Facebook は Snapchat の買収に失敗した後、Instagram Stories、WhatsApp Status、Facebook Stories などを展開し、Snapchat の独自性が生きる空間を狭めました。成長の余地を減らした典型例です。
+FacebookはSnapchatの買収に失敗した後、Instagram Stories、WhatsApp Status、Facebook Storiesなどを展開し、Snapchatの独自性が生きる空間を狭めました。成長の余地を減らした典型例です。
 
 ### 排他的契約とエコシステム支配
 
-Apple の App Store ポリシーは、代替ストアや第三者機能を制限し、競争相手の動きを抑えています。1990 年代の Microsoft の PC メーカーとの契約も、競合 OS の流通を狭めました。
+AppleのApp Storeポリシーは、代替ストアや第三者機能を制限し、競争相手の動きを抑えています。1990年代のMicrosoftのPCメーカーとの契約も、競合OSの流通を狭めました。
 
 ### 特許フェンス
 
@@ -237,5 +237,5 @@ Apple の App Store ポリシーは、代替ストアや第三者機能を制限
 
 ## 📚 **参考文献**
 
-- [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
-- [反トラスト局 | U.S. V. Microsoft: 事実認定案](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
+- [アメリカ合衆国対Microsoft](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
+- [反トラスト局 | アメリカ合衆国対Microsoft：事実認定案](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)

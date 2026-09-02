@@ -33,7 +33,7 @@ quick_signals:
 - 自社の優秀人材も同じ競合から狙われていることが定着データで見えている。
 - 競合の成功が、少数の可視な専門家集団に大きく依存している。
 momentum_moves:
-- 重要役割を見極め、個別化したオファーや 人材獲得目的の買収 案を用意する。
+- 重要役割を見極め、個別化したオファーや人材獲得目的の買収案を用意する。
 - 受け入れ後すぐ成果が出るよう、オンボーディングと文化統合を準備する。
 - 法的境界を守りつつ、市場へ強さを示せるコミュニケーション順序を設計する。
 watch_outs:
@@ -56,7 +56,7 @@ time_horizon: Medium-term shaping
 
 ### 人材の引き抜きとは何か
 
-Wardley の文脈における人材の引き抜きは、競合の中核人材を戦略的に獲得し、自社能力を上げると同時に競合の競争力を下げる戦略です。人材を重要資産として扱い、その資産の流れを自社側へ引き寄せます。
+Wardley Mappingの文脈における人材の引き抜きは、競合の中核人材を戦略的に獲得し、自社能力を上げると同時に競合の競争力を下げる戦略です。人材を重要資産として扱い、その資産の流れを自社側へ引き寄せます。
 
 ### なぜ有効なのか
 
@@ -71,13 +71,13 @@ Wardley の文脈における人材の引き抜きは、競合の中核人材を
 
 ## 🗺️ **実例**
 
-### Apple と Tesla
+### AppleとTesla
 
-Apple と Tesla は EV や関連技術を巡って相互に人材を取り合ってきました。Apple は Tesla 出身の技術者を大量に採用し、自社の自動車関連の取り組みを強化しました。一方で Tesla も Apple 由来の UI や半導体人材を引き抜いています。双方とも、相手の人材が競争上の重要資産だと見ていたことを示します。
+AppleとTeslaはEVや関連技術を巡って相互に人材を取り合ってきました。AppleはTesla出身の技術者を大量に採用し、自社の自動車関連の取り組みを強化しました。一方でTeslaもApple由来のUIや半導体人材を引き抜いています。双方とも、相手の人材が競争上の重要資産だと見ていたことを示します。
 
-### Google の 人材獲得買収
+### Googleの人材獲得買収
 
-Google は小規模スタートアップの買収を、製品だけでなく人材獲得のために行ってきました。DeepMind の買収も、技術だけでなくトップ級の AI 研究者を一気に取り込んだ例です。
+Googleは小規模スタートアップの買収を、製品だけでなく人材獲得のために行ってきました。DeepMindの買収も、技術だけでなくトップ級のAI研究者を一気に取り込んだ例です。
 
 ### 金融や法律業界のスター移籍
 
@@ -187,7 +187,7 @@ Google は小規模スタートアップの買収を、製品だけでなく人�
 
 ### 取る利益と、相手に与える損害
 
-自社が得る利益だけでなく、競合を弱めるという 供給遮断 の効果が同じくらい重要なことがあります。特定の専門家一人で競合の新施策が止まるなら、その人材の価値は非常に高いです。
+自社が得る利益だけでなく、競合を弱めるという供給遮断の効果が同じくらい重要なことがあります。特定の専門家一人で競合の新施策が止まるなら、その人材の価値は非常に高いです。
 
 ### リスクと限界
 
@@ -199,7 +199,7 @@ Google は小規模スタートアップの買収を、製品だけでなく人�
 
 ### 将来の競争地形を作る
 
-AI や半導体のように専門性が希少な分野では、上位人材の偏在がそのまま将来の競争地形を決めることがあります。
+AIや半導体のように専門性が希少な分野では、上位人材の偏在がそのまま将来の競争地形を決めることがあります。
 
 ### 見え方と関係管理
 
@@ -231,5 +231,5 @@ AI や半導体のように専門性が希少な分野では、上位人材の�
 
 ## 📚 **参考文献**
 
-- [Tesla Employees Are Getting Poached by Apple, Which Elon Musk Called a 'Tesla Graveyard' - Business Insider](https://www.businessinsider.com/apple-poaching-tesla-employees-elon-musk-tesla-graveyard-2021-12)
-- [Elon Musk Has Raided 150 People From Apple For Tesla - Forbes](https://www.forbes.com/sites/qai/2022/01/05/elon-musk-has-raided-150-people-from-apple-for-tesla/)
+- [AppleがTesla社員を引き抜き、Elon Muskは「Teslaの墓場」と評した - Business Insider](https://www.businessinsider.com/apple-poaching-tesla-employees-elon-musk-tesla-graveyard-2021-12)
+- [Elon Musk、AppleからTeslaへ150人を引き抜く - Forbes](https://www.forbes.com/sites/qai/2022/01/05/elon-musk-has-raided-150-people-from-apple-for-tesla/)
