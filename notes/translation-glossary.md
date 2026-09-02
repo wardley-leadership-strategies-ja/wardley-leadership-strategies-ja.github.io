@@ -54,6 +54,11 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Experimentation | 実験 |
 | Playing Both Sides | 両面張り |
 | Press Release Process | プレスリリース・プロセス |
+| Buyer-Supplier Power | 買い手と供給者の力関係 |
+| Carbon & ESG Arbitrage | カーボン・ESGアービトラージ |
+| Data Sovereignty & Localization | データ主権とローカライゼーション |
+| Last Man Standing | 最後の一社 |
+| Signal Distortion | シグナル歪曲 |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |

@@ -66,15 +66,15 @@ time_horizon: Medium-term shaping
 
 ### Intel Inside
 
-PC メーカーが代替しづらい CPU を押さえた Intel は、供給者として強い立場を築きました。ブランド認知まで獲得したことで、OEM への影響力をさらに高めました。
+PCメーカーが代替しづらいCPUを押さえたIntelは、供給者として強い立場を築きました。ブランド認知まで獲得したことで、OEMへの影響力をさらに高めました。
 
-### Walmart の購買力
+### Walmartの購買力
 
-巨大な販売量を背景に、Walmart は供給者へ価格や納入条件を強く要求できます。これは典型的な買い手優位です。
+巨大な販売量を背景に、Walmartは供給者へ価格や納入条件を強く要求できます。これは典型的な買い手優位です。
 
-### Apple の App Store
+### AppleのApp Store
 
-iPhone ユーザーへ届く唯一の流通路を握ることで、Apple は開発者に対して大きな支配力を持ちました。これはバリューチェーン上のチョークポイントです。
+iPhoneユーザーへ届く唯一の流通路を握ることで、Appleは開発者に対して大きな支配力を持ちました。これはバリューチェーン上のチョークポイントです。
 
 ## 🚦 **使いどころ**
 
@@ -189,5 +189,5 @@ iPhone ユーザーへ届く唯一の流通路を握ることで、Apple は開�
 
 ## 📚 **参考文献**
 
-- [Competitive Strategy](/books/competitive-strategy)
-- [The Everything Store](/books/the-everything-store)
+- [競争戦略](/books/competitive-strategy)
+- [エブリシング・ストア](/books/the-everything-store)

@@ -31,7 +31,7 @@ leadership_focus:
 quick_signals:
 - 競合が直接のユーザー観察より、アナリストやメディアの言説に強く反応している。
 - 実際の施策を立ち上げる間の時間を稼ぎたい。
-- 市場の 過熱感 が、実体以上に投資や評価を揺らしている。
+- 市場の過熱感が、実体以上に投資や評価を揺らしている。
 momentum_moves:
 - アナリストが望ましい物語を採るように、話題とデータ点を意図的に流す。
 - 経営メッセージを揃え、歪めたシグナルを一貫して補強する。
@@ -67,13 +67,13 @@ time_horizon: Fast impact
 
 ## 🗺️ **実例**
 
-### Vaporware の発表
+### Vaporwareの発表
 
-典型例は ベーパーウェア です。製品を発表して市場期待だけを作り、実際には出さない。1990 年代の Microsoft は、この手法で競合製品の購入を思いとどまらせたと批判されることがありました。
+典型例はベーパーウェアです。製品を発表して市場期待だけを作り、実際には出さない。1990年代のMicrosoftは、この手法で競合製品の購入を思いとどまらせたと批判されることがありました。
 
 ### ハイプサイクルの増幅
 
-企業は AI、メタバース、Web3 のような 過熱感 に便乗し、進捗が乏しくても投資、人材、メディア注目を集めることがあります。競合は取り残される恐怖から、その領域に無理に資源を振ることになります。
+企業はAI、メタバース、Web3のような過熱感に便乗し、進捗が乏しくても投資、人材、メディア注目を集めることがあります。競合は取り残される恐怖から、その領域に無理に資源を振ることになります。
 
 ### 選択的なデータ公開
 
@@ -143,7 +143,7 @@ time_horizon: Fast impact
 
 - 狙った競合が、期待した反応を実際に取ったか
 - メディアやアナリストが歪めたシグナルを事実として反復したか
-- 競合がこちらの陽動 に対抗して有意な資源を振った証拠があるか
+- 競合がこちらの陽動に対抗して有意な資源を振った証拠があるか
 
 ## ⚠️ **失敗しやすい点**
 
@@ -186,13 +186,13 @@ time_horizon: Fast impact
 - [陽動](/strategies/competitor/misdirection) - より広い意味での誤誘導戦略
 - [人工的ニーズの創出](/strategies/user-perception/creating-artificial-needs) - 競合側ではなくユーザー側の知覚を操作する戦略
 - [先行者戦略](/strategies/positional/first-mover) - 先行者であるという知覚自体が強いシグナルになることがある
-- [恐怖・不確実性・疑念 (FUD)](/terms/fear-uncertainty-and-doubt) - 競合への否定的知覚を作る典型的な戦術
+- [恐怖・不確実性・疑念（FUD）](/terms/fear-uncertainty-and-doubt) - 競合への否定的知覚を作る典型的な戦術
 - [フールズ・メイト](/strategies/attacking/fools-mate) - 誤情報で相手を急所へ誘導し、速攻を決める
 
 ## ⛅ **関連する状勢パターン**
 
 - [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) – 関係: 競合の状況認識の弱さを利用する
-- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: ハイプサイクル やバブルはシグナル歪曲で増幅される
+- [経済にはサイクルがある](/climatic-patterns/economy-has-cycles) – 関係: ハイプサイクルやバブルはシグナル歪曲で増幅される
 - [過去の成功は慣性を生む](/climatic-patterns/past-success-breeds-inertia) – 関係: 過去の成功シグナルに依存する競合は、新しい歪んだシグナルに引っかかりやすい
 - [競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) – 関係: 競合の行動変化そのものが目的である
 - [未成熟なものほど不確実になる](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – 関係: 初期市場の不確実性はシグナル歪曲を効かせやすい

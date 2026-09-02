@@ -39,7 +39,7 @@ authors:
 | [標準化ゲーム](/strategies/markets/standards-game/) | 標準を握る | 提携、普及、部分的なオープン化 | 相互運用が鍵の市場 | [コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
 | [シグナル歪曲](/strategies/markets/signal-distortion/) | 競合の判断を誤らせる | 発表、リーク、囮、FUD | 入札、製品投入、交渉 | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness)、[競合の行動はゲームを変える](/climatic-patterns/competitors-actions-will-change-the-game) |
 | [データ主権とローカライゼーション](/strategies/markets/data-sovereignty-localization/) | データ所在を優位に変える | ローカル処理、主権クラウド、認証 | 公共、規制産業、越境市場 | [進化速度はエコシステムごとに異なる](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)、[万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) |
-| [カーボン・ESGアービトラージ](/strategies/markets/carbon-esg-arbitrage/) | 炭素・ESG 制度差を利用する | インセンティブ設計、検証データ、調達条件 | 規制変化が大きい B2B 市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
+| [カーボン・ESGアービトラージ](/strategies/markets/carbon-esg-arbitrage/) | 炭素・ESG制度差を利用する | インセンティブ設計、検証データ、調達条件 | 規制変化が大きいB2B市場 | [資本は新しい価値領域へ流れる](/climatic-patterns/capital-flows-to-new-areas-of-value)、[コンポーネントは共進化できる](/climatic-patterns/components-can-co-evolve) |
 
 ## 🧭 **市場戦略の読み方**
 

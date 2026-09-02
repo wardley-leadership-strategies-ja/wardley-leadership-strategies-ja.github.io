@@ -46,7 +46,7 @@ time_horizon: Medium-term shaping
 
 **データ所在地と法域準拠を、信頼と市場参入の優位に変える戦略です。**
 
-この戦略は、Simon Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) に明示的には出てきませんが、規制、買い手の要求、法域リスクに形作られる市場戦略をよく表しています。
+この戦略は、Simon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)に明示的には出てきませんが、規制、買い手の要求、法域リスクに形作られる市場戦略をよく表しています。
 
 ## 🤔 **解説**
 
@@ -63,7 +63,7 @@ time_horizon: Medium-term shaping
 
 ### 市場ダイナミクスをどう変えるか
 
-データローカライゼーションは、インフラの地理を市場の差別化要素に変えます。地域ごとの堀 を生み、現地運用できる提供者へ交渉力を寄せ、監査人、クラウド、パートナーの地域エコシステムを育てます。やがて地域内処理が当たり前になれば、競合は設計変更を迫られるか、市場から退くことになります。
+データローカライゼーションは、インフラの地理を市場の差別化要素に変えます。地域ごとの堀を生み、現地運用できる提供者へ交渉力を寄せ、監査人、クラウド、パートナーの地域エコシステムを育てます。やがて地域内処理が当たり前になれば、競合は設計変更を迫られるか、市場から退くことになります。
 
 ## 🗺️ **実例**
 
@@ -77,7 +77,7 @@ time_horizon: Medium-term shaping
 
 ### 消費者データの地域内分析
 
-多国籍 SaaS 企業は、機微な顧客データを地域内で処理しつつ、グローバル分析側には匿名化データだけを流すことが増えています。これにより、法域制約を破らずに性能と洞察を両立できます。
+多国籍SaaS企業は、機微な顧客データを地域内で処理しつつ、グローバル分析側には匿名化データだけを流すことが増えています。これにより、法域制約を破らずに性能と洞察を両立できます。
 
 ## 🚦 **使いどころ**
 
@@ -132,13 +132,13 @@ time_horizon: Medium-term shaping
 2. 感度と規制露出でデータ領域を分け、高リスクデータを地域内処理へ切り出す
 3. 市場ごとに地域内処理、鍵管理、主権制御を組み込んだ設計を作る
 4. 地域クラウド、監査人、法務アドバイザーを確保して信頼性を補強する
-5. SLA や調達回答、監査証跡でデータ所在地の約束を明文化する
+5. SLAや調達回答、監査証跡でデータ所在地の約束を明文化する
 6. 越境データフローを継続監視し、証跡収集を自動化してドリフトを防ぐ
 
 ## 📈 **成功指標**
 
 - 地域内保管を要件とする市場での売上増加
-- 是正なしで通過した RFP や監査の比率
+- 是正なしで通過したRFPや監査の比率
 - データ所在地説明によって短縮された調達期間
 - データ所在地に関する信頼指標やセキュリティ懸念の減少
 - 地域別スタックの安定稼働率
@@ -167,7 +167,7 @@ time_horizon: Medium-term shaping
 
 クラウドやデータ市場が成熟すると、地理は価値提案の一部になります。競合が自社より厳しい地域制約の下で運用できるなら、こちらが会話に入る前に信頼と市場参入を取られます。
 
-### ローカライゼーションは地域の堀 を作る
+### ローカライゼーションは地域の堀を作る
 
 顧客が地域内データフローを前提に業務を組み込むと、切替コストは上がります。中核サービスがコモディティ化していても、現地準拠の物語を握る提供者は強い位置を保てます。
 
@@ -200,8 +200,8 @@ time_horizon: Medium-term shaping
 
 ## 📚 **参考文献**
 
-- [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj) - データ所在地と移転ルールを形作る EU の基礎規制
-- [EU Data Act](https://digital-strategy.ec.europa.eu/en/policies/data-act) - 法域横断のデータアクセスと可搬性に関する新要件
-- [US CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) - 域外データアクセス懸念の代表例
+- [EU一般データ保護規則（GDPR）](https://eur-lex.europa.eu/eli/reg/2016/679/oj) - データ所在地と移転ルールを形作るEUの基礎規制
+- [EUデータ法](https://digital-strategy.ec.europa.eu/en/policies/data-act) - 法域横断のデータアクセスと可搬性に関する新要件
+- [米国CLOUD法](https://www.congress.gov/bill/115th-congress/house-bill/4943) - 域外データアクセス懸念の代表例
 - [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - ローカライゼーションや主権証明でよく参照されるセキュリティ標準
-- [OECD Data Free Flow with Trust](https://www.oecd.org/en/about/programmes/data-free-flow-with-trust.html) - 越境データ流通と信頼の両立をめぐる政策枠組み
+- [信頼性のある自由なデータ流通（DFFT）](https://www.oecd.org/en/about/programmes/data-free-flow-with-trust.html) - 越境データ流通と信頼の両立をめぐる政策枠組み

@@ -33,7 +33,7 @@ quick_signals:
 - 仕入先が消える中でも、顧客は供給継続を必要としている。
 momentum_moves:
 - キャッシュフローを守る効率化策へさらに資源を寄せる。
-- コスト構造を強くする 困窮した 資産 を取得する。
+- コスト構造を強くする困窮した資産を取得する。
 - 顧客に安定性を伝え、競合が崩れる前に移行してもらう。
 watch_outs:
 - 再発明の計画なしに緊縮を続け、チームを疲弊させること。
@@ -45,7 +45,7 @@ time_horizon: Long-term positioning
 
 **コモディティ化の最終局面で競合より長く耐え、残った市場を取り込む戦略です。**
 
-この戦略は Simon Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) に明示的には書かれていません。
+この戦略はSimon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)に明示的には書かれていません。
 
 ## 🤔 **解説**
 
@@ -66,11 +66,11 @@ time_horizon: Long-term positioning
 
 ### ハードディスク業界
 
-ハードディスク産業は数十年にわたり大規模な統合を経験しました。価格下落と必要規模の巨大化に耐えられない企業が消え、現在は Seagate や Western Digital など少数の事業者が残っています。
+ハードディスク産業は数十年にわたり大規模な統合を経験しました。価格下落と必要規模の巨大化に耐えられない企業が消え、現在はSeagateやWestern Digitalなど少数の事業者が残っています。
 
 ### クラウドの価格競争
 
-AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けています。巨大な規模と運用効率で価格を下げ、小規模プレイヤーの撤退を促してきました。
+AWS、Google Cloud、Microsoft Azureは長期の価格競争を続けています。巨大な規模と運用効率で価格を下げ、小規模プレイヤーの撤退を促してきました。
 
 ### 航空業界
 
@@ -126,7 +126,7 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 
 ## 📋 **進め方**
 
-1. Wardley Map で市場が本当にコモディティ段階かを確認する
+1. Wardley Mappingの地図で市場が本当にコモディティ段階かを確認する
 2. 自動化、標準化、規模でコストリーダーシップを作る
 3. 自社が耐えられる水準まで価格を引き下げ、競合の持続可能性を削る
 4. キャッシュと設備投資を厳格に管理し、戦線を維持する
@@ -162,11 +162,11 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 
 ### 進化の終盤戦
 
-最後の一社は、Wardley Map が描く進化の自然な終局のひとつです。市場は最終的に安定したユーティリティの形へ近づき、その過程で残酷な統合が起きます。
+最後の一社は、Wardley Mappingの地図が描く進化の自然な終局のひとつです。市場は最終的に安定したユーティリティの形へ近づき、その過程で残酷な統合が起きます。
 
 ### 創造的破壊
 
-これは Schumpeter のいう創造的破壊の典型でもあります。非効率なプレイヤーが退場し、より効率的な市場構造へ組み替わります。
+これはSchumpeterのいう創造的破壊の典型でもあります。非効率なプレイヤーが退場し、より効率的な市場構造へ組み替わります。
 
 ## ❓ **問うべきこと**
 
@@ -192,5 +192,5 @@ AWS、Google Cloud、Microsoft Azure は長期の価格競争を続けていま�
 
 ## 📚 **参考文献**
 
-- [Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html) - Simon Wardley による代表的な解説
-- [Competition Demystified](/books/competition-demystified) - 競争優位を見極める枠組み
+- [Amazonと最後の一社](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html) - Simon Wardleyによる代表的な解説
+- [競争戦略を解き明かす](/books/competition-demystified) - 競争優位を見極める枠組み
