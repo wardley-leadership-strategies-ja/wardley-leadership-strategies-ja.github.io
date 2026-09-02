@@ -80,7 +80,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Creating Artificial Needs">
+<Assessment strategyName="人工的ニーズの創出">
  <MapSignals>
   <li>地図上のコンポーネントに、既存の需要がほとんど、またはまったくない。</li>
   <li>現在の利用者行動と、新しい製品またはサービスの間に隔たりがある。</li>

@@ -82,7 +82,7 @@ AOLは、過大評価されたダイヤルアップ契約者基盤を通貨と�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Pig in a Poke">
+<Assessment strategyName="袋の中の豚">
  <MapSignals>
   <li>資産は衰退中だが、市場の熱気がまだ残っている。</li>
   <li>運用指標を一時的に良く見せたり、都合よく語ったりできる。</li>

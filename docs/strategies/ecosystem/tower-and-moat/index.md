@@ -79,7 +79,7 @@ AWSは計算インフラがユーティリティになる未来を読み、巨�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Tower and Moat">
+<Assessment strategyName="塔と堀">
  <MapSignals>
   <li>地図上で、創世記またはカスタムビルド段階のコンポーネントが、将来ユーティリティになると読める。</li>
   <li>そのコンポーネントが、将来の価値あるエコシステムの中心ハブになる道筋が見えている。</li>

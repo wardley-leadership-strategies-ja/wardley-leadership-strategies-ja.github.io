@@ -89,7 +89,7 @@ ESG要件は、買い手の判断基準とコスト構造を書き換えてい�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Carbon & ESG Arbitrage">
+<Assessment strategyName="カーボン・ESGアービトラージ">
  <MapSignals>
   <li>地図上で、価値連鎖の目立つ箇所に大きな炭素コスト露出がある。</li>
   <li>主要買い手が検証済み排出量の調達基準を打ち出している。</li>

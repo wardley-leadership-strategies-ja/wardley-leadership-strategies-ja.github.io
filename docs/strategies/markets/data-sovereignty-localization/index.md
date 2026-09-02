@@ -81,7 +81,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Data Sovereignty & Localization">
+<Assessment strategyName="データ主権とローカライゼーション">
  <MapSignals>
   <li>地図上で、複数法域をまたぐデータフローがあり、規制差が大きい。</li>
   <li>規制産業の買い手が、データ所在地や主権を必須調達条件にしている。</li>

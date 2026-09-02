@@ -102,7 +102,7 @@ Tujiaは第三者ホストの物件を載せるだけでなく、自社管理物
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Platform Envelopment">
+<Assessment strategyName="プラットフォーム包摂">
  <MapSignals>
   <li>プラットフォームがすでに大きなユーザー基盤を持っている。</li>
   <li>そのユーザー基盤が、隣接サービスの利用者と大きく重なっている。</li>

@@ -79,7 +79,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Artificial Competition">
+<Assessment strategyName="見せかけの競争">
  <MapSignals>
   <li>独占リスクへの規制や世論の注目が高まっている。</li>
   <li>その市場に信頼できる競合が少なく、空白がある。</li>

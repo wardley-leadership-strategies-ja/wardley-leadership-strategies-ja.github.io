@@ -98,7 +98,7 @@ Nikeは近年、Foot LockerやAmazonなどの卸依存を減らし、自社サ�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Channel Conflict and Disintermediation">
+<Assessment strategyName="チャネル競合と中間排除">
  <MapSignals>
   <li>強い中間業者が、エンドユーザーへのアクセスを握っている。</li>
   <li>パートナーが遅く、高マージンで、イノベーションにも抵抗している。</li>

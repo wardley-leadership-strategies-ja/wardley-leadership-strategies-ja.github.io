@@ -106,6 +106,28 @@ def test_strategy_has_quote_or_unmentioned_note(strategies):
     assert not missing_info, \
         "Strategies missing a Wardley quote or 'isn\'t explicitly mentioned\' note:\n" + "\n".join(missing_info)
 
+def test_assessment_strategy_names_match_titles(strategies):
+    """Ensure assessment components display the translated strategy title."""
+    mismatches = []
+    for strategy in strategies:
+        title_match = re.search(r"^title:\s*(.+?)\s*$", strategy.content, re.MULTILINE)
+        assessment_names = re.findall(r'\bstrategyName="([^"]+)"', strategy.content)
+
+        if not title_match:
+            mismatches.append(f"Strategy '{strategy.slug}' is missing front matter title.")
+            continue
+
+        title = title_match.group(1).strip('"\'')
+        for assessment_name in assessment_names:
+            if assessment_name != title:
+                mismatches.append(
+                    f"Strategy '{strategy.slug}' uses assessment name "
+                    f"'{assessment_name}' instead of '{title}'."
+                )
+
+    assert not mismatches, \
+        "Assessment strategy names must match translated titles:\n" + "\n".join(mismatches)
+
 def test_related_strategy_links_are_explained(strategies):
     """Tests that each link in the 'Related Strategies' section has explanatory text."""
     unexplained_links_found = []

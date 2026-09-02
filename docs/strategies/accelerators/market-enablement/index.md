@@ -98,7 +98,7 @@ AppleのApp Storeは市場育成の代表例です。SDKと収益分配モデル
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Market Enablement">
+<Assessment strategyName="市場育成">
  <MapSignals>
   <li>地図上で、より広いエコシステム参加があれば進化が早まるコンポーネントが見えている。</li>
   <li>市場を作る、または広げることが、自社の中核提供物にも利益を返す。</li>

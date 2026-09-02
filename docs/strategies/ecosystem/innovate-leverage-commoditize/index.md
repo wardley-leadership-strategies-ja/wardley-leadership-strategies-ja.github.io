@@ -106,7 +106,7 @@ AWSは、不正検知向けに顧客がEC2上で顔認識を作っているこ�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Innovate, Leverage, Commoditize (ILC)">
+<Assessment strategyName="革新・活用・コモディティ化">
  <MapSignals>
   <li>他者がその上に構築したくなる、新しいプラットフォームやユーティリティを作れる。</li>
   <li>大きく活気ある第三者エコシステムを形成できる可能性がある。</li>

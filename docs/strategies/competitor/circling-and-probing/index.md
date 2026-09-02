@@ -84,7 +84,7 @@ Amazonは食料品の配送やファッションなどの新規事業を、特�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Circling and Probing">
+<Assessment strategyName="包囲と探り">
  <MapSignals>
   <li>競合が現在扱っている価値ある市場やユーザー層が見えるものの、ユーザーの満足度や満たされていないニーズは不明である。</li>
   <li>競合は強いが無敵ではなく、価格、体験、俊敏性に制約がある兆候が見える。</li>

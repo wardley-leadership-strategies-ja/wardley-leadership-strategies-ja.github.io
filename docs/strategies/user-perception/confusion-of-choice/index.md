@@ -82,7 +82,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Confusion of Choice">
+<Assessment strategyName="選択肢の混乱">
  <MapSignals>
   <li>地図上で、ユーザーにとって重要な意思決定点に多数の選択肢がある。</li>
   <li>競合が、より単純で透明性の高い代替手段を提供している。</li>

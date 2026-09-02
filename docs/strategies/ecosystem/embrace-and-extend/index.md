@@ -86,7 +86,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Embrace and Extend">
+<Assessment strategyName="抱き込みと拡張">
  <MapSignals>
   <li>価値あるエコシステムの中心に、広く採用されたオープン標準がある。</li>
   <li>既存標準に明確な制約や未充足ニーズがあり、独自拡張で埋められる。</li>

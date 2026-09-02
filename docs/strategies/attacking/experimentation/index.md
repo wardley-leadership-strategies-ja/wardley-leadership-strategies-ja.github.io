@@ -107,7 +107,7 @@ AIを使う小さな探索チームが化合物スクリーニングを高速化
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Experimentation">
+<Assessment strategyName="実験">
  <MapSignals>
   <li>地図に不確実な領域や新興コンポーネントが多い。</li>
   <li>競合が新技術を試し始めている。</li>

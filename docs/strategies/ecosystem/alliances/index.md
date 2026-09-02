@@ -93,7 +93,7 @@ Qualcomm、Microsoft、LGなどがAllJoynをデバイス相互運用のオープ
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Alliances">
+<Assessment strategyName="アライアンス">
  <MapSignals>
   <li>支配的プレイヤーや高い参入障壁があり、単独では対処しにくい。</li>
   <li>地図上で、共有利害や揃ったユーザーニーズを持つ補完プレイヤーが見えている。</li>

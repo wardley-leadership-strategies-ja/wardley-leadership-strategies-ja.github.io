@@ -79,7 +79,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Refactoring">
+<Assessment strategyName="リファクタリング">
  <MapSignals>
   <li>価値や重要性が落ちるレガシー運用を抱えている。</li>
   <li>地図上で、そのレガシー資産の中にまだ使える下位構成要素が見えている。</li>

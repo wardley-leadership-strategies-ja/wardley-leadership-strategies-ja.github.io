@@ -78,7 +78,7 @@ AWS、Google Cloud、Microsoft Azureは長期の価格競争を続けていま�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Last Man Standing">
+<Assessment strategyName="最後の一社">
  <MapSignals>
   <li>地図上で、市場が明確にコモディティ段階に入っている。</li>
   <li>購買判断の主因が価格で、ブランド忠誠が低い。</li>

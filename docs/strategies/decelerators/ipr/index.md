@@ -101,7 +101,7 @@ Qualcommは3G・4G標準の周辺に広い特許ポートフォリオを持ち�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Patents & IPR">
+<Assessment strategyName="特許と知的財産権">
  <MapSignals>
   <li>将来インパクトの大きい重要技術が見つかっている。</li>
   <li>競合が、十分に保護されていない代替へ依存している。</li>

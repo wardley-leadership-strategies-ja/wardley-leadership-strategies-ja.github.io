@@ -102,7 +102,7 @@ AT&Tは独占利益をBell Labsへ振り向け、トランジスタ、衛星、�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Directed Investment">
+<Assessment strategyName="集中投資">
  <MapSignals>
   <li>地図上で、バリューチェーンに大きな変化や不可避性が見えている。</li>
   <li>高い影響を持つ特定の新興領域を見定めている。</li>

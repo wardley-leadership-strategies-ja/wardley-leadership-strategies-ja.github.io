@@ -62,7 +62,7 @@ time_horizon: Long-term positioning
 >
 > - Simon Wardley
 
-<AssessmentToolAdvert strategyName="Industrial Policy" />
+<AssessmentToolAdvert strategyName="産業政策" />
 
 ## 🤔 **解説**
 
@@ -135,7 +135,7 @@ BoeingやAirbusは、防衛契約、直接補助、共同保有に近い枠組�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Industrial Policy">
+<Assessment strategyName="産業政策">
  <MapSignals>
   <li>政府が自社分野向けの予算や施策を打ち出している。たとえばグリーン技術、防衛、半導体など。</li>
   <li>高額資本や規制障壁があり、公的支援がリスクやコストを大きく下げる。</li>

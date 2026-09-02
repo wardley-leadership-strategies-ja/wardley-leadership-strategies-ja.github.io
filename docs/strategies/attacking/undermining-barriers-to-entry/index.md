@@ -81,7 +81,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Undermining Barriers to Entry">
+<Assessment strategyName="参入障壁の切り崩し">
  <MapSignals>
   <li>地図上で、既存勢力がプロプライエタリなコンポーネントや高い参入費用など、単一の明確な参入障壁に守られている。</li>
   <li>その障壁が顧客やエコシステム参加者に不満を生んでいる。</li>

@@ -89,7 +89,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Community Governance and Co-Ownership">
+<Assessment strategyName="コミュニティ統治と共同所有">
  <MapSignals>
   <li>地図上で、標準、インフラ、共通データなど複数者の投資が必要な共有依存要素がある。</li>
   <li>重要参加者が一方的統制を恐れて、深いコミットを避けている。</li>

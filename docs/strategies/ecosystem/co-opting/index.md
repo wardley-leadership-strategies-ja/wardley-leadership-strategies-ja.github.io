@@ -79,7 +79,7 @@ Microsoftは長くLinuxを強い競合と見ていましたが、2010年代に�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Co-opting">
+<Assessment strategyName="取り込み">
  <MapSignals>
   <li>競合の単一機能が、成長の主要因になっている。</li>
   <li>地図上で、競合の差別化が根本的なプラットフォーム優位ではなく、模倣可能な特徴に依存している。</li>

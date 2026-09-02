@@ -92,7 +92,7 @@ ARMはスマートフォンの大半に使われるCPUアーキテクチャを�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Playing Both Sides">
+<Assessment strategyName="両面張り">
  <MapSignals>
   <li>市場が二つ以上の競合標準やプラットフォームに分かれている。</li>
   <li>その勝敗がまだかなり不確実である。</li>

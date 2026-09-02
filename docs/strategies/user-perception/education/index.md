@@ -80,7 +80,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Education">
+<Assessment strategyName="教育">
  <MapSignals>
   <li>地図上で、ユーザーや市場の慣性が採用の主要障害になっている。</li>
   <li>自社の解決策やそのカテゴリについて、誤解や認知不足が広がっている。</li>

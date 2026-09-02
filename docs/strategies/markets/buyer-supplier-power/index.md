@@ -78,7 +78,7 @@ iPhoneユーザーへ届く唯一の流通路を握ることで、Appleは開発
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Buyer-Supplier Power">
+<Assessment strategyName="買い手と供給者の力関係">
  <MapSignals>
   <li>重要コンポーネントで単一の強い供給者に依存している。</li>
   <li>バリューチェーン上で自社がチョークポイントになれる余地がある。</li>

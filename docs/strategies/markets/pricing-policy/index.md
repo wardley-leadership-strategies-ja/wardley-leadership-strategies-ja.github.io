@@ -81,7 +81,7 @@ Appleはプレミアム価格戦略を維持し、高品質で憧れを呼ぶ製
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Pricing Policy">
+<Assessment strategyName="価格政策">
  <MapSignals>
   <li>地図上で、積極的な価格設定によってコモディティ化できるコンポーネントがある。</li>
   <li>市場の価格弾力性が高く、需要が価格に敏感である。</li>

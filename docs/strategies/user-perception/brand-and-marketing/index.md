@@ -49,7 +49,7 @@ time_horizon: Medium-term shaping
 >
 > - Simon Wardley
 
-<AssessmentToolAdvert strategyName="Brand and Marketing" />
+<AssessmentToolAdvert strategyName="ブランドとマーケティング" />
 
 ## 🤔 **解説**
 
@@ -90,7 +90,7 @@ Orangeは、若年層を対象とするサブブランド「NJU Mobile」を立�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Brand and Marketing">
+<Assessment strategyName="ブランドとマーケティング">
  <MapSignals>
   <li>市場が、機能面でよく似た製品やサービスによって飽和している。</li>
   <li>地図から、コンポーネントまたは製品がコモディティ化へ進んでいる一方、利用者の認識はまだ変えられると分かる。</li>

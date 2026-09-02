@@ -79,7 +79,7 @@ Juiceroは高価なジューサーで技術差別化を試みましたが、ユ�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Differentiation">
+<Assessment strategyName="差別化">
  <MapSignals>
   <li>地図上で、対象コンポーネントが創世記またはカスタムビルドにある。</li>
   <li>市場に不確実性が高く、革新余地が大きい。</li>

@@ -80,7 +80,7 @@ App Storeはアプリ開発者とiPhone利用者をつなぐ両面市場です�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Two-Sided Markets">
+<Assessment strategyName="両面市場">
  <MapSignals>
   <li>地図上に、つながれば価値が生まれるが分断されている二つの利用者集団がある。</li>
   <li>両集団の間に強い正のネットワーク効果が生まれそうだ。</li>

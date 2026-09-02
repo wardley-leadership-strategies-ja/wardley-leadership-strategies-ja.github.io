@@ -66,7 +66,7 @@ time_horizon: Medium-term shaping
 
 この戦略は、相互利益が見込める場面で、提携、共同事業、業界横断の協業を組むことを扱います。
 
-<AssessmentToolAdvert strategyName="Cooperation" />
+<AssessmentToolAdvert strategyName="協調" />
 
 ## 🤔 **解説**
 
@@ -157,7 +157,7 @@ Ericsson、Nokia、IBM、Intelなどが参加したBluetooth SIGは、無線周�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Cooperation">
+<Assessment strategyName="協調">
  <MapSignals>
   <li>創世記またはカスタムビルド段階のコンポーネントが、単独では大きすぎる、危険すぎる、遅すぎる。</li>
   <li>競合や同業他社も同じ課題を抱えており、共有アプローチの便益がある。</li>

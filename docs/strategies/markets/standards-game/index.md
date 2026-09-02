@@ -49,7 +49,7 @@ time_horizon: Long-term positioning
 >
 > - Simon Wardley
 
-<AssessmentToolAdvert strategyName="Standards Game" />
+<AssessmentToolAdvert strategyName="標準化ゲーム" />
 
 ## 🤔 **解説**
 
@@ -90,7 +90,7 @@ S3のオブジェクトストレージインターフェースは事実上の標
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Standards Game">
+<Assessment strategyName="標準化ゲーム">
  <MapSignals>
   <li>市場が断片化や競合する方式に苦しんでいる。</li>
   <li>他者が依存したい、または依存せざるを得ない技術を握っている。</li>

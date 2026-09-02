@@ -64,7 +64,7 @@ time_horizon: Fast impact
 
 この方法は、市場で語る言葉を持たない製品を作ってしまう失敗を防ぎ、取り組みに説得力ある価値提案があるかを早い段階で確認させます。
 
-<AssessmentToolAdvert strategyName="Press Release Process" />
+<AssessmentToolAdvert strategyName="プレスリリース・プロセス" />
 
 ### 指針から戦略へ
 
@@ -101,7 +101,7 @@ Netflixも近い手法を機能開発で使っています。たとえばオフ�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Press Release Process">
+<Assessment strategyName="プレスリリース・プロセス">
  <MapSignals>
   <li>新しい製品、機能、ユーザー向けサービスの開発を始めようとしている。</li>
   <li>地図上ではユーザーへの可視性が高いのに、価値提案が曖昧である。</li>

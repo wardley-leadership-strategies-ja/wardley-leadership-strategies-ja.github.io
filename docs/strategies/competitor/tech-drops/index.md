@@ -72,7 +72,7 @@ Nokia、BlackBerry、Microsoftが物理キーボードや企業向け機能を�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Tech Drops">
+<Assessment strategyName="テックドロップ">
  <MapSignals>
   <li>競合が進化の初期段階にあると見ている能力を、自社はすでに産業化している。</li>
   <li>競合が、予測可能なロードマップや公開された開発サイクルに縛られている。</li>

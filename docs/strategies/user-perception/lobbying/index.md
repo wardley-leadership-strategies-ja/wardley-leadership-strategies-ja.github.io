@@ -99,7 +99,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Lobbying">
+<Assessment strategyName="ロビー活動">
  <MapSignals>
   <li>地図上の重要なコンポーネントや市場での地位が、規制または政策の変更によって大きく揺らぐ。</li>
   <li>自社に有利、または競合に不利な形へ動かせる規則が、新たに提案されている。</li>

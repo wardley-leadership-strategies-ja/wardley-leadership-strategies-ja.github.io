@@ -78,7 +78,7 @@ Threadlessは、世界中のアーティストがTシャツデザインを投稿
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Co-creation">
+<Assessment strategyName="共創">
  <MapSignals>
   <li>地図上で、ユーザーニーズが多様、複雑、または十分理解されていない。</li>
   <li>製品や市場の周りに、熱量の高いコミュニティがある。</li>

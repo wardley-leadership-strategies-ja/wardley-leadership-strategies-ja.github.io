@@ -82,7 +82,7 @@ time_horizon: Medium-term shaping
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Sweat & Dump">
+<Assessment strategyName="使い切って手放す">
  <MapSignals>
   <li>主要なコンポーネントが成熟または衰退しているが、まだ収益を生んでいる。</li>
   <li>レガシーシステムの運用が、優先度の高い施策や新システムの開発を妨げている。</li>

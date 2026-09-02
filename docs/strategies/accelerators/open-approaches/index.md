@@ -50,7 +50,7 @@ time_horizon: Medium-term shaping
 >
 > – Simon Wardley
 
-<AssessmentToolAdvert strategyName="Open Approaches" />
+<AssessmentToolAdvert strategyName="オープンアプローチ" />
 
 ## 🤔 **解説**
 
@@ -110,7 +110,7 @@ Androidのオープン化はGoogleにとって大きな戦略的成功でした�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Open Approaches">
+<Assessment strategyName="オープンアプローチ">
  <MapSignals>
   <li>地図上で、対象コンポーネントがユーティリティ化、またはコモディティ化へ向かっている。</li>
   <li>採用に大きな摩擦がある。コスト、ライセンス、統合が障壁になっている。</li>

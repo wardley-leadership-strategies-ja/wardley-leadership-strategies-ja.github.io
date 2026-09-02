@@ -85,7 +85,7 @@ LinuxとWindowsの競争において、Microsoftは「Linuxは無料ではなく
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Fear, Uncertainty and Doubt">
+<Assessment strategyName="恐怖・不確実性・疑念">
  <MapSignals>
   <li>地図から、競合の製品やサービスが進化の初期段階にある、または実績が不足していると分かる。</li>
   <li>顧客が、変化や新規参入者に対する不安を表明している。</li>

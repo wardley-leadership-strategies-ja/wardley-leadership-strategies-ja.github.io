@@ -79,7 +79,7 @@ Microsoftは長くWindows上の巨大なソフトウェアエコシステムを�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Harvesting">
+<Assessment strategyName="収穫">
  <MapSignals>
   <li>地図上で、プラットフォームの上に成長中のエコシステムがある。</li>
   <li>エコシステムの中で実験とイノベーションが活発である。</li>

@@ -103,7 +103,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Value Chain Disaggregation and Re-aggregation">
+<Assessment strategyName="バリューチェーンの分解と再統合">
  <MapSignals>
   <li>現行バリューチェーンが一枚岩で、市場変化へ適応しにくい。</li>
   <li>統合されすぎた部品の中に、切り分ければ効率化や革新余地がある。</li>

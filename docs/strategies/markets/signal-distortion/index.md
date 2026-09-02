@@ -81,7 +81,7 @@ time_horizon: Fast impact
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Signal Distortion">
+<Assessment strategyName="シグナル歪曲">
  <MapSignals>
   <li>競合が業界アナリストやメディア報道に強く影響される。</li>
   <li>市場に不確実性と投機性が強い。</li>

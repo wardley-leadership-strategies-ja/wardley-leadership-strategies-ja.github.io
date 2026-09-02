@@ -83,7 +83,7 @@ time_horizon: Fast impact
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Bundling">
+<Assessment strategyName="バンドリング">
  <MapSignals>
   <li>地図上で、ユーザーの抵抗や慣性に直面しているコンポーネントがある。</li>
   <li>需要の強い、非常に魅力的な製品やサービスがある。</li>

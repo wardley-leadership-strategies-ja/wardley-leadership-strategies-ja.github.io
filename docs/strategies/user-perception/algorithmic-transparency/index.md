@@ -80,7 +80,7 @@ AIツールの入力、限界、人間による介入手順を臨床現場へ明
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Algorithmic Transparency">
+<Assessment strategyName="アルゴリズムの透明性">
  <MapSignals>
   <li>自動判断が信用、採用、価格設定、アクセスなどユーザーへ大きく影響している。</li>
   <li>規制当局、監査担当、調達部門が説明可能性と説明責任を要求している。</li>

@@ -103,7 +103,7 @@ eBayはPayPalを独立させ、両社がそれぞれの市場に合わせた成�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Strategic Divestment and Disposal of Liability">
+<Assessment strategyName="戦略的切り離しと負債の処分">
  <MapSignals>
   <li>地図上の重要なコンポーネントが、成熟またはコモディティ段階にとどまっている。</li>
   <li>それらのコンポーネントを維持するために、多くの資源が拘束されている。</li>

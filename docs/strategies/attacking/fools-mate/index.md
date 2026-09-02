@@ -108,7 +108,7 @@ GoogleによるVP9のオープンソース化と、その後のオープンメ�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Fool's Mate">
+<Assessment strategyName="フールズ・メイト">
  <MapSignals>
   <li>相手のバリューチェーンが、重要だが誤解、過小評価、または防御不足のコンポーネントに依存している。</li>
   <li>自社の手段によって、そのコンポーネントを急速にコモディティ化または無力化できる。</li>

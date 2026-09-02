@@ -82,7 +82,7 @@ AppleはiPhoneの発売時、米国のAT&Tなどの通信事業者と独占契�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Creating Constraints">
+<Assessment strategyName="制約の創出">
  <MapSignals>
   <li>地図上で、初期進化段階にある重要コンポーネントが将来ボトルネックになる。</li>
   <li>競合が当然視している将来資源を、自社は先に特定できている。</li>
