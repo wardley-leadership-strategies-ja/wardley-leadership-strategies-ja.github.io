@@ -1,3 +1,3 @@
-# OODA ループ
+# OODAループ
 
-OODA ループは、Observe、Orient、Decide、Act を繰り返す John Boyd の意思決定サイクルです。状況認識とメンタルモデルを継続的に更新し、変化より先に行動することを重視します。
+OODAループは、観察（Observe）、情勢判断（Orient）、意思決定（Decide）、行動（Act）を繰り返すJohn Boydの意思決定サイクルです。状況認識とメンタルモデルを継続的に更新し、変化より先に行動することを重視します。

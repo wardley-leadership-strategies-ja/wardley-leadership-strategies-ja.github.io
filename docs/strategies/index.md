@@ -6,11 +6,11 @@ sidebar_position: 1
 
 :::tip
 
-サイトメニューのカテゴリ、サイト内検索、または [タグ](/tags) から戦略を探せます。
+サイトメニューのカテゴリ、サイト内検索、または[タグ](/tags)から戦略を探せます。
 
 :::
 
-## 戦略一覧 A-Z
+## 戦略一覧
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
