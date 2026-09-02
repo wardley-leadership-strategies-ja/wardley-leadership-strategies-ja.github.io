@@ -49,6 +49,11 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Embrace and Extend | 抱き込みと拡張 |
 | Platform Envelopment | プラットフォーム包摂 |
 | Two-Sided Markets | 両面市場 |
+| Center of Gravity | 重心 |
+| Directed Investment | 集中投資 |
+| Experimentation | 実験 |
+| Playing Both Sides | 両面張り |
+| Press Release Process | プレスリリース・プロセス |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |

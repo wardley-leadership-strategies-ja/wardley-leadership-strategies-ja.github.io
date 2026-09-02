@@ -185,4 +185,4 @@ time_horizon: Medium-term shaping
 ## 📚 **参考文献**
 
 - [イノベーションのジレンマ](/books/the-innovators-dilemma) - 破壊的挑戦者が既存勢力を崩す理論的背景
-- [Judo Strategy](/books/judo-strategy) - 小さな挑戦者が既存勢力の規模や強さを逆用する戦略
+- [柔道戦略](/books/judo-strategy) - 小さな挑戦者が既存勢力の規模や強さを逆用する戦略

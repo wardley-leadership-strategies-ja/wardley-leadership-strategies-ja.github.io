@@ -44,7 +44,7 @@ time_horizon: Medium-term shaping
 ---
 
 :::note
-**両面張り** は、Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示的には挙がっていません。
+**両面張り**は、Simon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)で明示的には挙がっていません。
 :::
 
 **市場や標準争いの両陣営に関わり、どちらが勝っても利益を得られる位置に立つ戦略です。**
@@ -69,8 +69,8 @@ graph TD
     A(自社の提供物)
   end
   subgraph 競合標準
-    B(標準 A)
-    C(標準 B)
+    B(標準A)
+    C(標準B)
   end
   A --> B
   A --> C
@@ -78,13 +78,13 @@ graph TD
 
 ## 🗺️ **実例**
 
-### DVD と HD-DVD と Blu-ray
+### DVDとHD-DVDとBlu-ray
 
-2000 年代半ば、家庭向け映像市場では HD-DVD と Blu-ray の標準争いが起きていました。Samsung のように両形式の再生機を出した企業は、どちらが勝っても市場に残れました。Warner Bros. も当初は両形式で映画を出し、Blu-ray 勝利まで両方の利用者基盤から利益を得ていました。
+2000年代半ば、家庭向け映像市場ではHD-DVDとBlu-rayの標準争いが起きていました。Samsungのように両形式の再生機を出した企業は、どちらが勝っても市場に残れました。Warner Bros. も当初は両形式で映画を出し、Blu-ray勝利まで両方の利用者基盤から利益を得ていました。
 
 ### ARM Holdings
 
-ARM はスマートフォンの大半に使われる CPU アーキテクチャを設計しています。Apple、Samsung、Qualcomm など、競合各社が ARM の設計をライセンスしています。iPhone が売れても Android が売れても ARM にはロイヤルティが入るため、スマホ戦争の両側で利益を得ています。
+ARMはスマートフォンの大半に使われるCPUアーキテクチャを設計しています。Apple、Samsung、Qualcommなど、競合各社がARMの設計をライセンスしています。iPhoneが売れてもAndroidが売れてもARMにはロイヤルティが入るため、スマホ戦争の両側で利益を得ています。
 
 ### コーポレートベンチャーキャピタル
 
@@ -191,7 +191,7 @@ ARM はスマートフォンの大半に使われる CPU アーキテクチャ�
 
 - [協調](/strategies/accelerators/cooperation) - 複数の競合プレイヤーと同時に関わる協調を伴うことが多い
 - [標準化ゲーム](/strategies/markets/standards-game) - 標準争いの中で取る一手の一つ
-- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 中立供給者として市場動向を読み、次の層で 活用 することがある
+- [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 中立供給者として市場動向を読み、次の層で活用することがある
 - [奇襲](/strategies/competitor/ambush) - 信頼関係を作ってから両陣営へ競争的に仕掛けることがある
 - [見せかけの競争](/strategies/user-perception/artificial-competition) - 競合が多いように見せ、交渉力を高めることがある
 
