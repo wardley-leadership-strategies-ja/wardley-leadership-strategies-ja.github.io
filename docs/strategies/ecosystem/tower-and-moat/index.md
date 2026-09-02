@@ -2,7 +2,7 @@
 title: 塔と堀
 description: 将来市場で支配的な位置を取り、その周囲に防御障壁を築いて競争を防ぐ戦略。
 tags:
-- エコシステム
+- ecosystem
 - dominance
 - defensive
 - barriers-to-entry

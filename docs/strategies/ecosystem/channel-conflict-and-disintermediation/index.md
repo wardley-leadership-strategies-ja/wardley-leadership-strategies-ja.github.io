@@ -69,7 +69,7 @@ time_horizon: Medium-term shaping
 ```mermaid
 flowchart LR
   subgraph 従来チャネル
-    A[供給者] --> B[中間業者 / パートナー]
+    A[供給者] --> B[中間業者／パートナー]
     B --> C[顧客]
   end
   A --> D[直販チャネル]

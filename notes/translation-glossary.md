@@ -64,6 +64,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | platform | プラットフォーム |
 | proprietary | プロプライエタリな |
 | sensing | センシング |
+| Sherlocking | シャーロッキング |
 | standard | 標準 |
 | utility | ユーティリティ |
 | vulnerability | 脆弱性 |
