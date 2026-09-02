@@ -56,6 +56,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Designed to Fail | 失敗するよう設計する |
 | Differentiation | 差別化 |
 | Fear, Uncertainty and Doubt | 恐怖・不確実性・疑念 |
+| Artificial Competition | 見せかけの競争 |
 | Fool's Mate | フールズ・メイト |
 | Harvesting | 収穫 |
 | Lobbying | ロビー活動 |
