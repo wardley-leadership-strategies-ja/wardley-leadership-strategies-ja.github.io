@@ -197,6 +197,9 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | explorers | 探索者 |
 | villagers | 定住者 |
 | town planners | 都市計画者 |
+| Pioneers | 先駆者 |
+| Settlers | 定住者 |
+| Town Planners | 都市計画者 |
 | Understand what is being considered | 検討されていることを理解する |
 | A bias toward open | オープン性を重視する |
 | Bias toward data | データを重視する |

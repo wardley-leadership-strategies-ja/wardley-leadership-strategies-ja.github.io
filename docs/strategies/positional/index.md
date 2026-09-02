@@ -46,7 +46,7 @@ authors:
 
 ## 🧭 **ほかの戦略との関係**
 
-[塔と堀](/strategies/ecosystem/tower-and-moat) や [標準化ゲーム](/strategies/markets/standards-game) も、未来の要所を先に取るという意味ではポジショニング戦略として読めます。分類名より、結果としてどの場所を押さえるかが重要です。
+[塔と堀](/strategies/ecosystem/tower-and-moat)や[標準化ゲーム](/strategies/markets/standards-game)も、未来の要所を先に取るという意味ではポジショニング戦略として読めます。分類名より、結果としてどの場所を押さえるかが重要です。
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
