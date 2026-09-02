@@ -206,7 +206,7 @@ PayPal を独立させることで、双方がそれぞれの市場に合わせ�
 ## 🔀 **関連戦略**
 
 - [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 直接処分が難しいとき、外部へ運用を押し出してから離脱する
-- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して押し付ける危うい変種
+- [袋の中の豚](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して押し付ける危うい変種
 - [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 外に出さず、社内で組み替えて価値を救う代替策
 - [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - 分解によって負債部品を切り離しやすくする
 

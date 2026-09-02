@@ -38,6 +38,12 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Standards Game | 標準化ゲーム |
 | Limitation of Competition | 競争制限 |
 | Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
+| Algorithmic Transparency | アルゴリズムの透明性 |
+| Designed to Fail | 失敗するよう設計する |
+| Harvesting | 収穫 |
+| Poison | 毒戦略 |
+| Tower and Moat | 塔と堀 |
+| Weak Signal (Horizon) | 弱いシグナル |
 
 ## Strategy And Market Vocabulary
 
@@ -87,6 +93,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | --- | --- |
 | capex | 設備投資 |
 | carve-out | カーブアウト |
+| clawback | クローバック条項 |
 | due diligence | デューデリジェンス |
 | earn-out | アーンアウト |
 | exit | 退出 |

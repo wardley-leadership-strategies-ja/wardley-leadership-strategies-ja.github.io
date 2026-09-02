@@ -192,7 +192,7 @@ time_horizon: Long-term positioning
 - [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - 再利用せず切り離す方向の対照戦略
 - [使い切って手放す](/strategies/dealing-with-toxicity/sweat-and-dump) - 外部へ押し出して短期価値を取る別ルート
 - [バリューチェーンの分解と再統合](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - より大きな価値連鎖再設計の一部としてリファクタリングを使うことがある
-- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して外へ出す危うい対照戦略
+- [袋の中の豚](/strategies/dealing-with-toxicity/pig-in-a-poke) - 毒性を隠して外へ出す危うい対照戦略
 
 ## ⛅ **関連する状勢パターン**
 

@@ -17,7 +17,7 @@ authors:
 
 代表的な型は次のとおりです。
 
-- [アルゴリズム透明性](/strategies/user-perception/algorithmic-transparency)
+- [アルゴリズムの透明性](/strategies/user-perception/algorithmic-transparency)
 - [見せかけの競争](/strategies/user-perception/artificial-competition)
 - [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing)
 - [バンドリング](/strategies/user-perception/bundling)
@@ -31,7 +31,7 @@ authors:
 
 | 戦略 | 主な狙い | 主な手段 | 向く場面 | 主な状勢パターン |
 | :--- | :--- | :--- | :--- | :--- |
-| [アルゴリズム透明性](/strategies/user-perception/algorithmic-transparency/) | 自動化への信頼を作る | 説明可能性、監査証跡、公開ルール | 高リスク自動化、規制領域 | [特性は変化する](/climatic-patterns/characteristics-change)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
+| [アルゴリズムの透明性](/strategies/user-perception/algorithmic-transparency/) | 自動化への信頼を作る | 説明可能性、監査証跡、公開ルール | 高リスク自動化、規制領域 | [特性は変化する](/climatic-patterns/characteristics-change)、[進化を避ける選択肢はない](/climatic-patterns/no-choice-on-evolution) |
 | [見せかけの競争](/strategies/user-perception/artificial-competition/) | 選択肢があるように見せる | 別ブランド、見かけ上の独立性 | 支配的立場の緩和演出 | [多くの競合は状況認識が弱い](/climatic-patterns/most-competitors-have-poor-situational-awareness) |
 | [ブランドとマーケティング](/strategies/user-perception/brand-and-marketing/) | 感情的な結びつきと忠誠を作る | 物語、広告、コミュニティ | 混戦市場、コモディティ市場 | [高次システムは新たな価値源を生む](/climatic-patterns/higher-order-systems-create-new-sources-of-worth)、[万能な解は存在しない](/climatic-patterns/no-one-size-fits-all) |
 | [バンドリング](/strategies/user-perception/bundling/) | 望ましいものと一緒に採用させる | パッケージ、値引き、抱き合わせ | 新規機能の普及、切替コスト増 | [効率がイノベーションを可能にする](/climatic-patterns/efficiency-enables-innovation) |

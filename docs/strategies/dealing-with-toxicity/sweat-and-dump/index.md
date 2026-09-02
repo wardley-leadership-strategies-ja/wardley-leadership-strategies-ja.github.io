@@ -186,7 +186,7 @@ time_horizon: Medium-term shaping
 ## 🔀 **関連戦略**
 
 - [戦略的切り離しと負債の処分](/strategies/dealing-with-toxicity/disposal-of-liability) - 使い切り 段階なしに直接手放す
-- [中身を隠して売る](/strategies/dealing-with-toxicity/pig-in-a-poke) - 欺瞞的に押し付ける危うい変種
+- [袋の中の豚](/strategies/dealing-with-toxicity/pig-in-a-poke) - 欺瞞的に押し付ける危うい変種
 - [リファクタリング](/strategies/dealing-with-toxicity/refactoring) - 外に出さず内部で組み替える選択肢
 - [革新・活用・コモディティ化](/strategies/ecosystem/innovate-leverage-commoditize) - 汗をかかせている間に未来側の革新へ資源を回せる
 - [失敗するよう設計する](/strategies/poison/designed-to-fail) - 失敗前提の切り離しと組み合わさることがある
