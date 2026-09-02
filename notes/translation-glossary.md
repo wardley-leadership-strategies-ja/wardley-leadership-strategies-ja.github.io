@@ -47,6 +47,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Strategic Divestment and Disposal of Liability | 戦略的切り離しと負債の処分 |
 | Limitation of Competition | 競争制限 |
 | Procrastination | 戦略的先送り |
+| Threat Acquisition | 脅威の買収 |
+| Defensive Regulation | 防御的規制 |
 | Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
 | Algorithmic Transparency | アルゴリズムの透明性 |
 | Brand and Marketing | ブランドとマーケティング |
