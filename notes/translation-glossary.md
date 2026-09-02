@@ -41,8 +41,10 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Algorithmic Transparency | アルゴリズムの透明性 |
 | Designed to Fail | 失敗するよう設計する |
 | Differentiation | 差別化 |
+| Fear, Uncertainty and Doubt | 恐怖・不確実性・疑念 |
 | Fool's Mate | フールズ・メイト |
 | Harvesting | 収穫 |
+| Lobbying | ロビー活動 |
 | Poison | 毒戦略 |
 | Pricing Policy | 価格政策 |
 | Tower and Moat | 塔と堀 |
