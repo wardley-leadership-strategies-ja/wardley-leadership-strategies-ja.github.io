@@ -39,6 +39,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Limitation of Competition | 競争制限 |
 | Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
 | Algorithmic Transparency | アルゴリズムの透明性 |
+| Brand and Marketing | ブランドとマーケティング |
+| Creating Artificial Needs | 人工的ニーズの創出 |
 | Designed to Fail | 失敗するよう設計する |
 | Differentiation | 差別化 |
 | Fear, Uncertainty and Doubt | 恐怖・不確実性・疑念 |
