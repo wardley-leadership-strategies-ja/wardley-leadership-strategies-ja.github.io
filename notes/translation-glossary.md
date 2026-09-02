@@ -40,8 +40,10 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
 | Algorithmic Transparency | アルゴリズムの透明性 |
 | Designed to Fail | 失敗するよう設計する |
+| Differentiation | 差別化 |
 | Harvesting | 収穫 |
 | Poison | 毒戦略 |
+| Pricing Policy | 価格政策 |
 | Tower and Moat | 塔と堀 |
 | Weak Signal (Horizon) | 弱いシグナル |
 
@@ -56,6 +58,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | commoditization | コモディティ化 |
 | commoditize | コモディティ化 |
 | competitor | 競合 |
+| critical mass | クリティカルマス |
 | incumbent | 既存勢力 |
 | leverage | 活用 |
 | market share | 市場シェア |
