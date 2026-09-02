@@ -41,10 +41,12 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Algorithmic Transparency | アルゴリズムの透明性 |
 | Designed to Fail | 失敗するよう設計する |
 | Differentiation | 差別化 |
+| Fool's Mate | フールズ・メイト |
 | Harvesting | 収穫 |
 | Poison | 毒戦略 |
 | Pricing Policy | 価格政策 |
 | Tower and Moat | 塔と堀 |
+| Tech Drops | テックドロップ |
 | Weak Signal (Horizon) | 弱いシグナル |
 
 ## Strategy And Market Vocabulary
