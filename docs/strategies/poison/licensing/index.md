@@ -80,7 +80,7 @@ GoogleはAndroidをオープンソースライセンスで公開する一方、�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Licensing">
+<Assessment strategyName="ライセンシング">
  <MapSignals>
   <li>地図上に、競合が利用せざるを得ない重要なコンポーネントがある。</li>
   <li>その技術に大きなネットワーク効果またはデータへの依存がある。</li>
@@ -220,5 +220,5 @@ GoogleはAndroidをオープンソースライセンスで公開する一方、�
 
 ## 📚 **参考文献**
 
-- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — 強いコピーレフトの例
-- [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — デュアルライセンスとマルチライセンスの概要
+- [GPLv3ライセンス](https://www.gnu.org/licenses/gpl-3.0.html) — 強いコピーレフトの例
+- [マルチライセンス](https://en.wikipedia.org/wiki/Multi-licensing) — デュアルライセンスとマルチライセンスの概要

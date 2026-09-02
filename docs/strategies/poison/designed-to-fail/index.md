@@ -74,15 +74,15 @@ time_horizon: Fast impact
 
 ### HD DVD
 
-Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しました。技術的には成立していても、支持不足と混乱により早く衰退し、新規参入もためらわせました。
+Blu-rayと並んだHD DVDは、高精細ディスク市場を分断しました。技術的には成立していても、支持不足と混乱により早く衰退し、新規参入もためらわせました。
 
-### 仮想例: IoT API
+### 仮想例：IoT API
 
-あるベンダー支援の IoT API が、十分なセキュリティを持たないまま出され、初期採用者で事故が起きれば、その領域全体が危険で未熟だという印象を作れます。
+あるベンダー支援のIoT APIが、十分なセキュリティを持たないまま出され、初期採用者で事故が起きれば、その領域全体が危険で未熟だという印象を作れます。
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Designed to Fail">
+<Assessment strategyName="失敗するよう設計する">
  <MapSignals>
   <li>隣接市場が立ち上がりつつあるが、標準も強いリーダーもまだない。</li>
   <li>そこへ本気のプレイヤーが根付くと、自社は破壊される恐れがある。</li>
@@ -90,7 +90,7 @@ Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しまし�
  </MapSignals>
  <Readiness>
   <li>短期の立ち上げを支える資源があり、長期依存は不要である。</li>
-  <li>法務判断と PR バッファがある。</li>
+  <li>法務判断とPRバッファがある。</li>
   <li>終わらせるときに、きれいに閉じる手順がある。</li>
  </Readiness>
 </Assessment>
@@ -117,7 +117,7 @@ Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しまし�
 
 - [不確実性下での意思決定](/leadership-skills/decision-making-under-uncertainty) — 冷徹な戦略判断
 - [リスク管理とレジリエンス](/leadership-skills/risk-management-and-resilience) — 評判リスクの調整
-- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 法務と PR の連携
+- [知財と法務戦略](/leadership-skills/ip-and-legal-strategy) — 法務とPRの連携
 - [ガバナンスと政策設計](/leadership-skills/governance-and-policy-design) — 即応型の統治
 
 ### 倫理面
@@ -213,6 +213,6 @@ Blu-ray と並んだ HD DVD は、高精細ディスク市場を分断しまし�
 
 ## 📚 **参考文献**
 
-- [HD DVD 対 Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — 市場分断と失敗の例
-- [Betamax 対 VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — プロプライエタリな規格戦争の例
+- [HD DVD対Blu-ray（Wikipedia）](https://en.wikipedia.org/wiki/HD_DVD) — 市場分断と失敗の例
+- [Betamax対VHS（Wikipedia）](https://en.wikipedia.org/wiki/Betamax) — プロプライエタリな規格戦争の例
 - [Blue Ocean Strategy](/books/blue-ocean-strategy) - 市場空間の形成と防衛を考える文脈
