@@ -36,6 +36,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Circling and Probing | 包囲と探り |
 | Exploiting Existing Constraint | 既存制約の活用 |
 | Insertion | 挿入 |
+| Education | 教育 |
+| Licensing | ライセンシング |
 | Land Grab | 先行確保 |
 | Pig in a Poke | 袋の中の豚 |
 | Sweat & Dump | 使い切って手放す |
