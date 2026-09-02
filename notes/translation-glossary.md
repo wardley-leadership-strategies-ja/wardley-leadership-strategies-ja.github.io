@@ -38,6 +38,9 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Creating Constraints | 制約の創出 |
 | Cooperation | 協調 |
 | Open Approaches | オープンアプローチ |
+| Market Enablement | 市場育成 |
+| Industrial Policy | 産業政策 |
+| Exploiting Network Effects | ネットワーク効果の活用 |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |
