@@ -68,15 +68,15 @@ time_horizon: Long-term positioning
 
 ## 🗺️ **実例**
 
-### De Beers のダイヤ供給
+### De Beersのダイヤ供給
 
-採掘量と在庫を管理し、人工的な希少性を維持することで、市場全体を支配しました。
+De Beersは宝石を備蓄し、鉱山の産出量を管理することで、人工的な希少性を維持しました。競合と消費者を自社が統制する供給環境の中で行動させ、高い価格と市場支配力を保ちました。
 
-### iPhone の通信事業者独占契約
+### iPhoneの通信事業者独占契約
 
-初期の iPhone は通信事業者との独占提携で流通制約を作り、競合に対して大きな差を作りました。
+AppleはiPhoneの発売時、米国のAT&Tなどの通信事業者と独占契約を結びました。同等の流通網を持たない競合には参入上の制約となり、初期市場での採用をAppleに有利な形へ導きました。
 
-### 仮想例: EV 用リチウム供給
+### 仮想例: EV用リチウム供給
 
 バッテリーメーカーが主要鉱山会社と長期独占契約を結び、新規参入者の調達コストを引き上げるケースです。
 
@@ -122,11 +122,12 @@ time_horizon: Long-term positioning
 
 ## 📋 **進め方**
 
-1. 地図で将来の重要コンポーネントを特定する
+1. Wardley Mappingの地図で将来の重要コンポーネントを特定する
 2. どこに希少性や排他性を入れられるかを選ぶ
 3. 契約、認証、規制、標準を使って制約を形にする
 4. 供給者、規制当局、パートナーと足並みを揃える
-5. 競合の反応を見ながら制約を維持・調整する
+5. 制約を維持するため、社内外へ戦略とその正当性を伝える
+6. 競合の反応を見ながら制約を維持・調整する
 
 ## 📈 **成功指標**
 
@@ -178,17 +179,17 @@ time_horizon: Long-term positioning
 
 ## 🔀 **関連戦略**
 
-- [既存制約の活用](/strategies/decelerators/exploiting-constraint)
-- [特許と知的財産権](/strategies/decelerators/ipr)
-- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry)
+- [既存制約の活用](/strategies/decelerators/exploiting-constraint) – 新たに作らず、すでに存在するボトルネックを強める
+- [特許と知的財産権](/strategies/decelerators/ipr) – 法的権利を使い、競合による重要技術の進化を妨げる
+- [参入障壁の引き上げ](/strategies/defensive/raising-barriers-to-entry) – 競合による市場参入を制限する、より広い戦略
 
 ## ⛅ **関連する状勢パターン**
 
-- [特性は変化する](/climatic-patterns/characteristics-change) – トリガー: 制約を加えるとコンポーネントの進化特性が変わる
+- [特性は変化する](/climatic-patterns/characteristics-change) – きっかけ: 制約を加えるとコンポーネントの進化特性が変わる
 - [慣性は組織を殺しうる](/climatic-patterns/inertia-can-kill-an-organisation) – 影響: 自分で作った制約が、後に自社の足かせになることもある
 
 ## 📚 **参考文献**
 
-- [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing)
-- [De Beers](https://en.wikipedia.org/wiki/De_Beers)
-- [反トラスト法と排他的契約](https://en.wikipedia.org/wiki/Antitrust_laws)
+- [排他的取引](https://en.wikipedia.org/wiki/Exclusive_dealing) – 排他的契約が市場へのアクセスを形作る仕組み
+- [De Beers](https://en.wikipedia.org/wiki/De_Beers) – ダイヤモンドの供給を人為的に制限して市場を支配した事例
+- [反トラスト法と排他的契約](https://en.wikipedia.org/wiki/Antitrust_laws) – 排他的な取り決めに関する法的論点

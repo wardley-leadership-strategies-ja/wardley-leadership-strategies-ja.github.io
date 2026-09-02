@@ -35,6 +35,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Undermining Barriers to Entry | 参入障壁の切り崩し |
 | Circling and Probing | 包囲と探り |
 | Exploiting Existing Constraint | 既存制約の活用 |
+| Creating Constraints | 制約の創出 |
+| Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |
 | Licensing | ライセンシング |
@@ -122,6 +124,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | exit | 退出 |
 | patent thicket | 特許の藪 |
 | patent troll | パテントトロール |
+| intellectual property rights (IPR) | 知的財産権（IPR） |
 | private equity | プライベートエクイティ |
 | rent-seeking | レントシーキング |
 | spin-off | スピンオフ |
