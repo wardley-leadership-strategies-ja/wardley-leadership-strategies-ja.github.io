@@ -69,13 +69,13 @@ time_horizon: Medium-term shaping
 
 ## 🗺️ **実例**
 
-### Instagram 対 Snapchat（Stories）
+### Instagram対Snapchat（Stories）
 
-2016 年、Instagram は Snapchat の中核機能をほぼそのまま模した Stories を投入しました。当時 Snapchat は急成長しており、Instagram にとって重大な脅威でした。Instagram は Stories を取り込むことで Snapchat の主要差別化を無力化し、その機能のために別アプリへ移る理由を大幅に減らしました。
+2016年、InstagramはSnapchatの中核機能をほぼそのまま模したStoriesを投入しました。当時Snapchatは急成長しており、Instagramにとって重大な脅威でした。InstagramはStoriesを取り込むことでSnapchatの主要差別化を無力化し、その機能のために別アプリへ移る理由を大幅に減らしました。
 
-### Microsoft と Linux／オープンソース
+### MicrosoftとLinux／オープンソース
 
-Microsoft は長く Linux を強い競合と見ていましたが、2010 年代に入ると方向を変えました。WSL を作り、オープンソースへの貢献を増やし、GitHub を買収することで、オープンソースの勢いそのものを自社の提供価値へ取り込みました。これにより、かつての脅威を中和し、Windows を開発者にとって魅力的な場所へ再配置しました。
+Microsoftは長くLinuxを強い競合と見ていましたが、2010年代に入ると方向を変えました。WSLを作り、オープンソースへの貢献を増やし、GitHubを買収することで、オープンソースの勢いそのものを自社の提供価値へ取り込みました。これにより、かつての脅威を中和し、Windowsを開発者にとって魅力的な場所へ再配置しました。
 
 ## 🚦 **使いどころ**
 
@@ -188,5 +188,5 @@ Microsoft は長く Linux を強い競合と見ていましたが、2010 年代�
 
 ## 📚 **参考文献**
 
-- [How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone) - 代表的な現代の取り込み事例
+- [Instagramの新機能StoriesはSnapchatの模倣](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone) - 代表的な現代の取り込み事例
 - [国家のように見る](/books/seeing-like-a-state) - 大きなシステムが有機的な実践をどう吸収するかを考える手がかりになる

@@ -53,7 +53,7 @@ time_horizon: Long-term positioning
 
 ### 抱き込みと拡張とは何か
 
-「抱き込みと拡張」は、すでに広く採用されている標準を取り込み、その後に独自拡張を加えることで、市場支配を狙う攻撃的な戦略です。流れは大きく 3 段階あります。
+「抱き込みと拡張」は、すでに広く採用されている標準を取り込み、その後に独自拡張を加えることで、市場支配を狙う攻撃的な戦略です。流れは大きく3段階あります。
 
 1. **抱き込む:** まず、オープン標準や事実上の標準に完全互換な製品を出し、既存利用者基盤へ自然に入り込む
 2. **拡張する:** 次に、その標準にはない独自機能を加え、競合が追随できない追加価値を作る
@@ -72,17 +72,17 @@ time_horizon: Long-term positioning
 
 ## 🗺️ **実例**
 
-### 成功例: Microsoft のブラウザ戦争
+### 成功例: Microsoftのブラウザ戦争
 
-もっとも有名なのは、1990 年代後半の Internet Explorer です。Microsoft は当時の Web 標準である HTML や CSS を**抱き込み**、その後 `<marquee>` のような独自タグや独自機能を**拡張**しました。IE のシェアが上がると、Web 開発者はそれら独自拡張を前提にサイトを作るようになり、Netscape Navigator などの競合ブラウザでは表示が崩れるようになりました。これにより Microsoft は Netscape を実質的に市場から押し出し、ブラウザ市場でほぼ独占的地位を得ました。
+もっとも有名なのは、1990年代後半のInternet Explorerです。Microsoftは当時のWeb標準であるHTMLやCSSを**抱き込み**、その後 `<marquee>` のような独自タグや独自機能を**拡張**しました。IEのシェアが上がると、Web開発者はそれら独自拡張を前提にサイトを作るようになり、Netscape Navigatorなどの競合ブラウザでは表示が崩れるようになりました。これによりMicrosoftはNetscapeを実質的に市場から押し出し、ブラウザ市場でほぼ独占的地位を得ました。
 
 ### 注意例: ブラウザ戦争の後遺症
 
-この戦略は Microsoft にとって勝利でしたが、代償も大きくありました。Web は長く停滞し、開発者は非標準ブラウザ向けの実装を強いられ、利用者は単一エコシステムへ閉じ込められました。結果として、大規模な反トラスト訴訟と評判悪化を招きました。成功しても、市場全体への害と法的反作用が大きい例です。
+この戦略はMicrosoftにとって勝利でしたが、代償も大きくありました。Webは長く停滞し、開発者は非標準ブラウザ向けの実装を強いられ、利用者は単一エコシステムへ閉じ込められました。結果として、大規模な反トラスト訴訟と評判悪化を招きました。成功しても、市場全体への害と法的反作用が大きい例です。
 
-### Google と Android
+### GoogleとAndroid
 
-より穏やかですが、Google の Android 戦略にもこの要素があります。Google は AOSP を通じてオープンソースを**抱き込み**ましたが、Google Play Store や主要サービスといった**拡張**を使うには、メーカー側が Google の条件を受け入れる必要があります。そのため、Amazon Fire OS のようなフォーク版は重要な Google エコシステムなしでは戦いにくくなっています。
+より穏やかですが、GoogleのAndroid戦略にもこの要素があります。GoogleはAOSPを通じてオープンソースを**抱き込み**ましたが、Google Play Storeや主要サービスといった**拡張**を使うには、メーカー側がGoogleの条件を受け入れる必要があります。そのため、Amazon Fire OSのようなフォーク版は重要なGoogleエコシステムなしでは戦いにくくなっています。
 
 ## 🚦 **使いどころ**
 
@@ -133,7 +133,7 @@ time_horizon: Long-term positioning
 
 ## 📋 **進め方**
 
-1. **標準を抱き込む:** 既存のオープン標準へ 100% 準拠した製品を出し、良き市民として市場へ入る
+1. **標準を抱き込む:** 既存のオープン標準へ100% 準拠した製品を出し、良き市民として市場へ入る
 2. **弱点を見つける:** その標準の制約、限界、未充足ニーズを分析する
 3. **独自拡張を作る:** それらの弱点を埋めるプロプライエタリ機能を作り、製品へ深く統合する
 4. **拡張を普及させる:** マーケティング、バンドル、デフォルト設定などを使って、拡張版の採用を進める
@@ -151,7 +151,7 @@ time_horizon: Long-term positioning
 
 ### 反トラスト訴訟
 
-この戦略は規制当局にとって明確な警戒対象です。代表例が *United States 対 Microsoft Corp.*（米国対 Microsoft 事件） です。
+この戦略は規制当局にとって明確な警戒対象です。代表例が *United States対Microsoft Corp.*（米国対Microsoft事件） です。
 
 ### コミュニティ反発
 
@@ -188,7 +188,7 @@ time_horizon: Long-term positioning
 - [塔と堀](/strategies/ecosystem/tower-and-moat) - 新しい未来市場に塔を築く戦略で、既存標準を乗っ取る本戦略とは異なる
 - [標準化ゲーム](/strategies/markets/standards-game) - 標準争いをもっとも攻撃的に戦う形の一つ
 - [ロックイン](/terms/lock-in) - この戦略の終局目標
-- [恐怖・不確実性・疑念 (FUD)](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
+- [恐怖・不確実性・疑念（FUD）](/terms/fear-uncertainty-and-doubt) - オープン標準の将来不安を煽り、この戦略を支える補助戦術になりうる
 - [オープンアプローチ](/strategies/accelerators/open-approaches) - 互換性を守りながら開く戦略で、本戦略とは対極にある
 - [取り込み](/strategies/ecosystem/co-opting) - 互換実装を吸収した後に独自拡張へ進むことがある
 - [移動の制限](/strategies/competitor/restriction-of-movement) - 拡張を使って競合の標準間移動を縛る
@@ -202,5 +202,5 @@ time_horizon: Long-term positioning
 
 ## 📚 **参考文献**
 
-- [The Halloween Documents](https://en.wikipedia.org/wiki/Halloween_documents) - この戦略の内部的な考え方を示す Microsoft 文書群
-- [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.) - 抱き込みと拡張の仕組みと帰結を追える代表的反トラスト事件
+- [ハロウィーン文書](https://en.wikipedia.org/wiki/Halloween_documents) - この戦略の内部的な考え方を示すMicrosoft文書群
+- [アメリカ合衆国対Microsoft](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.) - 抱き込みと拡張の仕組みと帰結を追える代表的反トラスト事件

@@ -68,14 +68,14 @@ time_horizon: Long-term positioning
 
 ### Amazon Web Services（AWS）
 
-AWS は計算インフラがユーティリティになる未来を読み、巨大で拡張可能な塔を築きました。その後、データベース、機械学習など上位サービスを安価に次々とコモディティ化し、競合が差別化しにくい堀を築きました。
+AWSは計算インフラがユーティリティになる未来を読み、巨大で拡張可能な塔を築きました。その後、データベース、機械学習など上位サービスを安価に次々とコモディティ化し、競合が差別化しにくい堀を築きました。
 
-### Google、Meta、オープンソース AI
+### Google、Meta、オープンソースAI
 
-現代的な例として、Google の AI 戦略を巡る議論があります。Meta の LLaMA 公開を足場にしたオープンソース AI が、コアモデルを急速にコモディティ化し、Google も OpenAI もプロプライエタリな塔を築きにくくしているという指摘です。
+現代的な例として、GoogleのAI戦略を巡る議論があります。MetaのLLaMA公開を足場にしたオープンソースAIが、コアモデルを急速にコモディティ化し、GoogleもOpenAIもプロプライエタリな塔を築きにくくしているという指摘です。
 
-[![Wardley Map of the AI space](/img/maps/tower-and-moat-google-vs-meta.png)](/img/maps/tower-and-moat-google-vs-meta.png)
-*Credit: [Joaquín Peña Fernández](https://joapen.com/)*
+![AI領域を示すWardley Mappingの地図](/img/maps/tower-and-moat-google-vs-meta.png)
+*出典: [Joaquín Peña Fernández](https://joapen.com/)*
 
 ## 🚦 **使いどころ**
 
@@ -88,7 +88,7 @@ AWS は計算インフラがユーティリティになる未来を読み、巨�
  </MapSignals>
  <Readiness>
   <li>長期で大きく賭けるビジョンと継続投資能力がある。</li>
-  <li>塔を作る R&D 能力と、台頭する脅威をコモディティ化する俊敏性がある。</li>
+  <li>塔を作るR&D能力と、台頭する脅威をコモディティ化する俊敏性がある。</li>
   <li>大規模エコシステムを育てる力がある。</li>
   <li>高リスク高リターン戦略に賭ける確信がある。</li>
  </Readiness>
@@ -127,7 +127,7 @@ AWS は計算インフラがユーティリティになる未来を読み、巨�
 
 ## 📋 **進め方**
 
-1. **未来の塔を特定する:** Wardley Map を使い、将来ユーティリティ化する重要コンポーネントを読む
+1. **未来の塔を特定する:** Wardley Mappingの地図を使い、将来ユーティリティ化する重要コンポーネントを読む
 2. **塔へ投資する:** 規模、信頼性、低コストを重視して最高水準の基盤を作る
 3. **エコシステムを育てる:** API、支援、コミュニティを通じて、他者が塔の上に構築するよう促す
 4. **補完物をコモディティ化する:** 手応えを得る上位サービスを監視し、自社版を低価格または無料で出す
@@ -162,7 +162,7 @@ AWS は計算インフラがユーティリティになる未来を読み、巨�
 
 ### 革新・活用・コモディティ化（ILC）
 
-この戦略は ILC の強力な応用です。革新で塔を作り、活用でエコシステムを使い、コモディティ化で堀を深くします。
+この戦略はILCの強力な応用です。革新で塔を作り、活用でエコシステムを使い、コモディティ化で堀を深くします。
 
 ### 位置取りの力
 
@@ -170,7 +170,7 @@ AWS は計算インフラがユーティリティになる未来を読み、巨�
 
 ## ❓ **問うべきこと**
 
-- 10 年後、この市場で最も価値あるコンポーネントは何か
+- 10年後、この市場で最も価値あるコンポーネントは何か
 - その未来市場を取るために、大きく長い投資を本当に置くのか
 - 塔の上の層をコモディティ化して競争を防ぐ具体策は何か
 - 他者に塔の上へ構築してもらうため、どんなインセンティブを出すか
@@ -192,5 +192,5 @@ AWS は計算インフラがユーティリティになる未来を読み、巨�
 
 ## 📚 **参考文献**
 
-- [Bits or pieces?: Tower and Moat](https://blog.gardeviance.org/2014/07/tower-and-moat.html) - Simon Wardley による原典
-- [Google: "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) - AI 文脈での実例分析
+- [断片か部品か：塔と堀](https://blog.gardeviance.org/2014/07/tower-and-moat.html) - Simon Wardleyによる原典
+- [Google「私たちにもOpenAIにも堀はない」](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) - AI文脈での実例分析

@@ -41,6 +41,14 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Market Enablement | 市場育成 |
 | Industrial Policy | 産業政策 |
 | Exploiting Network Effects | ネットワーク効果の活用 |
+| Alliances | アライアンス |
+| Channel Conflict and Disintermediation | チャネル競合と中間排除 |
+| Co-creation | 共創 |
+| Co-opting | 取り込み |
+| Community Governance and Co-Ownership | コミュニティ統治と共同所有 |
+| Embrace and Extend | 抱き込みと拡張 |
+| Platform Envelopment | プラットフォーム包摂 |
+| Two-Sided Markets | 両面市場 |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |
@@ -56,7 +64,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Procrastination | 戦略的先送り |
 | Threat Acquisition | 脅威の買収 |
 | Defensive Regulation | 防御的規制 |
-| Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
+| Innovate, Leverage, Commoditize (ILC) | 革新・活用・コモディティ化 |
 | Algorithmic Transparency | アルゴリズムの透明性 |
 | Brand and Marketing | ブランドとマーケティング |
 | Creating Artificial Needs | 人工的ニーズの創出 |

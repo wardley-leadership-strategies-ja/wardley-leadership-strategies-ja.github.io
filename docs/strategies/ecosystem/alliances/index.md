@@ -58,7 +58,7 @@ time_horizon: Long-term positioning
 
 :::note
 
-アライアンスは、[協調](/strategies/accelerators/cooperation) の中でも、より正式で構造化された形です。すべてのアライアンスは協調ですが、すべての協調がアライアンスではありません。
+アライアンスは、[協調](/strategies/accelerators/cooperation)の中でも、より正式で構造化された形です。すべてのアライアンスは協調ですが、すべての協調がアライアンスではありません。
 
 :::
 
@@ -85,11 +85,11 @@ time_horizon: Long-term positioning
 
 ### AllSeen Alliance（IoT）
 
-Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオープン標準として推進するためにアライアンスを組みました。Zigbee Alliance のような類似の取り組みもあります。
+Qualcomm、Microsoft、LGなどがAllJoynをデバイス相互運用のオープン標準として推進するためにアライアンスを組みました。Zigbee Allianceのような類似の取り組みもあります。
 
-### 仮想例: EV 充電アライアンス
+### 仮想例: EV充電アライアンス
 
-複数の中堅 EV メーカーが、充電インフラ向けの共同事業を立ち上げるケースです。Tesla の Supercharger 網に対抗しやすくなり、市場全体の EV 採用も早まります。
+複数の中堅EVメーカーが、充電インフラ向けの共同事業を立ち上げるケースです。TeslaのSupercharger網に対抗しやすくなり、市場全体のEV採用も早まります。
 
 ## 🚦 **使いどころ**
 
@@ -169,7 +169,7 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 ## 🧠 **戦略的示唆**
 
 - アライアンスは、進化を共同で押し進めるエコシステム戦略である
-- Standards Game のように、ネットワーク効果が効く場で特に強い
+- 標準化ゲームのように、ネットワーク効果が効く場で特に強い
 - 産業の重心を動かすことがある
 - 早い段階のアライアンスは優位を固定しやすいが、成功するほど脆さも増す
 
@@ -209,6 +209,6 @@ Qualcomm、Microsoft、LG などが AllJoyn をデバイス相互運用のオー
 
 ## 📚 **参考文献**
 
-- Simon Wardley, *Alliances: working with other companies to drive evolution of a specific activity/data set.*
-- IBM PC（1981）の事例 - IBM、Microsoft、Intel による事実上のアライアンスが、PC アーキテクチャの標準化を加速した
-- *Alliances & Joint Ventures*（Harvard Business Review） - 文化的不一致やリーダーシップ欠如による失敗要因を扱う
+- Simon Wardley「アライアンス：特定の活動やデータセットの進化を促すため、他社と協力する」
+- IBM PC（1981）の事例 - IBM、Microsoft、Intelによる事実上のアライアンスが、PCアーキテクチャの標準化を加速した
+- *アライアンスとジョイントベンチャー*（Harvard Business Review） - 文化的不一致やリーダーシップ欠如による失敗要因を扱う

@@ -44,7 +44,7 @@ time_horizon: Long-term positioning
 
 **プラットフォーム事業者が、他プラットフォームの機能を統合・バンドルしたり、自分の利用者と直接競合したりして、市場影響力と価値回収を広げる戦略です。**
 
-これは Simon Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示されてはいませんが、実務上はよく見られるエコシステム戦略です。
+これはSimon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)で明示されてはいませんが、実務上はよく見られるエコシステム戦略です。
 
 ## 🤔 **解説**
 
@@ -61,14 +61,14 @@ time_horizon: Long-term positioning
 
 この戦略の狙いは、獲得可能な最大市場規模（TAM）の拡大、消費者余剰の取り込み、範囲の経済の獲得、市場支配力の強化です。隣接領域や下流の付加価値サービスへ踏み込み、顧客ロックインを深めます。
 
-### Wardley Map 上ではどう見えるか
+### Wardley Mappingの地図上ではどう見えるか
 
 このゲームプレイは、コンポーネントの位置と進化を直接変えます。もともと第三者が提供していた能力を、自社のバリューチェーンへ取り込みます。第三者のカスタムビルドやプロダクトだった機能が、自社プラットフォームの標準プロダクト、場合によってはコモディティにまで進化することがあります。
 
 これは次のような変化を伴います。
 
-- **水平拡張:** WeChat のように、決済、ゲーム、配車などを横へ広げる
-- **垂直統合:** Amazon Retail のように、Marketplace 出店者と直接競合する
+- **水平拡張:** WeChatのように、決済、ゲーム、配車などを横へ広げる
+- **垂直統合:** Amazon Retailのように、Marketplace出店者と直接競合する
 
 新しいコンポーネントを加えたり、既存機能をより深く統合したりして、ユーザーが必要とする一連の体験をプラットフォーム内へ巻き取ります。結果として、以前は外部に散っていた能力が、より見つけやすく標準化された形で中核提供物に含まれます。
 
@@ -76,29 +76,29 @@ time_horizon: Long-term positioning
 
 ## 🗺️ **実例**
 
-### WeChat のエコシステム拡張
+### WeChatのエコシステム拡張
 
-WeChat はメッセージングから始まり、決済、配車、ゲーム、マーケットプレイスを統合し、幅広い行動を一つのアプリ内へ包摂しました。
+WeChatはメッセージングから始まり、決済、配車、ゲーム、マーケットプレイスを統合し、幅広い行動を一つのアプリ内へ包摂しました。
 
-### Amazon Marketplace と Amazon Retail
+### Amazon MarketplaceとAmazon Retail
 
-Amazon はもともと第三者販売者へ顧客接点を提供していましたが、成功カテゴリでは AmazonBasics のような自社ブランドを出し、自分の利用者と直接競合するようになりました。
+Amazonはもともと第三者販売者へ顧客接点を提供していましたが、成功カテゴリではAmazonBasicsのような自社ブランドを出し、自分の利用者と直接競合するようになりました。
 
-### Microsoft の Internet Explorer と Office 365
+### MicrosoftのInternet ExplorerとOffice 365
 
-Microsoft はかつて Internet Explorer を Windows にバンドルし、ブラウザ市場で大きな優位を得ました。近年では Office 365 で個別アプリとクラウドサービスをまとめ、サブスクリプション基盤へ包摂しています。
+MicrosoftはかつてInternet ExplorerをWindowsにバンドルし、ブラウザ市場で大きな優位を得ました。近年ではOffice 365で個別アプリとクラウドサービスをまとめ、サブスクリプション基盤へ包摂しています。
 
-### Google のハードウェアとアプリ・エコシステム
+### Googleのハードウェアとアプリ・エコシステム
 
-Google は Pixel 端末で Android メーカーと競合しつつ、Maps、Gmail、Drive など Play Store 上の第三者アプリとも競合するアプリ群を自ら提供しています。
+GoogleはPixel端末でAndroidメーカーと競合しつつ、Maps、Gmail、DriveなどPlay Store上の第三者アプリとも競合するアプリ群を自ら提供しています。
 
 ### 滴滴出行の垂直統合
 
 滴滴出行は、ガソリンスタンドや整備工場などへ投資し、ドライバーが必要とする周辺サービスまで価値連鎖へ包摂しました。
 
-### Tujia のハイブリッドモデル
+### Tujiaのハイブリッドモデル
 
-Tujia は第三者ホストの物件を載せるだけでなく、自社管理物件も運営し、一部の利用者基盤と直接競合しています。
+Tujiaは第三者ホストの物件を載せるだけでなく、自社管理物件も運営し、一部の利用者基盤と直接競合しています。
 
 ## 🚦 **使いどころ**
 
@@ -162,7 +162,7 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 
 ## 📈 **成功指標**
 
-- TAM の拡大
+- TAMの拡大
 - 包摂サービスの利用率
 - 新サービスの売上成長
 - 顧客維持率の向上
@@ -202,7 +202,7 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 
 ### 革命ではなく漸進的な進化
 
-成功する包摂は、しばしば API や緩やかな提携から始まり、徐々に強いバンドリングや直接吸収へ進みます。
+成功する包摂は、しばしばAPIや緩やかな提携から始まり、徐々に強いバンドリングや直接吸収へ進みます。
 
 ### 開放と統制の均衡
 
@@ -235,7 +235,7 @@ Tujia は第三者ホストの物件を載せるだけでなく、自社管理�
 
 ## 📚 **参考文献**
 
-- [Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793) - プラットフォーム包摂に関する基礎論文
+- [プラットフォーム競争：包摂戦略](https://www.jstor.org/stable/41261793) - プラットフォーム包摂に関する基礎論文
 - [プラットフォームのビジネス](/books/the-business-of-platforms) - プラットフォーム戦略の解説
-- [WeChat's World](https://www.economist.com/business/2016/08/06/wechats-world) - WeChat 包摂戦略の紹介
-- [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/) - プラットフォームの支配力を考える文脈
+- [WeChatの世界](https://www.economist.com/business/2016/08/06/wechats-world) - WeChat包摂戦略の紹介
+- [集約理論](https://stratechery.com/2015/aggregation-theory/) - プラットフォームの支配力を考える文脈

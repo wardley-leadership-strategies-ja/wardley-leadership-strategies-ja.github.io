@@ -84,17 +84,17 @@ flowchart LR
 
 ## 🗺️ **実例**
 
-### Apple の直営店
+### Appleの直営店
 
-Apple が自社直営店を始めたとき、既存の認定販売店や量販店とは大きなチャネル競合が生まれました。Apple は顧客体験を完全に管理し、粗利を高め、強いブランドを築きました。結果として販売店は Apple の条件で競争するしかなくなりました。
+Appleが自社直営店を始めたとき、既存の認定販売店や量販店とは大きなチャネル競合が生まれました。Appleは顧客体験を完全に管理し、粗利を高め、強いブランドを築きました。結果として販売店はAppleの条件で競争するしかなくなりました。
 
-### Tesla の DTC モデル
+### TeslaのDTCモデル
 
-Tesla は従来の自動車ディーラー方式を採らず、自社ショールームとサイトで直接販売しました。ディーラー業界との激しい対立を招きましたが、価格、ブランド、顧客体験を自社で握れたことで、EV の価値提案を自分たちの言葉で市場へ伝えられました。
+Teslaは従来の自動車ディーラー方式を採らず、自社ショールームとサイトで直接販売しました。ディーラー業界との激しい対立を招きましたが、価格、ブランド、顧客体験を自社で握れたことで、EVの価値提案を自分たちの言葉で市場へ伝えられました。
 
-### Nike の DTC シフト
+### NikeのDTCシフト
 
-Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社サイト、アプリ、旗艦店へ寄せています。旧来パートナーとの摩擦はありましたが、粗利改善、顧客データ取得、ブランド統制という果実を得ました。
+Nikeは近年、Foot LockerやAmazonなどの卸依存を減らし、自社サイト、アプリ、旗艦店へ寄せています。旧来パートナーとの摩擦はありましたが、粗利改善、顧客データ取得、ブランド統制という果実を得ました。
 
 ## 🚦 **使いどころ**
 
@@ -107,7 +107,7 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
  </MapSignals>
  <Readiness>
   <li>顧客を直接引き寄せられるだけのブランド力がある。</li>
-  <li>物流、顧客対応、EC 運営を担える能力がある。</li>
+  <li>物流、顧客対応、EC運営を担える能力がある。</li>
   <li>既存パートナーからの反発を受け止める覚悟がある。</li>
   <li>価格、商品供給、案件配分をチャネル横断で設計できる。</li>
  </Readiness>
@@ -200,7 +200,7 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
 
 - [買い手と供給者の力関係](/strategies/markets/buyer-supplier-power) - 買い手との力関係を変える直接の一手
 - [バリューチェーン](/terms/value-chain) - 中間排除はバリューチェーンの再統合でもある
-- [Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer) - 中間排除の代表的な実装形
+- [消費者直接取引（DTC）](https://en.wikipedia.org/wiki/Direct-to-consumer) - 中間排除の代表的な実装形
 - [両面市場](/strategies/ecosystem/two-factor-markets) - 従来の流通を飛ばし、供給側と需要側を直接つなぐ
 
 ## ⛅ **関連する状勢パターン**
@@ -210,5 +210,5 @@ Nike は近年、Foot Locker や Amazon などの卸依存を減らし、自社�
 
 ## 📚 **参考文献**
 
-- [The Direct-to-Consumer Playbook](/books/the-direct-to-consumer-playbook)
-- [Unlocking the Customer Value Chain](/books/unlocking-the-customer-value-chain)
+- [DTCプレイブック](/books/the-direct-to-consumer-playbook)
+- [顧客バリューチェーンを解き放つ](/books/unlocking-the-customer-value-chain)

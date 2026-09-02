@@ -47,7 +47,7 @@ time_horizon: Long-term positioning
 
 **エコシステム参加者と意思決定権や資産所有を共有し、長期のコミットメントと粘着性を高める戦略です。**
 
-この戦略は Simon Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) で明示されていませんが、実務ではよく使われるエコシステム統治の一手です。
+この戦略はSimon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)で明示されていませんが、実務ではよく使われるエコシステム統治の一手です。
 
 ## 🤔 **解説**
 
@@ -85,7 +85,7 @@ time_horizon: Long-term positioning
 
 ### 仮想例: オープンなデータ交換基盤
 
-複数の金融機関が、共有データスキーマと API を管理する財団を作り、メンバー評議会が更新を決め、共有知財プールを維持するケースです。
+複数の金融機関が、共有データスキーマとAPIを管理する財団を作り、メンバー評議会が更新を決め、共有知財プールを維持するケースです。
 
 ## 🚦 **使いどころ**
 
@@ -212,7 +212,7 @@ time_horizon: Long-term positioning
 
 ## 📚 **参考文献**
 
-- [Governing the Commons](https://www.cambridge.org/9780521405997) - Elinor Ostrom の共同統治研究
-- [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - コミュニティ主導のガバナンスの古典
-- [Understanding Open Governance Networks](https://www.linuxfoundation.org/blog/blog/understanding-open-governance-networks) - 財団型統治の概説
-- [CNCF Governance](https://contribute.cncf.io/community/governance/) - メンバー評議会と技術監督の実例
+- [コモンズのガバナンス](https://www.cambridge.org/9780521405997) - Elinor Ostromの共同統治研究
+- [伽藍とバザール](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - コミュニティ主導のガバナンスの古典
+- [オープンガバナンス・ネットワークを理解する](https://www.linuxfoundation.org/blog/blog/understanding-open-governance-networks) - 財団型統治の概説
+- [CNCFのガバナンス](https://contribute.cncf.io/community/governance/) - メンバー評議会と技術監督の実例
