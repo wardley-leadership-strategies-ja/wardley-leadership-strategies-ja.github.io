@@ -36,6 +36,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Pig in a Poke | 袋の中の豚 |
 | Sweat & Dump | 使い切って手放す |
 | Standards Game | 標準化ゲーム |
+| Strategic Divestment and Disposal of Liability | 戦略的切り離しと負債の処分 |
 | Limitation of Competition | 競争制限 |
 | Innovate, Leverage, Commoditize | 革新・活用・コモディティ化 |
 | Algorithmic Transparency | アルゴリズムの透明性 |
