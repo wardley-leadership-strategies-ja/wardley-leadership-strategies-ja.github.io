@@ -32,6 +32,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | English | Japanese |
 | --- | --- |
 | First Mover | 先行者戦略 |
+| Undermining Barriers to Entry | 参入障壁の切り崩し |
+| Circling and Probing | 包囲と探り |
 | Land Grab | 先行確保 |
 | Pig in a Poke | 袋の中の豚 |
 | Sweat & Dump | 使い切って手放す |
