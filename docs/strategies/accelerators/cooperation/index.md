@@ -147,7 +147,7 @@ Sonyは家電の強みを持ち、Ericssonは通信インフラと携帯電話�
 
 ### Bluetooth SIG
 
-[![Bluetooth SIGを示すWardley Mappingの地図](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
+[![Bluetooth SIGを示すWardley Map](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
 
 Ericsson、Nokia、IBM、Intelなどが参加したBluetooth SIGは、無線周辺接続の標準を協調して作った例です。互いに別規格を争う代わりに、一つの標準を確立し、市場全体を広げ、Bluetoothの進化を加速しました。
 

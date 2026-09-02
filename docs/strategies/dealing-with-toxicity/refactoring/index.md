@@ -45,7 +45,7 @@ time_horizon: Long-term positioning
 **レガシーシステムの構成要素を社内で組み替え、使える価値を救いながら毒性を減らす戦略です。**
 
 :::note
-**Refactoring** は Wardley の [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) に明示的には出てきません。
+**リファクタリング**は、Simon Wardleyの[61種類の戦略的な駆け引きについて](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html)に明示的には出てきません。
 :::
 
 ## 🤔 **解説**
@@ -65,9 +65,9 @@ time_horizon: Long-term positioning
 
 ## 🗺️ **実例**
 
-### ソフトウェアと IT
+### ソフトウェアとIT
 
-古いメインフレームや一枚岩アプリケーションを、段階的に API やサービスへ切り出す例です。重要な業務ロジックやデータは残しつつ、保守困難な構造だけを壊していきます。
+古いメインフレームや一枚岩アプリケーションを、段階的にAPIやサービスへ切り出す例です。重要な業務ロジックやデータは残しつつ、保守困難な構造だけを壊していきます。
 
 ### 産業分野
 
@@ -135,7 +135,7 @@ time_horizon: Long-term positioning
 
 ## 📋 **進め方**
 
-1. Wardley Map などでレガシー資産を部品へ分解する
+1. Wardley Mapなどでレガシー資産を部品へ分解する
 2. 各部品の価値と進化段階を評価する
 3. 再利用可能な人、技術、データ、設備を特定する
 4. 再配置、再訓練、廃止の計画を作る
@@ -204,5 +204,5 @@ time_horizon: Long-term positioning
 
 ## 📚 **参考文献**
 
-- 業務プロセス再設計 などの文献は、業務構造の分解と再設計という点で近い
-- *Dual Transformation* は、既存事業の能力を新しい成長へ移す組織変換として参考になる
+- 業務プロセス再設計などの文献は、業務構造の分解と再設計という点で近い
+- *デュアル・トランスフォーメーション*は、既存事業の能力を新しい成長へ移す組織変換として参考になる

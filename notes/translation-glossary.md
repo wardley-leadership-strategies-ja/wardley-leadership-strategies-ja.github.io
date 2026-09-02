@@ -11,6 +11,7 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Evolution | 進化 |
 | Map | 地図 / マップ |
 | Wardley Mapping | Wardley Mapping |
+| Wardley Map | Wardley Map |
 | Wardley Leadership Strategies | Wardley Leadership Strategies |
 | purpose | 目的 |
 | landscape | 状況 |
@@ -66,6 +67,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Restriction of Movement | 移動の制限 |
 | Sapping | 切り崩し |
 | Talent Raid | 人材の引き抜き |
+| Refactoring | リファクタリング |
+| Value Chain Disaggregation and Re-aggregation | バリューチェーンの分解と再統合 |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |

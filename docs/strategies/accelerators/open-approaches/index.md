@@ -96,11 +96,11 @@ GoogleはAndroidをオープンソースとして公開し、端末メーカー�
 
 GPS、気象、公共交通データなどを公開した政府や組織は、その上で新しい産業が生まれる土台を作りました。たとえばロンドン交通局（TfL）はリアルタイム交通データをAPIで公開し、経路検索、アクセシビリティ支援、モビリティアプリを多数生みました。データ自体を開くことで、周辺市場全体を大きくした例です。
 
-### AWSとクラウド戦争（2006年のWardley Mappingの地図）
+### AWSとクラウド戦争（2006年のWardley Map）
 
 Chris Adamsが作成したこの地図は、2006年のAWSを取り巻く状況を描いたものです。競合がオープンなAPI互換アプローチを十分取らなかったため、Amazonの先行と囲い込みがIaaS市場で強く効いたことを示しています。記事では、より攻撃的なオープンAPI戦略があれば、Amazonの参入障壁を崩し、より健全な競争環境を作れた可能性が論じられています。
 
-![2006年のAWSを示すWardley Mappingの地図](/img/maps/2017-09-wardley-map-for-aws-in-2006-a-bit-less-common.png)
+![2006年のAWSを示すWardley Map](/img/maps/2017-09-wardley-map-for-aws-in-2006-a-bit-less-common.png)
 
 *地図作成: [Chris Adams](https://awmug.wordpress.com/author/mrchrisadams/)。詳しくは[クラウド戦争はいかにして失われたか](https://awmug.wordpress.com/2017/09/20/how-the-battle-for-cloud-was-lost-mapped/)を参照。*
 

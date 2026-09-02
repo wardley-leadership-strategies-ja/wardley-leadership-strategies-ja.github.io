@@ -100,7 +100,7 @@ GitHubは開発者向け協働基盤を**革新**しました。Microsoftはそ�
 
 AWSは、不正検知向けに顧客がEC2上で顔認識を作っていることを把握していました。その用途をより広い利用者認証へ拡張し、最終的にRekognitionとしてサービス化することで、既存プレイヤーの高価値市場をコモディティ化しました。
 
-![AWS Rekognitionを示すWardley Mappingの地図](/img/maps/ilc-aws-rekognition-map.jpeg)
+![AWS Rekognitionを示すWardley Map](/img/maps/ilc-aws-rekognition-map.jpeg)
 
 出典: John Duffy、[元スレッド](https://x.com/jduffy/status/1440320398738870275)
 
