@@ -71,13 +71,13 @@ Facebookは2012年、Instagramを10億ドルで買収しました。当時のIns
 
 Googleは2005年、モバイルコンピューティングへの移行を見越して、開発初期のAndroidを買収しました。これにより、Microsoftなどの競合がモバイル基本ソフト市場を支配する事態を防ぎ、新たなエコシステムでも自社サービスの存在感を保てました。
 
-### 失敗例: YahooとGeoCities
+### 失敗例：YahooとGeoCities
 
 Yahooは1999年、人気のウェブホスティングサービスだったGeoCitiesを買収しました。しかし統合にも大規模なユーザー基盤の活用にも失敗し、2009年にサービスを終了しました。買収するだけでは戦略的価値は生まれず、明確な買収後計画が必要だと示しています。
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Threat Acquisition">
+<Assessment strategyName="脅威の買収">
  <MapSignals>
   <li>地図上の新規参入者が、重要セグメントで勢いを増している。</li>
   <li>競合が、自社モデルを崩しかねない技術を育てている。</li>

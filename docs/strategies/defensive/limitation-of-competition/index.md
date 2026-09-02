@@ -104,7 +104,7 @@ AT&Tは長年、米国の通信事業で規制された独占を維持しまし�
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Limitation of Competition">
+<Assessment strategyName="競争制限">
  <MapSignals>
   <li>地図上で、重要なコンポーネントや市場地位が新規参入や代替に脅かされている。</li>
   <li>規制当局、標準団体、重要顧客へ大きな影響力を持つ、または持てる。</li>

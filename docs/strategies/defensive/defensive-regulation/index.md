@@ -79,7 +79,7 @@ time_horizon: Long-term positioning
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Defensive Regulation">
+<Assessment strategyName="防御的規制">
  <MapSignals>
   <li>その業界が既に強く規制されている、または今後規制強化が見込まれる。</li>
   <li>新技術や新しい事業モデルが、既存規制の外側から市場を崩そうとしている。</li>

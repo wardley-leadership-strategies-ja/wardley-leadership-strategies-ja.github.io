@@ -57,15 +57,15 @@ time_horizon: Medium-term shaping
 
 ### Microsoft Office
 
-単体アプリが別々に競争していた市場で、Microsoft はスイートを低価格で束ねました。競争は単体アプリの優劣から、統合スイート全体の勝負へ移りました。
+単体アプリが別々に競争していた市場で、Microsoftはスイートを低価格で束ねました。競争は単体アプリの優劣から、統合スイート全体の勝負へ移りました。
 
-### Atlassian の製品群
+### Atlassianの製品群
 
-Jira、Confluence、Bitbucket などを組み合わせることで、単一ツールでの侵入を難しくしました。顧客にとっては、個別最適より統合運用のほうが魅力になっています。
+Jira、Confluence、Bitbucketなどを組み合わせることで、単一ツールでの侵入を難しくしました。顧客にとっては、個別最適より統合運用のほうが魅力になっています。
 
 ## 🚦 **使いどころ**
 
-<Assessment strategyName="Raising Barriers to Entry">
+<Assessment strategyName="参入障壁の引き上げ">
  <MapSignals>
   <li>自社プロダクトが、より大きなバリューチェーンの一部になっている。</li>
   <li>新規参入者が単一機能に絞って市場へ入ろうとしている。</li>
