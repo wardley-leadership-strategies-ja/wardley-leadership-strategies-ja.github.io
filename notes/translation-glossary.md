@@ -36,6 +36,8 @@ Preferred terminology for the Japanese edition. Use these translations consisten
 | Circling and Probing | 包囲と探り |
 | Exploiting Existing Constraint | 既存制約の活用 |
 | Creating Constraints | 制約の創出 |
+| Cooperation | 協調 |
+| Open Approaches | オープンアプローチ |
 | Patents & Intellectual Property Rights | 特許と知的財産権 |
 | Insertion | 挿入 |
 | Education | 教育 |

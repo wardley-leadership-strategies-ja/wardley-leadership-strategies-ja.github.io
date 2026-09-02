@@ -80,7 +80,7 @@ export const strategyProfiles: StrategyProfile[] = [
     title: 'オープンアプローチ',
     slug: '/strategies/accelerators/open-approaches',
     summary:
-      'ソース、標準、データ、API を開くことで採用を加速し、コモディティ化を進め、エコシステムを育てる戦略。',
+      'ソース、標準、データ、APIを開くことで採用を加速し、コモディティ化を進め、エコシステムを育てる戦略。',
     stages: ['プロダクト', 'コモディティ/ユーティリティ'],
     goals: ['採用を加速する', '市場を形作る', 'エコシステムの影響力を築く'],
     pressures: ['支配的な既存勢力に直面している', 'エコシステムが断片化している', '顧客が変化に不安を感じている'],
