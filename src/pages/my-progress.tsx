@@ -81,7 +81,7 @@ export default function MyProgressPage(): React.ReactElement {
   );
 
   return (
-    <Layout title="保存した戦略評価" description="保存した Wardley 戦略評価を見直して管理できます。">
+    <Layout title="保存した戦略評価" description="保存したWardley Mappingの戦略評価を見直して管理できます。">
       <main className="container margin-vert--lg">
         <header className="margin-bottom--lg">
           <h1 className="margin-bottom--sm">保存した戦略評価</h1>
@@ -107,7 +107,7 @@ export default function MyProgressPage(): React.ReactElement {
         {!storageReady && (
           <div className="alert alert--warning" role="alert">
             この環境ではローカルストレージが無効のため、評価結果を保存できません。
-            Cookie またはローカルストレージを有効にしてから再度確認してください。
+            Cookieまたはローカルストレージを有効にしてから再度確認してください。
           </div>
         )}
 
@@ -130,8 +130,8 @@ export default function MyProgressPage(): React.ReactElement {
             <section className={clsx('margin-bottom--lg', styles.summaryPanel)}>
               <div className="card">
                 <div className="card__body">
-                  <strong>{summaries.length}</strong> 件の戦略を評価済み ・{' '}
-                  <strong>{totalStrong}</strong> 件が即実行可能
+                  <strong>{summaries.length}</strong>件の戦略を評価済み・
+                  <strong>{totalStrong}</strong>件が即実行可能
                 </div>
               </div>
             </section>

@@ -1,6 +1,6 @@
 ---
 id: math-equations
-description: LaTeX 数式を書く方法
+description: LaTeX数式を書く方法
 slug: /markdown-features/math-equations
 ---
 
@@ -8,17 +8,17 @@ slug: /markdown-features/math-equations
 
 import BrowserFrame from '@site/src/components/BrowserFrame';
 
-数式は [KaTeX](https://katex.org) を使って表示できます。
+数式は[KaTeX](https://katex.org)を使って表示できます。
 
-有効化方法は [下記](#configuration) を参照してください。
+有効化方法は[下記](#configuration)を参照してください。
 
 ## 使い方 {#usage}
 
-詳細は [KaTeX](https://katex.org) のドキュメントを参照してください。
+詳細は[KaTeX](https://katex.org)のドキュメントを参照してください。
 
 ### インライン {#inline}
 
-インライン数式は、LaTeX の式を `$` で囲んで書きます。
+インライン数式は、LaTeXの式を `$` で囲んで書きます。
 
 ```latex
 Let $f\colon[a,b]\to\R$ be Riemann integrable. Let $F\colon[a,b]\to\R$ be
@@ -53,7 +53,7 @@ $$
 
 ## 数式表示を有効にする {#configuration}
 
-KaTeX を有効化します。
+KaTeXを有効化します。
 
 1. `remark-math` と `rehype-katex` プラグインをインストールします。
 
@@ -67,7 +67,7 @@ KaTeX を有効化します。
 
     :::
 
-2. この 2 つのプラグインは [**ES Modules**](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) のみです。[**ES Modules**](https://flaviocopes.com/es-modules/) の設定ファイルを使うことを勧めます。
+2. この2つのプラグインは[**ES Modules**](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)のみです。[**ES Modules**](https://flaviocopes.com/es-modules/)の設定ファイルを使うことを勧めます。
 
     ```js title="ES module docusaurus.config.js"
     // highlight-start
@@ -101,7 +101,7 @@ KaTeX を有効化します。
       の設定ファイルを使う場合
     </summary>
 
-            CommonJS 設定ファイルを使う場合でも、`dynamic import` と `async` な設定作成関数によって ES module プラグインを読み込めます。
+            CommonJS設定ファイルを使う場合でも、`dynamic import` と `async` な設定作成関数によってES moduleプラグインを読み込めます。
 
     ```js title="CommonJS module docusaurus.config.js"
     // highlight-start
@@ -128,7 +128,7 @@ KaTeX を有効化します。
 
         </details>
 
-3. 設定の `stylesheets` に KaTeX の CSS を含めます。
+3. 設定の `stylesheets` にKaTeXのCSSを含めます。
 
     ```js
     export default {
@@ -187,9 +187,9 @@ export default {
 
 </details>
 
-## KaTeX アセットをセルフホストする {#self-hosting-katex-assets}
+## KaTeXアセットをセルフホストする {#self-hosting-katex-assets}
 
-スタイルシート、フォント、JavaScript ライブラリを CDN から読むのは、一般的なライブラリやアセットでは便利です。ホストすべきアセット量が減るためです。`katex.min.css` と必要な KaTeX フォントをセルフホストしたい場合は、[KaTeX GitHub releases](https://github.com/KaTeX/KaTeX/releases) から最新バージョンをダウンロードし、`katex.min.css` と `fonts` ディレクトリ（`.woff2` だけでも多くの場合は十分）をサイトの `static` ディレクトリへ置いてください。その上で `docusaurus.config.js` のスタイルシート `href` を CDN URL からローカルパス（例: `/katex/katex.min.css`）へ差し替えます。
+スタイルシート、フォント、JavaScriptライブラリをCDNから読むのは、一般的なライブラリやアセットでは便利です。ホストすべきアセット量が減るためです。`katex.min.css` と必要なKaTeXフォントをセルフホストしたい場合は、[KaTeX GitHub releases](https://github.com/KaTeX/KaTeX/releases)から最新バージョンをダウンロードし、`katex.min.css` と `fonts` ディレクトリ（`.woff2` だけでも多くの場合は十分）をサイトの `static` ディレクトリへ置いてください。その上で `docusaurus.config.js` のスタイルシート `href` をCDN URLからローカルパス（例: `/katex/katex.min.css`）へ差し替えます。
 
 ```js title="docusaurus.config.js"
 export default {

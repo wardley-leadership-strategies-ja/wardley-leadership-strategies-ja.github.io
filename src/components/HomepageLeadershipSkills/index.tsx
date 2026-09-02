@@ -13,7 +13,7 @@ export default function HomepageLeadershipSkills(): ReactNode {
               <Link to="/leadership-skills">リーダーシップスキル</Link>
             </h2>
             <p className={styles.miniHero__subtitle}>
-              Wardley の洞察を実際の意思決定へ変えるためのリーダーシップ能力を鍛えます。
+              Wardleyの洞察を実際の意思決定へ変えるためのリーダーシップ能力を鍛えます。
             </p>
             <div>
               <h3>スキル分類</h3>

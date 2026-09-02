@@ -20,7 +20,7 @@ type PulseSnapshot = {
 type MetricKey = 'turbulence' | 'competitivePressure' | 'executionReadiness' | 'alignment';
 
 const metricDescriptions: Record<MetricKey, string> = {
-  turbulence: 'ランドスケープがどれだけ速く変わり、シグナルがどれだけ騒がしいか。',
+  turbulence: '状況がどれだけ速く変わり、シグナルがどれだけ騒がしいか。',
   competitivePressure: 'いま競争上の動きがどれだけ激しいか。',
   executionReadiness: '次の一手を素早く自信を持って実行できるか。',
   alignment: '現在のマップと優先順位について、リーダーとチームの認識がどれだけ揃っているか。',
@@ -28,7 +28,7 @@ const metricDescriptions: Record<MetricKey, string> = {
 
 const levelDescriptions: Record<MetricKey, Record<number, string>> = {
   turbulence: {
-    1: '安定: ランドスケープは静かで、変化は漸進的。',
+    1: '安定：状況は静かで、変化は漸進的。',
     2: '緩やかな変化: いくつか兆候はあるが、優先順位はまだ安定している。',
     3: '活発: 変化が目立ち、少なくとも月次で見直しが必要。',
     4: '不安定: シグナルが週単位で変わり、前提がすぐ古くなる。',
@@ -83,7 +83,7 @@ const buildRecommendations = (scores: PulseSnapshot): string[] => {
     recommendations.push('リーダー層でマップレビューを行い、共有意図を揃え直してください。');
   }
   if (recommendations.length === 0) {
-    recommendations.push('現在のリズムを維持しつつ、新しいシグナルを 2 週間ごとに記録してください。');
+    recommendations.push('現在のリズムを維持しつつ、新しいシグナルを2週間ごとに記録してください。');
   }
 
   return recommendations;
@@ -216,7 +216,7 @@ export default function StrategyPulseCheck(): ReactNode {
               <div className={styles.card}>
                 <Heading as="h2">パルスを調整する</Heading>
                 <p className={styles.note}>
-                  最新のマップレビューに基づいて各シグナルを調整してください。1 が低く、5 が高い状態です。
+                  最新のマップレビューに基づいて各シグナルを調整してください。1が低く、5が高い状態です。
                 </p>
 
                 <div className={styles.sliderRow}>
@@ -300,7 +300,7 @@ export default function StrategyPulseCheck(): ReactNode {
                   次の戦略行動のテンポを選ぶために、以下の解釈を使ってください。
                 </p>
                 <p>
-                  <strong>{scoreLabel} パルス。</strong> 平均スコア {averageScore} から見ると、現在の運営リズムは{' '}
+                  <strong>{scoreLabel}パルス。</strong>平均スコア{averageScore}から見ると、現在の運営リズムは
                   {averageScore >= 4
                     ? '速く、実験的に動くのが適しています。'
                     : averageScore >= 3
@@ -324,13 +324,13 @@ export default function StrategyPulseCheck(): ReactNode {
               <div className={styles.card}>
                 <Heading as="h2">このチェックを保存する</Heading>
                 <p className={styles.note}>
-                  リーダーシップレビューのたびにスナップショットを保存できます。直近 10 件まで保持します。
+                  リーダーシップレビューのたびにスナップショットを保存できます。直近10件まで保持します。
                 </p>
                 <div className={styles.snapshotForm}>
                   <input
                     className={clsx('input input--lg', styles.snapshotInput)}
                     type="text"
-                    placeholder="ラベル（例: Q3 マップレビュー）"
+                    placeholder="ラベル（例：Q3マップレビュー）"
                     value={label}
                     onChange={(event) => setLabel(event.target.value)}
                   />
@@ -383,8 +383,8 @@ export default function StrategyPulseCheck(): ReactNode {
                           </div>
                         </div>
                         <div className={styles.snapshotDetails}>
-                          変動 {snapshot.turbulence} ・ 競争圧 {snapshot.competitivePressure} ・
-                          実行準備 {snapshot.executionReadiness} ・ 整合性 {snapshot.alignment}
+                          変動 {snapshot.turbulence} ・競争圧 {snapshot.competitivePressure} ・
+                          実行準備 {snapshot.executionReadiness} ・整合性 {snapshot.alignment}
                         </div>
                       </li>
                     ))}

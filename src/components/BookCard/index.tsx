@@ -50,7 +50,7 @@ export default function BookCard({
       <div className={styles.cover}>
         <img
           src={coverUrl(isbn13)}
-          alt={`${title} の表紙`}
+          alt={`${title}の表紙`}
           loading="lazy"
           width={96}
           height={144}
@@ -85,13 +85,13 @@ export default function BookCard({
             rel="nofollow sponsored"
             href={bookshopUrl(isbn13, affiliateId)}
           >
-            Bookshop.org で見る
+            Bookshop.orgで見る
           </a>
           <a
             className={clsx('button', 'button--secondary')}
             href={`https://openlibrary.org/isbn/${isbn13}`}
           >
-            Open Library で見る
+            Open Libraryで見る
           </a>
           <a
             className={clsx('button', 'button--secondary')}

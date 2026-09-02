@@ -8,7 +8,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Wardley Leadership Strategies',
-  tagline: 'Wardley Mapping の戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド',
+  tagline: 'Wardley Mappingの戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド',
   favicon: 'img/knight-cropped.jpg',
 
   future: {
@@ -239,16 +239,16 @@ const config: Config = {
               to: '/my-progress',
             },
             {
-              label: 'GitHub（原典ソース）',
+              label: '原典GitHub',
               href: 'https://github.com/dave1010/wardley-leadership-strategies',
             },
           ],
         },
         {
-          title: 'Wardley Mapping 参考リンク',
+          title: 'Wardley Mapping参考リンク',
           items: [
             {
-              label: 'Simon Wardley のブログ',
+              label: 'Simon Wardleyのブログ',
               href: 'https://blog.gardeviance.org/',
             },
             {
@@ -277,12 +277,12 @@ const config: Config = {
       ],
       copyright: `
         <p>
-          このサイトは <a href="https://www.wardleyleadershipstrategies.com">Wardley Leadership Strategies</a> をもとにした日本語翻訳・改変版です。
+          このサイトは<a href="https://www.wardleyleadershipstrategies.com">Wardley Leadership Strategies</a>をもとにした日本語翻訳・改変版です。
           原作の著作権は © ${new Date().getFullYear()} <a href="https://dave.engineer">Dave Hulbert</a> に帰属し、
           <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> で公開されています。
           <br />
           この日本語版も <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> で提供します。
-          Wardley Mapping は Simon Wardley によるものであり、Simon Wardley はこの日本語版サイトに関与していません。
+          Wardley MappingはSimon Wardleyによるものであり、Simon Wardleyはこの日本語版サイトに関与していません。
         </p>
         `,
     },

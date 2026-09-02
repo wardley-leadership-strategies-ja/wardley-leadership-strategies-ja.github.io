@@ -16,9 +16,9 @@ export default function HomepageFeatures(): ReactNode {
         <div className={clsx('col col--8')}>
           <div className="hero shadow--md margin-vert--lg">
             <div className="container">
-              <h2 className="hero__title"><Link to="/strategies">60 以上のリーダーシップ戦略</Link></h2>
+              <h2 className="hero__title"><Link to="/strategies">60以上のリーダーシップ戦略</Link></h2>
               <p className="hero__subtitle">
-                Wardley Map から具体的な行動へ落とし込むための実践ガイドです。
+                Wardley Mapから具体的な行動へ落とし込むための実践ガイドです。
                 詳細な解説と現実の事例を通じて、多様な状況と競争環境で使える戦略ゲームプレイを探せます。
               </p>
               <div>
@@ -29,7 +29,7 @@ export default function HomepageFeatures(): ReactNode {
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/competitor">競合対応</Link>
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/dealing-with-toxicity">毒性への対処</Link>
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/decelerators">減速戦略</Link>
-                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/defensive">防衛戦略</Link>
+                  <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/defensive">防御戦略</Link>
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/ecosystem">エコシステム</Link>
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/markets">市場</Link>
                   <Link className="margin-right--sm margin-bottom--sm button button--outline button--primary" to="/strategies/poison">ポイズン</Link>
@@ -46,8 +46,8 @@ export default function HomepageFeatures(): ReactNode {
             <div className="container">
               <h2 className={styles.miniHero__title}>このサイトは何か</h2>
               <div className={styles.miniHero__subtitle}>
-                <p>Wardley Map は競争環境を理解し、より良い戦略判断を行うための視覚的な道具です。</p>
-                <p><strong>Wardley Leadership Strategies</strong> は、実行可能なリーダーシップ戦略に焦点を当てた実践的なガイドです。</p>
+                <p>Wardley Mapは競争環境を理解し、より良い戦略判断を行うための視覚的な道具です。</p>
+                <p><strong>Wardley Leadership Strategies</strong>は、実行可能なリーダーシップ戦略に焦点を当てた実践的なガイドです。</p>
                 <p>この日本語版では、原典をもとに内容を翻訳し、継続的に改善していきます。</p>
               </div>
               <div>
@@ -65,7 +65,7 @@ export default function HomepageFeatures(): ReactNode {
             <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
               <h2 className="margin-bottom--sm">戦略評価ツール</h2>
               <p className="margin-bottom--sm" style={{ fontSize: '1.25rem' }}>
-                <Link to="/about/assessment-tool">戦略評価ツール</Link> を使うと、
+                <Link to="/about/assessment-tool">戦略評価ツール</Link>を使うと、
                 各戦略が自分たちの状況にどれだけ適しているか、実行準備が整っているかを手早く確認できます。
                 マップ上のシグナルと組織の準備状況を見ながら判断できます。
               </p>
@@ -95,9 +95,9 @@ export default function HomepageFeatures(): ReactNode {
                 実行前に並べて比較できます。
               </p>
               <ul className="margin-bottom--sm">
-                <li>60 以上の戦略を成果ベースで絞り込めます。</li>
-                <li>気候シグナル、最初の一手、注意点を一覧できます。</li>
-                <li>最大 3 つまで比較して次の一手を選べます。</li>
+                <li>60以上の戦略を成果ベースで絞り込めます。</li>
+                <li>状勢シグナル、最初の一手、注意点を一覧できます。</li>
+                <li>最大3つまで比較して次の一手を選べます。</li>
               </ul>
               <Link className="button button--secondary" to="/strategy-navigator">
                 ナビゲーターを開く
@@ -109,7 +109,7 @@ export default function HomepageFeatures(): ReactNode {
                   <span className={styles.navigatorBadge}>高適合</span>
                   <div className={styles.navigatorPills}>
                     <span className={styles.navigatorPill}>普及を加速</span>
-                    <span className={styles.navigatorPill}>Genesis</span>
+                    <span className={styles.navigatorPill}>創世記</span>
                     <span className={styles.navigatorPill}>限られたリソース</span>
                   </div>
                   <div className={styles.navigatorStack}>
@@ -137,7 +137,7 @@ export default function HomepageFeatures(): ReactNode {
                 スナップショットを保存して変化を追えます。
               </p>
               <ul className="margin-bottom--sm">
-                <li>マップ見直し後に 5 分で振り返れます。</li>
+                <li>マップ見直し後に5分で振り返れます。</li>
                 <li>戦略の時系列ログとしてスナップショットを残せます。</li>
                 <li>次の一手のテンポに関する提案をすぐ得られます。</li>
               </ul>
@@ -148,7 +148,7 @@ export default function HomepageFeatures(): ReactNode {
             <div className={clsx('col col--4')}>
               <BrowserFrame>
                 <div className={styles.pulsePreview}>
-                  <span className={styles.pulseBadge}>Pulse</span>
+                  <span className={styles.pulseBadge}>パルス</span>
                   <div className={styles.pulseScore}>
                     <span>平均</span>
                     <strong>3.8</strong>
@@ -170,8 +170,8 @@ export default function HomepageFeatures(): ReactNode {
             <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
               <h2 className="margin-bottom--sm">戦略ガイド</h2>
               <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
-                チームがマップから行動へ移るためのステップ型プレイブックです。まずは{' '}
-                <Link to="/strategy-guides/introduction-to-strategic-play">戦略的プレイ入門</Link> から始め、
+                チームがマップから行動へ移るためのステップ型プレイブックです。まずは
+                <Link to="/strategy-guides/introduction-to-strategic-play">戦略的プレイ入門</Link>から始め、
                 具体的なシナリオ別ガイドへ進めます。
               </p>
               <ul className="margin-bottom--sm">
@@ -192,7 +192,7 @@ export default function HomepageFeatures(): ReactNode {
               <BrowserFrame>
                 <div className={styles.guidesPreview}>
                   <span className={styles.guidesBadge}>新シリーズ</span>
-                  <h3>Strategic Play</h3>
+                  <h3>戦略的プレイ</h3>
                   <p>
                     意図を揃え、ゲームプレイを選び、最初の実験を定めるためのガイドです。
                   </p>

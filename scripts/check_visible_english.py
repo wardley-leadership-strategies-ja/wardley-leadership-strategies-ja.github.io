@@ -76,6 +76,7 @@ LOWER_TOKEN_RE = re.compile(r"\b[a-z][a-z0-9-]*\b")
 RAW_URL_RE = re.compile(r"https?://\S+")
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+HEADING_ID_RE = re.compile(r"\s+\{#[a-z0-9-]+\}\s*$", re.IGNORECASE)
 
 
 def iter_markdown_files(paths: list[str]) -> list[Path]:
@@ -96,6 +97,7 @@ def normalize_line(line: str) -> str:
         # External reference titles are allowed to stay in English.
         return "" if target.startswith("http://") or target.startswith("https://") else label
 
+    line = HEADING_ID_RE.sub("", line)
     line = MARKDOWN_LINK_RE.sub(replace_link, line)
     line = RAW_URL_RE.sub("", line)
     line = HTML_TAG_RE.sub("", line)

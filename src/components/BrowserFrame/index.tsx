@@ -6,7 +6,7 @@ interface BrowserFrameProps {
   children: React.ReactNode;
 }
 
-export default function BrowserFrame({ url = 'wardleyleadershipstrategies.com', children }: BrowserFrameProps) {
+export default function BrowserFrame({ url = 'wardley-leadership-strategies-ja.github.io', children }: BrowserFrameProps) {
   return (
     <div className={styles.browserFrame}>
       <div className={styles.browserHeader}>

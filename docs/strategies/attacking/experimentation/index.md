@@ -61,30 +61,30 @@ time_horizon: Fast impact
 
 ```mermaid
 %%{init: {'gitGraph': {
- 'mainBranchName': 'Strategy'
+ 'mainBranchName': '戦略'
 }} }%%
 gitGraph
-  commit id: "Baseline"
-  branch Hackathon
-  checkout Hackathon
-  commit id: "Fails" type: REVERSE
-  checkout Strategy
-  branch Lab
-  checkout Lab
-  commit id: "Idea B"
-  checkout Strategy
-  merge Lab tag: "Adopted"
-  commit id: "Evolved"
-  branch Skunkworks
-  checkout Skunkworks
-  commit id: "Unscalable" type: REVERSE
-  checkout Strategy
-  branch Spike
-  checkout Spike
-  commit id: "Idea D"
-  checkout Strategy
-  merge Spike tag: "Scaled"
-  commit id: "Competitive Edge"
+  commit id: "基準線"
+  branch "ハッカソン"
+  checkout "ハッカソン"
+  commit id: "失敗" type: REVERSE
+  checkout "戦略"
+  branch "ラボ"
+  checkout "ラボ"
+  commit id: "アイデアB"
+  checkout "戦略"
+  merge "ラボ" tag: "採用"
+  commit id: "進化"
+  branch "スカンクワークス"
+  checkout "スカンクワークス"
+  commit id: "拡張不能" type: REVERSE
+  checkout "戦略"
+  branch "スパイク"
+  checkout "スパイク"
+  commit id: "アイデアD"
+  checkout "戦略"
+  merge "スパイク" tag: "規模拡大"
+  commit id: "競争優位"
 ```
 
 ### 戦略的な意味

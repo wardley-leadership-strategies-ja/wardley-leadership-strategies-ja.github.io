@@ -102,17 +102,17 @@ const Assessment = ({ children, strategyName }) => {
     <div className="container margin-vert--lg" id="assessment-tool">
       <div className="card shadow--md">
         <div className="card__header">
-          <h2>🚦 <strong>{strategyName} 戦略セルフ評価ツール</strong></h2>
+          <h2>🚦 <strong>「{strategyName}」セルフ評価ツール</strong></h2>
           <p>
-            各項目について「はい / どちらともいえない / いいえ」を選び、
-            戦略適合度と組織の準備度を確認します。{' '}
+            各項目について「はい／どちらともいえない／いいえ」を選び、
+            戦略適合度と組織の準備度を確認します。
             <Link to="/about/assessment-tool">戦略評価ガイド</Link>。
           </p>
         </div>
 
         <div className="card__body">
           <SignalList
-            title="ランドスケープと気候"
+            title="状況と状勢"
             description="この戦略は今の文脈にどれだけ適していますか。"
             items={mapSignals}
             storageId={storageId}

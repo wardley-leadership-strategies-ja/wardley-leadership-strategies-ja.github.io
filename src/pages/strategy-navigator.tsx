@@ -311,13 +311,13 @@ const StrategyNavigator = (): React.ReactElement => {
   return (
     <Layout
       title="戦略ナビゲーター"
-      description="目標、ランドスケープのシグナル、組織的圧力から Wardley 戦略を絞り込みます。"
+      description="目標、状況のシグナル、組織的圧力からWardley Mappingの戦略を絞り込みます。"
     >
       <section className={styles.hero}>
         <div className="container">
           <h1 className={styles.heroTitle}>戦略ナビゲーター</h1>
           <p className={styles.heroSubtitle}>
-            Wardley Map から見えているシグナルをもとに、状況に合うリーダーシップ戦略を絞り込みます。
+            Wardley Mapから見えているシグナルをもとに、状況に合うリーダーシップ戦略を絞り込みます。
             目標、進化段階、プレッシャーを組み合わせて候補を比較できます。
           </p>
           <ul className={styles.heroChecklist}>
@@ -437,13 +437,13 @@ const StrategyNavigator = (): React.ReactElement => {
             <div>
               <h2 id="navigator-results">戦略候補</h2>
               <p className={styles.resultsSummary}>
-                {strategyProfiles.length} 件中 {filteredStrategies.length} 件を表示
+                {strategyProfiles.length}件中{filteredStrategies.length}件を表示
                 {hasActiveFilters ? '（条件に一致）' : ''}
               </p>
             </div>
             {comparison.length > 0 && (
               <div className={styles.comparisonCounter}>
-                比較対象 {comparison.length} 件（最大 3 件）
+                比較対象{comparison.length}件（最大3件）
               </div>
             )}
           </div>
@@ -497,7 +497,7 @@ const StrategyNavigator = (): React.ReactElement => {
                         </div>
                       </div>
                       <div>
-                        <h4>ランドスケープの状態</h4>
+                        <h4>状況</h4>
                         <div className={styles.tagRow}>
                           {strategy.pressures.map((pressure) => (
                             <span

@@ -47,7 +47,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Wardley Mapping の戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド">
+      description="Wardley Mappingの戦略ゲームプレイとリーダーシップ戦略をまとめた日本語ガイド">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
